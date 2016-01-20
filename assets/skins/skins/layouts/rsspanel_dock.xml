@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+
+<Layouts Name="RSS Panel" Type="panel">
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layers>
+    <Layer Name="Background" Dialog="ModernBackground"/>
+    <Layer/>
+    <Layer Name="Menu" Dialog="MenuBtnsWeather"/>
+  </Layers>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Rules>
+    <!-- tablets specification -->
+    <PlatformCondition Platform="tablets">
+      <ScreenCondition Orientation="landscape"> <UseLayout Name="Landscape_Tablet"/> </ScreenCondition>
+      <ScreenCondition Orientation="portrait">  <UseLayout Name="Portrait_Tablet"/>  </ScreenCondition>
+    </PlatformCondition>
+
+    <!-- phones specification -->
+    <ScreenCondition Orientation="landscape"> <UseLayout Name="Landscape"/> </ScreenCondition>
+    <ScreenCondition Orientation="portrait">  <UseLayout Name="Portrait"/>  </ScreenCondition>
+  </Rules>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="Default">
+    <Frame Width="fill" Height="fill">
+
+      <Frame Name="Content" Width="fill" Height="fill">
+        <Plugin Class="Spb.LSP.StdFrame" Name="Frame">
+          <LayoutSize Width="fill" Height="fill"/>
+        </Plugin>
+        
+        <Plugin Name="RssPanel" Class="Spb.LSP.Form" Width="fill" Height="fill">
+          <String Name="Stylesheet" Value="RssPanel"/>
+        </Plugin>
+      </Frame>
+
+    </Frame>
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="Portrait">
+    <Plugins Extends="Default">
+      <Frame Name="Content">
+        <Plugin Name="Frame" Margins="6 3 3 53"/>
+      </Frame>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="Landscape">
+    <Plugins Extends="Default">
+      <Frame Name="Content">
+        <Plugin Name="Frame" Margins="8 4 47 8"/>
+      </Frame>
+    </Plugins>
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="Portrait_Tablet">
+    <Plugins Extends="Default">
+      <Frame Name="Content" Margins="36 0 0 56">
+        <Plugin Name="RssPanel" Margins="10"/>
+      </Frame>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="Landscape_Tablet">
+    <Plugins Extends="Default">
+      <Frame Name="Content" Margins="10 56 56 35">
+        <Plugin Name="RssPanel" Margins="10"/>
+      </Frame>
+    </Plugins>
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+</Layouts>

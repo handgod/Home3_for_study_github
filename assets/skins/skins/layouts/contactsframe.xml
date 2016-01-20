@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+
+<Layouts>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layers>
+    <Layer/>
+  </Layers>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Rules>
+    <PlatformCondition Platform="tablets">
+      <ScreenCondition Orientation="landscape">
+        <UseLayout Name="TabletLand"/>
+      </ScreenCondition>
+
+      <Default>
+        <UseLayout Name="TabletPort"/>
+      </Default>
+    </PlatformCondition>
+
+    <ScreenCondition Width="240" Height="400">
+      <UseLayout Name="240x400"/>
+    </ScreenCondition>
+
+
+    <ScreenCondition Orientation="landscape">
+      <UseLayout Name="Landscape"/>
+    </ScreenCondition>
+
+<!-- Special case for Nexux Prime Portrait-->
+    <ScreenCondition Width="720" Height="1184">
+      <UseLayout Name="PortraitPrime"/>
+    </ScreenCondition>
+
+    <Default>
+      <UseLayout Name="Portrait"/>
+    </Default>
+  </Rules>
+
+  <!-- **************************************************************************************************************** -->
+
+  <General>
+    <DialogObject Value="Spb.Data.ContactsFrame"/>
+
+    <DefaultFont Face="Droid Sans" HeightPxl="10" Bold="n" Color="FFFFFFFF"/>
+    <ScrollY Value="On"/>
+
+    <!-- Set max scrollable Page Dimension in blocks-->
+    <AbsoluteSize Name="PageDim"  X="12"  Y="240"/>
+    
+    <!-- Strings describing the titles of ContactWidget views -->
+    <String Name="ContactViews" Value="Contact.Panel.Small;Contact.Panel.Middle;Contact.Panel.Large"/>
+    <String Name="ContactViewIcons" Value="contacts_size_small;contacts_size_medium;contacts_size_large"/>
+    
+    <!-- "DefaultLayout" is defined as <VIEW_NAME>,<NUMBER_OF_ROWS>;...-->
+    <String Name="DefaultLayout" Value="Contact.Panel.Large,1;Contact.Panel.Middle,1;Contact.Panel.Small,1"/>
+
+    <String Name="Contact.Panel.Small" Value="Small"/>
+    <String Name="Contact.Panel.Middle" Value="Medium"/>
+    <String Name="Contact.Panel.Large" Value="Large"/>
+  </General>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="Portrait">
+    <Plugins LayoutType="frame">
+      <LayoutSize Width="fill" Height="auto"/>
+
+      <!-- Special dummy widget to set the row size while the WidgetGroup is auto sized and scrollable -->
+      <Plugin Name="WidgetRowSize">
+        <LayoutSize Width="fill" Height="22"/>
+      </Plugin>
+
+        <!-- LastCall widget with custom skin on top -->
+        <!--<Plugin Name="LastCall" Class="Spb.LSP.LastCall" AutoSkin="res_contact">
+          <LayoutMargins Top="10"/>
+          
+          <LayoutSize Width="fill" Height="60"/>
+          <String Name="Stylesheet" Value="wgt_lastcall"/>
+        </Plugin>-->
+
+        
+        <Plugins Name="WidgetsGroup">
+          <LayoutSize Width="fill" Height="auto"/>
+          <!-- Here home widgets go -->
+        </Plugins>
+      </Plugins>
+  </Layout>
+
+  <!-- Fit default layout into panel without scrolling -->
+  <Layout Name="240x400" DontScale="1">
+    <Plugins Extends="Portrait">
+      <Plugin Name="WidgetRowSize">
+        <LayoutSize Width="fill" Height="43"/>
+      </Plugin>
+	
+    </Plugins>
+  </Layout>
+
+  <Layout Name="PortraitPrime">
+    <Plugins Extends="Portrait">
+      <Plugin Name="WidgetRowSize">
+        <LayoutSize Width="fill" Height="24"/>
+      </Plugin>
+	
+    </Plugins>
+  </Layout>
+
+
+  <Layout Name="Landscape">
+    <Plugins Extends="Portrait">
+    
+      <Plugin Name="WidgetRowSize">
+        <LayoutSize Width="fill" Height="16"/>
+      </Plugin>
+
+    </Plugins>
+  </Layout>
+
+  <Layout Name="TabletLand">
+    <Plugins Extends="Portrait">
+
+      <Plugin Name="WidgetRowSize">
+        <LayoutSize Width="fill" Height="26"/>
+      </Plugin>
+
+    </Plugins>
+  </Layout>
+
+  <Layout Name="TabletPort">
+    <Plugins Extends="Portrait">
+
+      <Plugin Name="WidgetRowSize">
+        <LayoutSize Width="fill" Height="36"/>
+      </Plugin>
+
+    </Plugins>
+  </Layout>
+
+</Layouts>

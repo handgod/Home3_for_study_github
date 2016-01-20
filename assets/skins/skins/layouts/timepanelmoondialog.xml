@@ -1,0 +1,226 @@
+<?xml version="1.0"?>
+
+<Layouts>
+
+	<!-- **************************************************************************************************************** -->
+
+	<Layers>
+		<Layer Name="Background" Dialog="ModernDecorations"/>
+		<Layer/> 
+	</Layers>
+
+	<!-- **************************************************************************************************************** -->
+
+	<Rules>
+		<ScreenCondition Orientation="landscape">
+			<UseLayout Name="Landscape"/>
+		</ScreenCondition>
+		<Default>
+			<UseLayout Name="Portrait"/>
+		</Default>
+	</Rules>
+
+	<!-- **************************************************************************************************************** -->
+
+	<General>
+		<Skin AutoSkin="timepanel" DoubleSkin="timepanel"/>
+		<!--     <ScrollY Value="Auto"/> -->
+		<DefaultFont Face="Droid Sans" HeightPxl="10" Bold="n" Color="FFFFFFFF"/>
+		<Font Name="Default"  Face="Droid Sans" HeightPxl="12" Bold="y" Color="FFFFFFFF"/>
+		<Font Name="Small"    Face="Droid Sans" HeightPxl="10" Bold="n" Color="FFFFFFFF"/>
+		<ScrollY Value="Auto"/>
+	</General>
+
+	<!-- **************************************************************************************************************** -->
+
+	<Layout Name="MoonPhaseGroup_Header">
+		<Plugins LayoutType="linear" Orientation="vertical" Align="center" StretchFactor="1">
+			<LayoutSize Width="fill" Height="80"/>
+
+			<Plugins LayoutType="linear" Orientation="horizontal" Align="center" StretchFactor="1">
+				<LayoutSize Width="180" Height="auto"/>
+				<LayoutMargins Top="1"/>
+
+				<Plugin Name="Current_MoonPhasePicture" Class="Spb.LSP.Generic" ID="5" Align="left">
+					<LayoutMargins Top="-6" Bottom="2" Left="-6" Right="6"/>
+					<LayoutSize Width="45" Height="45"/>
+				</Plugin>
+
+				<Plugins Name="Current_MoonInfo" LayoutType="linear" Orientation="vertical" StretchFactor="1">
+					<LayoutMargins Left="21" Top="0"/>
+					<LayoutSize Width="0" Height="fill"/>
+
+					<Plugin Name="Current_Date" Class="Spb.LSP.Generic" ID="2">
+						<LayoutSize Width="fill" Height="18"/>
+					</Plugin>
+
+					<Plugin Name="Current_MoonPhase" Class="Spb.LSP.Generic" ID="3">
+						<LayoutSize Width="fill" Height="10"/>
+					</Plugin>
+
+					<Plugin Name="Current_MoonPhaseName"    Class="Spb.LSP.Generic" ID="4">
+						<LayoutMargins Top="2"/>
+						<LayoutSize Width="fill" Height="10"/>
+					</Plugin>
+
+				</Plugins>
+			</Plugins>
+		</Plugins>
+	</Layout>
+
+	<Layout Name="MoonPhaseGroup">
+		<Plugins LayoutType="linear" Orientation="horizontal" Align="center" StretchFactor="1">
+			<LayoutSize Width="180" Height="auto"/>
+			<LayoutMargins Top="1"/>
+
+			<Plugin Name="MoonPhasePicture" Class="Spb.LSP.Generic" ID="8" Align="left">
+				<LayoutMargins Top="8" Bottom="0" Left="1" Right="6"/>
+				<LayoutSize Width="30" Height="30"/>
+			</Plugin>
+
+			<Plugins Name="MoonInfo" LayoutType="linear" Orientation="vertical" StretchFactor="1" Align="center_vert">
+				<LayoutMargins Left="7" Top="3"/>
+				<LayoutSize Width="0" Height="auto"/>
+
+				<Plugin Name="MoonPhaseDateTime" Class="Spb.LSP.Generic" ID="6">
+					<LayoutMargins Left="14"  Top="4"/>
+					<LayoutSize Width="fill" Height="10"/>
+				</Plugin>
+
+				<Plugin Name="MoonPhaseName"    Class="Spb.LSP.Generic" ID="7">
+					<LayoutMargins Left="14" Top="2"/>
+					<LayoutSize Width="fill" Height="10"/>
+				</Plugin>
+
+			</Plugins>
+
+		</Plugins>
+	</Layout>
+
+	<Layout Name="Portrait">
+		<Plugins LayoutType="frame">
+			<LayoutSize Width="fill" Height="auto"/>
+			<Plugins Extends="common:PanelFrame">
+				<Plugin Name="Frame">
+					<LayoutMargins Left="4" Top="8" Right="4" Bottom="15"/>
+					<LayoutSize Width="fill" Height="fill"/>
+				</Plugin>
+			</Plugins>
+
+			<Plugins Name="MainFrame" LayoutType="linear" Orientation="vertical">
+				<LayoutMargins Left="0" Top="0" Right="15" Bottom="15"/>
+				<LayoutSize Width="fill" Height="auto"/>
+
+				<!-- main design elements -->
+
+				<Plugins Name="MoonPhaseGroup" Extends="MoonPhaseGroup_Header">
+					<LayoutMargins Top="0" Bottom="2"/>
+				</Plugins>
+
+				<Group LayoutType="linear" Orientation="vertical">
+					<LayoutMargins Top="-10" Left="15"/>
+					<LayoutSize Width="fill" Height="auto"/>
+					<Int Name="Size" Value="5"/>
+
+					<Plugin Name="h" Class="Spb.LSP.ModernSeparator" Align="bottom" Width="fill" Height="1">
+						<LayoutMargins Left="-7" Right="0" Bottom="3"/>
+					</Plugin>
+
+					<Plugins Name="MoonPhaseGroup1" Extends="MoonPhaseGroup">
+						<LayoutMargins Bottom="12"/>
+					</Plugins>
+				</Group>
+
+			</Plugins>
+		</Plugins>
+	</Layout>
+
+	<Layout Name="MoonPhaseGroup_Header_L">
+		<Plugins LayoutType="linear" Orientation="vertical">
+			<LayoutSize Width="fill" Height="fill"/>
+
+			<Plugin Name="Current_MoonPhasePicture" Class="Spb.LSP.Generic" ID="5" Align="center">
+				<LayoutMargins Top="40" Bottom="5"/>
+				<LayoutSize Width="45" Height="45"/>
+			</Plugin>
+
+			<Plugins Name="Current_MoonInfo" LayoutType="linear" Orientation="vertical" StretchFactor="1">
+				<LayoutMargins Top="3"/>
+				<LayoutSize Width="fill" Height="fill"/>
+
+				<Plugin Name="Current_Date" Class="Spb.LSP.Generic" ID="2" Align="center">
+					<LayoutSize Width="fill" Height="18"/>
+				</Plugin>
+
+				<Plugin Name="Current_MoonPhase" Class="Spb.LSP.Generic" ID="3" Align="center">
+					<LayoutSize Width="fill" Height="10"/>
+				</Plugin>
+
+				<Plugin Name="Current_MoonPhaseName"    Class="Spb.LSP.Generic" ID="4" Align="center">
+					<LayoutMargins Top="2"/>
+					<LayoutSize Width="fill" Height="10"/>
+				</Plugin>
+			</Plugins>
+
+		</Plugins>
+	</Layout>
+
+	<Layout Name="MoonPhaseGroup_L">
+		<Plugins LayoutType="linear" Orientation="horizontal" Align="center" StretchFactor="1">
+			<LayoutSize Width="180" Height="32"/>
+			<LayoutMargins Top="1"/>
+
+			<Plugin Name="MoonPhasePicture" Class="Spb.LSP.Generic" ID="8" Align="left">
+				<LayoutMargins Top="5" Bottom="4" Left="1" Right="6"/>
+				<LayoutSize Width="26" Height="26"/>
+			</Plugin>
+
+			<Plugins Name="MoonInfo" LayoutType="linear" Orientation="vertical" StretchFactor="1" Align="center_vert">
+				<LayoutMargins Left="7" Top="3"/>
+				<LayoutSize Width="0" Height="22"/>
+
+				<Plugin Name="MoonPhaseDateTime" Class="Spb.LSP.Generic" ID="6">
+					<LayoutMargins Left="14"/>
+					<LayoutSize Width="fill" Height="10"/>
+				</Plugin>
+
+				<Plugin Name="MoonPhaseName"    Class="Spb.LSP.Generic" ID="7">
+					<LayoutMargins Left="14" Top="2"/>
+					<LayoutSize Width="fill" Height="10"/>
+				</Plugin>
+
+			</Plugins>
+
+		</Plugins>
+	</Layout>
+
+	<Layout Name="Landscape">
+		<Plugins Name="MainFrame" LayoutType="linear" Orientation="vertical">
+			<LayoutMargins Left="0" Top="0" Right="15" Bottom="0"/>
+			<LayoutSize Width="fill" Height="fill"/>
+
+			<Plugins Name="MainFrame" LayoutType="linear" Orientation="horizontal">
+				<LayoutMargins Left="15" Top="0" Right="0" Bottom="0"/>
+				<LayoutSize Width="fill" Height="fill"/>
+
+				<!-- main design elements -->
+
+				<Plugins Name="MoonPhaseGroup" Extends="MoonPhaseGroup_Header_L"/>
+
+				<Group LayoutType="linear" Orientation="vertical">
+<!--					<LayoutMargins Top="-10"/> -->
+					<LayoutSize Width="160" Height="fill"/>
+					<Int Name="Size" Value="5"/>
+					<Plugins Name="MoonPhaseGroup1" Extends="MoonPhaseGroup_L"/>
+
+					<Plugin Name="h" Class="Spb.LSP.ModernSeparator" Align="bottom" Width="fill" Height="1">
+						<LayoutMargins Left="-7" Right="0" Top="3" Bottom="1"/>
+					</Plugin>
+				</Group>
+
+			</Plugins>
+		</Plugins>
+	</Layout>
+
+
+</Layouts>

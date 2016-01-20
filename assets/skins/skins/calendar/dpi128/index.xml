@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skin>
+  <items>
+    <item DpiSpecific="1">
+      <!-- tmp: set fonts to scale by dpi -->
+      <Font Name="WorkingDayFont" Face="Droid Sans" HeightPxl="10" Bold="n" Color="ff000000" />
+      <Font Name="SundayFont" Face="Droid Sans" HeightPxl="10" Bold="n" Color="ff1111cc" />
+      <Font Name="SaturdayFont" Face="Droid Sans" HeightPxl="10" Bold="n" Color="ffee7755" />
+      <Font Name="OtherMonthDayFont" Face="Droid Sans" HeightPxl="10" Bold="n" Color="ff555555" />
+      <Font Name="TodayFont" Face="Droid Sans" HeightPxl="10" Bold="n" Color="ff000000" />
+      <Font Name="DayOfTheWeekFont" Face="Droid Sans" HeightPxl="10" Bold="n" Color="ff505050" />
+      <Font Name="TodayDayFont" Face="Droid Sans" HeightPxl="38" Bold="n" Color="ff181818" />
+      <Font Name="TodayDOWFont" Face="Droid Sans" HeightPxl="9" Bold="n" Color="ff5a5a5a" />
+      <Int Name="OtherMonthFontAlpha" Value="120" />
+    </item>
+    <item DontScale="1">
+      <Image Name="Today" File="today.png" />
+      <Image Name="BlankCalendar" File="blank_calendar.png" />
+      <Image Name="Calendar" File="calendar.png" />
+      <Image Name="Recurring" File="recurring.png" />
+    </item>
+    <item DontScale="1">
+      <Rect Name="DayRect" X="100" Y="35" Width="25" Height="19" />
+      <Rect Name="DayOfTheWeekRect" X="100" Y="8" Width="25" Height="16" />
+      <Rect Name="TodayDayRect" X="12" Y="65" Width="77" Height="107" />
+      <Rect Name="TodayDOWRect" X="12" Y="51" Width="77" Height="16" />
+      <Point Name="TodayMarkOffset" X="6" Y="-2" />
+    </item>
+  </items>
+</skin>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SPB Shell 3D</string>
+    <string name="weather_city_title">Digite três letras para iniciar o preenchimento automático</string>
+    <string name="weather_enter_city_name">Insira o nome da cidade</string>
+    <string name="weather_more_cities">Mais...</string>
+    <string name="weather_locate_nearest_city">Procurar a cidade mais próxima</string>
+    <string name="weather_current_location">Local Atual</string>
+    <string name="searching_city_title">Posicionando</string>
+    <string name="searching_city_progress">Procurando a cidade mais próxima</string>
+    <string name="city_location_failed">Falha ao localizar a cidade mais próxima</string>
+    <string name="dialog_shell_loading">SPB Shell 3D está carregando...</string>
+    <string name="gadget_error_text">Problema ao carregar o widget</string>
+    <string name="dialog_select_shortcut">Selecionar atalho</string>
+    <string name="dialog_choose_widget">Escolher Widget</string>
+    <string name="chooser_wallpaper">Selecionar wallpaper do</string>
+    <string name="wallpaper_instructions">Definir wallpaper</string>
+    <string name="pick_wallpaper">Wallpapers</string>
+    <string name="wallpapers_spb">SPB Wallpapers</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="wait">Por favor, aguarde.</string>
+    <string name="home_widget_error">Widget é grande demais para ser adicionado</string>
+    <string name="cancel">Cancelar</string>
+    <string name="error">error</string>
+    <string name="infinity">infinity</string>
+    <string name="dialog_unsupported_devices_title">Erro</string>
+    <string name="dialog_unsupported_devices_message">É necessário o OpenGl 2.0 para a execução do SPB Shell 3D</string>
+    <string name="license_fail">Infelizmente não conseguimos localizar sua compra no Android Market. Por favor, desinstale esta cópia antes de instalar uma nova.</string>
+    <string name="purchase">Compra</string>
+    <string name="exit">Sair</string>
+    <string name="legal_notices_title">Avisos legais</string>
+    <string name="license_fail_handango">Infelizmente não conseguimos localizar sua compra. Por favor, desinstale esta cópia antes de instalar uma nova.</string>
+    <string name="safe_mode_title">Modo de Segurança</string>
+    <string name="safe_mode_text">A última execução do SPB Shell 3D não teve sucesso. Por favor, clique em \"Tentar novamente\" para voltar a executá-lo ou em \"Home\" para ativar uma outra Home screen.</string>
+    <string name="safe_mode_retry">Tentar novamente</string>
+    <string name="safe_mode_home">Home</string>
+    <string name="sd_install_title">Erro</string>
+    <string name="sd_install_text">Installation to a storage card is not supported. Please install SPB Shell 3D to the main memory</string>
+    <string name="contacts_failed_pick">Falha ao carregar o contato selecionado. Tentar ligar o contato a conta do Google ou salvá-lo ao telefone.</string>
+</resources>

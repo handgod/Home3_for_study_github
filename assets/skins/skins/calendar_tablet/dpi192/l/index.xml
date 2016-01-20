@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<skin>
+  <items>
+    <item DontScale="1">
+      <Rect Name="Bounds" X="0" Y="0" Width="390" Height="562"/>
+      <Rect Name="DayRect" X="0" Y="28" Width="40" Height="22"/>
+      <Rect Name="DayOfTheWeekRect" X="0" Y="24" Width="40" Height="32"/>
+      <Rect Name="MonthRect" X="15" Y="0" Width="360" Height="26"/>
+      <Rect Name="MonthAreaRect" X="15" Y="52" Width="360" Height="492"/>
+      <Rect Name="TodayRect" X="-24" Y="-2" Width="31" Height="24"/>
+      <Point Name="d0" X="52" Y="0"/>
+      <Point Name="d1" X="102" Y="0"/>
+      <Point Name="d2" X="152" Y="0"/>
+      <Point Name="d3" X="202" Y="0"/>
+      <Point Name="d4" X="252" Y="0"/>
+      <Point Name="d5" X="302" Y="0"/>
+      <Point Name="d6" X="356" Y="0"/>
+      <Int Name="Landscape" Value="1"/>
+    </item>
+
+    <item DontScale="1">
+      <Font Name="DayFont" Face="Droid Sans" HeightPxl="17" Bold="n" Color="ff000000"/>
+      <Font Name="SundayFont" Face="Droid Sans" HeightPxl="17" Bold="n" Color="ff0000D9"/>
+      <Font Name="SaturdayFont" Face="Droid Sans" HeightPxl="17" Bold="n" Color="ffFF9C28"/>
+      <Font Name="MonthFont" Face="Droid Sans" HeightPxl="17" Bold="n" Color="ff000000"/>
+      <Font Name="DayOfTheWeekFont" Face="Droid Sans" HeightPxl="17" Bold="n" Color="ff000000"/>
+    </item>
+  </items>
+</skin>

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Layouts>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layers>
+    <Layer Name="Background" Dialog="ModernDecorations"/>
+    <Layer/>
+  </Layers>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Rules>
+    <PlatformCondition Platform="tablets">
+      <UseLayout Name="Tablets"/>
+    </PlatformCondition>
+    <Default>
+      <UseLayout Name="Default"/>
+    </Default>
+  </Rules>
+
+  <!-- **************************************************************************************************************** -->
+
+  <General>
+    <String Name="Caption" Value="Selected cities"/>
+    <ScrollY Value="Auto"/>
+    <DefaultFont Face="Droid Sans" HeightPxl="12" Bold="y" Color="FFFFFFFF"/>
+  </General>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="Default">
+    <Frame Width="fill" Height="auto">
+      <Col Name="Main" Width="fill" Height="auto" Margins="0 10 10 0">
+
+        <Col Dynamic="1" Width="fill" Height="auto" ID="1000">
+          <Row Width="fill" Height="40">
+            <Plugin  Width="20" Height="fill" Name="City" ID="200" StretchFactor="1"/>
+            
+            <Col Dynamic="1" ID="2000" Width="auto" Height="auto" Align="center_vert">
+              <Plugin  Width="30" Height="30" Name="CityBtn" ID="201" AutoSkin="misc"/>
+            </Col>
+          </Row>
+
+          <Plugin Width="fill" Height="1" Name="Dash" Class="Spb.LSP.ModernSeparator"/>
+        </Col>
+
+        <Col Dynamic="1" ID="3000" Width="auto" Height="auto" Align="center">
+          <Plugin Width="120" Height="30" Margins="10 0 0 10" Name="AddCity" ID="100" AutoSkin="misc"/>
+        </Col>
+      </Col>
+    </Frame>
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="Tablets">
+    <Frame Extends="Default">
+      <Col Name="Main" Margins="0 20 20 0"/>
+    </Frame>
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+</Layouts>

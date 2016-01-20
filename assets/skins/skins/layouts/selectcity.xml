@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Layouts>
+
+  <Layers>
+    <!--<Layer Name="Background" Dialog="Background"/>-->
+    <Layer/>
+    <Layer Name="Dial" Dialog="Dial"/>
+    <Layer Name="ScrollBar" Dialog="ScrollBar"/>
+  </Layers>
+
+  <Rules>
+    <ScreenCondition Width="240" Height="320">
+      <UseLayout Name="240x320"/>
+    </ScreenCondition>
+    <Default>
+      <UseLayout Name="240x320"/>
+    </Default>
+  </Rules>
+
+  <General>
+    <ScrollY Value="Auto"/>
+    <DialogObject Value="Spb.Data.SelectCity"/>
+    <String Name="DialPadType" Value="LettersOnly"/>
+  </General>
+
+  <Layout Name="Default">
+    <Plugins>
+
+      <Plugin Class="Spb.LSP.Generic" Name="NoCities" ID="100">
+        <BoundRect X="0" Y="0" Width="0" Height="0"/>
+      </Plugin>
+
+      <Group Name="Group" ID="0">
+        <Plugins>
+          <Plugin Class="Spb.LSP.Generic" Name="City" ID="0"/>
+          <Plugin Class="Spb.LSP.DashLine" Name="h0"/>
+        </Plugins>
+      </Group>
+
+    </Plugins>
+  </Layout>
+
+  <Layout Name="240x320">
+
+    <General>
+      <Rect Name="Name" X="20" Y="0" Width="215" Height="20"/>
+      <Font Name="NameFont" Face="Droid Sans" HeightPxl="14" Bold="y" Color="ffffffff"/>
+    </General>
+
+    <Plugins Extends="Default">
+
+      <Group Name="Group">
+        <General>
+          <BoundRect X="0" Y="0" Width="240" Height="40"/>
+        </General>
+        <Plugins>
+          <Plugin Name="City">
+            <BoundRect X="0" Y="0" Width="235" Height="39"/>
+          </Plugin>
+          <Plugin Name="h0">
+            <BoundRect X="8" Y="39" Width="224" Height="1"/>
+          </Plugin>
+        </Plugins>
+      </Group>
+
+    </Plugins>
+  </Layout>
+
+</Layouts>

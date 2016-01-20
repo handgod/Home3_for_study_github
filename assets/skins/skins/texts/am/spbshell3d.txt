@@ -1,0 +1,518 @@
+ a few seconds|մի քանի վայրկյան
+ day| օր
+ days| օր
+ hour| ժամ
+ hours| ժամ
+ hr|ժմ
+ hrs|ժամ
+ lunar day|լուսնային օր
+ min|րպե
+ mins|րոպե
+ minute| րոպե
+ minutes| րոպե
+%d bought|%d-ն գնվել է
+%d day|%d օր
+%d days|%d օրեր
+%d hour|%d ժամ
+%d hours|%d ժամեր
+%d minute|%d րոպե
+%d minutes|%d րոպեներ
+%d more...|%d ավելի
+%i active channel|%i ակտիվ ալիք
+%i active channels|%i ակտիվ ալիք
+%i image|%i պատկեր
+%i images|%i պատկեր
+%i more today|ևս %i այսօր
+%i more...|ևս %i...
+%i page|%i էջ
+%i pages|%i էջ
+%i%% of Full|Լիալուսնի %i%%
+%s 2007—2011 Yandex|%s 2007—2011 Yandex
+(<1 min)|(<1 րոպ)
+(in|դյույմ
+(in seconds)|(վայրկյաններում)
+(No title)|(Անուն չկա)
+[ Loading images... ]|[Պատկերների բեռնում... ]
+[ Tap here for images load ]|[ Թակեք այստեղ պատկերը բեռնելու համար ]
+A few minutes ago|Մի քանի րոպե առաջ
+About|   -ի մասին
+Above horizon|Հորիզոնից վեր
+Activate|Ակտիվացնել
+Activation|Ակտիվացում
+Activation failed. Check your Internet connection.|Ակտիվացումը ձախողվեց: Ստուգեք Ձեր համացանցի միացումը:
+Active Channels|Ակտիվ ալիքներ
+Active channels|Ակտիվ ալիքներ
+Add|Ավելացնել
+Add category|Ավելացնել անվանակարգ
+Add city|Ավելացնել քաղաք
+Add custom channel|Ավելացնել
+Add new city|Ավելացնել նոր քաղաք
+Add note|Ավելացնել նշում
+Add Panel|Ավելացնել վահանակը
+Add to Home screen|Ավելացնել Տան էկրանին
+Airplane|Օդանավ
+Airplane Mode|Օդանավային ռեժիմ
+All day|Ամբողջ օրը
+All pictures|Բոլոր նկարները
+Allow resizing of all Android widgets|Թույլատրել բոլոր անդրոիդ հարմարանքների չափերի փոփոխումը
+An hour ago|Մեկ ժամ առաջ
+Android Shortcut|Android-ի դյուրանցում
+Android Widget|Android-ի հարմարանք
+Anniversary|Տարեդարձ
+Appearance|Տեսք
+Application|Գործադիր
+April|Ապրիլ
+Aqua|Ակվա
+Aquarius|Ջրհոս
+Aries|Խոյ
+as of %s|%s-ին
+at %s|%s-ում
+atm|մթն
+Atmospheres|Մթնոլորտ
+Atmospheric pressure scale|Մթնոլորտային ճնշման սանդղակ
+August|Օգոստոս
+Auto|Ինքնաբար
+Auto (keyboard only)|Ինքնաբար (միայն ստեղնաշար)
+Auto arrange widgets|Ինքնակարգավորման հարմարանքներ
+Automatic|Ինքնաբար
+Automatic naming|Ինքնաբար անվանում
+Backlight|Լուսավորում
+Battery|Մարտկոց
+Below horizon|Հորիզոնից ներքև
+Birthday|Ծնունդ
+Birthdays|Ծնունդներ
+Black|Սև
+Blue|Կապույտ
+Bluetooth|Bluetooth
+Bookmarks|Էջանիշեր
+Bookmarks Folder|Էջանիշերի պանակ
+Business|Բիզնես
+Buy!|Գնե՛լ
+Cache size|Շտեմի չափը
+Calculator|Հաշվիչ
+Calendar|Օրացույց
+Calendar Panel|Օրացույցի վահանակ
+Calendar Panel Settings|Օրացույցի վահանակի կարգավորումները
+Call|Զանգահարել
+Call Log|Զանգերի մատյան
+Cancel|Չեղարկել
+Cancer|Խեցգետին
+Capricorn|Այծեղջյուր
+Categories|Անվանակարգեր
+Category Name|Անվանակարգի անուն
+Celsius (#short)|Ցելսիուս
+Change|Փոփոխել
+Change City|Փոխել քաղաքը
+Change profile|Փոխել պրոֆիլը
+Channels list|Ալիքների ցուցակ
+Choose Color|Ընտրել գույն
+Choose Program|Ընտրել ծրագիր
+Choose SPB Widget|Ընտրել SPB հարմարանք
+Choose widget|Ընտրել հարմարանքը
+Clear|Պարզ է
+Clear cache|Մաքրել շտեմը
+Clock|Ժամացույց
+Cloudy|Ամպամած
+Cloudy, hail|Ամպամած, կարկուտ
+Cloudy, heavy rain|Ամպամած, առատ անձրև
+Cloudy, heavy snow|Ամպամած, առատ ձյուն
+Cloudy, rain|Ամպամած, անձրև
+Cloudy, rain with snow|Ամպամած, անձրև ձյան հետ
+Cloudy, snow|Ամպամած, ձյուն
+Cloudy, thunder|Ամպամած, ամպրոպ
+Color anaglyph (red/cyan)|Գույնի անագլիֆ (կարմիր/երկնագույն)
+Communication|Հաղորդագրություն
+Contact|Կոնտակտ
+Contacts|Կոնտակտներ
+Contacts Folder|Կոնտակտների պանակ
+Copyright %s 2007-2011\nSPB Software|Հեղինակային իրավունք՝ %s 2007-2011\nSPB ծրագրաշար
+Copyright %s 2007-2012\nSPB Software|Հեղինակային իրավունք՝ %s 2007-2012\nSPB ծրագրաշար
+Create Folder|Ստեղծել պանակ
+Current|Ընթացիկ
+Current city|Տվյալ քաղաքը
+Current conditions|Ընթացիկ պայմաններ
+Current Conditions|Ընթացիկ պայմաններ
+Current skin|Ընթացիկ շապիկ
+Day|Ցերեկ
+Deal of the Day|Օրվա գործարքը
+Deal of the Day Panel|Օրվա գործարքի վահանակ
+Deal of the Day Panel Settings|Օրվա գործարքի վահանակի կարգավորումները
+Deals|Գործարքներ
+December|Դեկտեմբեր
+Default|Լռելյայն
+Delete note|Ջնջել նշումը
+Dew point:|Հալման ջերմաստիճան՝
+Diagnostic tools|Ախտորոշման գործիքներ
+Disabled|Անջատված է
+Discoverable|Հայտնաբերվող
+Done|Պատրաստ է
+Download Original|Ներբեռնել բնօրինակը
+Downloading images|Պատկերների բեռնում
+E|ԱՎ
+east|արևելք
+Edit channel|Խմբագրել ալիքները
+Edit note|Խմբագրել նշումը
+Edit panels|Խմբագրել վահանակները
+Emergency only|Միայն հրատապ օգնության համար
+Empty Panel|Ավելացնել դատարկ վահանակ
+Enable live wallpapers|Միացնել կենդանի պաստառներ
+Enabled|Միացված է
+Enter RSS feed title|Մուտքագրել RSS սնման անուն
+Enter RSS feed URL|Մուտքագրել RSS սնման հասցե
+Entertainment|Զվարճանք
+Error|Սխալ
+Evening|Երեկո
+Every 2 hours|Ամեն 2 ժամ
+Every 24 hours|Ամեն 24 ժամ
+Every 30 Minutes|Ամեն 30 րոպե
+Every 30 minutes|Ամեն 30 րոպե
+Every 4 hours|Ամեն 4 ժամ
+Every hour|Ամեն ժամ
+Exit|Ելնել
+Experimental|Փորձնական
+Experimental Settings|Փորձնական կարգավորումներ
+Experimental settings|Փորձնական կարգավորումներ
+Fahrenheit (#short)|Ֆարենհեյթ
+Failed to load RSS|Չհաջողվեց բեռնել RSS
+Favorite Contacts|Ընտրյալ կոնտակտներ
+Favorite contacts|Ընտրյալ կոնտակտներ
+February|Փետրվար
+Filter|Զտիչ
+First day of the week|Շաբաթվա առաջին օրը
+First Quarter|Առաջին քառամյակ
+Flight|Թռիչք
+Folder|Պանակ
+Folder Name|Պանակի անուն
+Forecast|Եղանակի տեսություն
+from forecast|եղանակի տեսությունից
+Full Moon|Լիալուսին
+Gallery|Պատկերասրահ
+Games|Խաղեր
+Gemini|Երկվորյակ
+Grayscale anaglyph (red/cyan)|Գորշասանդղակի անագլիֆ (կարմիր/երկնագույն)
+Green|Կանաչ
+G-Sensor|G-սենսոր
+Half an hour ago|Կես ժամ առաջ
+Hectopascals|Հեկտոպասկալ
+Hide Duplicates|Թաքցնել կրկնօրինակները
+Hide SIM Contacts|Թաքցնել SIM կոնտակտները
+Home|Տնեջ
+Home Settings|Տնէջի կարգավորումներ
+Home settings|Տնէջի կարգավորումներ
+hpa|հկպսկ
+Humidity:|Խոնավություն՝
+in %u days|%u օրից
+in Home Settings|Տնէջի կարգավորումներում
+inch|դյույմ
+Inches|Դյույմ
+Increase Counter|Հաշվիչի արագացում
+Interface mode|Միջերեսի ռեժիմ
+Invisible|Անտեսանելի
+January|Հունվար
+July|Հուլիս
+June|Հունիս
+Kilometers per hour|Կիլոմետր ժամում
+Knots|հանգույց
+knots|հանգույց
+kph|կմ/ժ
+kts|Հանգույց
+Landscape|Հորիզոնական
+Landscape orientation required to enable left-to-right stereo mode|Ձախից աջ ստերեո ռեժիմի համար անհրաժեշտ է լանդշաֆտային կողմնորոշում
+Large|Մեծ
+Last Call|Վերջին զանգը
+Last Message|Վերջին հաղորդագրությունը
+Last Quarter|Վերջին քառամյակ
+Last updated|Վերջին արդիացվածը՝
+Left-to-right (HTC EVO 3D)|Ձախից աջ (HTC EVO 3D)
+Legal information|Իրավական տեղեկություն
+Legal notices|Իրավական դրույթներ
+Leo|Առյուծ
+Libra|Կշեռք
+Lifestyle|Ապրելակերպ
+Live wallpapers can cause performance degradation of your 3D home screen. Switching between live and static wallpapers can take up to a minute. Static wallpapers are recommended for the best experience.|Կենդանի պաստառները կարող են առաջացնել Ձեր 3D տնէջի էկրանի արտադրողականության դանդաղեցում: Կենդանի պաստառից հաստատուն պաստառ անցնելը կարող է տևել մինչև մեկ րոպե: Հաստատուն պաստառները խորհուրդ են տրվում լավագույն փորձարություն ունենալու համար:
+Loading failed|Բեռնումը ձախողվեց
+Loading image for wallpaper|Պաստառի համար պատկերի բեռնում
+Loading RSS feed %s...|RSS սնման բեռնում %s...
+Loading skin failed!|Շապիկի բեռնումը ձախողվեց:
+Loading skins catalog failed!|Շապիկների գրացուցակների բեռնումը ձախողվեց:
+Loading...|Բեռնում...
+Logging In...|Մուտք գործում...
+Lunar Calendar|Լուսնային օրացույց
+Lunar day %d|Լուսնային օր
+Manage apps|Կառավարել գրծդիրները
+Manage Apps|Կառավարել գրծդիրները
+Manage panels|Կառավարել վահանակները
+Manage Panels|Կառավարել վահանակները
+March|Մարտ
+May|Մայիս
+Messaging|Հաղորդագրության փոխանցում
+Meters per second|Մետր վայրկյանում
+Miles per hour|Մղոն ժամում
+Millimetres|Միլիմետր
+Misc|Խառն.
+Miscellaneous|Խառնաբնույթ
+mm|մմ
+Mobile|Բջջային
+Mode|Ռեժիմ
+Monday|Երկուշաբթի
+Moon|Լուսին
+Moon Calendar|Լուսնային օրացույց
+Moon in %s,|Լուսինը %s-ում,
+Morning|Առավոտ
+mph|մղ/վ
+mps|մ/վ
+Multimedia|Մուլտիմեդիա
+Music|Երաժշտություն
+Music albums|Երաժշտական ալբոմներ
+N|ՀՍ
+N/A|N/A
+nd| րդ
+NE|ՀՍԱՎ
+Network Status|Ցանցի կարգավիճակ
+Never|Երբեք
+New Channel|Նոր ալիք
+New channel|Նոր ալիք
+New Contact|Նոր կոնտակտ
+New Folder|Նոր պանակ
+New Moon|Նոր լուսին
+News|Նորություններ
+News Panel|Նորությունների վահանակ
+News Panel Settings|Նորությունների վահանակի կարգավորումներ
+next|հաջորդ
+Next Alarm|Հաջորդ ահազանգ
+Night|Գիշեր
+No|Ոչ
+no|Ոչ
+No Alarms|Ահազանգ չկա
+No birthdays|Ծնունդ չկա
+No calls|Զանգ չկա
+No Cities|Քաղաքներ չկան
+No conditions|Պայման չկա
+No Contacts.|Կոնտակտ չկա:
+No Countries|Երկրներ չկան
+No deals loaded|Ոչ մի գործարք չի բեռնվել
+No Images|Պատկեր չկա
+No messages|Հաղորդագրություն չկա
+No news|Նորություն չկա
+No rise/set info|Բարձրացման / սահմանման մասին տեղեկություն չկա
+No RSS feed found at|RSS սնում չի գտնվել
+No rss loaded|RSS բեռնված չէ
+No SIM|SIM-ը չկա
+No text messages|Հաղորդագրություն չկա
+No title|Անուն չկա
+No upcoming events|Նոր իրադարձություն չկա
+No upcoming events in a week|Մեկ շաբաթվա ընթացքում նոր իրադարձություններ չկան
+No updates|Արդիացում չկա
+No weather forecast|Եղանակի տեսություն չկա
+Normal|Նորմալ
+north|հյուսիս
+north east|հյուսիս արևելք
+north west|հյուսիս արևմուտք
+Not available|Հասանաելի չէ
+Not connected|Միացված չէ
+Notes|Նշումներ
+Note's default color|Նշման լռությամբ ընդունված գույնը
+Note's font|Նշման տառատեսակ
+Notes Panel|Նշումների վահանակ
+Notes Panel Settings|Նշումների վահանակի կարգավորումներ
+November|Նոյեմբեր
+NW|ՀՍԱՄ
+October|Հոկտեմբեր
+Off|Անջատված
+Offer|Առաջարկ
+On|Միացած
+One Touch Share|One Touch Share
+Only on free connections|Միայն անվճար միացման համար
+Open Contact|Բացել կոնտակտը
+Open in Browser|Բացել զննիչում
+OpenGL 2.0 is required to run SPB Shell 3D|OpenGL 2.0-ը պահանջում է աշխատեցնել SPB Shell 3D-ն
+Optimized anaglyph (red/cyan)|Լավարկված անագլիֆ (կարմիր/երկնագույն)
+Other (assistant)|Այլ (oգնական)
+Page|Էջ
+Pages: %d, images: %d|Էջեր` %d, նկարներ`: %d
+Panel Name|Վահանակի անուն
+Parsing skins catalog failed!|Շապիկների գրացուցակների վերլուծությունը ձախողվեց
+Partly cloudy|Մասամբ ամպամած
+Partly cloudy, rain|Մասամբ ամպամած, անձրև
+Partly cloudy, snow|Մասամբ ամպամած, ձյուն
+Partly cloudy, thunder|Մասամբ ամպամած, ամպրոպ
+People|Մարդիկ
+Performance Warning|Արտադրողականության զգուշացում
+Performance Warning dialog|Արտադրողականության զգուշացման մասին երկխոսություն
+Personal|Անձնական
+Phone|Հեռախոս
+Photo folder for gallery widgets|Նկարների պանակ պատկերասրահի հարմարանքների համար
+Picture Gallery|Պատկերասրահ
+Picture of the Day|Օրվա նկարը
+Picture Panel Settings|Նկարի վահանակի կարգավորումներ
+Pictures|Նկարներ
+Pictures Of The Day|Օրվա նկարը
+Pictures Panel|Նկարի վահանակ
+Pictures Panel Settings|Նկարի վահանակի կարգավորումներ
+Pictures Settings|Նկարի կարգավորումները
+Pisces|Ձուկ
+Please Log In|Խնդրում ենք մուտք գործել
+Please wait...|Խնդրում ենք սպասել...
+Portrait|Ուղղաձիգ
+Pressure:|Ճնշում՝
+Problem loading widget|Խնդիրների բեռնման հարմարանք
+Productivity|Արտադրողականություն
+Program|Ծրագիր
+Pulkovo|Պուլկովո
+Purchase|Գնել
+Purple|Ծիրանագույն
+Radio off|Անջատել ռադիոն
+rd_loc|րդ
+Reading appointments...|Հանդիպումների ընթերցում...
+Recycle Bin|Աղբաման
+Red|Կարմիր
+Reduced|Կրճատված
+Reload skin list|Կրկին բեռնել շապիկների ցուցակը
+Remove All|Հեռացնել բոլորը
+Rename|Վերանվանել
+Rename Panel|Վերանվանել վահանակը
+Requesting images|Պատկերների հարցում
+Retry|Կրկին փորձել
+Rise: %s|Բարձրացնել` %s
+RSS Feed|RSS սնում
+RSS Panel|RSS վահանակ
+RSS Panel Settings|RSS վահանակի կարգավորումներ
+S|ՀՎ
+Safe mode|Անվտանգ ռեժիմ
+Sagittarius|Աղեղնավոր
+Saint-Petersburg|Սանկտ Պետերբուրգ
+Save as New|Պահել որպես նոր
+Save to Existing|Պահել առկայի փոխարեն
+Scorpio|Կարիճ
+Screen orientation|Էկրանի դիրքը
+SE|ՀՎԱՎ
+Searching|Փնտրում է
+Select Channel|Ընտրել ալիք
+Select cities|Ընտրել քաղաքներ
+Select e-mail address|Ընտրել էլ.փոստի հասցե
+Select phone number:|Ընտրել հեռախոսահամար՝
+Select shortcut|Ընտրել դյուրանցումը
+Select Skin|Ընտրել շապիկը
+Select wallpaper from|Ընտրել պաստառ   -ից
+Selected cities|Ընտրված քաղաքներ
+Selected City|Ընտրված քաղաքը
+Selected city|Ընտրված քաղաքը
+Send E-mail|Ուղարկել էլ.փոստ
+Send E-Mail|Ուղարկել էլ.փոստ
+Send Message|Ուղարկել հաղորդագրություն
+Send MMS|Ուղարկել MMS
+Send SMS|Ուղարկել SMS
+September|Սեպտեմբեր
+Serial number:|Հերթական համար՝
+Set as Home|Դնել որպես տնէջ
+Set as Wallpaper|Դնել որպես պաստառ
+Set wallpaper|Դնել պաստառ
+Set: %s|Սահմանել՝ %s
+Settings|Կարգավորումներ
+Show all|Ցուցադրել բոլորը
+Show all day events|Ցուցադրել ամբողջ օրվա իրադարձությունները
+Show all day events in calendar widgets|Ցուցադրել ամբողջ օրվա իրադարձությունները օրացույցի հարմարանքներում
+Show full news|Ցուցադրել բոլոր նորությունները
+Show images in news|Ցուցադրել պատկերներ նորություններում
+Silent|Անձայն
+Skin loading|Շապիկի բեռնում
+Small|Փոքր
+Smartphone|Սմարթֆոն
+Smog|Սմոգ
+Social|Սոցիալական կյանք
+Sound Profile|Ձայնի պրոֆիլ
+south|հարավ
+south east|հարավ արևելք
+south west|հարավ արևմուտք
+SPB Shell 3D is loading...|SPB Shell 3D-ի բեռնում...
+SPB Wallpapers|SPB պաստառներ
+SPB Widget|SPB հարմարանք
+st| ին
+Standard Edition [Beta]|Ստանդարտ հրապարակում  [Բետա]
+Stereoscopic 3D mode|Ստերեոսկոպիկ 3D ռեժիմ
+Stereoscopic 3D mode will be disabled|Ստերեոսկոպիկ 3D ռեժիմը կասեցվել է
+Stereoscopic 3D Settings|Ստերեոսկոպիկ 3D կարգավորումներ
+Sun in %s,|Արևը %s-ում,
+Sunday|Կիրակի
+SW|ՀՎԱՄ
+Switching the interface mode can take up to a minute. Screen orientation will be changed to '%s'.|Միջերեսի ռեժիմի փոխակերպումը կարող է տևել մինչև մեկ րոպե: Էկրանի դիրքը կփոխվի '%s'-ի:
+System|Համակարգ
+Tablet|Սալիկաձև ԱՀ
+Taurus|Ցուլ
+Temperatur scale|Ջերմաստիճանի սանդղակ
+Temperature scale|Ջերմաստիճանի սանդղակ
+Test Battery|Փորձարկել մարտկոցը
+th| րդ
+Thank you for your support. Your copy is now registered.|Շնոևհակալություն աջակցության համար: Ձեր տարբերակն այժմ գրանված է:
+The experimental features below are not ready to be shipped in the core of SPB Shell 3D. They may contain severe defects and cause system instability. Use them at your own risk.|Փորձնական առանձնահատկությունները ստորև պատրաստ չեն տեղափոխվելու SPB Shell 3D-ի միջուկի մեջ: Հնարավոր է՝ դրանք պարունակում են լուրջ թերություններ և առաջացնեն համակարգի անկայունություն: Օգտագործեք դրանք ՝վերցնելով ռիսկը ձեզ վրա:
+The maximum number of panels is reached|Հասել է վահանակների առավելագույն քանակին
+The name cannot be changed.|Անհնար է փոխել անունը
+The previous launch of SPB Shell 3D was unsuccessful. Please tap "Retry" to launch it again or "Home" to activate a different Home screen.|SPB Shell 3D-ի նախորդ մեկնարկումն անհաջող էր: Թակեք "Կրկին փորձել" այն նորից գործարկելու համար, կամ "Տնէջ" այլ տնէջի էկրան ակտիվացնելու համար:
+Time|ժամ
+Time Panel|Ժամանակի վահանակ
+Time Panel Settings|Ժամանակային վահանակի կարգավորումներ
+Today|Այսօր
+Toggle|Փոխարկել
+Tomorrow|Վաղը
+Tools|Գործիքներ
+Travel|Ճամփորդություն
+Unfortunately, we could not locate your purchase in Android Market. Please uninstall this copy before installing a new one.|Ցավո՛ք, մենք չենք կարողանում գտնել Ձեր գնումը Android Market-ում: Ապատեղադրեք այս տարբերակը նոր տարբերակը տեղադրելուց առաջ:
+Unfortunately, we could not locate your purchase. Please uninstall this copy before installing a new one.|Ցավո՛ք, մենք չենք կարողանում գտնել Ձեր գնումը: Ապատեղադրեք այս տարբերակը նոր տարբերակը տեղադրելուց առաջ:
+Uninstall|Ապատեղադրել
+Uninstall apps|Ապատեղադրել գրծդիրները
+Unknown|Անհայտ
+Unknown location|Անհայտ տեղ
+Upcoming events|Նոր իրադարձություններ
+Update|Արդիացնել
+Update deals list automatically|Ինքնաբար արդիացնել գործարքների ցուցակը
+Update Now|Արդիացնել հիմա
+Update pictures page automatically|Ինքնաբար արդիացնել նկարների էջը
+Update weather forecasts automatically|Ինքնաբար արդիացնել եղանակի տեսությունը
+Updated|Արդիացված է
+Updated:|Արդիացված է՝
+Updating image|Պատկերի արդիացում
+Updating...|Արդիացնում է...
+Use 3D in application list|Օգտագործել 3D-ն գործադիրների ցուցակում
+Use 3D in edit mode|Օգտագործել 3D-ն խմբագրման ռեժիմում
+Use cellular connection for updating deals list|Օգտագործեք բջջային միացումները՝ նկարները ինքնաբար արդիացնելու համար
+Use cellular connection for updating deals list automatically|Օգտագործեք բջջային կապը՝ ինքնաբերաբար թարմացնելու գործարքների ցուցակը
+Use cellular connection for updating pictures automatically|Օգտագործեք բջջային միացումները՝ նկարները ինքնաբար արդիացնելու համար
+Use cellular connection for updating weather automatically|Օգտագործեք բջջային կապը՝ ինքնաբերաբար եղանակը թարմացնելու համար
+Use new color every time|Օգտագործեք նոր գույն ամեն անգամ
+Use previous note's color|Օգտագործեք նախորդ նշման գույնը
+Value|Արժեք
+variable|փոփոխական
+Version %s, Build %s|Տարբերակ՝ %s, Կառուցվածք՝ %s
+Vibro|Վիբրացիա
+Video Call|Տեսազանգ
+View Duplicates|Դիտել կրկնօրինակները
+View SIM Contacts|Դիտել SIM կոնտակտները
+Virgo|Կույս
+W|ԱՄ
+Wallpaper|Պաստառ
+Wallpapers|Պաստառ
+Waning Crescent|Հին Լուսին
+Waning Gibbous|Հեռացող Լուսին
+Waxing Crescent|Հին Լուսին
+Waxing Gibbous|Հեռացող Լուսին
+Weather|Եղանակ
+Weather and Clock|Եղանակ եւ Ժամացույց
+Weather Forecast|Եղանակի տեսություն
+Weather Settings|Եղանակի կարգավորումներ
+Welcome to notes panel|Բարի գալուստ նշումների վահանակ
+west|արևմուտք
+Widget is too big to be added.|Հարմաարանքը շատ մեծ է ավելացնելու համար
+Widgets|Հարմարանքներ
+Widgets Settings|Հարմարանքի կարգավորումներ
+Wind direction:|Քամու ուղղություն՝
+Wind speed scale|Քամու արագության սանդղակ
+Wind speed:|Քամու արագություն՝
+Work|Աշխատանք
+World Time|Համաշխարհային ժամեր
+Wrong serial number. Please check it again.|Սխալ հերթական համար: Նորից ստուգեք այն:
+Yandex.Search|Yandex.Search
+Yellow|Դեղին
+Yes|Այո
+Yesterday|Երեկ
+You save|Դուք պահել եք
+Your video system isn't compatible with Shell 3D.|Ձեր տեսանյութի համակարգը համատեղելի չէ Shell 3D-ի հետ:

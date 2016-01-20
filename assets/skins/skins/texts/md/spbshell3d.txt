@@ -1,0 +1,518 @@
+ a few seconds| câteva secunde
+ day|zi
+ days|zile
+ hour|oră
+ hours|ore
+ hr| h
+ hrs|ore
+ lunar day|zi lunară
+ min|min
+ mins| minute
+ minute|minut
+ minutes|minute
+%d bought|%d cumpărat
+%d day|%d zi
+%d days|%d zile
+%d hour|%d oră
+%d hours|%d ore
+%d minute|%d minut
+%d minutes|%d minute
+%d more...|%d mai multe...
+%i active channel|%i canal activ
+%i active channels|%i canale active
+%i image|%i imagine
+%i images|%i imagini
+%i more today|%i mai multe astăzi
+%i more...|încă %i...
+%i page|%i pagină
+%i pages|%i pagini
+%i%% of Full|%i%% din întreg
+%s 2007—2011 Yandex|%s 2007—2011 Yandex
+(<1 min)|(<1 min)
+(in|(în
+(in seconds)|(în secunde)
+(No title)|(Fără titlu)
+[ Loading images... ]|[Imagini în curs de încărcare... ]
+[ Tap here for images load ]|[Atingeți aici pentru încărcarea imaginilor]
+A few minutes ago|Cu câteva minute în urmă
+About|Despre
+Above horizon|Deasupra orizontului
+Activate|Activează
+Activation|Activare
+Activation failed. Check your Internet connection.|Activare eșuată. Verificați conexiunea la internet.
+Active Channels|Canale active
+Active channels|Canale active
+Add|Adăugare
+Add category|Adăugare categorie
+Add city|Adăugare oraș
+Add custom channel|Adăugare canal personalizat
+Add new city|Adăugare oraș nou
+Add note|Adăugare notiță
+Add Panel|Adăugare panou
+Add to Home screen|Adăugare la ecranul Acasă
+Airplane|Avion
+Airplane Mode|Mod avion
+All day|Întreaga zi
+All pictures|Toate fotografiile
+Allow resizing of all Android widgets|Permiteţi redimensionarea tuturor widget-urilor Android
+An hour ago|Cu o oră în urmă
+Android Shortcut|Scurtătură Android
+Android Widget|Widget Android
+Anniversary|Aniversare
+Appearance|Aspect
+Application|Aplicație
+April|Aprilie
+Aqua|Acvatic
+Aquarius|Vărsător
+Aries|Berbec
+as of %s|la %s
+at %s|la %s
+atm|atm
+Atmospheres|Atmosfere
+Atmospheric pressure scale|Scala presiunii atmosferice
+August|August
+Auto|Auto
+Auto (keyboard only)|Auto (numai tastatura)
+Auto arrange widgets|Aranjare automată widget-uri
+Automatic|Automat
+Automatic naming|Numire automată
+Backlight|Lumină de fundal
+Battery|Baterie
+Below horizon|Sub orizont
+Birthday|Zi de naștere
+Birthdays|Zile de naștere
+Black|Negru
+Blue|Albastru
+Bluetooth|Bluetooth
+Bookmarks|Semne de carte
+Bookmarks Folder|Dosar semne de carte
+Business|Business
+Buy!|Cumpără!
+Cache size|Dimensiune cache
+Calculator|Calculator
+Calendar|Calendar
+Calendar Panel|Panou calendar
+Calendar Panel Settings|Setări panou calendar
+Call|Apelare
+Call Log|Jurnal apeluri
+Cancel|Anulare
+Cancer|Rac
+Capricorn|Capricorn
+Categories|Categorii
+Category Name|Denumire categorie
+Celsius (#short)|Celsius
+Change|Modificare
+Change City|Schimbare oraș
+Change profile|Schimbare profil
+Channels list|Listă canale
+Choose Color|Alegere culoare
+Choose Program|Alegere program
+Choose SPB Widget|Alegeți widget-ul SPB
+Choose widget|Alegere widget
+Clear|Ștergere
+Clear cache|Ștergere cache
+Clock|Ceas
+Cloudy|Noros
+Cloudy, hail|Noros, grindină
+Cloudy, heavy rain|Noros, ploaie torențială
+Cloudy, heavy snow|Noros, ninsoare abundentă
+Cloudy, rain|Noros, ploaie
+Cloudy, rain with snow|Noros, lapoviță
+Cloudy, snow|Noros, ninsoare
+Cloudy, thunder|Noros, tunete
+Color anaglyph (red/cyan)|Anaglife color (roșu/bleu)
+Communication|Comunicare
+Contact|Contact
+Contacts|Agendă telefonică
+Contacts Folder|Dosar agendă telefonică
+Copyright %s 2007-2011\nSPB Software|Copyright %s 2007-2011\nSPB Software
+Copyright %s 2007-2012\nSPB Software|Copyright %s 2007-2012\nSPB Software
+Create Folder|Creare dosar
+Current|Actual
+Current city|Oraș actual
+Current conditions|Condiții Actuale
+Current Conditions|Condiții Actuale
+Current skin|Fațeta actuală
+Day|Zi
+Deal of the Day|Afacerea zilei
+Deal of the Day Panel|Panou Afacerea zilei
+Deal of the Day Panel Settings|Setări panou Afacerea zilei
+Deals|Afaceri
+December|Decembrie
+Default|Predefinit
+Delete note|Ștergere notiță
+Dew point:|Punct de rouă:
+Diagnostic tools|Instrumente diagnostic
+Disabled|Dezactivat
+Discoverable|Identificabil
+Done|Efectuat
+Download Original|Descărcare original
+Downloading images|Descărcare imagini
+E|E
+east|est
+Edit channel|Editare canal
+Edit note|Modificare notiță
+Edit panels|Editare panouri
+Emergency only|Numai urgențe
+Empty Panel|Panou gol
+Enable live wallpapers|Activare tapete mobile
+Enabled|Activat
+Enter RSS feed title|Introduceți titlul fluxului RSS
+Enter RSS feed URL|Introduceți URL-ul fluxului RSS
+Entertainment|Divertisment
+Error|Eroare
+Evening|Seară
+Every 2 hours|Din 2 în 2 ore
+Every 24 hours|La fiecare 24 ore
+Every 30 Minutes|La fiecare 30 de minute
+Every 30 minutes|La fiecare 30 de minute
+Every 4 hours|La fiecare 4 ore
+Every hour|La fiecare oră
+Exit|Ieșire
+Experimental|Experimental
+Experimental Settings|Setări experimentale
+Experimental settings|Setări experimentale
+Fahrenheit (#short)|Fahrenheit
+Failed to load RSS|Încărcarea RSS a eşuat
+Favorite Contacts|Contacte favorite
+Favorite contacts|Contacte favorite
+February|Februarie
+Filter|Filtrare
+First day of the week|Prima zi a săptămânii
+First Quarter|Primul pătrar
+Flight|Zbor
+Folder|Dosar
+Folder Name|Denumire dosar
+Forecast|Prognoză
+from forecast|din prognoză
+Full Moon|Lună plină
+Gallery|Galerie
+Games|Jocuri
+Gemini|Gemeni
+Grayscale anaglyph (red/cyan)|Anaglife tonuri de gri (roșu/bleu)
+Green|Verde
+G-Sensor|Senzor G
+Half an hour ago|Cu o jumătate de oră în urmă
+Hectopascals|Hectopascali
+Hide Duplicates|Ascunde duplicate
+Hide SIM Contacts|Ascundere contacte SIM
+Home|Acasă
+Home Settings|Setări acasă
+Home settings|Setări acasă
+hpa|hpa
+Humidity:|Umiditate:
+in %u days|în %u zile
+in Home Settings|în Setări acasă
+inch|inci
+Inches|Inci
+Increase Counter|Mărește contor
+Interface mode|Mod interfață
+Invisible|Invizibil
+January|Ianuarie
+July|Iulie
+June|Iunie
+Kilometers per hour|Kilometri pe oră
+Knots|noduri
+knots|noduri
+kph|km/h
+kts|noduri
+Landscape|Vedere
+Landscape orientation required to enable left-to-right stereo mode|Este necesară orientare peisajului pentru a permite modul sterea stânga-dreapta
+Large|Mare
+Last Call|Ultimul apel
+Last Message|Ultimul mesaj
+Last Quarter|Ultimul pătrar
+Last updated|Ultima actualizare
+Left-to-right (HTC EVO 3D)|De la stânga la dreapta (HTC EVO 3D)
+Legal information|Informații de natură juridică
+Legal notices|Prevederi de natură juridică
+Leo|Leu
+Libra|Balanță
+Lifestyle|Stil de viață
+Live wallpapers can cause performance degradation of your 3D home screen. Switching between live and static wallpapers can take up to a minute. Static wallpapers are recommended for the best experience.|Tapetele mobile pot genera scăderea performanței ecranului dvs. acasă 3D. Comutarea de la tapetul mobil la cel static poate dura până la 1 minut. Pentru o experiență optimă, se recomandă tapetele statice.
+Loading failed|Încărcare eșuată
+Loading image for wallpaper|Încărcare imagini pentru tapet
+Loading RSS feed %s...|Încărcare feed RSS %s...
+Loading skin failed!|Încărcarea fațetei a eșuat!
+Loading skins catalog failed!|Încărcarea catalogului de fațete a eșuat!
+Loading...|Se încarcă...
+Logging In...|Autentificare în curs...
+Lunar Calendar|Calendar lunar
+Lunar day %d|Ziua lunară %d
+Manage apps|Gestionare Aplicații
+Manage Apps|Gestionare Aplicații
+Manage panels|Gestionare panouri
+Manage Panels|Gestionare panouri
+March|Martie
+May|Mai
+Messaging|Mesagerie
+Meters per second|Metri pe secundă
+Miles per hour|Mile pe oră
+Millimetres|Milimetri
+Misc|Diverse
+Miscellaneous|Diverse
+mm|mm
+Mobile|Mobil
+Mode|Mod
+Monday|Luni
+Moon|Luna
+Moon Calendar|Calendar Lunar
+Moon in %s,|Luna în %s,
+Morning|Dimineață
+mph|m/h
+mps|m/s
+Multimedia|Multimedia
+Music|Muzică
+Music albums|Albume muzicale
+N|N
+N/A|Indisp.
+nd|lea/a
+NE|NE
+Network Status|Stare rețea
+Never|Niciodată
+New Channel|Canal Nou
+New channel|Canal Nou
+New Contact|Contact nou
+New Folder|Dosar nou
+New Moon|Lună nouă
+News|Știri
+News Panel|Panou știri
+News Panel Settings|Setări panou știri
+next|următorul
+Next Alarm|Următoarea alarmă
+Night|Noapte
+No|Nu
+no|nu
+No Alarms|Nicio alarmă
+No birthdays|Nicio zi de naștere
+No calls|Niciun apel
+No Cities|Niciun oraș
+No conditions|Nicio condiție
+No Contacts.|Niciun contact.
+No Countries|Nicio țară
+No deals loaded|Nicio afacere nu a fost încărcată
+No Images|Nicio imagine
+No messages|Niciun mesaj
+No news|Nicio știre
+No rise/set info|Lipsă informaţii răsărit/apus
+No RSS feed found at|Nu s-a găsit niciun flux RSS la
+No rss loaded|Niciun rss încărcat
+No SIM|SIM inexistent
+No text messages|Niciun mesaj text
+No title|Fără titlu
+No upcoming events|Niciun eveniment apropiat
+No upcoming events in a week|Niciun eveniment în săptămâna următoare
+No updates|Nicio actualizare
+No weather forecast|Nicio prognoză meteo
+Normal|Normal
+north|nord
+north east|nord-est
+north west|nord-vest
+Not available|Indisponibil
+Not connected|Nu este conectat
+Notes|Notițe
+Note's default color|Culoarea implicită a notei
+Note's font|Fontul notei
+Notes Panel|Panou notițe
+Notes Panel Settings|Setări panou notițe
+November|Noiembrie
+NW|NV
+October|Octombrie
+Off|Oprit
+Offer|Ofertă
+On|Pornit
+One Touch Share|One Touch Share
+Only on free connections|Numai pentru conexiunile gratuite
+Open Contact|Deschidere contact
+Open in Browser|Deschidere în browser
+OpenGL 2.0 is required to run SPB Shell 3D|OpenGL 2.0 este necesar pentru a putea rula SPB Shell 3D
+Optimized anaglyph (red/cyan)|Anaglife optimizate (roșu/bleu)
+Other (assistant)|Altele (asistent)
+Page|Pagina
+Pages: %d, images: %d|Pagini: %d, imagini: %d
+Panel Name|Denumire panou
+Parsing skins catalog failed!|Analizarea catalogului de fațete a eșuat!
+Partly cloudy|Parțial noros
+Partly cloudy, rain|Parțial noros, ploaie
+Partly cloudy, snow|Parțial noros, ninsoare
+Partly cloudy, thunder|Parțial noros, tunete
+People|Persoane
+Performance Warning|Avertisment privind performanța
+Performance Warning dialog|Dialog de avertisment privind performanța
+Personal|Personal
+Phone|Telefon
+Photo folder for gallery widgets|Dosar cu fotografii pentru widget-urile de galerie
+Picture Gallery|Galerie foto
+Picture of the Day|Fotografia zilei
+Picture Panel Settings|Setări panou fotografii
+Pictures|Fotografii
+Pictures Of The Day|Fotografiile zilei
+Pictures Panel|Panou fotografii
+Pictures Panel Settings|Setări panou fotografii
+Pictures Settings|Setări fotografii
+Pisces|Pești
+Please Log In|Vă rugăm să vă autentificați
+Please wait...|Vă rugăm așteptați...
+Portrait|Portret
+Pressure:|Presiune:
+Problem loading widget|Problemă în încărcarea widget-ului
+Productivity|Productivitate
+Program|Program
+Pulkovo|Pulkovo
+Purchase|Achiziție
+Purple|Violet
+Radio off|Radio oprit
+rd_loc|rd
+Reading appointments...|Citire rezervări...
+Recycle Bin|Coș de gunoi
+Red|Roșu
+Reduced|Redus
+Reload skin list|Reîncărcare listă fațete
+Remove All|Șterge toate
+Rename|Redenumire
+Rename Panel|Redenumire panou
+Requesting images|Solicitare imagini
+Retry|Reîncercare
+Rise: %s|Răsărit: %s
+RSS Feed|Flux RSS
+RSS Panel|Panou RSS
+RSS Panel Settings|Setări panou RSS
+S|S
+Safe mode|Mod de siguranță
+Sagittarius|Săgetător
+Saint-Petersburg|Sankt Petersburg
+Save as New|Salvare ca nou
+Save to Existing|Salvare în existente
+Scorpio|Scorpion
+Screen orientation|Orientare ecran
+SE|SE
+Searching|În curs de căutare
+Select Channel|Selectare canal
+Select cities|Selectare orașe
+Select e-mail address|Selectare adresă de e-mail
+Select phone number:|Selectare număr de telefon:
+Select shortcut|Selectare scurtătură
+Select Skin|Selectare fațetă
+Select wallpaper from|Selectare tapet din
+Selected cities|Orașe selectate
+Selected City|Oraș selectat
+Selected city|Oraș selectat
+Send E-mail|Trimite e-mail
+Send E-Mail|Trimite e-mail
+Send Message|Trimite mesaj
+Send MMS|Trimite MMS
+Send SMS|Trimite SMS
+September|Septembrie
+Serial number:|Număr serial:
+Set as Home|Setare ca Acasă
+Set as Wallpaper|Setare ca tapet
+Set wallpaper|Setare tapet
+Set: %s|Apus: %s
+Settings|Setări
+Show all|Arată toate
+Show all day events|Arată toate evenimentele de o zi întreagă
+Show all day events in calendar widgets|Arată evenimentele de o zi întreagă în widget-uri calendar
+Show full news|Arată știrile complete
+Show images in news|Arată imaginile în cadrul știrilor
+Silent|Silențios
+Skin loading|Încărcare fațetă
+Small|Mic
+Smartphone|Smartphone
+Smog|Ceață
+Social|Social
+Sound Profile|Profil sunet
+south|sud
+south east|sud-est
+south west|sud-vest
+SPB Shell 3D is loading...|SPB Shell 3D se încarcă...
+SPB Wallpapers|Tapete SPB
+SPB Widget|Widget SPB
+st|întâiul/întâia
+Standard Edition [Beta]|Ediție standard [Beta]
+Stereoscopic 3D mode|Mod 3D stereoscopic
+Stereoscopic 3D mode will be disabled|Modul 3D stereoscopic va fi dezactivat
+Stereoscopic 3D Settings|Setări 3D stereoscopice
+Sun in %s,|Soarele în %s,
+Sunday|Duminică
+SW|SV
+Switching the interface mode can take up to a minute. Screen orientation will be changed to '%s'.|Comutarea modului interfeței poate dura până la 1 minut. Orientarea ecranului se va modifica în '%s'.
+System|Sistem
+Tablet|Tabletă
+Taurus|Taur
+Temperatur scale|Scala de temperatură
+Temperature scale|Scala de temperatură
+Test Battery|Testare baterie
+th|lea/a
+Thank you for your support. Your copy is now registered.|Vă mulțumim pentru sprijin. Copia dvs. este acum înregistrată.
+The experimental features below are not ready to be shipped in the core of SPB Shell 3D. They may contain severe defects and cause system instability. Use them at your own risk.|Caracteristicile experimentale de mai jos nu sunt gata spre a fi transmise în nucleul SPB Shell 3D. Pot conține defecțiuni majore și pot genera instabilitatea sistemului. Le puteți utiliza pe riscul dvs.
+The maximum number of panels is reached|Numărul maxim de panouri a fost atins
+The name cannot be changed.|Denumirea nu poate fi schimbată.
+The previous launch of SPB Shell 3D was unsuccessful. Please tap "Retry" to launch it again or "Home" to activate a different Home screen.|Lansarea anterioară a SPB Shell 3D a eșuat. Vă rugăm apăsați „Reîncercare” pentru a-l relansa sau „Acasă” pentru a activa un alt ecran de întâmpinare.
+Time|Oră
+Time Panel|Panou oră
+Time Panel Settings|Setări panou timp
+Today|Astăzi
+Toggle|Comutare
+Tomorrow|Mâine
+Tools|Instrumente
+Travel|Călătorii
+Unfortunately, we could not locate your purchase in Android Market. Please uninstall this copy before installing a new one.|Din păcate nu am putut localiza achiziția dvs. pe Android Market. Vă rugăm dezinstalați această copie înainte de a instala una nouă.
+Unfortunately, we could not locate your purchase. Please uninstall this copy before installing a new one.|Din nefericire, nu am putut localiza achiziția dvs. Vă rugăm dezinstalați această copie înainte de a instala una nouă.
+Uninstall|Dezinstalare
+Uninstall apps|Dezinstalare aplicații
+Unknown|Necunoscut
+Unknown location|Locație necunoscută
+Upcoming events|Evenimente viitoare
+Update|Actualizare
+Update deals list automatically|Actualizare automată a listei afacerilor
+Update Now|Actualizare acum
+Update pictures page automatically|Actualizare automată a paginii de fotografii
+Update weather forecasts automatically|Actualizare automată a prognozei meteo
+Updated|Actualizat
+Updated:|Actualizat:
+Updating image|Actualizare imagine
+Updating...|Se actualizează...
+Use 3D in application list|Folosiți 3D în lista de aplicații
+Use 3D in edit mode|Folosiți 3D în modul editare
+Use cellular connection for updating deals list|Folosiți conexiunea mobilă pentru actualizarea listei afacerilor
+Use cellular connection for updating deals list automatically|Utilizaţi conexiunea celulară pentru a actualiza automat lista de oferte
+Use cellular connection for updating pictures automatically|Folosiți conexiunea mobilă pentru actualizarea automată a fotografiilor
+Use cellular connection for updating weather automatically|Utilizaţi conexiunea celulară pentru a actualiza automat vremea
+Use new color every time|Utilizaţi culoare nouă de fiecare dată
+Use previous note's color|Utilizaţi culoarea notei anterioare
+Value|Valoare
+variable|variabil
+Version %s, Build %s|Versiunea %s, Ediția %s
+Vibro|Vibrații
+Video Call|Apel video
+View Duplicates|Vizualizare duplicate
+View SIM Contacts|Vizualizare contacte SIM
+Virgo|Fecioară
+W|V
+Wallpaper|Tapet
+Wallpapers|Tapete
+Waning Crescent|Înainte de lună nouă
+Waning Gibbous|După lună plină
+Waxing Crescent|Crai nou
+Waxing Gibbous|Înainte de lună plină
+Weather|Vreme
+Weather and Clock|Vremea şi Ora
+Weather Forecast|Prognoză meteo
+Weather Settings|Configurări vreme
+Welcome to notes panel|Bun venit la panoul cu note
+west|vest
+Widget is too big to be added.|Widget-ul este prea mare pentru a fi adăugat.
+Widgets|Widget-uri
+Widgets Settings|Setări widget-uri
+Wind direction:|Direcția vântului:
+Wind speed scale|Scala vitezei vântului
+Wind speed:|Viteza vântului:
+Work|Lucru
+World Time|Ora în lume
+Wrong serial number. Please check it again.|Număr serial greșit. Vă rugăm verificați din nou.
+Yandex.Search|Yandex.Search
+Yellow|Galben
+Yes|Da
+Yesterday|Ieri
+You save|Economisiți
+Your video system isn't compatible with Shell 3D.|Sistemul dvs. video nu este compatibil cu Shell 3D.

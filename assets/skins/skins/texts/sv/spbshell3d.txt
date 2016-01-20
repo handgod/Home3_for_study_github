@@ -1,0 +1,546 @@
+ a few seconds| några sekunder
+ day| dag
+ days| dagar
+ hour| timme
+ hours| timmar
+ hr| t
+ hrs|tim.
+ lunar day| måndygn
+ min| min.
+ mins| min.
+ minute| minut
+ minutes| minuter
+%d bought|%d köpt
+%d day|%d dag
+%d days|%d dagar
+%d hour|%d timme
+%d hours|%d timmar
+%d minute|%d minut
+%d minutes|%d minuter
+%d more...|%d mer...
+%i active channel|%i aktiv kanal
+%i active channels|%i aktiva kanaler
+%i image|%i bild
+%i images|%i bilder
+%i more today|%i fler idag
+%i more...|%i fler...
+%i page|%i sida
+%i pages|%i sidor
+%i%% of Full|%i%% av full
+%s 2007—2011 Yandex|%s 2007-2011 Yandex
+(<1 min)|(<1 min)
+(in|(i
+(in seconds)|(i sekunder)
+(No title)|(Ingen titel)
+[ Loading images... ]|[ Laddar bilder... ]
+[ Tap here for images load ]|[ Tryck här för att ladda bilder ]
+A few minutes ago|För några minuter sedan
+About|Om
+About SPB Shell 3D|Om SPB Shell 3D
+Above horizon|Ovanför horisonten
+Accelerometer|Accelerometer
+Activate|Aktivera
+Activation|Aktivering
+Activation failed. Check your Internet connection.|Aktiveringen misslyckades. Kontrollera din internetanslutning.
+Active Channels|Aktiva kanaler
+Active channels|Aktiva kanaler
+Add|Lägg till
+Add category|Lägg till kategori
+Add channel|Lägg till kanal
+Add city|Lägg till stad
+Add custom channel|Lägg till egendefinierad kanal
+Add new city|Lägg till ny stad
+Add note|Lägg till anteckning
+Add Panel|Lägg till panel
+Add to Home screen|Lägg till på hemskärmen
+Airplane|Flygplan
+Airplane Mode|Flygplansläge
+Alcatel Widget|Alcatel Widget
+All day|Heldag
+All pictures|Alla bilder
+Allow resizing of all Android widgets|Tillåt storleksförändring av widgetar
+An hour ago|För en timme sedan
+Android Shortcut|Android-genväg
+Android Widget|Android-widget
+Anniversary|Jubileum
+Appearance|Utseende
+Application|Applikation
+April|April
+Aqua|Aqua
+Aquarius|Vattumannen
+Aries|Väduren
+as of %s|fr.o.m. %s
+at %s|vid %s
+atm|atm
+Atmospheres|Atmosfärer
+Atmospheric pressure scale|Atmosfärisk tryckskala
+August|Augusti
+Auto|Auto
+Auto (keyboard only)|Auto (endast tangentbord)
+Auto arrange widgets|Arrangera widgetar automatiskt
+Automatic|Automatiskt
+Automatic naming|Automatiskt namn
+Backlight|Bakgrundsljus
+Battery|Batteri
+Below horizon|Under horisonten
+Birthday|Födelsedag
+Birthdays|Födelsedagar
+Black|Svart
+Blue|Blå
+Bluetooth|Bluetooth
+Bookmarks|Bokmärken
+Bookmarks Folder|Mapp för favoriter
+Business|Business
+Buy!|Köp!
+Cache size|Cachestorlek
+Calculator|Miniräknare
+Calendar|Kalender
+Calendar Panel|Kalenderpanel
+Calendar Panel Settings|Inställningar för kalenderpanel
+Call|Ring
+Call Log|Samtalslogg
+Cancel|Avbryt
+Cancer|Kräftan
+Capricorn|Stenbocken
+Categories|Kategorier
+Category Name|Kategorinamn
+Celsius (#short)|Celsius (°C)
+Change|Ändra
+Change City|Byt stad
+Change profile|Byt profil
+Channels list|Kanallista
+Choose Alcatel Widget|Välj Alcatel Widget
+Choose Color|Välj färg
+Choose Program|Välj program
+Choose SPB Widget|Välj SPB Widget
+Choose widget|Välj widget
+Clear|Molnfritt
+Clear cache|Rensa cache
+Clock|Klocka
+Cloudy|Mulet
+Cloudy, hail|Mulet, hagel
+Cloudy, heavy rain|Mulet, kraftigt regn
+Cloudy, heavy snow|Mulet, kraftigt snöfall
+Cloudy, rain|Mulet, regn
+Cloudy, rain with snow|Mulet, snöblandat regn
+Cloudy, snow|Mulet, snöfall
+Cloudy, thunder|Mulet, åska
+Color anaglyph (red/cyan)|Färganaglyf (röd/cyan)
+Communication|Kommunikation
+Contact|Kontakt
+Contact Settings|Kontaktinställningar
+Contact Size|Kontaktstorlek
+Contacts|Kontakter
+Contacts Folder|Kontaktfolder
+Copyright %s 2007-2011\nSPB Software|Copyright %s 2007-2011\nSPB Software
+Copyright %s 2007-2012\nSPB Software|Copyright %s 2007-2012\nSPB Software
+Create Folder|Skapa mapp
+Current|Nuvarande
+Current city|Aktuell stad
+Current conditions|Aktuella förhållanden
+Current Conditions|Aktuella förhållanden
+Current skin|Nuvarande skal
+Custom channel|Egendefinierad kanal
+Day|Dag
+Deal of the Day|Dagens erbjudande
+Deal of the Day Panel|Panel för dagens erbjudande
+Deal of the Day Panel Settings|Inställningar för Dagens erbjudande
+Deals|Erbjudanden
+December|December
+Default|Standard
+Default Action|Standardhändelse
+Delete note|Radera anteckning
+Dew point:|Daggpunkt:
+Diagnostic tools|Diagnosverktyg
+Disabled|Avaktiverad
+Discoverable|Synlig
+Done|Klar
+Download Original|Ladda ner orginal
+Downloading images|Laddar ner bilder
+E|Ö
+east|öster
+Edit channel|Ändra kanal
+Edit Contact|Ändra kontakt
+Edit note|Ändra anteckning
+Edit panels|Ändra paneler
+Emergency only|Endast i nödsituation
+Empty Panel|Tom panel
+Enable live wallpapers|Aktivera levande bakgrunder
+Enabled|Aktiverad
+Enter RSS feed title|Ange titel för RSS-flöde
+Enter RSS feed URL|Ange URL för RSS-flöde
+Entertainment|Underhållning
+Error|Fel
+Evening|Kväll
+Every 2 hours|Varannan timme
+Every 24 hours|Var 24:e timme
+Every 30 Minutes|Var 30:e minut
+Every 30 minutes|Var 30:e minut
+Every 4 hours|Var 4:e timme
+Every hour|Varje timme
+Exit|Avsluta
+Experimental|Experimentell
+Experimental Settings|Experimentella inställningar
+Experimental settings|Experimentella inställningar
+Fahrenheit (#short)|Fahrenheit (°F)
+Failed to add contact|Kunde inte lägga till kontakt
+Failed to load RSS|Kunde inte hämta RSS
+Failed to load the selected contact. Try to link the contact to Google account or save it to phone.|Gick inte att läsa den valda kontakten. Försök att länka kontakten till Google-konto eller spara det på telefon.
+Favorite Contacts|Favoritkontakter
+Favorite contacts|Favoritkontakter
+Favorites|Favoriter
+February|Februari
+Filter|Filter
+First day of the week|Veckans första dag
+First Quarter|Första kvartalet
+Flight|Flygning
+Folder|Mapp
+Folder Name|Mappnamn
+Forecast|Prognos
+from forecast|från prognos
+Full Moon|Fullmåne
+Gallery|Galleri
+Games|Spel
+Gemini|Tvillingarna
+Gravity|Gravitation
+Grayscale anaglyph (red/cyan)|Gråskaleanaglyf (röd/cyan)
+Green|Grön
+G-Sensor|G-sensor
+Half an hour ago|För en halv timme sedan
+Hectopascals|Hektopascal
+Hide Duplicates|Göm dubbletter
+Hide SIM Contacts|Dölj SIM-kontakter
+Home|Hem
+Home Settings|Inställningar för Hem
+Home settings|Inställningar för Hem
+hpa|hPa
+Humidity:|Fuktighet:
+in %u days|om %u dagar
+in Home Settings|under Hem-inställningar
+inch|tum
+Inches|Tum
+Increase Counter|Öka räknare
+Interface mode|Interfaceläge
+Invisible|Osynlig
+January|Januari
+July|Juli
+June|Juni
+Kilometers per hour|Kilometer per timme
+Knots|Knop
+knots|knop
+kph|km/t
+kts|kn
+Landscape|Liggande
+Landscape orientation required to enable left-to-right stereo mode|För att aktivera vänster-till-höger stereo-läge krävs liggande läge
+Large|Stor
+Last Call|Senaste samtal
+Last Message|Senaste meddelande
+Last Quarter|Senaste kvartalet
+Last updated|Senast uppdaterad
+Left-to-right (HTC EVO 3D)|Vänster-till-höger (HTC EVO 3D)
+Legal information|Rättslig information
+Legal notices|Rättslig information
+Leo|Lejonet
+Libra|Vågen
+Lifestyle|Livsstil
+Live wallpapers can cause performance degradation of your 3D home screen. Switching between live and static wallpapers can take up to a minute. Static wallpapers are recommended for the best experience.|Levande bakgrunder kan orsaka prestandaförsämringar för 3D-hemskärmen. Att växla mellan levande och statiska bakgrunder kan ta upp till en minut. Statiska bakgrunder rekommenderas för bästa upplevelse.
+Loading failed|Laddning misslyckades
+Loading image for wallpaper|Laddar bakgrundsbild
+Loading RSS feed %s...|Laddar RSS-flöde %s...
+Loading skin failed!|Laddning av skal misslyckades!
+Loading skins catalog failed!|Laddning av skalkatalog misslyckades!
+Loading...|Laddar...
+Logging In...|Loggar in...
+Lunar Calendar|Månkalender
+Lunar day %d|Måndygn %d
+Manage apps|Hantera appar
+Manage Apps|Hantera appar
+Manage panels|Hantera paneler
+Manage Panels|Hantera paneler
+March|Mars
+May|Maj
+Medium|Medelsvår
+Messaging|Meddelanden
+Meters per second|Meter per sekund
+Miles per hour|Miles per timme
+Millimetres|Millimeter
+Misc|Diverse
+Miscellaneous|Diverse
+mm|mm
+Mobile|Mobil
+Mode|Läge
+Monday|Måndag
+Moon|Månen
+Moon Calendar|Månkalender
+Moon in %s,|Månen i %s,
+Morning|Morgon
+mph|mph
+mps|m/s
+Multimedia|Multimedia
+Music|Musik
+Music albums|Musikalbum
+N|N
+N/A|N/A
+nd|:a
+NE|NO
+Network Status|Nätverksstatus
+Never|Aldrig
+New|Ny
+New Channel|Ny kanal
+New channel|Ny kanal
+New Contact|Ny kontakt
+New Folder|Ny mapp
+New Moon|Nymåne
+New update available|Det finns en ny uppdatering
+News|Nyheter
+News Panel|Nyhetspanel
+News Panel Settings|Inställningar för nyhetspanel
+next|Nästa
+Next Alarm|Nästa alarm
+Night|Natt
+No|Nej
+no|Nej
+No Alarms|Inga alarm
+No birthdays|Inga födelsedagar
+No calls|Inga samtal
+No Cities|Inga städer
+No conditions|Ingen prognos
+No Contacts.|Inga kontakter
+No Countries|Inga länder
+No deals loaded|Inga erbjudanden laddade
+No Images|Inga bilder
+No messages|Inga meddelanden
+No news|Inga nyheter
+No rise/set info|Ingen upp-/nedgångsinfo.
+No RSS feed found at|Inget RSS-flöde hittat på
+No rss loaded|Ingen RSS hämtad
+No SIM|Inget SIM
+No text messages|Inga textmeddelanden
+No title|Ingen titel
+No upcoming events|Inga kommande händelser
+No upcoming events in a week|Inga planerade aktiviteter närmaste veckan
+No updates|Inga uppdateringar
+No weather forecast|Ingen väderprognos
+Normal|Normal
+north|norr
+north east|nordost
+north west|nordväst
+Not available|Ej tillgänglig
+Not connected|Ej ansluten
+Notes|Anteckningar
+Note's default color|Standardfärg för anteckningar
+Note's font|Typsnitt för anteckningar
+Notes Panel|Anteckningspanel
+Notes Panel Settings|Inställningar för anteckningspanel
+November|November
+NW|NV
+October|October
+Off|Av
+Offer|Erbjudande
+On|På
+One Touch Share|One Touch Share
+Only on free connections|Bara gratis anslutningar
+Open Contact|Öppna kontakt
+Open in Browser|Öppna i browser
+OpenGL 2.0 is required to run SPB Shell 3D|SPB Shell 3D kräver OpenGl 2.0
+Optimized anaglyph (red/cyan)|Optimerad anaglyf (röd/cyan)
+Other (assistant)|Annan (assistent)
+Page|Sida
+Pages: %d, images: %d|Sidor: %d, bilder: %d
+Panel Name|Panelnamn
+Panels|Paneler
+Panels Settings|Panelinställningar
+Parsing skins catalog failed!|Parsning av skalkatalog misslyckades!
+Partly cloudy|Halvklart
+Partly cloudy, rain|Halvklart, regn
+Partly cloudy, snow|Halvklart, snö
+Partly cloudy, thunder|Halvklart, åska
+People|Personer
+Performance Warning|Prestandavarning
+Performance Warning dialog|Prestandavarningsdialog
+Personal|Personligt
+Phone|Telefon
+Photo folder for gallery widgets|Fotomapp för galleriwidgetar
+Picture Gallery|Bildgalleri
+Picture of the Day|Dagens bild
+Picture Panel Settings|Inställningar för bildpanel
+Pictures|Bilder
+Pictures Of The Day|Dagens bilder
+Pictures Panel|Bildpanel
+Pictures Panel Settings|Inställningar för bildpanel
+Pictures Settings|Bildinställningar
+Pisces|Fiskarna
+Please Log In|Var vänlig logga in
+Please wait...|Vänligen vänta.
+Portrait|Stående
+Pressure:|Tryck:
+Problem loading widget|Kunde inte ladda widget
+Productivity|Produktivitet
+Program|Program
+Pulkovo|Pulkovo
+Purchase|Köp
+Purple|Lila
+Quick Setting|Snabbinställning
+Radio off|Radio av
+rd_loc|:e
+Reading appointments...|Läser avtalade tider...
+Recycle Bin|Papperskorgen
+Red|Röd
+Reduced|Reducerad
+Reload skin list|Ladda om skallista
+Remove All|Ta bort alla
+Rename|Byt namn
+Rename Panel|Ändra namn på panel
+Requesting images|Begär bilder
+Retry|Försök igen
+Rise: %s|Uppgång: %s
+RSS Feed|RSS Feed
+RSS Panel|RSS-panel
+RSS Panel Settings|Inställningar för RSS-panel
+S|S
+Safe mode|Felsäkert läge
+Sagittarius|Skytten
+Saint-Petersburg|Saint-Petersburg
+Save as New|Spara som ny
+Save to Existing|Spara till existerande
+Scorpio|Skorpionen
+Screen orientation|Skärmorientering
+Screen orientation will be changed to Landscape|Skärmorienteringen kommer att ändras till Liggande.
+SE|SO
+Searching|Söker
+Select Channel|Välj kanal
+Select cities|Välj städer
+Select Contact Action|Välj kontakthändelse
+Select Contact Size|Välj kontaktstorlek
+Select e-mail address|Välj e-postadress
+Select phone number:|Välj telefonnummer:
+Select shortcut|Välj genväg
+Select Skin|Välj skal
+Select wallpaper from|Välj bakgrund från
+Selected cities|Valda städer
+Selected City|Vald stad
+Selected city|Vald stad
+Send Email|Skicka e-post.
+Send E-mail|Skicka e-post
+Send E-Mail|Skicka e-post
+Send Message|Skicka meddelande
+Send MMS|Skicka MMS
+Send SMS|Skicka SMS
+September|September
+Serial number:|Serienummer:
+Set as Home|Använd som Hem
+Set as Wallpaper|Använd som bakgrund
+Set wallpaper|Välj bakgrund
+Set: %s|Nedgång: %s
+Settings|Inställningar
+Show all|Visa alla
+Show all day events|Visa heldagshändelser
+Show all day events in calendar widgets|Visa heldagshändelser i kalenderwidgetar
+Show full news|Visa fulla nyheter
+Show images in news|Visa bilder i nyheter
+Silent|Tyst
+Skin loading|Laddar skal
+Small|Liten
+Smartphone|Smartphone
+Smog|Smog
+Social|Socialt
+Social Network|Socialt nätverk
+Sound Profile|Ljudprofil
+south|söder
+south east|sydost
+south west|sydväst
+SPB Shell 3D is loading...|SPB Shell 3D laddas...
+SPB Wallpapers|SPB Wallpapers
+SPB Widget|SPB-widget
+st|:a
+Standard Edition [Beta]|Standard Edition [Beta]
+Stereoscopic 3D mode|Stereoskopiskt 3D-läge
+Stereoscopic 3D mode will be disabled|Stereoskopiskt 3D-läge kommer deaktiveras
+Stereoscopic 3D Settings|Inställningar för stereoskopisk 3D
+Sun in %s,|Solen i %s,
+Sunday|Söndag
+SW|SV
+Switching the interface mode can take up to a minute. Screen orientation will be changed to '%s'.|Att byta gränssnittsläge kan ta upp till en minut. Skärmorienteringen kommer att ändras till '%s'.
+System|System
+Tablet|Tablet
+Tap here to download|Tryck här för att ladda
+Taurus|Oxen
+Temperatur scale|Temperaturskala
+Temperature scale|Temperaturskala
+Test Battery|Testa batteri
+th|:e
+Thank you for your support. Your copy is now registered.|Tack för ert stöd. Kopian är nu registrerad.
+The experimental features below are not ready to be shipped in the core of SPB Shell 3D. They may contain severe defects and cause system instability. Use them at your own risk.|De experimentella funktionerna nedan är inte färdiga för att inkluderas i kärnan av SPB Shell 3D. De kan innehålla allvarliga fel som gör systemet instabilt. Använd dem på egen risk.
+The maximum number of panels is reached|Maximalt antal paneler har uppnåtts
+The name cannot be changed.|Namnet kan inte ändras.
+The previous launch of SPB Shell 3D was unsuccessful. Please tap "Retry" to launch it again or "Home" to activate a different Home screen.|Vid förra försöket gick det inte att starta SPB Shell 3D. Välj "Försök igen" för att försöka igen eller "Hem" för att aktivera en annan hemskärm.
+Time|Tid
+Time Panel|Tidspanel
+Time Panel Settings|Inställningar för tidspanel
+Today|Idag
+Toggle|Växla
+Tomorrow|Imorgon
+Tools|Verktyg
+Travel|Resande
+Unfortunately, we could not locate your purchase in Android Market. Please uninstall this copy before installing a new one.|Dessvärre kunde vi inte hitta ditt inköp i Android Market. Var vänlig avinstallera denna kopia och installera därefter den nya.
+Unfortunately, we could not locate your purchase. Please uninstall this copy before installing a new one.|Vi kunde dessvärre inte hitta ditt köp. Avinstallera denna kopia innan du installerar en ny.
+Uninstall|Avinstallera
+Uninstall apps|Avinstallera appar
+Unknown|Okänd
+Unknown location|Okänd plats
+Upcoming events|Kommande aktiviteter
+Update|Uppdatera
+Update deals list automatically|Uppdatera erbjudanden automatiskt
+Update Now|Uppdatera nu
+Update pictures page automatically|Uppdatera bildsidan automatiskt
+Update weather forecasts automatically|Uppdatera väderprognoser automatiskt
+Updated|Uppdaterad
+Updated:|Uppdaterad:
+Updating image|Uppdaterar bild
+Updating...|uppdaterar...
+Use 3D in application list|Använd 3D i applikationslistan
+Use 3D in edit mode|Använd 3D i editeringsläge
+Use cellular connection for updating deals list|Använd mobil uppkoppling för att uppdatera erbjudanden
+Use cellular connection for updating deals list automatically|Använd mobilnätsuppkoppling för att uppdatera erbjudandelista automatiskt
+Use cellular connection for updating pictures automatically|Använd mobil anslutning för automatisk uppdatering av bilder
+Use cellular connection for updating weather automatically|Använd mobil datauppkoppling för automatisk uppdatering av väderdata
+Use new color every time|Använd ny färg varje gång
+Use previous note's color|Använd färg från föregående anteckning
+Value|Värde
+variable|variabel
+Version %s, Build %s|Version %s, Bygge %s
+Vibro|Vibrera
+Video Call|Videosamtal
+View Duplicates|Visa dubbletter
+View SIM Contacts|Visa SIM-kontakter
+Virgo|Jungfrun
+W|V
+Wallpaper|Bakgrund
+Wallpapers|Bakgrunder
+Waning Crescent|Gående skära
+Waning Gibbous|Avtagande knubbmåne
+Waxing Crescent|Kommande skära
+Waxing Gibbous|Tilltagande knubbmåne
+Weather|Väder
+Weather and Clock|Väder och Klocka
+Weather Forecast|Väderprognos
+Weather Panel Settings|Inställningar av vädret panelen
+Weather Settings|Väderinställningar
+Welcome to notes panel|Välkommen till anteckningspanelen
+west|väst
+Widget is too big to be added.|Widgeten är för stor för att läggas till.
+Widgets|Widgetar
+Widgets Settings|Widgetinställningar
+Wind direction:|Vindriktning:
+Wind speed scale|Enhet för vindhastighet
+Wind speed:|Vindhastighet:
+Wind:|Vind:
+Work|Arbete
+World Time|Världstid
+Wrong serial number. Please check it again.|Fel serienummer. Vänligen kontrollera det igen.
+Yandex.Search|Yandex.Search
+Yellow|Gul
+Yes|Ja
+Yesterday|Igår
+You save|Du sparar
+Your video system isn't compatible with Shell 3D.|Ditt grafiksystem inte kompatibelt med Shell 3D.

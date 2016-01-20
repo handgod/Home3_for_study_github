@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<Layouts>
+  <Rules>
+    <!--<ScreenCondition Width="360" Height="640">
+      <UseLayout Name="360x640"/>
+    </ScreenCondition>-->
+    <ScreenCondition Width="240" Height="320">
+      <UseLayout Name="240x320"/>
+    </ScreenCondition>
+
+    <PlatformCondition Platform="tablets">
+      <!--Condition Name="SystemDpi" Value="240"> <!-- hdpi: 5x4 grid -- >
+        <UseLayout Name="Tablets_Tiny"/>
+      </Condition-->
+
+      <ScreenCondition Width="1024" Height="600">
+        <UseLayout Name="Tablets_Small"/>
+      </ScreenCondition>
+
+<!-- special case for Android 3.0 Galaxy Tab -->
+      <ScreenCondition Width="1024" Height="552">
+        <UseLayout Name="Tablets_Small"/>
+      </ScreenCondition>
+      <ScreenCondition Width="600" Height="976">
+        <UseLayout Name="Tablets_Small"/>
+      </ScreenCondition>
+<!-- -->
+
+      <ScreenCondition Width="600" Height="1024">
+        <UseLayout Name="Tablets_Small"/>
+      </ScreenCondition>
+
+      <ScreenCondition Width="800" Height="480">
+        <UseLayout Name="Tablets_Small"/>
+      </ScreenCondition>
+
+      <ScreenCondition Width="480" Height="800">
+        <UseLayout Name="Tablets_Small"/>
+      </ScreenCondition>
+
+      <ScreenCondition Width="800" Height="600">
+        <UseLayout Name="Tablets_Small"/>
+      </ScreenCondition>
+
+      <ScreenCondition Width="600" Height="800">
+        <UseLayout Name="Tablets_Small"/>
+      </ScreenCondition>
+      
+      <Default>
+        <UseLayout Name="Tablets_Big"/>
+      </Default>
+    </PlatformCondition>
+
+    <Default>
+      <ScreenCondition Orientation="landscape">
+        <UseLayout Name="Phone_Landscape"/>
+      </ScreenCondition>
+      <Default>
+        <UseLayout Name="Phone"/>
+      </Default>
+    </Default>
+  </Rules>
+
+  <General>
+    <DialogObject Value="Spb.Data.LauncherDlg"/>
+    <AbsoluteSize Name="PageDim"  X="4"  Y="4"/>
+  </General>
+
+
+  <Layout Name="Base">
+    <Plugins LayoutType="frame">
+      <LayoutSize Width="fill" Height="fill"/>
+      
+      <Plugin Name="BackgroundCatcher" ID="1000" Class="Spb.LSP.Rect">
+        <LayoutSize Width="fill" Height="fill"/>
+		<Int Name="Opacity" Value="0"/>
+        <Int Name="SelectionType" Value="1"/>
+      </Plugin>
+      
+      <Plugins Name="WidgetsGroup" ID="1001">
+        <LayoutSize Width="fill" Height="fill"/>
+        <!-- Here home widgets go -->
+      </Plugins>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="Tablets_Big">
+    <General>
+      <AbsoluteSize Name="PageDim"  X="8"  Y="6"/>
+    </General>
+    
+    <Plugins Extends="Base"/>
+  </Layout>
+
+  <Layout Name="Tablets_Small">
+    <General>
+      <AbsoluteSize Name="PageDim"  X="6"  Y="5"/>
+    </General>
+
+    <Plugins Extends="Base"/>
+  </Layout>
+
+  <Layout Name="Tablets_Tiny">
+    <General>
+      <AbsoluteSize Name="PageDim"  X="5"  Y="4"/>
+    </General>
+
+    <Plugins Extends="Base"/>
+  </Layout>
+
+  <Layout Name="Phone">
+    <General>
+      <AbsoluteSize Name="PageDim"  X="4"  Y="4"/>
+    </General>
+
+    <Plugins Extends="Base">
+
+      <Plugins Name="WidgetsGroup" ID="1001">
+        <LayoutMargins Bottom="51"/>
+      </Plugins>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="Phone_Landscape">
+    <Plugins Extends="Phone">
+      <Plugins Name="WidgetsGroup">
+        <LayoutMargins Right="50"/>
+      </Plugins>
+    </Plugins>
+  </Layout>
+  
+  <Layout Name="240x320">
+
+    <Plugins Extends="Phone">
+      <Plugins Name="WidgetsGroup">
+        <LayoutMargins Bottom="49"/>
+      </Plugins>
+    </Plugins>
+  </Layout>
+
+  <!--<Layout Name="360x640" DontScale="1">
+    <General>
+      <Rect Name="ContentRect" X="0" Y="2" Width="360" Height="558" />
+    </General>
+    
+    <Plugins Extends="Default">
+      <Plugin Name="BackgroundCatcher">
+        <BoundRect X="0" Y="0" Width="360" Height="640" />
+      </Plugin>
+    </Plugins>
+  </Layout>-->
+
+</Layouts>

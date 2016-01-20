@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skin name="Calculator Panel"  Type="panel">
+	<items>
+		<item id="Images">
+			<Bitmap Name="back" Image="back.png"/>
+		</item>
+
+		<item BaseDpi="192">
+			<Bitmap Name="border" Image="border.png"/>
+            <Rect   Name="border_9Patch" X="14" Y="14" Width="1" Height="1"/>
+			<Bitmap Name="background" Image="background.png"/>
+			<Bitmap Name="button" Image="button.png"/>
+            <Rect   Name="button_9Patch" X="8" Y="8" Width="5" Height="56"/>
+			<Bitmap Name="orangebutton" Image="orangebutton.png"/>
+            <Rect   Name="orangebutton_9Patch" X="8" Y="8" Width="5" Height="56"/>
+			<Bitmap Name="operation" Image="operation.png"/>
+            <Rect   Name="operation_9Patch" X="8" Y="8" Width="5" Height="56"/>
+			<Bitmap Name="screen" Image="screen.png"/>
+            <Rect   Name="screen_9Patch" X="14" Y="14" Width="2" Height="96"/>
+		</item>
+	</items>
+</skin>

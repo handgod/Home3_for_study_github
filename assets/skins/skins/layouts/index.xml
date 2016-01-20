@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skin>
+  <items>
+    <item>
+	<!-- Dummy string indicates that the skin is not empty -->
+      <String Name="dummy" Value="dummy"/>
+    </item>
+  </items>
+</skin>

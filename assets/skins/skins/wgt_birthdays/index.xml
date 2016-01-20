@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<skin Name="Birthday Widget" Type="widget">
+  <items>
+    <item>
+      <Image Name="bd_icon" File="bd_icon.png"/>
+      <Image Name="frame"   File="frame.png"/>
+      <Image Name="bubble"  File="bubble.png"/>
+      <Image Name="empty"   File="empty.png"/>
+    </item>
+  </items>
+</skin>

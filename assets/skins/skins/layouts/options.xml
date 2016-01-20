@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Layouts>
+
+  <Layers>
+    <Layer Name="Background" Dialog="ModernDecorations"/>
+    <Layer/>
+    <Layer Name="ScrollBar" Dialog="ScrollBar"/>
+  </Layers>
+
+  <Rules>
+    <PlatformCondition Platform="tablets">
+      <UseLayout Name="Tablets"/>
+    </PlatformCondition>
+    <Default>
+      <UseLayout Name="Default"/>
+    </Default>
+  </Rules>
+
+  <General>
+    <ScrollY Value="Auto"/>
+    <DefaultFont Face="Droid Sans" HeightPxl="12" Bold="n" Color="FFFFFFFF"/>
+	<Int Name="SmallHeader" Value="1"/>
+  </General>
+
+  <Layout Name="Default">
+    
+    <Column Name="Main" Width="fill" Height="auto">
+
+      <Column Name="Group" Dynamic="1" ID="100" Width="fill" Height="auto" Margins="0 5 5 0">
+        <Frame Width="fill" Height="47">
+          <Plugin Class="Spb.LSP.ModernSeparator" Name="h" Align="bottom" Width="fill" Height="1" Margins="0 5 5 0"/>
+		  
+          <Plugin Name="ListItem" ID="0" Width="fill" Height="fill" Margins="1 0 0 0"/>
+          <Plugin Name="Option" ID="1" Width="fill" Height="fill" Margins="0 7 35 0">
+            <Int Name="Align" Value="20"/>
+          </Plugin>
+          <Plugin Name="RadioBtn" ID="11" AutoSkin="misc" Align="right" Width="30" Height="fill" Margins="0 0 7 0"/>
+        </Frame>
+      </Column>
+
+    </Column>
+  </Layout>
+
+  <Layout Name="Tablets">
+    <Column Name="Main" Extends="Default" Margins="0 10 10 0"/>
+  </Layout>
+
+</Layouts>

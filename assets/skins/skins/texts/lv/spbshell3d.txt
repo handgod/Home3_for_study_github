@@ -1,0 +1,519 @@
+ a few seconds| dažas sekundes
+ day| diena
+ days| dienas
+ hour| stunda
+ hours| stundas
+ hr| st.
+ hrs| st.
+ lunar day| mēness diena
+ min| min.
+ mins| min.
+ minute| minūte
+ minutes| minūtes
+%d bought|%d nopirkti
+%d day|%d diena
+%d days|%d dienas
+%d hour|%d stunda
+%d hours|%d stundas
+%d minute|%d minūte
+%d minutes|%d minūtes
+%d more...|Vēl %d...
+%i active channel|%i aktīvs kanāls
+%i active channels|%i aktīvie kanāli
+%i image|%i attēls
+%i images|%i attēli
+%i more today|vēl %i šodien
+%i more...| %i vairāk...
+%i page|%i lapa
+%i pages|%i lapas
+%i%% of Full|%i%% no visa
+%s 2007—2011 Yandex|%s 2007—2011 Yandex
+(<1 min)|(<1 min.)
+(in|(pēc
+(in seconds)|(pēc sekundēm)
+(No title)|(Nav nosaukuma)
+[ Loading images... ]|[ Notiek attēlu ielāde... ]
+[ Tap here for images load ]|[ Pieskarties šeit, lai ielādētu attēlus ]
+A few minutes ago|Pirms dažām minūtēm
+About|Par
+Above horizon|Virs horizonta
+Activate|Aktivizēt
+Activation|Aktivizēšana
+Activation failed. Check your Internet connection.|Aktivizēšana neizdevās. Pārbaudiet interneta savienojumu.
+Active Channels|Aktīvie kanāli
+Active channels|Aktīvie kanāli
+Add|Pievienot
+Add category|Pievienot kategoriju
+Add city|Pievienot pilsētu
+Add custom channel|Pievienot pielāgotu kanālu
+Add new city|Pievienot jaunu pilsētu
+Add note|Pievienot piezīmi
+Add Panel|Pievienot paneli
+Add to Home screen|Pievienot sākuma ekrānam
+Airplane|Lidmašīna
+Airplane Mode|Lidmašīnas režīms
+All day|Visu dienu
+All pictures|Visi attēli
+Allow resizing of all Android widgets|Atļaut visu android logrīku izmēru maiņu
+An hour ago|Pirms stundas
+Android Shortcut|Android saīsne
+Android Widget|Android logrīks
+Anniversary|Gadadiena
+Appearance|Izskats
+Application|Lietojumprogramma
+April|Aprīlis
+Aqua|Ūdenszils
+Aquarius|Ūdensvīrs
+Aries|Auns
+as of %s|no %s
+at %s|%s
+atm|atm
+Atmospheres|Atmosfēras
+Atmospheric pressure scale|Atmosfēras spiediena skala
+August|Augusts
+Auto|Automātisks
+Auto (keyboard only)|Automātisks (tikai tastatūra)
+Auto arrange widgets|Automātiski sakārtot logrīkus
+Automatic|Automātiski
+Automatic naming|Automātiskā nosaukumu piešķiršana
+Backlight|Pretgaisma
+Battery|Akumulators
+Below horizon|Zem horizonta
+Birthday|Dzimšanas diena
+Birthdays|Dzimšanas dienas
+Black|Melns
+Blue|Zils
+Bluetooth|Bluetooth
+Bookmarks|Grāmatzīmes
+Bookmarks Folder|Grāmatzīmju mape
+Business|Darījumu
+Buy!|Pirkt!
+Cache size|Kešatmiņas lielums
+Calculator|Kalkulators
+Calendar|Kalendārs
+Calendar Panel|Kalendāra panelis
+Calendar Panel Settings|Kalendāra paneļa iestatījumi
+Call|Zvanīt
+Call Log|Zvanu žurnāls
+Cancel|Atcelt
+Cancer|Vēzis
+Capricorn|Mežāzis
+Categories|Kategorijas
+Category Name|Kategorijas nosaukums
+Celsius (#short)|Pēc celsija
+Change|Mainīt
+Change City|Mainīt pilsētu
+Change profile|Mainīt profilu
+Channels list|Kanālu saraksts
+Choose Color|Izvēlēties krāsu
+Choose Program|Izvēlēties programmu
+Choose SPB Widget|Izvēlēties SPB logrīku
+Choose widget|Izvēlēties logrīku
+Clear|Skaidrs
+Clear cache|Notīrīt kešatmiņu
+Clock|Pulkstenis
+Cloudy|Mākoņains
+Cloudy, hail|Mākoņains, krusa
+Cloudy, heavy rain|Mākoņains, stiprs lietus
+Cloudy, heavy snow|Mākoņains, stiprs sniegs
+Cloudy, rain|Mākoņains, lietus
+Cloudy, rain with snow|Mākoņains, lietus ar sniegu
+Cloudy, snow|Mākoņains, sniegs
+Cloudy, thunder|Mākoņains, pērkons
+Color anaglyph (red/cyan)|Krāsu anaglifs (sarkans/ciāna)
+Communication|Saziņa
+Contact|Kontakts
+Contacts|Kontakti
+Contacts Folder|Kontaktu mape
+Copyright %s 2007-2011\nSPB Software|Autortiesības %s 2007-2011\nSPB Software
+Copyright %s 2007-2012\nSPB Software|Autortiesības %s 2007-2012\nSPB Software
+Create Folder|Izveidot mapi
+Current|Pašreizējais
+Current city|Pašreizējā pilsēta
+Current conditions|Pašreizējie laikapstākļi
+Current Conditions|Pašreizējie laikapstākļi
+Current skin|Pašreizējais apvalks
+Day|Diena
+Deal of the Day|Dienas piedāvājums
+Deal of the Day Panel|Dienas piedāvājuma panelis
+Deal of the Day Panel Settings|Dienas piedāvājuma paneļa iestatījumi
+Deals|Piedāvājumi
+December|Decembris
+Default|Noklusējuma
+Delete note|Dzēst piezīmi
+Dew point:|Rasas punkts:
+Diagnostic tools|Diagnostikas rīki
+Disabled|Atspējots
+Discoverable|Uztverams
+Done|Gatavs
+Download Original|Lejupielādēt oriģinālu
+Downloading images|Notiek attēlu lejupielāde
+E|A
+east|austrumu
+Edit channel|Rediģēt kanālu
+Edit note|Rediģēt piezīmi
+Edit panels|Rediģēt paneļus
+Emergency only|Tikai ārkārtas zvani
+Empty Panel|Jauns panelis
+Enable live wallpapers|Iespējot kustīgās fona tapetes
+Enabled|Iespējots
+Enter RSS feed title|Ievadīt RSS plūsmas nosaukumu
+Enter RSS feed URL|Ievadīt RSS plūsmas URL
+Entertainment|Izklaide
+Error|Kļūda
+Evening|Vakars
+Every 2 hours|Ik pēc 2 stundām
+Every 24 hours|Ik pēc 24 stundām
+Every 30 Minutes|Ik pēc 30 minūtēm
+Every 30 minutes|Ik pēc 30 minūtēm
+Every 4 hours|Ik pēc 4 stundām
+Every hour|Ik pēc stundas
+Exit|Iziet
+Experimental|Eksperimentāls
+Experimental Settings|Eksperimentālie iestatījumi
+Experimental settings|Eksperimentālie iestatījumi
+Fahrenheit (#short)|Pēc Fārenheita
+Failed to load RSS|Neizdevās ielādēt RSS
+Favorite Contacts|Izlases kontakti
+Favorite contacts|Izlases kontakti
+February|Februāris
+Filter|Filtrs
+First day of the week|Pirmā nedēļas diena
+First Quarter|Pirmais ceturksnis
+Flight|Lidojums
+Folder|Mape
+Folder Name|Mapes nosaukums
+Forecast|Prognoze
+from forecast|no laika prognozes
+Full Moon|Pilns mēness
+Gallery|Galerija
+Games|Spēles
+Gemini|Dvīņi
+Grayscale anaglyph (red/cyan)|Pelēktoņu anaglifs (sarkans/ciāna)
+Green|Zaļš
+G-Sensor|G-sensors
+Half an hour ago|Pirms pusstundas
+Hectopascals|Hektopaskāli
+Hide Duplicates|Paslēpt dublikātus
+Hide SIM Contacts|Paslēpt SIM kartes kontaktus
+Home|Sākums
+Home Settings|Sākuma ekrāna iestatījumi
+Home settings|Sākuma ekrāna iestatījumi
+hpa|hPa
+Humidity:|Mitrums:
+in %u days|pēc %u dienām
+in Home Settings|sākuma ekrāna iestatījumos
+inch|colla
+Inches|Collas
+Increase Counter|Palielināt skaitītāju
+Interface mode|Interfeisa režīms
+Invisible|Neredzams
+January|Janvāris
+July|Jūlijs
+June|Jūnijs
+Kilometers per hour|Kilometri stundā
+Knots|mezgli
+knots|mezgli
+kph|km/h
+kts|Jūdzes/h
+Landscape|Ainava
+Landscape orientation required to enable left-to-right stereo mode|Lai iespējotu stereo režīmu no labās uz kreiso pusi, ir nepieciešama ainavorientācija.
+Large|Liels
+Last Call|Pēdējais zvans
+Last Message|Pēdējais ziņojums
+Last Quarter|Pēdējais ceturksnis
+Last updated|Pēdējoreiz atjaunināts
+Left-to-right (HTC EVO 3D)|No kreisās uz labo (HTC EVO 3D)
+Legal information|Juridiskā informācija
+Legal notices|Juridiskā informācija
+Leo|Lauva
+Libra|Svari
+Lifestyle|Dzīvesveids
+Live wallpapers can cause performance degradation of your 3D home screen. Switching between live and static wallpapers can take up to a minute. Static wallpapers are recommended for the best experience.|Kustīgās fona tapetes var izraisīt jūsu 3D sākuma ekrāna veiktspējas traucējumus. Pārslēgšanās laiks starp kustīgajām un statiskajām fona tapetēm var ilgt līdz pat minūtei. Ieteicams izmantot statiskās fona tapetes.
+Loading failed|Ielāde neizdevās
+Loading image for wallpaper|Notiek attēla ielāde fona tapetei
+Loading RSS feed %s...|Ielādē RSS plūsmu %s...
+Loading skin failed!|Apvalka ielāde neizdevās!
+Loading skins catalog failed!|Apvalku kataloga ielāde neizdevās!
+Loading...|Notiek ielāde...
+Logging In...|Notiek pieslēgšanās...
+Lunar Calendar|Mēness kalendārs
+Lunar day %d|Mēness diena %d
+Manage apps|Pārvaldīt lietojumprogrammas
+Manage Apps|Pārvaldīt lietojumprogrammas
+Manage panels|Pārvaldīt paneļus
+Manage Panels|Pārvaldīt paneļus
+March|Marts
+May|Maijs
+Messaging|Ziņojumapmaiņa
+Meters per second|Metri sekundē
+Miles per hour|Jūdzes stundā
+Millimetres|Milimetri
+Misc|Dažādi
+Miscellaneous|Dažādi
+mm|mm
+Mobile|Mobilais
+Mode|Režīms
+Monday|Pirmdiena
+Moon|Mēness
+Moon Calendar|Mēness kalendārs
+Moon in %s,|Mēness %s,
+Morning|Rīts
+mph|jūdzes stundā
+mps|m/s
+Multimedia|Multivide
+Music|Mūzika
+Music albums|Mūzikas albūmi
+N|Z
+N/A|N/P
+nd|.
+NE|ZA
+Network Status|Tīkla statuss
+Never|Nekad
+New Channel|Jauns kanāls
+New channel|Jauns kanāls
+New Contact|Jauns kontakts
+New Folder|Jauna mape
+New Moon|Jauns mēness
+News|Jaunumi
+News Panel|Jaunumu panelis
+News Panel Settings|Jaunumu paneļa iestatījumi
+next|tālāk
+Next Alarm|Nākamais signāls
+Night|Nakts
+No|Nav
+no|Nav
+No Alarms|Nav signālu
+No birthdays|Nav dzimšanas dienu
+No calls|Nav zvanu
+No Cities|Nav pilsētu
+No conditions|Laikapstākļi nav pieejami
+No Contacts.|Nav kontaktu.
+No Countries|Nav valstu
+No deals loaded|Nav ielādētu piedāvājumu
+No Images|Nav attēlu
+No messages|Nav ziņojumu
+No news|Nav jaunumu
+No rise/set info|Nav informācijas par lēktu/rietu
+No RSS feed found at|Nav atrasta RSS plūsma
+No rss loaded|Rss nav ielādēts
+No SIM|Nav SIM kartes
+No text messages|Nav teksta ziņojumu
+No title|Nav nosaukuma
+No upcoming events|Nav gaidāmu notikumu
+No upcoming events in a week|Nedēļas laikā nav gaidāmu notikumu
+No updates|Nav atjauninājumu
+No weather forecast|Nav pieejama laika prognoze
+Normal|Parasts
+north|ziemeļu
+north east|ziemeļaustrumu
+north west|ziemeļrietumu
+Not available|Nav pieejams
+Not connected|Nav savienojuma
+Notes|Piezīmes
+Note's default color|Piezīmes noklusējuma krāsa
+Note's font|Piezīmes fonts
+Notes Panel|Piezīmju panelis
+Notes Panel Settings|Piezīmju paneļa iestatījumi
+November|Novembris
+NW|ZR
+October|Oktobris
+Off|Izslēgts
+Offer|Piedāvājums
+On|Ieslēgts
+One Touch Share|One Touch Share
+Only on free connections|Tikai bezmaksas pieslēgumiem
+Open Contact|Atvērt kontaktu
+Open in Browser|Atvērt pārlūkprogrammā
+OpenGL 2.0 is required to run SPB Shell 3D|Lai palaistu SPB Shell 3D, ir nepieciešams OpenGL 2.0
+Optimized anaglyph (red/cyan)|Optimizēts anaglifs (sarkans/ciāna)
+Other (assistant)|Cits (palīgs)
+Page|Lapa
+Pages: %d, images: %d|Lpp.: %d, attēli: %d
+Panel Name|Paneļa nosaukums
+Parsing skins catalog failed!|Apvalku kataloga parsēšana neizdevās!
+Partly cloudy|Daļēji mākoņains
+Partly cloudy, rain|Daļēji mākoņains, lietus
+Partly cloudy, snow|Daļēji mākoņains, sniegs
+Partly cloudy, thunder|Daļēji mākoņains, pērkons
+People|Cilvēki
+Performance Warning|Veiktspējas brīdinājums
+Performance Warning dialog|Veiktspējas brīdinājuma dialoga logs
+Personal|Personīgie
+Phone|Tālrunis
+Photo folder for gallery widgets|Fotoattēlu mape galerijas logrīkiem
+Picture Gallery|Attēlu galerija
+Picture of the Day|Dienas attēls
+Picture Panel Settings|Attēlu paneļa iestatījumi
+Pictures|Attēli
+Pictures Of The Day|Dienas attēli
+Pictures Panel|Attēlu panelis
+Pictures Panel Settings|Attēlu paneļa iestatījumi
+Pictures Settings|Attēla iestatījumi
+Pisces|Zivis
+Please Log In|Lūdzu pieslēgties
+Please wait...|Lūdzu, uzgaidiet...
+Portrait|Portrets
+Pressure:|Spiediens:
+Problem loading widget|Ielādējot logrīku, radās problēma
+Productivity|Produktivitāte
+Program|Programma
+Pulkovo|Pulkovo
+Purchase|Pirkums
+Purple|Purpursarkans
+Radio off|Radio izslēgts
+rd_loc|.
+Reading appointments...|Nolasa tikšanās sarakstu...
+Recycle Bin|Atkritne
+Red|Sarkans
+Reduced|Samazināts
+Reload skin list|Atkārtoti ielādēt apvalku sarakstu
+Remove All|Noņemt visus
+Rename|Pārsaukt
+Rename Panel|Pārdēvēt paneli
+Requesting images|Tiek pieprasīti attēli
+Retry|Mēģināt vēlreiz
+Rise: %s|Lēkts: %s
+RSS Feed|RSS plūsma
+RSS Panel|RSS panelis
+RSS Panel Settings|RSS paneļa iestatījumi
+S|D
+Safe mode|Drošais režīms
+Sagittarius|Strēlnieks
+Saint-Petersburg|Sanktpēterburga
+Save as New|Saglabāt kā jaunu
+Save to Existing|Saglabāt pie esošajiem
+Scorpio|Skorpions
+Screen orientation|Ekrāna orientācija
+SE|DA
+Searching|Notiek meklēšana
+Select Channel|Izvēlēties kanālu
+Select cities|Izvēlēties pilsētas
+Select e-mail address|Izvēlēties e-pasta adresi
+Select phone number:|Izvēlēties tālruņa numuru:
+Select shortcut|Izvēlēties saīsni
+Select Skin|Izvēlēties apvalku
+Select wallpaper from|Izvēlēties fona tapeti no
+Selected cities|Izvēlētās pilsētas
+Selected City|Izvēlētā pilsēta
+Selected city|Izvēlētā pilsēta
+Send E-mail|Sūtīt e-pastu
+Send E-Mail|Sūtīt e-pastu
+Send Message|Sūtīt ziņojumu
+Send MMS|Sūtīt MMS
+Send SMS|Sūtīt SMS
+September|Septembris
+Serial number:|Sērijas numurs:
+Set as Home|Iestatīt kā sākuma ekrānu
+Set as Wallpaper|Iestatīt kā fona tapeti
+Set wallpaper|Iestatīt fona tapeti
+Set: %s|Riets: %s
+Settings|Iestatījumi
+Show all|Rādīt visus
+Show all day events|Rādīt visus dienas notikumus
+Show all day events in calendar widgets|Rādīt visus dienas notikumus kalendāra logrīkā
+Show full news|Rādīt visus jaunumus
+Show images in news|Rādīt attēlus jaunumos
+Silent|Kluss
+Skin loading|Notiek apvalka ielāde
+Small|Mazs
+Smartphone|Viedtālrunis
+Smog|Bieza migla
+Social|Sabiedriskās aktivitātes
+Sound Profile|Skaņas profils
+south|dienvidu
+south east|dienvidaustrumu
+south west|dienvidrietumu
+SPB Shell 3D is loading...|Notiek SPB Shell 3D ielāde...
+SPB Wallpapers|SPB fona tapetes
+SPB Widget|SPB logrīks
+st|.
+Standard Edition [Beta]|Standarta versija [Beta]
+Stereoscopic 3D mode|Stereoskopiskā 3D režīms
+Stereoscopic 3D mode will be disabled|Stereoskopiskais 3D režīms tiks atspējots
+Stereoscopic 3D Settings|Stereoskopiskā 3D iestatījumi
+Sun in %s,|Saule %s,
+Sunday|Svētdiena
+SW|DR
+Switching the interface mode can take up to a minute. Screen orientation will be changed to '%s'.|Interfeisa režīma pārslēgšana var ilgt līdz pat minūtei. Ekrāna orientācija tiks nomainīta uz '%s'.
+System|Sistēma
+Tablet|Planšetdators
+Taurus|Vērsis
+Temperatur scale|Temperatūras skala
+Temperature scale|Temperatūras skala
+Test Battery|Pārbaudīt akumulatoru
+th|.
+Thank you for your support. Your copy is now registered.|Paldies par jūsu atbalstu! Jūsu kopija tagad ir reģistrēta.
+The experimental features below are not ready to be shipped in the core of SPB Shell 3D. They may contain severe defects and cause system instability. Use them at your own risk.|Zemāk esošās eksperimentālās iespējas netiek piegādātas kopā ar SPB Shell 3D kodolu. Tām var būt nopietni defekti, un tās var izraisīt sistēmas nestabilitāti. Lietojiet tās uz savu atbildību.
+The maximum number of panels is reached|Ir sasniegts maksimālais paneļu skaits
+The name cannot be changed.|Nosaukumu nevar mainīt.
+The previous launch of SPB Shell 3D was unsuccessful. Please tap "Retry" to launch it again or "Home" to activate a different Home screen.|Iepriekšējā SPB Shell 3D palaišana bija neveiksmīga. Lūdzu, pieskarieties "Mēģināt vēlreiz", lai to atkārtoti palaistu, vai "Sākums", lai aktivizētu citu sākuma ekrānu.
+Time|Laiks
+Time Panel|Laika panelis
+Time Panel Settings|Laika paneļa iestatījumi
+Today|Šodien
+Toggle|Pārslēgt
+Tomorrow|Rīt
+Tools|Rīki
+Travel|Ceļošana
+Unfortunately, we could not locate your purchase in Android Market. Please uninstall this copy before installing a new one.|Diemžēl mēs nevarējām atrast jūsu pirkumu Android Market. Lūdzu, atinstalējiet šo kopiju pirms instalējat jaunu.
+Unfortunately, we could not locate your purchase. Please uninstall this copy before installing a new one.|Diemžēl mēs nevarējām atrast jūsu pirkumu. Lūdzu, atinstalējiet šo kopiju pirms instalējat jaunu.
+Uninstall|Atinstalēt
+Uninstall apps|Atinstalēt lietojumprogrammas
+Unknown|Nezināms
+Unknown location|Nezināma vieta
+Upcoming events|Gaidāmie notikumi
+Update|Atjaunināt
+Update deals list automatically|Automātiski atjaunināt piedāvājumu sarakstu
+Update Now|Atjaunināt tagad
+Update pictures page automatically|Automātiski atjaunināt attēlu lapu
+Update weather forecasts automatically|Automātiski atjaunināt laika prognozes
+Updated|Atjaunināts
+Updated:|Atjaunināts:
+Updating image|Notiek attēla atjaunināšana
+Updating...|Notiek atjaunināšana...
+Use 3D in application list|Lietot 3D lietojumprogrammu sarakstā
+Use 3D in edit mode|Lietot 3D rediģēšanas režīmā
+Use cellular connection for updating deals list|Automātiskai piedāvājumu saraksta atjaunināšanai izmantot mobilo savienojumu.
+Use cellular connection for updating deals list automatically|Lietot mobilo sakaru savienojumu informācijas saraksta automātiskai atjaunināšanai.
+Use cellular connection for updating pictures automatically|Automātiskai attēlu atjaunināšanai izmantot mobilo savienojumu.
+Use cellular connection for updating weather automatically|Lietot mobilo sakaru savienojumu informācijas par laikapstākļiem automātiskai atjaunināšanai.
+Use new color every time|Katru reizi lietot jaunu krāsu.
+Use previous note's color|Lietot iepriekšējās piezīmes krāsu.
+Value|Vērtība
+variable|mainīgs
+Version %s, Build %s|Versija %s, būvējums %s
+Vibro|Vibrēšana
+Video Call|Videozvans
+View Duplicates|Skatīt dublikātus
+View SIM Contacts|Skatīt SIM kartes kontaktus
+Virgo|Jaunava
+W|R
+Wallpaper|Fona tapete
+Wallpapers|Fona tapetes
+Waning Crescent|Dilstošs mēness (sirpis)
+Waning Gibbous|Dilstošs mēness (izliekts)
+Waxing Crescent|Augošs mēness (sirpis)
+Waxing Gibbous|Augošs mēness (izliekts)
+Weather|Laikapstākļi
+Weather and Clock|Laikapstākļi un pulkstenis
+Weather Forecast|Laika prognoze
+Weather Settings|Laikapstākļu iestatījumi
+Welcome to notes panel|Laipni lūdzam piezīmju panelī.
+west|rietumu
+Widget is too big to be added.|Logrīks ir pārāk apjomīgs, lai to varētu pievienot.
+Widgets|Logrīki
+Widgets Settings|Logrīku iestatījumi
+Wind direction:|Vēja virziens:
+Wind speed scale|Vēja ātruma skala
+Wind speed:|Vēja ātrums:
+Wind:|Vējš:
+Work|Darba
+World Time|Pasaules laiks
+Wrong serial number. Please check it again.|Nepareizs sērijas numurs. Lūdzu, pārbaudiet to vēlreiz.
+Yandex.Search|Yandex.Search
+Yellow|Dzeltens
+Yes|Jā
+Yesterday|Vakar
+You save|Jūs ietaupāt
+Your video system isn't compatible with Shell 3D.|Jūsu video sistēma nav saderīga ar Shell 3D.

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="spb_logs_directory_pathname">spbshell_log</string>
+    <string name="widget_name"> Яндекс.Поиск</string>
+    <string name="choose_skin">Выберите вариант оформления</string>
+    <string name="searching">Поиск...</string>
+    <string name="example">" "<i>Например:</i>" "</string>
+    <string name="menu_clear_history">Очистить историю поиска</string>
+    <string name="skin_classic">Классический</string>
+    <string name="skin_modern">Современный</string>
+    <string name="skin_grey">Строгий</string>
+    <string name="app_name">SPB Shell 3D</string>
+    <string name="launcher_name">Яндекс</string>
+    <string name="menu_search_sources">Источники поиска</string>
+    <string name="search">Искать:</string>
+    <string name="source_SuggestionsSearchProvider">в интернете</string>
+    <string name="source_BrowserSearchProvider">в посещенных страницах</string>
+    <string name="source_ApplicationsSearchProvider">в установленных приложениях</string>
+    <string name="source_ContactsSearchProvider">в контактах</string>
+    <string name="source_SmsSearchProvider">в смс</string>
+    <string name="insert_in_search_field">Вставить в строку поиска</string>
+    <string name="delete">Удалить</string>
+    <string name="logoUrl">http://m.yandex.ru/?clid=%s</string>
+    <string name="voice_search_dialog_title">Вы ищете...</string>
+    <string name="voice_search_dialog_hint">Говорите</string>
+    <string name="voice_search_dialog_wait">Ждите</string>
+    <string name="voice_search_dialog_wait_before">Секундочку</string>
+    <string name="voice_search_dialog_unrecognized">К сожалению, распознать фразу не удалось. Попробуйте еще раз.</string>
+    <string name="voice_search_dialog_network">Для распознования голоса требуется соединение с интернетом</string>
+    <string name="voice_search_dialog_cancel_button">Отменить</string>
+    <string name="install_dialog_description">"Приложение не установлено.
+
+Установить или перейти на сайт?"</string>
+    <string name="install_dialog_checkbox">Запомнить</string>
+    <string name="install_dialog_install">Установить</string>
+    <string name="install_dialog_web">Сайт</string>
+    <string name="suggestUrl">http://suggest.yandex.ru/suggest-mobile?mob=1&amp;sn=10&amp;part=</string>
+    <string name="searchUrl" formatted="false">http://yandex.ru/touchsearch?text=%1$s&amp;app=my&amp;app_version=203&amp;clid=%2$s</string>
+    <string name="voice_search_locale">ru-RU</string>
+    <string name="cities_provider_asset_db_filename">files/cities.db</string>
+    <string name="weather_city_title">Type 3 letters to start auto-completion:</string>
+    <string name="weather_enter_city_name">Enter city name</string>
+    <string name="weather_more_cities">More...</string>
+    <string name="weather_locate_nearest_city">Search the nearest city</string>
+    <string name="weather_current_location">Current location</string>
+    <string name="weather_enable_location">Enable current location</string>
+    <string name="searching_city_title">Positioning</string>
+    <string name="searching_city_progress">Searching for nearest cities...</string>
+    <string name="city_location_failed">Failed to locate nearest city</string>
+    <string name="weather_parameter_temp_title">Temperature</string>
+    <string name="weather_parameter_temp_units_title">Temperature Scale</string>
+    <string name="weather_parameter_press_title">Atmospheric Pressure</string>
+    <string name="weather_parameter_press_units_title">Atmospheric Pressure Units</string>
+    <string name="weather_parameter_wind_speed_title">Wind Speed</string>
+    <string name="weather_parameter_wind_speed_units_title">Wind Speed Units</string>
+    <string name="weather_parameter_humidity_title">Humidity</string>
+    <string name="weather_parameter_humidity_units_title">Humidity Units</string>
+    <string name="weather_parameter_wind_dir_title">Wind Direction</string>
+    <string name="weather_parameter_wind_dir_units_title">Wind Direction Units</string>
+    <string name="weather_parameter_dew_point_title">Dew Point</string>
+    <string name="weather_temp_default_units">0</string>
+    <string name="weather_pressure_default_units">0</string>
+    <string name="weather_wind_speed_default_units">3</string>
+    <string name="weather_humidity_range_format_1" formatted="false">%2$.2f/1$%.2f %%</string>
+    <string name="weather_humidity_default_units">0</string>
+    <string name="weather_winddir_range_format" formatted="false">%s/%s</string>
+    <string name="weather_winddir_default_units">0</string>
+    <string name="weather_wind_direction_variable">Variable</string>
+    <string name="weather_format_current_location">%s (Current Location)</string>
+    <string name="weather_status_refreshing">Refreshing</string>
+    <string name="weather_status_update_failed">Update failed</string>
+    <string name="weather_status_positioning">Positioning...</string>
+    <string name="weather_status_positioning_failed">Positioning failed</string>
+    <string name="weather_updated">Updated</string>
+    <string name="weather_refresh_menu_title">Refresh</string>
+    <string name="weather_add_city_menu_title">Add City</string>
+    <string name="weather_remove_city_menu_title">Remove City</string>
+    <string name="weather_change_city_menu_title">Change City</string>
+    <string name="weather_config_menu_title">Weather Preferences</string>
+    <string name="weather_config_update_period_title">Update interval</string>
+    <string name="weather_use_only_wifi_title">Use only Wi-Fi</string>
+    <string name="weather_config_launch_mode_widget_title">Widget Launch Mode</string>
+    <string name="startup_clid">1842304</string>
+    <string name="dialog_shell_loading">SPB Shell 3D is loading...</string>
+    <string name="gadget_error_text">Problem loading widget</string>
+    <string name="dialog_select_shortcut">Select shortcut</string>
+    <string name="dialog_choose_widget">Choose widget</string>
+    <string name="chooser_wallpaper">Select wallpaper from</string>
+    <string name="wallpaper_instructions">Set wallpaper</string>
+    <string name="pick_wallpaper">Wallpapers</string>
+    <string name="wallpapers_spb">SPB Wallpapers</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="wait">Please wait...</string>
+    <string name="home_widget_error">Widget is too big to be added.</string>
+    <string name="cancel">Cancel</string>
+    <string name="error">error</string>
+    <string name="infinity">infinity</string>
+    <string name="dialog_unsupported_devices_title">Error</string>
+    <string name="dialog_unsupported_devices_message">OpenGL 2.0 is required to run SPB Shell 3D</string>
+    <string name="license_fail">Unfortunately, we could not locate your purchase in Android Market. Please uninstall this copy before installing a new one.</string>
+    <string name="purchase">Purchase</string>
+    <string name="exit">Exit</string>
+    <string name="legal_notices_title">Legal notices</string>
+    <string name="license_fail_handango">Unfortunately, we could not locate your purchase. Please uninstall this copy before installing a new one.</string>
+    <string name="safe_mode_title">Safe mode</string>
+    <string name="safe_mode_text">The previous launch of SPB Shell 3D was unsuccessful. Please tap Retry to launch it again or Home to activate a different Home screen.</string>
+    <string name="safe_mode_retry">Retry</string>
+    <string name="safe_mode_home">Home</string>
+    <string name="sd_install_title">Error</string>
+    <string name="sd_install_text">Installation to a storage card is not supported. Please install SPB Shell 3D to the main memory</string>
+    <string name="contacts_failed_pick">Failed to load the selected contact. Try to link the contact to Google account or save it to phone.</string>
+</resources>

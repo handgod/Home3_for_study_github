@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SPB Shell 3D</string>
+    <string name="weather_city_title">Type 3 letters to start auto-completion:</string>
+    <string name="weather_enter_city_name">Enter city name</string>
+    <string name="weather_more_cities">More...</string>
+    <string name="weather_locate_nearest_city">Search the nearest city</string>
+    <string name="weather_current_location">Current location</string>
+    <string name="searching_city_title">Positioning</string>
+    <string name="searching_city_progress">Searching for nearest cities...</string>
+    <string name="city_location_failed">Failed to locate nearest city</string>
+    <string name="dialog_shell_loading">SPB Shell 3D is aan het laden...</string>
+    <string name="gadget_error_text">Probleem laden widget</string>
+    <string name="dialog_select_shortcut">Selecteren snelkopeling</string>
+    <string name="dialog_choose_widget">Kies Widget</string>
+    <string name="chooser_wallpaper">Selecteer achtergrond van</string>
+    <string name="wallpaper_instructions">Instellen achtergrond</string>
+    <string name="pick_wallpaper">Achtergronden</string>
+    <string name="wallpapers_spb">SPB Achtergronden</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nee</string>
+    <string name="wait">A.u.b. wachten</string>
+    <string name="home_widget_error">Widget is te groot om te kunnen worden toegevoegd.</string>
+    <string name="cancel">Annuleren</string>
+    <string name="error">error</string>
+    <string name="infinity">infinity</string>
+    <string name="dialog_unsupported_devices_title">Fout</string>
+    <string name="dialog_unsupported_devices_message">OpenGl 2.0 is benodigd om SPB Shell 3D te draaien</string>
+    <string name="license_fail">Helaas hebben we uw aankoop niet kunnen lokaliseren in de Android Market. Alstublieft deinstalleer deze versie alvorens een nieuwe te installeren.</string>
+    <string name="purchase">Kopen</string>
+    <string name="exit">Afsluiten</string>
+    <string name="legal_notices_title">Juridische mededeling</string>
+    <string name="license_fail_handango">Helaas kunnen we uw aankoop niet localiseren. Deinstalleer deze kopie alstublieft alvorens u een nieuwe versie installeert.</string>
+    <string name="safe_mode_title">Veilige modus</string>
+    <string name="safe_mode_text">De vorige start van SPB Shell 3D was niet succesvol. Klik alstublief op \"Opnieuw proberen\" om het wederom te starten of \"Home\" om een andere homescreen te activeren.</string>
+    <string name="safe_mode_retry">Opnieuw proberen</string>
+    <string name="safe_mode_home">Home</string>
+    <string name="sd_install_title">Fout</string>
+    <string name="sd_install_text">Installation to a storage card is not supported. Please install SPB Shell 3D to the main memory</string>
+    <string name="contacts_failed_pick">Laden van geselecteerde contact is mislukt. Probeer om contact te linken aan Google account of bewaar deze direct op de telefoon.</string>
+</resources>

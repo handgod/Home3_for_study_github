@@ -1,0 +1,519 @@
+ a few seconds| mõni sekund
+ day| päev
+ days| päevad
+ hour| tund
+ hours| tunnid
+ hr| t
+ hrs| t
+ lunar day| lunaarpäev
+ min| min
+ mins| min
+ minute| minut
+ minutes| minutid
+%d bought|%d ostetud
+%d day|%d päev
+%d days|%d päeva
+%d hour|%d tund
+%d hours|%d tundi
+%d minute|%d minut
+%d minutes|%d minutit
+%d more...|%d edasi...
+%i active channel|%i aktiivne kanal
+%i active channels|%i aktiivsed kanalid
+%i image|%i kujutis
+%i images|%i kujutised
+%i more today|täna %i rohkem...
+%i more...|%i rohkem...
+%i page|%i lehekülg
+%i pages|%i lehekülge
+%i%% of Full|%i%% täiskuust
+%s 2007—2011 Yandex|%s 2007—2011 Yandex
+(<1 min)|(<1 min)
+(in|(
+(in seconds)|(sekundis)
+(No title)|(Pealkirjata)
+[ Loading images... ]|[ Laadib kujutisi... ]
+[ Tap here for images load ]|[ Koputa siia, et laadida kujutised ]
+A few minutes ago|Mõned minutid tagasi
+About|Teemal
+Above horizon|Horisondi kohal
+Activate|Aktiveeri
+Activation|Aktiveerimine
+Activation failed. Check your Internet connection.|Aktiveerimine ebaõnnestus. Kontrollige internetiühendust.
+Active Channels|Aktiivsed kanalid
+Active channels|Aktiivsed kanalid
+Add|Lisa
+Add category|Lisa kategooria
+Add city|Lisa linn
+Add custom channel|Lisa erikanal
+Add new city|Lisa uus linn
+Add note|Lisa märge
+Add Panel|Lisa paneel
+Add to Home screen|Lisa koduekraanile
+Airplane|Lennuk
+Airplane Mode|Lennukirežiim
+All day|Terve päev
+All pictures|Kõik pildid
+Allow resizing of all Android widgets|Luba kõigi Androidi vidinate suuruse muutmist
+An hour ago|Tund aega tagasi
+Android Shortcut|Androidi kiirnupp
+Android Widget|Androidi vidin
+Anniversary|Juubel
+Appearance|Välimus
+Application|Rakendus
+April|Aprill
+Aqua|Vesi
+Aquarius|Veevalaja
+Aries|Jäär
+as of %s| %s seisuga
+at %s| %s
+atm|atm
+Atmospheres|Atmosfäärid
+Atmospheric pressure scale|Atmosfäärilise rõhu skaala
+August|August
+Auto|Auto
+Auto (keyboard only)|Auto (ainult klaviatuur)
+Auto arrange widgets|Autom vitinate korraldamine
+Automatic|Automaatne
+Automatic naming|Automaatne nimetamine
+Backlight|Taustavalgus
+Battery|Aku
+Below horizon|Allpool horisonti
+Birthday|Sünnipäev
+Birthdays|Sünnipäev
+Black|Must
+Blue|Sinine
+Bluetooth|Bluetooth
+Bookmarks|Järjehoidjad
+Bookmarks Folder|Järjehoidjate kaust
+Business|Äri
+Buy!|Osta!
+Cache size|Vahemälu suurus
+Calculator|Kalkulaator
+Calendar|Kalender
+Calendar Panel|Kalender
+Calendar Panel Settings|Kalendri seadistused
+Call|Helista
+Call Log|Kõnelogi
+Cancel|Tühista
+Cancer|Vähk
+Capricorn|Kaljukits
+Categories|Kategooriad
+Category Name|Kategooria nimi
+Celsius (#short)|Celsius
+Change|Muuda
+Change City|Muuda linna
+Change profile|Muuda profiili
+Channels list|Kanalite nimekiri
+Choose Color|Vali värv
+Choose Program|Vali programm
+Choose SPB Widget|Vali SPB vidin
+Choose widget|Vali vidin
+Clear|Selge
+Clear cache|Kustuta vahemälu
+Clock|Kell
+Cloudy|Pilvine
+Cloudy, hail|Pilvine, rahe
+Cloudy, heavy rain|Pilvine, tugev vihm
+Cloudy, heavy snow|Pilvine, tugev lumesadu
+Cloudy, rain|Pilvine, vihm
+Cloudy, rain with snow|Pilvine, lörts
+Cloudy, snow|Pilvine, lumi
+Cloudy, thunder|Pilvine, äike
+Color anaglyph (red/cyan)|Värvi anaglüüf (punane/tsüaan)
+Communication|Side
+Contact|Kontakt
+Contacts|Kontaktid
+Contacts Folder|Kontaktide kaust
+Copyright %s 2007-2011\nSPB Software|Autoriõigus  %s 2007-2011\nSPB tarkvara
+Copyright %s 2007-2012\nSPB Software|Autoriõigus  %s 2007-2012\nSPB tarkvara
+Create Folder|Loo kaust
+Current|Praegune
+Current city|Praegune linn
+Current conditions|Hetketingimused
+Current Conditions|Hetketingimused
+Current skin|Praegune kest
+Day|Päev
+Deal of the Day|Päeva kokkulepe
+Deal of the Day Panel|Päeva kokkulepe
+Deal of the Day Panel Settings|Päeva kokkuleppe seadistused
+Deals|Kokkulepped
+December|Detsember
+Default|Vaikeseade
+Delete note|Kustuta märge
+Dew point:|Kondenseerumispunkt:
+Diagnostic tools|Diagnostiline tööriist
+Disabled|Keela
+Discoverable|Tuvastatav
+Done|Valmis
+Download Original|Laadi originaal alla
+Downloading images|Laadib kujutise alla
+E|E
+east|ida
+Edit channel|Redigeeri kanalit
+Edit note|Muuda märget
+Edit panels|Muuda paneele
+Emergency only|Vaid hädaabi
+Empty Panel|Tühi paneel
+Enable live wallpapers|Luba live-taustapilte
+Enabled|Luba
+Enter RSS feed title|Sisesta RSS-toite pealkiri
+Enter RSS feed URL|Sisesta RSS-toite URL
+Entertainment|Meelelahutus
+Error|Viga
+Evening|Õhtu
+Every 2 hours|Iga 2 tunni tagant
+Every 24 hours|Iga 24 tunni tagant
+Every 30 Minutes|Iga 30 minuti tagant
+Every 30 minutes|Iga 30 minuti tagant
+Every 4 hours|Iga 4 tunni tagant
+Every hour|Iga tunni tagant
+Exit|Välju
+Experimental|Eksperimentaalne
+Experimental Settings|Eksperimentaalsed seadistused
+Experimental settings|Eksperimentaalsed seadistused
+Fahrenheit (#short)|Fahrenheit
+Failed to load RSS|RSSi ei saanud laadida
+Favorite Contacts|Lemmikkontaktid
+Favorite contacts|Lemmikkontaktid
+February|Veebruar
+Filter|Filter
+First day of the week|Esimene nädalapäev
+First Quarter|Esimene veerand
+Flight|Lend
+Folder|Kaust
+Folder Name|Kausta nimi
+Forecast|Ilmaennustus
+from forecast|ilmateatest
+Full Moon|Täiskuu
+Gallery|Galerii
+Games|Mängud
+Gemini|Kaksikud
+Grayscale anaglyph (red/cyan)|Hallskaala anaglüüf (punane/tsüaan)
+Green|Roheline
+G-Sensor|G-sensor
+Half an hour ago|Pool tundi tagasi
+Hectopascals|Hektopaskalid
+Hide Duplicates|Peida topelt
+Hide SIM Contacts|Peida SIM-kaardi kontaktid
+Home|Kodu
+Home Settings|Kodu seadistused
+Home settings|Kodu seadistused
+hpa|HPa
+Humidity:|Niiskus:
+in %u days|%u päevas
+in Home Settings|kodu seadistustes
+inch|toll
+Inches|Tollid
+Increase Counter|Suurenda lugejat
+Interface mode|Kasutajaliidese režiim
+Invisible|Nähtamatu
+January|Jaanuar
+July|Juuli
+June|Juuni
+Kilometers per hour|Kilomeetrid tunnis
+Knots|sõlmed
+knots|sõlmed
+kph|km/h
+kts|slm
+Landscape|Horisontaalpaigutus
+Landscape orientation required to enable left-to-right stereo mode|Vasakult paremale stereorežiimi jaoks on vajalik maastiku paigutus
+Large|Suur
+Last Call|Viimane kõne
+Last Message|Viimane sõnum
+Last Quarter|Viimane veerand
+Last updated|Viimati uuendatud
+Left-to-right (HTC EVO 3D)|Vasakult paremale (HTC EVO 3D)
+Legal information|Õiguslik teave
+Legal notices|Õiguslik teatis
+Leo|Lõvi
+Libra|Kaalud
+Lifestyle|Elustiil
+Live wallpapers can cause performance degradation of your 3D home screen. Switching between live and static wallpapers can take up to a minute. Static wallpapers are recommended for the best experience.|Live-taustapildid võivad halvendada 3D-koduekraani tööd. Live- ja staatiliste taustapiltide vahet lülitamine võib kesta mõned minutid. Parima kogemuse saamiseks soovitatakse staatilist taustapilti.
+Loading failed|Laadimine ebaõnnestus
+Loading image for wallpaper|Laadib taustapildi jaoks kujutist
+Loading RSS feed %s...|Laadimine: RSS sisend %s...
+Loading skin failed!|Kesta laadimine ebaõnnestus!
+Loading skins catalog failed!|Kestakataloogi laadimine ebaõnnestus!
+Loading...|Laadib...
+Logging In...|Logib sisse...
+Lunar Calendar|Lunaarkalender
+Lunar day %d|Lunaarpäev %d
+Manage apps|Halda rakendusi
+Manage Apps|Halda rakendusi
+Manage panels|Halda paneele
+Manage Panels|Halda paneele
+March|Märts
+May|Mai
+Messaging|Sõnumite saatmine
+Meters per second|Meetreid sekundis
+Miles per hour|Mille tunnis
+Millimetres|Millimeetrid
+Misc|Vario
+Miscellaneous|Vario
+mm|mm
+Mobile|Mobiil
+Mode|Režiim
+Monday|Esmaspäev
+Moon|Kuu
+Moon Calendar|Lunaarkalender
+Moon in %s,|Kuu %s,
+Morning|Hommik
+mph|m/h
+mps|ms
+Multimedia|Multimeedia
+Music|Muusika
+Music albums|Muusikaalbum
+N|N
+N/A|N/A
+nd|.
+NE|NE
+Network Status|Võrgu staatus
+Never|Iialgi
+New Channel|Uus kanal
+New channel|Uus kanal
+New Contact|Uus kontakt
+New Folder|Uus kaust
+New Moon|Noorkuu
+News|Uudised
+News Panel|Uudised
+News Panel Settings|Uudiste seadistused
+next|järgmine
+Next Alarm|Järgmine alarm
+Night|Öö
+No|Nr
+no|pole
+No Alarms|Alarme pole
+No birthdays|Sünnipäevi pole
+No calls|Kõnesid pole
+No Cities|Linnu pole
+No conditions|Tingimusteta
+No Contacts.|Kontakte pole.
+No Countries|Riike pole
+No deals loaded|Kokkuleppeid pole laaditud
+No Images|Kujutisi pole
+No messages|Sõnumeid pole
+No news|Uudiseid pole
+No rise/set info|Tõusu/loojangu infot pole
+No RSS feed found at|RSS-toidet ei leitud
+No rss loaded|RSSi pole laaditud
+No SIM|SIM puudub
+No text messages|Tekstsõnumeid pole
+No title|Pealkirjata
+No upcoming events|Tulevasi sündmusi pole
+No upcoming events in a week|Sel nädalal sündmusi pole
+No updates|Uuendusi pole
+No weather forecast|Ilmateade puudub
+Normal|Normaalne
+north|põhi
+north east|kirre
+north west|loe
+Not available|Ei ole saadaval
+Not connected|Ühendamata
+Notes|Märked
+Note's default color|Märkuse vaikevärv
+Note's font|Märkuse kirjatüüp
+Notes Panel|Märked
+Notes Panel Settings|Märgete seadistused
+November|November
+NW|NW
+October|Oktoober
+Off|Väljas
+Offer|Pakkumine
+On|Sees
+One Touch Share|One Touch Share
+Only on free connections|Vaid tasuta ühendustel
+Open Contact|Ava kontaktid
+Open in Browser|Ava brauser
+OpenGL 2.0 is required to run SPB Shell 3D|OpenGL 2.0 on vajalik, et käivitada SPB Shell 3D
+Optimized anaglyph (red/cyan)|Optimeeritud anaglüüf (punane/tsüaan)
+Other (assistant)|Muu (assistent)
+Page|Lehekülg
+Pages: %d, images: %d|Lehekülgi: %d, pilte: %d
+Panel Name|Paneeli nimi
+Parsing skins catalog failed!|Kestakataloogi sõelumine ebaõnnestus!
+Partly cloudy|Osaliselt pilvine
+Partly cloudy, rain|Osaliselt pilvine, vihm
+Partly cloudy, snow|Osaliselt pilvine, lumi
+Partly cloudy, thunder|Osaliselt pilvine, äike
+People|Inimesed
+Performance Warning|Tööalane hoiatus
+Performance Warning dialog|Tööalase hoiatuse dialoog
+Personal|Isiklik
+Phone|Telefon
+Photo folder for gallery widgets|Fotode kaust galeriividina jaoks
+Picture Gallery|Pildigalerii
+Picture of the Day|Päeva pilt
+Picture Panel Settings|Pildi seadistused
+Pictures|Pildid
+Pictures Of The Day|Päeva pildid
+Pictures Panel|Pildid
+Pictures Panel Settings|Piltide seadistused
+Pictures Settings|Piltide seadistused
+Pisces|Kalad
+Please Log In|Palun logi sisse
+Please wait...|Palun oota...
+Portrait|Portree
+Pressure:|Rõhk:
+Problem loading widget|Probleem vidina laadimisega
+Productivity|Produktiivsus
+Program|Programm
+Pulkovo|Pulkovo
+Purchase|Osta
+Purple|Lilla
+Radio off|Raadio väljas
+rd_loc|.
+Reading appointments...|Loeb kohtumisi...
+Recycle Bin|Prügikast
+Red|Punane
+Reduced|Vähendatud
+Reload skin list|Laadi kestade nimekiri uuesti
+Remove All|Eemalda kõik
+Rename|Nimeta ümber
+Rename Panel|Nimeta paneel ümber
+Requesting images|Esitab kujutisele päringu
+Retry|Proovi uuesti
+Rise: %s|Tõusmine: %s
+RSS Feed|RSS-toide
+RSS Panel|RSS
+RSS Panel Settings|RSS-i seadistused
+S|S
+Safe mode|Ohutu režiim
+Sagittarius|Ambur
+Saint-Petersburg|Peterburi
+Save as New|Salvesta uuena
+Save to Existing|Salvesta olemasolevasse
+Scorpio|Skorpion
+Screen orientation|Ekraani paigutus
+SE|SE
+Searching|Otsib
+Select Channel|Vali kanal
+Select cities|Vali linnad
+Select e-mail address|Vali meiliaadress
+Select phone number:|Vali telefoninumber:
+Select shortcut|Vali kiirnupp
+Select Skin|Vali kest
+Select wallpaper from|Vali taustapilt
+Selected cities|Valitud linnad
+Selected City|Valitud linn
+Selected city|Valitud linn
+Send E-mail|Saada e-mail
+Send E-Mail|Saada e-mail
+Send Message|Saada sõnum
+Send MMS|Saada MMS
+Send SMS|Saada SMS
+September|September
+Serial number:|Seerianumber:
+Set as Home|Määra koduks
+Set as Wallpaper|Määra taustapildiks
+Set wallpaper|Määra taustapilt
+Set: %s|Loojumine: %s
+Settings|Seadistused
+Show all|Näita kõiki
+Show all day events|Näita kõiki päeva sündmusi
+Show all day events in calendar widgets|Näita kõiki päevasündmusi kalendris
+Show full news|Näita täisuudiseid
+Show images in news|Näita uudiste kujutisi
+Silent|Vaikne
+Skin loading|Kest laadib
+Small|Väike
+Smartphone|Nutitelefon
+Smog|Sudu
+Social|Sotsiaalne
+Sound Profile|Heliprofiil
+south|lõuna
+south east|kagu
+south west|edel
+SPB Shell 3D is loading...|SPB Shell 3D laadib..
+SPB Wallpapers|SPB taustapildid
+SPB Widget|SPB-vidin
+st|.
+Standard Edition [Beta]|Standardväljaanne [Beta]
+Stereoscopic 3D mode|Stereoskoopiline 3D-režiim
+Stereoscopic 3D mode will be disabled|Stereoskoopne 3D-režiim desaktiveeritakse
+Stereoscopic 3D Settings|Stereoskoopilised 3D seadistused
+Sun in %s,|Päike %s,
+Sunday|Pühapäev
+SW|SW
+Switching the interface mode can take up to a minute. Screen orientation will be changed to '%s'.|Kasutajaliidese režiimi lülitamine võib kesta mõned minutid. Ekraani paigutus muutub '%s'.
+System|Süsteem
+Tablet|Tahvel
+Taurus|Sõnn
+Temperatur scale|Temperatuuriskaala
+Temperature scale|Temperatuuriskaala
+Test Battery|Kontrolli akut
+th|.
+Thank you for your support. Your copy is now registered.|Suur tänu toe eest. Teie koopia on nüüd registreeritud.
+The experimental features below are not ready to be shipped in the core of SPB Shell 3D. They may contain severe defects and cause system instability. Use them at your own risk.|Allpool toodud eksperimentaalsed funktsioonid pole SPB Shell 3D tuumas saatmiseks valmis. Need võivad põhjustada raskeid häireid ja muuta süsteemi ebastabiilseks. Kasutage neid omal riskil.
+The maximum number of panels is reached|Saavutasite maksimaalse paneelide arvu
+The name cannot be changed.|Nime ei saa muuta
+The previous launch of SPB Shell 3D was unsuccessful. Please tap "Retry" to launch it again or "Home" to activate a different Home screen.|Eelnev SPB Shell 3D käivitamine ebaõnnestus. Palun koputage nupule "Proovi uuesti", et käivitada uuesti, või nupule "Kodu", et aktiveerida muu koduekraan.
+Time|Kellaaeg
+Time Panel|Kellaaeg
+Time Panel Settings|Kellaaja seadistused
+Today|Täna
+Toggle|Tumbler
+Tomorrow|Homme
+Tools|Tööriistad
+Travel|Reisid
+Unfortunately, we could not locate your purchase in Android Market. Please uninstall this copy before installing a new one.|Kahjuks ei õnnestunud meil teie ostu Android Marketist tuvastada. Palun eemaldage see koopia enne uue installeerimist.
+Unfortunately, we could not locate your purchase. Please uninstall this copy before installing a new one.|Kahjuks ei õnnestunud meil teie ostu tuvastada. Palun eemaldage see koopia enne uue installeerimist.
+Uninstall|Eemalda
+Uninstall apps|Eemalda rakendused
+Unknown|Tundmatu
+Unknown location|Teadmata asukoht
+Upcoming events|Tulevased sündmused
+Update|Uuenda
+Update deals list automatically|Uuenda automaatselt kokkulepete nimekirja
+Update Now|Uuenda nüüd
+Update pictures page automatically|Uuenda piltide lehekülge automaatselt
+Update weather forecasts automatically|Uuenda ilmateadet automaatselt
+Updated|Uuendatud
+Updated:|Uuendatud:
+Updating image|Uuendab kujutist
+Updating...|Uuendab...
+Use 3D in application list|Kasuta 3D rakenduste nimekirjas
+Use 3D in edit mode|Kasuta 3D-d muutmisrežiimis
+Use cellular connection for updating deals list|Kasuta mobiilühendust kokkulepete nimekirja automaatseks uuenduseks
+Use cellular connection for updating deals list automatically|Kasuta tehinguloendite automaatseks uuendamiseks mobiiliühendust
+Use cellular connection for updating pictures automatically|Kasuta mobiilühendust piltide automaatseks uuenduseks
+Use cellular connection for updating weather automatically|Kasuta ilma automaatseks uuendamiseks mobiiliühendust
+Use new color every time|Kasuta iga kord uut värvi
+Use previous note's color|Kasuta eelmist märkuse värvi
+Value|Väärtus
+variable|muutuja
+Version %s, Build %s|Versioon %s, loodud %s
+Vibro|Vibreeriv
+Video Call|Videokõne
+View Duplicates|Vaata topelt
+View SIM Contacts|Vaata SIM-kaardi kontakte
+Virgo|Neitsi
+W|W
+Wallpaper|Taustapilt
+Wallpapers|Taustapildid
+Waning Crescent|Kahanev kuu
+Waning Gibbous|Poolkuu
+Waxing Crescent|Kasvav kuu
+Waxing Gibbous|Poolkuu
+Weather|Ilm
+Weather and Clock|Ilm ja kellaaeg
+Weather Forecast|Ilmateade
+Weather Settings|Ilma seadistused
+Welcome to notes panel|Tere tulemast märkuste paneeli
+west|lääs
+Widget is too big to be added.|Vidin on lisamiseks liiga suur.
+Widgets|Vidinad
+Widgets Settings|Vidinate seadistused
+Wind direction:|Tuule suund:
+Wind speed scale|Tuulekiiruse skaala
+Wind speed:|Tuule kiirus:
+Wind:|Tuul:
+Work|Töö
+World Time|Maailma kell
+Wrong serial number. Please check it again.|Vale seerianumber. Palun kontrollige uuesti.
+Yandex.Search|Yandex.Search
+Yellow|Kollane
+Yes|Jah
+Yesterday|Eile
+You save|Salvesta
+Your video system isn't compatible with Shell 3D.|Teie videosüsteem ei ühildu Shell 3D-süsteemiga.

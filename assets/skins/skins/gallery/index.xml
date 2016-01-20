@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<skin Name="Gallery">
+  <items>
+    <item>
+      <Image Name="0" File="0.png"/>
+      <Image Name="1" File="1.png"/>
+      <Image Name="2" File="2.png"/>
+      <Image Name="3" File="3.png"/>
+      <Image Name="4" File="4.png"/>
+    </item>
+  </items>
+</skin>
+  

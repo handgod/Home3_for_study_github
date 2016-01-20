@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<skin>
+  <items>
+    <item>
+      <Image Name="empty" File="empty.png"/>
+      <Image Name="frame" File="frame.png"/>
+    </item>
+  </items>
+</skin>

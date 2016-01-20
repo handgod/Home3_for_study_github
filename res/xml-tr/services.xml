@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<services>
+    <service title="Yandex" key="search" url="http://www.yandex.com.tr/?clid=%s" />
+    <service title="Görsel" key="images" url="http://m.gorsel.yandex.com.tr/?clid=%s" queryUrl="http://m.gorsel.yandex.com.tr/search?clid=%s&amp;text=%s" />
+    <service title="Haberler" key="news" url="http://m.haber.yandex.com.tr/?clid=%s" queryUrl="http://m.haber.yandex.com.tr/yandsearch?rpt=nnews2&amp;clid=%s&amp;text=%s" />
+    <service title="Mail" key="mail" url="http://mail.yandex.com.tr/lite/inbox/?clid=%s" />
+    <service title="Haritalar" key="map" packageName="ru.yandex.yandexmaps" activityName="ru.yandex.yandexmaps.MapActivity" />
+    <service title="Hava durumu" key="weather" url="http://m.hava.yandex.com.tr/?clid=%s" />
+    <service title="Çeviri" key="translate" url="http://m.ceviri.yandex.com.tr/?clid=%s" queryUrl="http://m.ceviri.yandex.com.tr/translate.xml?lang=en-tr&amp;clid=%s&amp;text=%s" />
+    <service title="Tüm\nservisler" key="all" noImage="true" url="http://www.yandex.com.tr/all?clid=%s" />
+</services>

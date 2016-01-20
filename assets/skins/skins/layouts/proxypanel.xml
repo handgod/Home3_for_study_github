@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+
+<Layouts Name="Proxy Panel" Type="panel" HideInUib="1">
+
+  <Layers>
+    <Layer Name="PanelFrame" Dialog="PanelFrame"/>
+    <Layer/>
+  </Layers>
+
+  <Rules>
+    <ScreenCondition Orientation="landscape">
+      <UseLayout Name="Landscape"/>
+    </ScreenCondition>
+    <Default>
+      <UseLayout Name="Portrait"/>
+    </Default>
+  </Rules>
+
+  <Layout Name="Default">
+    <Plugins LayoutType="frame">
+      <LayoutSize Width="fill" Height="fill"/>
+
+      <Plugins Name="MainFrame" LayoutType="frame">
+        <LayoutSize Width="fill" Height="fill"/>
+
+        <Plugin Class="Spb.LSP.Text" Name="Text">
+          <LayoutSize Width="fill" Height="fill"/>          
+          <Font Name="TextFont" Face="Droid Sans" HeightPxl="26" Bold="n" Color="FFFFFFFF"/>
+          <String Name="StringID" Value="STRING_CAPTION"/>
+        </Plugin>
+
+        <Plugin Class="Spb.LSP.Image" Name="Icon" AutoSkin="misc" Align="center" Width="154" Height="154">
+          <String Name="StringID" Value="STRING_ICON"/>
+          <Int Name="Stretch" Value="1"/>
+        </Plugin>
+
+      </Plugins>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="Portrait">
+    <Plugins Extends="Default">
+      <Plugins Name="MainFrame">
+        <LayoutMargins Left="6" Top="14" Right="6" Bottom="55"/>
+      </Plugins>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="Landscape">
+    <Plugins Extends="Default">
+      <Plugins Name="MainFrame">
+        <LayoutMargins Left="18" Top="14" Right="56" Bottom="14"/>
+      </Plugins>
+    </Plugins>
+  </Layout>
+
+</Layouts>

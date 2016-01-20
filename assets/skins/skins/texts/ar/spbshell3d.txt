@@ -1,0 +1,426 @@
+ a few seconds|بضع دقائق
+ day|يوم
+ days|ايام
+ hour|ساعة
+ hours|ساعات
+ hr|سا
+ hrs|سا
+ lunar day|يوم هلالي
+ min|د
+ mins|د
+ minute|دقيقة
+ minutes|دقائق
+%d bought|%d مشترى
+%i more today|%i اليوم
+%i more...|%i المزيد...
+%i%% of Full|%i%% من ملئ
+%s 2007—2011 Yandex|%s 2007—2011 Yandex
+(<1 min)|(<1 د)
+(in|(في
+(in seconds)|(في ثواني)
+(No title)|(لا عنوان)
+[ Loading images... ]|[ تحميل الصور... ]
+[ Tap here for images load ]|[ انقر هنا لتحميل الصور ]
+About|عن المنتج
+Activate|تمكين
+Activation|تنشيط
+Activation failed. Check your Internet connection.|التنشيط فشل. تحقق من اتصالك بالانترنت.
+Add|اضف
+Add city|اضافة مدينة
+Add new city|اضافة مدينة جديدة
+Add Panel|اضافة لوحة
+Add to Home screen|اضافة لشاشة البداية
+Airplane|طائرة
+Airplane Mode|وضع الطائرة
+All day|يوم كامل
+All pictures|جميع الصور
+Android Shortcut|اختصار اندرويد
+Android Widget|عنصر واجهة المستخدم اندرويد
+Anniversary|ذكرى سنوية
+Appearance|مظهر
+Application|تطبيقات
+April|أبريل
+Aqua|اكوا
+as of %s|اعتبارا من %s
+at %s|SPB Mobile Shell 5 هنا %s
+atm|جوي
+Atmospheres|الغلاف الجوي
+Atmospheric pressure scale|مقياس الضغط الجوي
+August|أغسطس
+Auto|تلقائي
+Auto (keyboard only)|تلقائي (كيبورد فقط)
+Auto arrange widgets|الترتيب التلقائي لعناصر واجهة المستخدم
+Automatic|تلقائي
+Automatic naming|تسمية تلقائية
+Backlight|إضاءة الخلفية
+Battery|بطارية
+Birthday|عيد ميلاد
+Birthdays|اعياد الميلاد
+Black|اسود
+Blue|ازرق
+Bluetooth|بلوتوث
+Bookmarks|إشارات مرجعية
+Bookmarks Folder|مجلد إشارات مرجعية
+Business|أعمال
+Buy!|شراء
+Calendar|تقويم
+Calendar Panel|لوحة التقويم
+Calendar Panel Settings|اعدادات لوحة التقويم
+Call|اتصال
+Call Log|سجل المكالمات
+Cancel|الغاء
+Celsius (#short)|مئوي
+Change|تغيير
+Change City|تغيير المدينة
+Change profile|تغيير ملف التعريف
+Choose Color|اختيار اللون
+Choose Program|اختيار البرنامج
+Choose SPB Widget|اختيار عنصر SPB
+Choose widget|اختيار عنصر واجهة المستخدم
+Clear|صافي
+Clock|ساعة
+Cloudy|غائم
+Cloudy, hail|غائم، برد
+Cloudy, heavy rain|غائم، امطار غزيرة
+Cloudy, heavy snow|غائم، ثلوج عزيرة
+Cloudy, rain|غائم، ماطر
+Cloudy, rain with snow|غائم، ماطر مع ثلوج
+Cloudy, snow|غائم، ثلوج
+Cloudy, thunder|غائم، رعد
+Color anaglyph (red/cyan)|نقش ملون  (احمر/سماوي)
+Communication|اتصالات
+Contact|المُدخل
+Contacts|جهات الاتصال
+Copyright %s 2007-2011\nSPB Software|جميع الحقوق محفوظة %s  2007-2011 \nSPB Software
+Create Folder|إنشاء مجلد
+Current|حالي
+Current city|المدينة الحالية
+Current conditions|الظروف الحالية
+Current Conditions|الظروف الحالية
+Current skin|السمة الحالية
+Day|ظهراً
+Deal of the Day|صفقة اليوم
+Deal of the Day Panel Settings|اعدادات صفقة اليوم
+Deals|صفقات
+December|ديسمبر
+Default|افتراضي
+Default Action|الخيار الافتراضي
+Dew point:|نقطة الندى
+Diagnostic tools|أدوات التشخيص
+Disabled|معطّل
+Discoverable|قابل للاكتشاف
+Done|تم
+Download Original|تحميل الاصلي
+Downloading images|تحميل الصور
+E|شرق
+east|شرق
+Edit panels|تحرير اللوحات
+Emergency only|طوارئ فقط
+Empty Panel|لوحة فارغة
+Enable live wallpapers|تمكين خلفيات لايف
+Enabled|ممكن
+Entertainment|ترفيه
+Error|خطأ
+Evening|مساءً
+Every 2 hours|كل 2 ساعة
+Every 24 hours|كل 24 ساعة
+Every 30 Minutes|كل 30 دقيقة
+Every 30 minutes|كل 30 دقيقة
+Every 4 hours|كل 4 ساعات
+Every hour|كل ساعة
+Exit|خروج
+Experimental|تجريبي
+Fahrenheit (#short)|فهرنهايت
+Favorite Contacts|مفضلة جهات الاتصال
+Favorite contacts|مفضلة جهات الاتصال
+February|فبراير
+Filter|تصفية
+First day of the week|بداية ايام الاسبوع
+First Quarter|الربع الاول
+Flight|رحلة طيران
+Folder|مجلد
+Folder Name|اسم المجلد
+Forecast|تنبؤ
+from forecast|من التوقعات
+Full Moon|قمر مكتمل
+Gallery|معرض الصور
+Games|العاب
+Grayscale anaglyph (red/cyan)|نقش رمادي (احمر/سماوي)
+Green|اخضر
+Hectopascals|باسكال
+Hide Duplicates|إخفاء العناصر المكررة
+Hide SIM Contacts|اخفاء جهات اتصال سيم
+Home|بداية
+Home Settings|اعدادات البداية
+Home settings|اعدادات البداية
+hpa|باسكال
+Humidity:|الرطوبه:
+in %u days|في %u ايام
+inch|بوصة
+Inches|بوصة
+Increase Counter|زيادة العداد
+Interface mode|وضع واجهة الاستخدام
+Invisible|غير مرئي
+January|يناير
+July|يوليو
+June|يونيو
+Kilometers per hour|كم/ساعة
+Knots|عقدة
+knots|عقدة
+kph|كيلومتر/ساعة
+Landscape|افقي
+Large|كبير
+Last Call|اخر مكالمة
+Last Message|اخر رسالة
+Last Quarter|الربع الاخير
+Last updated|اخر تحديث
+Legal information|معلومات قانونية
+Legal notices|ملاحظة قانونية
+Lifestyle|نمط الحياة
+Live wallpapers can cause performance degradation of your 3D home screen. Switching between live and static wallpapers can take up to a minute. Static wallpapers are recommended for the best experience.|خلفيات لايف يمكن أن يسبب تدهور بالأداء في الشاشة الرئيسية 3D. التبديل بين خلفيات لايف وثابتة يستغرق دقيقة واحدة. ويوصى استخدام خلفيات ثابتة للحصول على أفضل أداء.
+Loading failed|فشلت عملية التحميل
+Loading image for wallpaper|تحديث صورة للخلفية
+Loading skin failed!|فشل تحميل السمة!
+Loading skins catalog failed!|فشل تحميل البوم السمات!
+Loading...|تحميل...
+Logging In...|تسجيل الدخول...
+Lunar Calendar|التقويم القمري
+Manage apps|إدارة التطبيقات
+Manage Apps|إدارة التطبيقات
+Manage panels|إدارة اللوحات
+Manage Panels|إدارة اللوحات
+March|مارس
+May|مايو
+Medium|متوسط
+Messaging|مراسلات
+Meters per second|متر/بالثانية
+Miles per hour|ميل/ساعة
+Millimetres|ملليمتر
+Misc|متنوع
+Miscellaneous|متنوع
+mm|ملليمتر
+Mobile|جوال
+Mode|الوضع
+Monday|الاثنين
+Moon Calendar|تقويم القمر
+Morning|صباحاً
+mph|ميل/ساعة
+mps|م/ثانية
+Multimedia|وسائط متعددة
+Music|موسيقى
+Music albums|البومات موسيقى
+N|شمال
+N/A|غير متوفر
+nd|nd
+NE|شمال شرقي
+Network Status|حالة الشبكة
+Never|نهائيا
+New|جديد
+New Contact|جهة اتصال جديدة
+New Folder|مجلد جديد
+New Moon|قمر جديد
+News|اخبار
+Next Alarm|التنبيه التالي
+Night|ليلاً
+No|لا
+No Alarms|لا تنبيه
+No birthdays|لايوجد اعياد ميلاد
+No calls|لا يوجد مكالمات
+No Cities|لا مدن
+No conditions|لا شروط
+No Contacts.|لا يوجد جهات اتصال
+No Countries|لا بلدان
+No deals loaded|لا يوجد صفقات
+No Images|لا صور
+No messages|لا يوجد رسائل
+No news|لايوجد اخبار
+No SIM|لا يوجد SIM
+No text messages|لا رسائل نصية
+No title|لا عنوان
+No upcoming events|لا يوجد احداث قادمة
+No upcoming events in a week|لا يوجد أحداث قادمة خلال اسبوع
+No updates|لا تحديثات
+No weather forecast|لا يوجد بيانات عن الطقس
+Normal|عادي
+north|شمال
+north east|شمال شرقي
+north west|شمال غربي
+Not available|غير متوفر
+Not connected|غير متصل
+November|نوفمبر
+NW|شمال غربي
+October|أكتوبر
+Off|إيقاف
+Offer|عرض
+One Touch Share|One Touch Share
+Only on free connections|عند توفر اتصال مجاني فقط
+Open Contact|فتح جهة اتصال
+Open in Browser|فتح في المتصفح
+OpenGL 2.0 is required to run SPB Shell 3D|برنامج SPB Shell 3D يتطلب دعم OpenGl 2.0
+Optimized anaglyph (red/cyan)|نقش مثالي (احمر/سماوي)
+Other (assistant)|أخرى (مساعد)
+Page|صفحة
+Panel Name|اسم اللوحة
+Parsing skins catalog failed!|فشل تحليل البوم السمات!
+Partly cloudy|غائم جزئياً
+Partly cloudy, rain|غائم جزئياً، ماطر
+Partly cloudy, snow|غائم جزئياً، ثلوج
+Partly cloudy, thunder|غائم جزئياً، رعد
+People|أشخاص
+Performance Warning|تحذير الاداء
+Performance Warning dialog|تحذير الاداء
+Phone|هاتف
+Photo folder for gallery widgets|مجلد صور لعنصر المعرض
+Picture Gallery|معرض صور
+Picture of the Day|صورة اليوم
+Picture Panel Settings|اعدادات لوحة الصور
+Pictures|صور
+Pictures Of The Day|صور اليوم
+Pictures Panel|لوحة الصور
+Pictures Settings|اعدادات الصور
+Please Log In|الرجاء تسجيل الدخول
+Please wait...|الرجاء الانتظار
+Portrait|عامودي
+Pressure:|الضغط:
+Problem loading widget|خطأ في تحميل عنصر واجهة المستخدم
+Productivity|الإنتاجية
+Program|برنامج
+Pulkovo|بولكفا
+Purchase|شراء
+Purple|إرجوانى
+Radio off|ايقاف راديو
+rd_loc|.
+Reading appointments...|قراءة المواعيد...
+Recycle Bin|سلة المحذوفات
+Red|احمر
+Reload skin list|اعادة تحميل قائمة السمات
+Remove All|ازالة الكل
+Rename|اعادة التسمية
+Rename Panel|إعادة تسمية اللوحة
+Requesting images|طلب الصور
+Retry|اعادة المحاولة
+RSS Feed|موجز RSS
+RSS Panel Settings|اعدادات لوحة RSS
+S|جنوب
+Safe mode|الوضع الآمن
+Saint-Petersburg|سانت بطرسبرغ
+Save as New|حفظ كجديد
+Save to Existing|حفظ لموجود
+Screen orientation|اتجاه الشاشة
+SE|جنوب شرقي
+Searching|جاري البحث
+Select cities|اختيار مدن
+Select e-mail address|اختيار بريد الكتروني
+Select phone number:|اختيار رقم هاتف:
+Select shortcut|اختيار اختصار
+Select Skin|اختيار سمة
+Select wallpaper from|اختيار الخلفية من
+Selected cities|المدن المختارة
+Selected City|المدينة المختارة
+Selected city|المدينة المختارة
+Send E-mail|ارسال بريد الكتروني
+Send E-Mail|ارسال بريد الكتروني
+Send Message|ارسال رسالة
+Send MMS|ارسال رسالة وسائط
+Send SMS|ارسال رسالة
+September|سبتمبر
+Serial number:|رقم التسجيل:
+Set as Home|تعيين كبداية
+Set as Wallpaper|تعيين كخلفية
+Set wallpaper|تعيين خلفية
+Settings|إعدادات
+Show all|عرض الكل
+Show all day events|عرض مناسبات اليوم الكامل
+Show all day events in calendar widgets|عرض مناسبات اليوم الكامل في عنصر واجهة المستخدم للتقويم
+Silent|صامت
+Skin loading|تحميل السمة
+Small|صغير
+Smartphone|الهاتف الذكي
+Smog|ضباب
+Social|اجتماعي
+Sound Profile|ملف تعريف الصوت
+south|جنوب
+south east|جنوب شرقي
+south west|جنوب غربي
+SPB Shell 3D is loading...|جاري تحميل SPB Shell 3D
+SPB Wallpapers|خلفية SPB
+SPB Widget|عنصر واجهة مستخدم SPB
+st|st
+Standard Edition [Beta]|اصدار قياسي (بيتا)
+Stereoscopic 3D mode|وضع Stereoscopic ثلاثي الابعاد
+Stereoscopic 3D Settings|اعدادات Stereoscopic
+Sunday|الاحد
+SW|جنوب غربي
+Switching the interface mode can take up to a minute. Screen orientation will be changed to '%s'.|تبديل وضع واجهة المستخدم قد يستغرق بضع دقائق. اتجاه الشاشة سيتغير الى '%s'.
+Tablet|لوحي
+Temperatur scale|مقياس درجة الحرارة
+Temperature scale|مقياس درجة الحرارة
+Test Battery|اختبار البطارية
+th|th
+Thank you for your support. Your copy is now registered.|شكرا لدعمك. نسختك الان مسجلة
+The experimental features below are not ready to be shipped in the core of SPB Shell 3D. They may contain severe defects and cause system instability. Use them at your own risk.|المميزات التجريبية التالية غير جاهزة للاضافة الى نواة البرنامج. من الممكن ان تتسبب بعدم استقرار النظام. استخدامها يقع على مسؤوليتك الخاصة.
+The maximum number of panels is reached|تم الوصول الى اكبر عدد ممكن من اللوحات
+The name cannot be changed.|لا يمكن تغيير الاسم
+The previous launch of SPB Shell 3D was unsuccessful. Please tap "Retry" to launch it again or "Home" to activate a different Home screen.|فشلت عملية تحميل SPB Shell 3D. الرجاء الضغط على "اعادة المحاولة" او "البداية" لتفعيل شاشة بداية اخرى.
+Time|الوقت
+Time Panel|لوحة الوقت
+Time Panel Settings|اعدادات لوحة الوقت
+Today|اليوم
+Toggle|تبديل
+Tomorrow|غداً
+Tools|الأدوات
+Travel|ترحال
+Unfortunately, we could not locate your purchase in Android Market. Please uninstall this copy before installing a new one.|للأسف لم نتمكن من العثور على مشترياتك في سوق اندرويد.الرجاء ازالة النسخة الحالية قبل تحميل الجديدة.
+Unfortunately, we could not locate your purchase. Please uninstall this copy before installing a new one.|لم يتم العثور على مشترياتك. الرجاء ازالة هذه النسخة قبل تحميل نسخة اخرى.
+Uninstall|إلغاء تثبيت
+Uninstall apps|إلغاء تثبيت تطبيقات
+Unknown|غير معروف
+Unknown location|موقع غير معروف
+Upcoming events|احداث قادمة
+Update|تحديث
+Update deals list automatically|تحديث قائمة الصفقات تلقائياً
+Update Now|تحديث الان
+Update pictures page automatically|تحديث صفحة الصور تلقائياً
+Update weather forecasts automatically|تحديث حالة الطقس تلقائيا
+Updated|تم التحديث
+Updated:|تم التحديث:
+Updating image|تحديث الصور
+Updating...|جاري التحديث...
+Use 3D in application list|استخدام قائمة التطبيقات ثلاثية الابعاد
+Use 3D in edit mode|استخدام ابعاد ثلاثية في وضع التحرير
+Use cellular connection for updating deals list|استخدام شبكة الهاتف لتحديث قائمة الصفقات
+Use cellular connection for updating pictures automatically|استخدم اتصال الهاتف لتحديث الصور تلقائياً
+Value|القيمة
+variable|متغير
+Version %s, Build %s|الاصدار %s, النسخة %s
+Vibro|هزاز
+Video Call|مكالمة مرئية
+View Duplicates|عرض العناصر المكررة
+View SIM Contacts|عرض جهات اتصال سيم
+W|غرب
+Wallpaper|خلفية
+Wallpapers|خلفية
+Waning Crescent|تراجع الهلال
+Waning Gibbous|تراجع محدب
+Waxing Crescent|الصبح الهلال
+Waxing Gibbous|الصبح محدب
+Weather|طقس
+Weather Forecast|حالة الطقس
+Weather Settings|إعدادات الطقس
+west|غرب
+Widget is too big to be added.|عنصر واجهة المستخدم
+Widgets|عناصر واجهة المستخدم
+Widgets Settings|اعدادات عناصر واجهة الاستخدام
+Wind direction:|اتجاه الريح:
+Wind speed scale|مقياس سرعة الرياح
+Wind speed:|سرعة الريح:
+Wind:|الرياح
+Work|عمل
+World Time|توقيت العالم
+Wrong serial number. Please check it again.|خطأ في رقم التسجيل. يرجى التأكد منه مرة اخرى
+Yandex.Search|Yandex.Search
+Yellow|اصفر
+Yes|نعم
+Yesterday|البارحة
+You save|التوفير
+Your video system isn't compatible with Shell 3D.|معالج الصور غير متوفق مع شل ثلاثي الابعاد.

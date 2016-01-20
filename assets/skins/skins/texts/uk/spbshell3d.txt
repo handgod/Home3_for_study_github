@@ -1,0 +1,520 @@
+ a few seconds| кілька секунд
+ day| день
+ days| дні
+ hour| година
+ hours| години
+ hr| год.
+ hrs| год.
+ lunar day| місячний день
+ min| хв.
+ mins| хвилин
+ minute| хвилина
+ minutes| хвилини
+%d bought|%d куплено
+%d day|%d день
+%d days|%d днів
+%d hour|%d година
+%d hours|%d годин(и)
+%d minute|%d хвилина
+%d minutes|%d хвилин(и)
+%d more...|%d більше...
+%i active channel|%i активних каналів
+%i active channels|%i активних каналів
+%i image|%i зображення
+%i images|%i зображень
+%i more today|%i ще сьогодні
+%i more...|%i ще...
+%i page|%i сторінка
+%i pages|%i сторінок
+%i%% of Full|%i%% фази місяця
+%s 2007—2011 Yandex|%s 2007—2011 Yandex
+(<1 min)|(<1 хвилини)
+(in|(через
+(in seconds)|(в секундах)
+(No title)|(Заголовок відсутній)
+[ Loading images... ]|[ Завантаження зображень... ]
+[ Tap here for images load ]|[ Натисніть тут для завантаження зображення ]
+A few minutes ago|Кілька хвилин тому
+About|Про
+Above horizon|Над горизонтом
+Activate|Активувати
+Activation|Активація
+Activation failed. Check your Internet connection.|Помилка активації Перевірте підключення до Інтернету.
+Active Channels|Активні канали
+Active channels|Активні канали
+Add|Додати
+Add category|Додати категорію
+Add city|Додати місто
+Add custom channel|Додати користувацький канал
+Add new city|Додати нове місто
+Add note|Додати примітку
+Add Panel|Додати панель
+Add to Home screen|Додати на робочий стіл
+Airplane|Літак
+Airplane Mode|Режим На борту літака
+All day|Весь день
+All pictures|Всі зображення
+Allow resizing of all Android widgets|Дозволяє змінювати розмір всіх віджетів андроїд
+An hour ago|Годину тому
+Android Shortcut|Ярлик Android
+Android Widget|Віджет Android
+Anniversary|Ювілей
+Appearance|Зовнішній вигляд
+Application|Застосунок
+April|квітень
+Aqua|блакитний
+Aquarius|Водолій
+Aries|Овен
+as of %s|на %s
+at %s|в %s
+atm|атм
+Atmospheres|Атмосфери
+Atmospheric pressure scale|Шкала атмосферного тиску
+August|серпень
+Auto|Авто
+Auto (keyboard only)|Авто (лише клавіатура)
+Auto arrange widgets|Автоматично впорядкувати віджети
+Automatic|Автоматично
+Automatic naming|Автоматичне присвоювання назв
+Backlight|Підсвічування
+Battery|Акумулятор
+Below horizon|Нижче горизонту
+Birthday|День народження
+Birthdays|Дні народження
+Black|Чорний
+Blue|Синій
+Bluetooth|Bluetooth
+Bookmarks|Закладки
+Bookmarks Folder|Папка закладок
+Business|Бізнес
+Buy!|Купити!
+Cache size|Розмір кеш- пам’яті
+Calculator|Калькулятор
+Calendar|Календар
+Calendar Panel|Панель календаря
+Calendar Panel Settings|Налаштунки панелі календаря
+Call|Виклик
+Call Log|Журнал викликів
+Cancel|Відмінити
+Cancer|Рак
+Capricorn|Козерог
+Categories|Категорії
+Category Name|Назва категорії
+Celsius (#short)|За Цельсієм
+Change|Змінити
+Change City|Змінити місто
+Change profile|Змінити профіль
+Channels list|Список каналів
+Choose Color|Обрати колір
+Choose Program|Обрати програму
+Choose SPB Widget|Обрати віджет SPB
+Choose widget|Обрати віджет
+Clear|Ясно
+Clear cache|Почистити кеш
+Clock|Годинник
+Cloudy|Хмарно
+Cloudy, hail|Хмарно, град
+Cloudy, heavy rain|Хмарно, злива
+Cloudy, heavy snow|Хмарно, снігопад
+Cloudy, rain|Хмарно, дощ
+Cloudy, rain with snow|Хмарно, мокрий сніг
+Cloudy, snow|Хмарно, сніг
+Cloudy, thunder|Хмарно, гроза
+Color anaglyph (red/cyan)|Кольоровий анагліф (червоний/ціан)
+Communication|Спілкування
+Contact|Контакт
+Contacts|Контакти
+Contacts Folder|Папка контактів
+Copyright %s 2007-2011\nSPB Software|Авторське право %s 2007-2011\nSPB Software
+Copyright %s 2007-2012\nSPB Software|Авторське право %s 2007-2012\nSPB Software
+Create Folder|Створити папку
+Current|Поточний
+Current city|Поточне місто
+Current conditions|Поточний стан
+Current Conditions|Поточний стан
+Current skin|Поточна обкладинка
+Custom channel|Користувацький канал
+Day|День
+Deal of the Day|Угода дня
+Deal of the Day Panel|Панель угоди дня
+Deal of the Day Panel Settings|Налаштунки панелі Угода дня
+Deals|Угоди
+December|грудень
+Default|Значення за промовчанням
+Delete note|Видалити примітку
+Dew point:|Точка роси:
+Diagnostic tools|Діагностичні інструменти
+Disabled|Вимкнений
+Discoverable|Доступний для виявлення
+Done|Виконано
+Download Original|Завантажити оригінал
+Downloading images|Завантаження зображення
+E|С
+east|схід
+Edit channel|Редагувати канал
+Edit note|Редагувати примітки
+Edit panels|Редагувати панелі
+Emergency only|Лише екстрені виклики
+Empty Panel|Пуста панель
+Enable live wallpapers|Увімкнути шпалери, що оновлюються автоматично
+Enabled|Увімкнений
+Enter RSS feed title|Введіть назву RSS-канала
+Enter RSS feed URL|Введіть URL RSS-канала
+Entertainment|Розваги
+Error|Помилка
+Evening|Вечір
+Every 2 hours|Кожні 2 години
+Every 24 hours|Кожні 24 години
+Every 30 Minutes|Кожні 30 хвилин
+Every 30 minutes|Кожні 30 хвилин
+Every 4 hours|Кожні 4 години
+Every hour|Кожну годину
+Exit|Вихід
+Experimental|Експериментальний
+Experimental Settings|Експериментальні налаштування
+Experimental settings|Експериментальні налаштування
+Fahrenheit (#short)|За Фаренгейтом
+Failed to load RSS|Неможливо завантажити RSS
+Favorite Contacts|Вибрані контакти
+Favorite contacts|Вибрані контакти
+February|лютий
+Filter|Фільтр
+First day of the week|Перший день тижня
+First Quarter|Перша чверть
+Flight|Політ
+Folder|Папка
+Folder Name|Назва папки
+Forecast|Прогноз погоди
+from forecast|з прогнозу погоди
+Full Moon|Повний місяць
+Gallery|Галерея
+Games|Ігри
+Gemini|Близнюки
+Grayscale anaglyph (red/cyan)|Анагліф у відтінках сірого (червоний/ціан)
+Green|Зелений
+G-Sensor|G-датчик
+Half an hour ago|Півгодини тому
+Hectopascals|Гектопаскалі
+Hide Duplicates|Приховати копії
+Hide SIM Contacts|Сховати контакти на SIM картці
+Home|Додому
+Home Settings|Домашні налаштування
+Home settings|Домашні налаштування
+hpa|гПа
+Humidity:|Вологість:
+in %u days|через %u днів
+in Home Settings|В домашніх налаштунках
+inch|дюйм
+Inches|Дюйми
+Increase Counter|Лічильник збільшення
+Interface mode|Режим інтерфейсу
+Invisible|Невидимий
+January|січень
+July|липень
+June|червень
+Kilometers per hour|Кілометрів на годину
+Knots|вузли
+knots|вузли
+kph|км/год.
+kts|вузли
+Landscape|Альбомна
+Landscape orientation required to enable left-to-right stereo mode|Для увімкнення стерео режиму зліва направо потрібна альбомна орієнтація
+Large|Великий
+Last Call|Останній виклик
+Last Message|Останнє повідомлення
+Last Quarter|остання чверть
+Last updated|останнє оновлення
+Left-to-right (HTC EVO 3D)|Зліва направо (HTC EVO 3D)
+Legal information|Правова інформація
+Legal notices|Правові зауваження
+Leo|Лев
+Libra|Терези
+Lifestyle|Стиль життя
+Live wallpapers can cause performance degradation of your 3D home screen. Switching between live and static wallpapers can take up to a minute. Static wallpapers are recommended for the best experience.|Шпалери, що оновлюються автоматично можуть викликати погіршення продуктивності вашого 3D екрана. Перемикання між шпалерами, що оновлюються автоматично, та статичними шпалерами може тривати до кількох хвилин. Ми рекомендуємо статичні шпалери.
+Loading failed|Помилка завантаження
+Loading image for wallpaper|Завантаження зображення для шпалер
+Loading RSS feed %s...|Завантаження повідомлень RSS %s...
+Loading skin failed!|Помилка завантаження обкладинки!
+Loading skins catalog failed!|Помилка завантаження каталогу обкладинок!
+Loading...|Завантажується…
+Logging In...|Вхід в систему…
+Lunar Calendar|Місячний календар
+Lunar day %d|%d місячний день
+Manage apps|Керування застосунками
+Manage Apps|Керування застосунками
+Manage panels|Керування панелями
+Manage Panels|Керування панелями
+March|березень
+May|травень
+Messaging|Повідомлення
+Meters per second|Метрів за секунду
+Miles per hour|Миль на годину
+Millimetres|Міліметри
+Misc|Різне
+Miscellaneous|Різне
+mm|мм
+Mobile|Мобільний
+Mode|Режим
+Monday|Понеділок
+Moon|Місяць
+Moon Calendar|Місячний календар
+Moon in %s,|Місяць через %s,
+Morning|Ранок
+mph|миль/год.
+mps|м/с
+Multimedia|Мультимедіа
+Music|Музика
+Music albums|Музичні альбоми
+N|Пн
+N/A|Н/д
+nd|й
+NE|ПН-С
+Network Status|Статус мережі
+Never|Ніколи
+New Channel|Новий канал
+New channel|Новий канал
+New Contact|Новий контакт
+New Folder|Нова папка
+New Moon|Новий Місяць
+News|Новини
+News Panel|Панель новин
+News Panel Settings|Налаштунки нової панелі
+next|наступний
+Next Alarm|Наступний будильник
+Night|Ніч
+No|Ні
+no|Немає
+No Alarms|Будильники не встановлені
+No birthdays|Днів народження немає
+No calls|Немає викликів
+No Cities|Немає міст
+No conditions|Умови відсутні
+No Contacts.|Немає контактів
+No Countries|Немає країн
+No deals loaded|Завантажених угод немає
+No Images|Зображення відсутні
+No messages|Повідомлень немає
+No news|Новин немає
+No rise/set info|Відсутня інформація про схід/захід
+No RSS feed found at|RSS-канал не знайдено за адресою
+No rss loaded|rss не завантажено
+No SIM|Без SIM картки
+No text messages|Текстові повідомлення відсутні
+No title|Заголовок відсутній
+No upcoming events|Найближчі події відсутні
+No upcoming events in a week|На цьому тижні запланованих подій немає
+No updates|Оновлень немає
+No weather forecast|Прогноз погоди відсутній
+Normal|Нормальний
+north|північ
+north east|північний схід
+north west|північний захід
+Not available|Недоступний
+Not connected|Без підключення
+Notes|Примітки
+Note's default color|Колір приміток за промовчанням
+Note's font|Шрифт приміток
+Notes Panel|Панель приміток
+Notes Panel Settings|Налаштунки панелі приміток
+November|листопад
+NW|Пн-З
+October|жовтень
+Off|Вимкн.
+Offer|Пропозиція
+On|Увімкн.
+One Touch Share|One Touch Share
+Only on free connections|Лише на вільних підключеннях
+Open Contact|Відкрити контакт
+Open in Browser|відкрити в браузері
+OpenGL 2.0 is required to run SPB Shell 3D|Для запуску SPB Shell 3D потрібно OpenGL 2.0.
+Optimized anaglyph (red/cyan)|Оптимізований анагліф (червоний/ціан)
+Other (assistant)|інше (допоміжний)
+Page|сторінка
+Pages: %d, images: %d|Сторінок: %d, зображень: %d
+Panel Name|Назва панелі
+Parsing skins catalog failed!|Помилка аналізу каталогу обкладинок!
+Partly cloudy|Перемінна хмарність
+Partly cloudy, rain|Перемінна хмарність, дощ
+Partly cloudy, snow|Перемінна хмарність, сніг
+Partly cloudy, thunder|Перемінна хмарність, гроза
+People|Люди
+Performance Warning|Попередження про продуктивність
+Performance Warning dialog|Діалог попереджень про продуктивність
+Personal|Особистий
+Phone|Телефон
+Photo folder for gallery widgets|Папка фотографій для віджетів галереї
+Picture Gallery|Галерея зображень
+Picture of the Day|Фото дня
+Picture Panel Settings|Налаштування панелі зображень
+Pictures|Фотографії
+Pictures Of The Day|Фото дня
+Pictures Panel|Панель зображень
+Pictures Panel Settings|Налаштунки панелі зображень
+Pictures Settings|Налаштування фотографій
+Pisces|Риби
+Please Log In|Увійдіть в систему
+Please wait...|Зачекайте, будь ласка…
+Portrait|Книжна
+Pressure:|Тиск:
+Problem loading widget|Проблема при завантаженні віджета
+Productivity|Продуктивність
+Program|Програма
+Pulkovo|Пулково
+Purchase|Покупка
+Purple|Пурпурний
+Radio off|Відключити радіо
+rd_loc|й
+Reading appointments...|Читання зустрічей…
+Recycle Bin|Кошик
+Red|червоний
+Reduced|Зменшений
+Reload skin list|Перезавантажити перелік обкладинок
+Remove All|Видалити все
+Rename|Перейменувати
+Rename Panel|Перейменувати панель
+Requesting images|Запит зображення
+Retry|Повторити
+Rise: %s|Схід: %s
+RSS Feed|RSS-канал
+RSS Panel|Панель RSS
+RSS Panel Settings|Налаштунки панелі RSS
+S|Пд
+Safe mode|Безпечний режим
+Sagittarius|Стрілець
+Saint-Petersburg|Санкт-Петербург
+Save as New|Зберегти як новий
+Save to Existing|Зберегти до існуючих
+Scorpio|Скорпіон
+Screen orientation|Орієнтація екрану
+SE|Пд-С
+Searching|Пошук
+Select Channel|Обрати канал
+Select cities|Обрати місто
+Select e-mail address|Оберіть електронну адресу
+Select phone number:|Оберіть телефонний номер:
+Select shortcut|Обрати ярлик
+Select Skin|Обрати обкладинку
+Select wallpaper from|Обрати шпалери з
+Selected cities|Обрані міста
+Selected City|Обране місто
+Selected city|Обране місто
+Send E-mail|Надіслати e-mail
+Send E-Mail|Надіслати e-mail
+Send Message|Надіслати повідомлення
+Send MMS|Надіслати ММС
+Send SMS|Надіслати СМС
+September|вересень
+Serial number:|Серійний номер:
+Set as Home|Зробити головною сторінкою
+Set as Wallpaper|Зробити шпалерами
+Set wallpaper|Встановити шпалери
+Set: %s|Встановити: %s
+Settings|Налаштування
+Show all|Показати все
+Show all day events|Показати всі події дня
+Show all day events in calendar widgets|Показати всі події дня в календарних віджетах
+Show full news|Показувати новини повністю
+Show images in news|Відображати картинки в новинах
+Silent|Беззвучний
+Skin loading|Завантаження обкладинки
+Small|Малий
+Smartphone|Смартфон
+Smog|Смог
+Social|Зустріч
+Sound Profile|Звуковий профіль
+south|південь
+south east|південний схід
+south west|південний захід
+SPB Shell 3D is loading...|Завантажується SPB Shell 3D...
+SPB Wallpapers|Шпалери SPB
+SPB Widget|Віджет SPB
+st|й
+Standard Edition [Beta]|Стандартна редакція [бета]
+Stereoscopic 3D mode|Стереоскопічний 3D режим
+Stereoscopic 3D mode will be disabled|Стереоскопічний 3Д режим буде відключений
+Stereoscopic 3D Settings|Налаштунки режиму стереоскопічного 3D
+Sun in %s,|Сонце через %s,
+Sunday|Неділя
+SW|Пд-З
+Switching the interface mode can take up to a minute. Screen orientation will be changed to '%s'.|Перемикання режиму інтерфейсу може тривати до однієї хвилини. Орієнтація екрана буде переключена на '%s'.
+System|Система
+Tablet|Планшет
+Taurus|Тілець
+Temperatur scale|Температурна шкала
+Temperature scale|Температурна шкала
+Test Battery|Протестувати акумулятор
+th|й
+Thank you for your support. Your copy is now registered.|Дякуємо за підтримку. Ваша копія зареєстрована.
+The experimental features below are not ready to be shipped in the core of SPB Shell 3D. They may contain severe defects and cause system instability. Use them at your own risk.|Експериментальні властивості, зазначені нижче, не готові до роботи на ядрі SPB Shell 3D. Вони можуть містити серйозні недоліки і викликати нестабільність системи. Використовуйте на власний ризик.
+The maximum number of panels is reached|Досягнуто максимальну кількість панелей
+The name cannot be changed.|Назва не може бути змінена.
+The previous launch of SPB Shell 3D was unsuccessful. Please tap "Retry" to launch it again or "Home" to activate a different Home screen.|Попередній запуск SPB Shell 3D не був успішним. Натисніть «Повторити», щоб запустити його повторно, або «Додому», щоб активувати екран робочого столу.
+Time|Час
+Time Panel|Панель часу
+Time Panel Settings|Налаштунки панелі часу
+Today|Сьогодні
+Toggle|Перемикатися
+Tomorrow|Завтра
+Tools|Інструменти
+Travel|Подорож
+Unfortunately, we could not locate your purchase in Android Market. Please uninstall this copy before installing a new one.|Нажаль, ми не змогли виявити Вашу покупку на Android Market. Перед встановленням нової версії необхідно видалення поточної.
+Unfortunately, we could not locate your purchase. Please uninstall this copy before installing a new one.|Нажаль, ми не змогли знайти Вашу покупку. Перед встановленням нової версії необхідно видалення поточної.
+Uninstall|Деінсталювати
+Uninstall apps|Деінсталювати застосунок
+Unknown|Невідомий
+Unknown location|Невідоме місцезнаходження
+Upcoming events|Найближчі події
+Update|Поновити
+Update deals list automatically|Автоматично поновлювати перелік угод
+Update Now|Поновити зараз
+Update pictures page automatically|Аавтоматично оновлювати сторінку зображень
+Update weather forecasts automatically|Поновити прогноз погоди автоматично
+Updated|Оновлено
+Updated:|Оновлено:
+Updating image|Оновлення зображення
+Updating...|Оновлення…
+Use 3D in application list|Використовувати 3D в переліку пропозицій
+Use 3D in edit mode|Використовувати 3D в режимі редагування
+Use cellular connection for updating deals list|Для поновлення угод дня використовуйте мобільний зв'язок
+Use cellular connection for updating deals list automatically|Скористайтеся мобільним підключенням для оновлення переліку угод автоматично
+Use cellular connection for updating pictures automatically|Для автоматичного оновлення зображень використовуйте мобільний зв'язок
+Use cellular connection for updating weather automatically|Скористайтеся мобільним підключенням для оновлення погоди автоматично
+Use new color every time|Щоразу використовувати новий колір
+Use previous note's color|Використовувати колір попередньої примітки
+Value|Вартість
+variable|змінний
+Version %s, Build %s|Версія %s, збірка %s
+Vibro|Вібро
+Video Call|Відео виклик
+View Duplicates|Переглянути копії
+View SIM Contacts|Переглянути контакти на SIM картці
+Virgo|Діва
+W|З
+Wallpaper|шпалери
+Wallpapers|Шпалери
+Waning Crescent|Старий Місяць
+Waning Gibbous|Місяць на ущербі
+Waxing Crescent|Молодий Місяць
+Waxing Gibbous|Місяць, що зростає
+Weather|Погода
+Weather and Clock|Погода та годинник
+Weather Forecast|Прогноз погоди
+Weather Settings|Налаштунки погоди
+Welcome to notes panel|Ласкова просимо до панелі приміток
+west|захід
+Widget is too big to be added.|Віджет занадто великий і не може бути доданий.
+Widgets|Віджети
+Widgets Settings|Налаштування віджетів
+Wind direction:|Напрямок вітру:
+Wind speed scale|Шкала швидкості вітру
+Wind speed:|Швидкість вітру:
+Wind:|Вітер:
+Work|Робочий
+World Time|Світовий час
+Wrong serial number. Please check it again.|Неправильний серійний номер. Будь ласка, перевірте ще раз.
+Yandex.Search|Яндекс.Поиск
+Yellow|Жовтий
+Yes|Так
+Yesterday|Вчора
+You save|Економія
+Your video system isn't compatible with Shell 3D.|Ваша відеосистема несумісна з Shell 3D.

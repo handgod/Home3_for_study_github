@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SPB Shell 3D</string>
+    <string name="weather_city_title">Type 3 letters to start auto-completion:</string>
+    <string name="weather_enter_city_name">Enter city name</string>
+    <string name="weather_more_cities">More...</string>
+    <string name="weather_locate_nearest_city">Search the nearest city</string>
+    <string name="weather_current_location">Current location</string>
+    <string name="searching_city_title">Positioning</string>
+    <string name="searching_city_progress">Searching for nearest cities...</string>
+    <string name="city_location_failed">Failed to locate nearest city</string>
+    <string name="dialog_shell_loading">SPB Shell 3D lastes...</string>
+    <string name="gadget_error_text">Problemer med lasting av widgeter</string>
+    <string name="dialog_select_shortcut">Velg snarvei</string>
+    <string name="dialog_choose_widget">Velg widget</string>
+    <string name="chooser_wallpaper">Velg bakgrunnsbilde</string>
+    <string name="wallpaper_instructions">Velg bakgrunnsbilde</string>
+    <string name="pick_wallpaper">Bakgrunner</string>
+    <string name="wallpapers_spb">SPB bakgrunner</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nei</string>
+    <string name="wait">Vennligst vent...</string>
+    <string name="home_widget_error">Widgeten er for stor</string>
+    <string name="cancel">Avbryt</string>
+    <string name="error">error</string>
+    <string name="infinity">infinity</string>
+    <string name="dialog_unsupported_devices_title">Feil</string>
+    <string name="dialog_unsupported_devices_message">OpenGL 2.0 er nødvendig for å kjøre SPB Shell 3D</string>
+    <string name="license_fail">Dessverre kunne vi ikke finne ditt kjøp i Android marked. Avinstaller dette programmet før du installerer på nytt.</string>
+    <string name="purchase">Kjøp</string>
+    <string name="exit">Avslutt</string>
+    <string name="legal_notices_title">Juridisk Informasjon</string>
+    <string name="license_fail_handango">Dessverre kunne vi ikke finne ditt kjøp. Avinstaller dette programmet før du installerer på nytt.</string>
+    <string name="safe_mode_title">Sikkerhetsmodus</string>
+    <string name="safe_mode_text">Forrige lasting av SPB Shell 3D mislyktes. Trykk \"Prøv igjen\" for å laste det på nytt eller \"Hjem\" for å aktivere et annet panel.</string>
+    <string name="safe_mode_retry">Prøv igjen</string>
+    <string name="safe_mode_home">Hjem</string>
+    <string name="sd_install_title">Feil</string>
+    <string name="sd_install_text">Installation to a storage card is not supported. Please install SPB Shell 3D to the main memory</string>
+    <string name="contacts_failed_pick">Failed to load the selected contact. Try to link the contact to Google account or save it to phone.</string>
+</resources>

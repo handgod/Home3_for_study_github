@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="title" format="reference" />
+    <attr name="unitsTitle" format="reference" />
+    <attr name="units" format="reference" />
+    <attr name="unitsValues" format="reference" />
+    <attr name="formats" format="reference" />
+    <attr name="rangeFormats" format="reference" />
+    <attr name="smallIcon" format="reference" />
+    <attr name="largeIcon" format="reference" />
+    <attr name="initialUnits" format="reference" />
+    <attr name="forecastScreenWidgetStyle" format="reference" />
+    <attr name="currentScreenWidgetStyle" format="reference" />
+    <attr name="forecastTabIcon" format="reference" />
+    <attr name="currentTabIcon" format="reference" />
+</resources>

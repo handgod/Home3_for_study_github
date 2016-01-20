@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Layouts>
+
+  <Layers>
+    <Layer Name="Background" Dialog="PopupBackgrd"/>
+    <Layer Name="Frame" Dialog="BackgrdFrame"/>
+    <Layer/>
+  </Layers>
+
+  <Rules>
+    <PlatformCondition Platform="tablets">
+      <UseLayout Name="Tablets"/>
+    </PlatformCondition>
+    <Default>
+      <UseLayout Name="Default"/>
+    </Default>
+  </Rules>
+
+  <Layout Name="Default">
+    <Column Name="Main" Extends="Options:Default" Width="220" Height="auto" Align="left"/>
+  </Layout>
+
+  <Layout Name="Tablets">
+    <Column Name="Main" Extends="Options:Default" Width="220" Height="auto" Align="left"/>
+  </Layout>
+
+</Layouts>

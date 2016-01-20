@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Templates>
+  <!-- Cond attribute of View element is a HEX bitmask.
+  View is enabled if any of runtime flags match the cond flags. 
+  Flag 1 means Android
+  Flag 2 means Symbian
+  Flag 4 means Win32
+  8 - SGS2
+  10 - telephony disabled
+  20 - UI Builder supported
+  40 - tablets
+  80 - Yandex-Area -->
+  		
+  <Template Uri="shortcut">
+    <Views>
+      <View>Shortcut</View>
+    </Views>
+  </Template>
+
+  <Template Uri="shortcutEx"> <!-- tag is for market categories -->
+    <Views>
+      <View>Shortcut</View>
+      <View>ExtShortcut</View>
+    </Views>
+  </Template>
+  
+  <Template Uri="folder" UserAddable="1">
+    <Views>
+      <View>Folder.Small</View>
+      <View>Folder</View>
+      <View>Folder.Large</View>
+    </Views>
+  </Template>
+
+  <Template Uri="androidwidget">
+    <Views>
+      <View>AndroidWidget</View>
+    </Views>
+  </Template>
+
+  <Template Uri="androidshortcut">
+    <Views>
+      <View>AndroidShortcut</View>
+    </Views>
+  </Template>
+  
+  <Template Uri="sms_with_badge" Tag="sms">
+    <Views>
+      <View CondNeg="10">ShortcutWithBadge</View>
+    </Views>
+  </Template>
+  <Template Uri="calllog_with_badge" Tag="calllog">
+    <Views>
+      <View>ShortcutWithBadge</View>
+    </Views>
+  </Template>
+  <Template Uri="phone_with_badge" Tag="phone">
+    <Views>
+      <View>ShortcutWithBadge</View>
+    </Views>
+  </Template>
+
+  <Template Uri="favcontact">
+    <Views>
+      <View>Contact</View>
+      <View>Contact.ActionText</View>
+      <View>Contact.Medium</View>
+     </Views>
+  </Template>
+
+  <Template Uri="favcontact_panel">
+    <Views>
+      <View>Contact.Panel.Small</View>
+      <View>Contact.Panel.Middle</View>
+      <View>Contact.Panel.Large</View>
+     </Views>
+  </Template>
+
+  <Template Uri="contact">
+    <Views>
+      <View>Contact</View>
+      <View>Contact.ActionText</View>
+      <View>Contact.Medium</View>
+     </Views>
+  </Template>
+
+  <Template Uri="bookmark">
+    <Views>
+      <View>Bookmark</View>
+    </Views>
+  </Template>
+
+  <Template Uri="bookmarklink">
+    <Views>
+      <View>Bookmark</View>
+    </Views>
+  </Template>
+  
+  <Template Uri="album">
+    <Views>
+      <View>Album</View>
+    </Views>
+  </Template>
+
+  <Template Uri="lastcall" UserAddable="1" Title="Call Log" Icon="calllog">
+    <Views>
+      <View CondNeg="10">LastCall</View>
+      <View CondNeg="10">LastCall.Icon</View>
+    </Views>
+  </Template>
+
+  <Template Uri="backlight" UserAddable="1" Title="Backlight">
+    <Views>
+      <View>Backlight.Small</View>
+      <View>Backlight.Large</View>
+    </Views>
+  </Template>
+
+  <Template Uri="phone">
+    <Views>
+      <View>Wireless</View>
+    </Views>
+    <Data>
+      <Int Name="type" Value="0"/>
+    </Data>
+  </Template>
+  
+  <Template Uri="wifi" Title="Wi-Fi">
+    <Views>
+      <View>Wireless</View>
+    </Views>
+    <Data>
+      <Int Name="type" Value="1"/>
+    </Data>
+  </Template>
+  
+  <Template Uri="bluetooth">
+    <Views>
+      <View>Wireless</View>
+    </Views>
+    <Data>
+      <Int Name="type" Value="2"/>
+    </Data>
+  </Template>
+
+  <Template Uri="phone.ext">
+    <Views>
+      <View>Wireless</View>
+      <View>Wireless.Ext</View>
+    </Views>
+    <Data>
+      <Int Name="type" Value="0"/>
+      <String Name="FixedExtensions" Value="settings_phone"/>
+    </Data>
+  </Template>
+  
+  <Template Uri="wifi.ext" UserAddable="1" Title="Wi-Fi" Icon="wifi">
+    <Views>
+      <View>Wireless</View>
+      <View>Wireless.Ext</View>
+    </Views>
+    <Data>
+      <Int Name="type" Value="1"/>
+      <String Name="FixedExtensions" Value="settings_wifi"/>
+    </Data>
+  </Template>
+  
+  <Template Uri="bluetooth.ext" UserAddable="1" Title="Bluetooth" Icon="bluetooth">
+    <Views>
+      <View>Wireless</View>
+      <View>Wireless.Ext</View>
+    </Views>
+    <Data>
+      <Int Name="type" Value="2"/>
+      <String Name="FixedExtensions" Value="settings_bluetooth"/>
+    </Data>
+  </Template>
+
+  <Template Uri="flight" UserAddable="1" Title="Airplane Mode">
+    <Views>
+      <View CondNeg="10">Wireless</View>
+    </Views>
+    <Data>
+      <Int Name="type" Value="4"/>
+    </Data>
+  </Template>
+
+  <Template Uri="clock" UserAddable="1" Title="Clock">
+    <Views>
+      <View>Clock.Compact</View>
+      <View>Clock.Analog</View>
+      <View>Clock.Wide</View>
+    </Views>
+  </Template>
+
+  <Template Uri="weather" UserAddable="1" Title="Weather">
+    <Views>
+      <View>Weather.Today</View>
+      <View>Weather</View>
+      <View>Weather.Graph</View>
+      <View>Weather.Multi</View>
+      <View>Weather.Icon</View>
+    </Views>
+  </Template>
+
+  <Template Uri="battery" UserAddable="1" Title="Battery">
+    <Views>
+      <View>Battery</View>
+    </Views>
+  </Template>
+  
+  <Template Uri="operator" UserAddable="1" Title="Network Status" Icon="network">
+    <Views>
+      <View CondNeg="18">Operator</View>
+      <View Cond="20">Operator.Large</View>
+    </Views>
+  </Template>
+  
+  <Template Uri="yasearch" UserAddable="1" Title="Yandex.Search" Icon="yasearch">
+    <Views>
+      <View Cond="80">YaSearch</View>
+    </Views>
+  </Template>
+
+  <Template Uri="calendarwidget" UserAddable="1" Title="Calendar" Icon="calendar">
+    <Views>
+      <View>CalendarWidget</View>
+      <View>Calendar.Iconic</View>
+    </Views>
+  </Template>
+  
+  <Template Uri="birthdays" UserAddable="1" Title="Birthdays">
+    <Views>
+      <!--View>Birthdays.Icon</View-->
+      <View>Birthdays</View>
+    </Views>
+  </Template>
+  
+  <Template Uri="profile" UserAddable="1" Title="Sound Profile">
+    <Views>
+      <View CondNeg="10">Profile</View>
+      <!--View>Profile.Settings</View>
+      <View>Profile.Wide</View-->
+    </Views>
+  </Template>
+  
+  <Template Uri="gallery" UserAddable="1" Title="Picture Gallery">
+    <Views>
+      <!--View>Gallery.Iconic</View-->
+      <View>Gallery</View>
+    </Views>
+  </Template>
+
+  <Template Uri="sms" UserAddable="1" Title="Messaging" Icon="messages">
+    <Views>
+      <View CondNeg="10">SmsMms</View>
+    </Views>
+  </Template>
+
+  <Template Uri="worldtime" UserAddable="1" Title="World Time">
+    <Views>
+      <View>WorldTime</View>
+      <!--View>WorldTimeIcon</View-->
+    </Views>
+  </Template>
+
+  <Template Uri="news" UserAddable="1" Title="News">
+    <Views>
+      <!--View Cond="4">News.Icon</View-->
+      <View>News.Normal</View>
+    </Views>
+  </Template>
+
+  <Template Uri="facebook" UserAddable="1" Title="Facebook">
+    <Views>
+      <!--View>SocNet.Icon</View-->
+      <View Cond="4">SocNet.Normal</View>
+      <View Cond="4">SocNet.Large</View>
+    </Views>
+    <Data>
+      <Int Name="type" Value="0"/>
+    </Data>
+  </Template>
+
+  <Template Uri="twitter" UserAddable="1" Title="Twitter">
+    <Views>
+      <!--View>SocNet.Icon</View-->
+      <View Cond="4">SocNet.Normal</View>
+      <View Cond="4">SocNet.Large</View>
+    </Views>
+    <Data>
+      <Int Name="type" Value="1"/>
+    </Data>
+  </Template>
+  
+  <Template Uri="wrtwidget">
+    <Views>
+      <View>SymbianWRTWidget.Icon</View>
+	    <View>SymbianWRTWidget.Wide</View>
+    </Views>
+  </Template>
+
+  <Template Uri="lua">
+    <Views>
+      <View>Lua</View>
+    </Views>
+  </Template>
+</Templates>

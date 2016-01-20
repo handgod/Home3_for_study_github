@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<skin Name="Gallery Widget" Type="widget">
+  <items>
+    <item>
+
+      <Image Name="Icon"            File="icon.png"/>
+      <Image Name="img_loading"     File="loading.png"/>
+      <Image Name="img_loading_hr"  File="loading_hr.png"/>
+      <Image Name="img_frame"       File="frame.png"/>
+      <Image Name="img_frame_hr"    File="frame_hr.png"/>
+      <Image Name="img_mask"        File="mask.png"/>
+      <Image Name="img_program"     File="program.png"/>
+
+      <Rect  Name="rect_img_1"    X="4"    Y="5"   Width="56"   Height="60" />
+      <Rect  Name="rect_img_2"    X="60"   Y="5"   Width="56"   Height="60" />
+      <Rect  Name="rect_img_3"    X="116"  Y="5"   Width="56"   Height="60" />
+      <Rect  Name="rect_program"  X="172"  Y="5"   Width="56"   Height="64" />
+
+      <!-- actual size of the thumbnails -->
+      <Rect Name="thumb_size"  X="0" Y="0" Width="44" Height="44" />
+      <Rect Name="frame_width" X="0" Y="0" Width="2"  Height="2"  />
+
+      <!-- data for drawing ghost -->
+      <Point Name="ghost_off"  X="2" Y="-2" />
+
+    </item>
+  </items>
+</skin>
+  

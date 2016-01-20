@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<skin Name="SMS/MMS Widget" Type="widget">
+  <items>
+    <item>
+      <Image Name="separator"   File="sep_v41.png"/>
+      <Image Name="Icon"        File="icon.png"/>
+      <Image Name="IconUnread"  File="icon-unread.png"/>
+
+      <Image Name="Bubble" File="bubble.png"/>
+      <Image Name="PhotoFrame" File="photoframe.png"/>
+      <Image Name="PhotoFrameShadow" File="photoframeshadow.png"/>
+    </item>
+
+    <item BaseDpi="192">
+      <Rect Name="BubbleIntRect" X="66" Y="0" Width="0" Height="140"/>
+    </item>
+
+    <item DontScale="1">
+      <Rect Name="PhotoRect" X="8" Y="8" Width="112" Height="112"/>
+    </item>
+  </items>
+</skin>

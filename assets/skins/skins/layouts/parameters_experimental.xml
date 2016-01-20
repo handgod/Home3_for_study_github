@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Layouts>
+
+  <Layers>
+    <Layer Name="Background" Dialog="ModernDecorations"/>
+    <Layer/>
+    <Layer Name="ScrollBar" Dialog="ScrollBar"/>
+  </Layers>
+
+  <Rules>
+    <PlatformCondition Platform="tablets">
+      <UseLayout Name="Tablets"/>
+    </PlatformCondition>
+    <Default>
+      <UseLayout Name="Default"/>
+    </Default>
+  </Rules>
+
+  <General>
+    <ScrollY Value="Auto"/>
+    <DialogObject Value="Spb.Data.Parameters"/>
+    <Skin AutoSkin="settings"/>
+	<String Name="Caption" Value="Settings"/>
+  </General>
+
+  <Layout Name="Default">
+  
+    <Column Name="Main" Width="fill" Height="auto">
+	  <Plugin Name="Disclaimer" Class="Spb.LSP.Text" Width="fill" Height="auto" Margins="10 10 10 10">
+		<DefaultFont Face="Droid Sans" HeightPxl="10" Bold="n" Color="ffa0a0a0"/>
+		<Int Name="Align" Value="0"/>
+		<Int Name="WordWrap" Value="1"/>
+	    <String Name="Text" Value="The experimental features below are not ready to be shipped in the core of SPB Shell 3D. They may contain severe defects and cause system instability. Use them at your own risk."/>
+	  </Plugin>
+	  
+      <Plugin Name="h" Class="Spb.LSP.ModernSeparator" Width="fill" Height="1" Margins="0 10 10 0" />
+	  
+	  <Plugins Extends="parameters:Default"/>
+	  
+	</Column>
+  </Layout>
+
+  <Layout Name="Tablets">
+    <Column Name="Main" Extends="Default">
+	  <Plugin Name="Disclaimer" Margins="10 20 20 10"/>
+	</Column>
+  </Layout>
+  
+</Layouts>

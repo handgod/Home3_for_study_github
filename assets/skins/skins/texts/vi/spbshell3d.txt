@@ -1,0 +1,513 @@
+ a few seconds| một vài giờ
+ day| ngày
+ days| ngày
+ hour| giờ
+ hours| giờ
+ hr| giờ
+ hrs| giờ
+ lunar day| ngày âm lịch
+ min| phút
+ mins| phút
+ minute| phút
+ minutes| phút
+%d bought|%d được mua
+%d day|%d day
+%i active channel|%i kênh hoạt động
+%i active channels|%i kênh hoạt động
+%i image|%i ảnh
+%i images|%i ảnh
+%i more today|%i thêm hôm nay
+%i more...|%i thêm...
+%i page|%i trang
+%i pages|%i trang
+%i%% of Full|%i%% Trăng tròn
+%s 2007—2011 Yandex|%s 2007—2011 Yandex
+(<1 min)|(<1 phút)
+(in|(trong
+(in seconds)|(bằng giây)
+(No title)|(Không tựa đề)
+[ Loading images... ]|[ Đang tải ảnh... ]
+[ Tap here for images load ]|[ Gõ tại đây để tải ảnh ]
+A few minutes ago|Cách đây vài phút
+About|Thông tin về
+Above horizon|Trên đường chân trời
+Activate|Kích hoạt
+Activation|Kích hoạt
+Activation failed. Check your Internet connection.|Kích hoạt thất bại. Vui lòng thử lại kết nối internet của bạn.
+Active Channels|Các kênh Hoạt động
+Active channels|Các kênh hoạt động
+Add|Thêm
+Add category|Thêm hạng mục
+Add city|Thêm thành phố
+Add custom channel|Thêm kênh tùy chỉnh
+Add new city|Thêm thành phố mới
+Add note|Thêm Ghi chú
+Add Panel|Thêm panel
+Add to Home screen|Thêm vào màn hình trang chủ
+Airplane|Máy bay
+Airplane Mode|Chế độ Máy bay
+All day|Cả ngày
+All pictures|Mọi hình ảnh
+Allow resizing of all Android widgets|Cho phép định cỡ lại mọi widget android
+An hour ago|Cách đây một tiếng
+Android Shortcut|Lệnh tắt Như người
+Android Widget|Widget Như người
+Anniversary|Ngày kỷ niệm
+Appearance|Hình thức
+Application|Ứng dụng
+April|Tháng tư
+Aqua|Nước
+Aquarius|Bảo Bình
+Aries|Bạch Dương
+as of %s|cho đến %s
+at %s|tại %s
+atm|atmôtphe
+Atmospheres|Atmôtphe
+Atmospheric pressure scale|Thang áp suất khí quyển
+August|Tháng tám
+Auto|Ô-tô
+Auto (keyboard only)|Tự động (chỉ bàn phím thôi)
+Auto arrange widgets|Tự động sắp xếp các widget
+Automatic|Tự động
+Automatic naming|Đặt tên tự động
+Backlight|Đèn backlight
+Battery|Pin
+Below horizon|Dưới đường chân trời
+Birthday|Sinh nhật
+Birthdays|Sinh nhật
+Black|Đen
+Blue|Xanh dương
+Bluetooth|Bluetooth
+Bookmarks|Dấu sách
+Bookmarks Folder|Danh mục Dấu sách
+Business|Công việc
+Buy!|Mua!
+Cache size|Kích cỡ chỗ cất giữ
+Calculator|Máy tính
+Calendar|Lịch
+Calendar Panel|Panel Lịch
+Calendar Panel Settings|Cài đặt panel lịch
+Call|Gọi
+Call Log|Nhật ký Cuộc gọi
+Cancel|Hủy
+Cancer|Con Cua
+Capricorn|Ma Kết
+Categories|Hạng loại
+Category Name|Tên Hạng loại
+Celsius (#short)|Celsius
+Change|Thay đổi
+Change City|Thay đổi Thành phố
+Change profile|Thay đổi cấu hình
+Channels list|Danh sách các kênh
+Choose Color|Chọn màu
+Choose Program|Chọn Chương trình
+Choose SPB Widget|Chọn widget SPB
+Choose widget|Chọn widget
+Clear|Trong sáng
+Clear cache|Xóa chỗ cất giữ
+Clock|Đòng hồ
+Cloudy|Có mây
+Cloudy, hail|Có mây, mưa đá
+Cloudy, heavy rain|Có mây, mưa to
+Cloudy, heavy snow|Có mây, tuyết nhiều
+Cloudy, rain|Có mây, mưa
+Cloudy, rain with snow|Có mây, mưa với tuyết
+Cloudy, snow|Có mây, tuyết
+Cloudy, thunder|Có mây, sấm sét
+Color anaglyph (red/cyan)|Cặp ảnh nổi màu bổ sung (đỏ/lục lam)
+Communication|Giao tiếp
+Contact|Số liên lạc
+Contacts|Danh bạ
+Contacts Folder|Danh bạ
+Copyright %s 2007-2011\nSPB Software|Phần mềm Bản quyền %s 2007-2011\nSPB
+Copyright %s 2007-2012\nSPB Software|Phần mềm Bản quyền %s 2007-2012\nSPB
+Create Folder|Tạo Danh mục
+Current|Hiện hành
+Current city|Thành phố hiện hành
+Current conditions|Các điều kiện Hiện hành
+Current Conditions|Các điều kiện Hiện hành
+Current skin|Vỏ hiện hành
+Day|Ngày
+Deal of the Day|Giao dịch trong Ngày
+Deal of the Day Panel|Panel Giao dịch trong Ngày
+Deal of the Day Panel Settings|Cài đặt panel Giao dịch trong Ngày
+Deals|Các giao dịch
+December|Tháng mười hai
+Default|Mặc định
+Delete note|Xóa ghi chú
+Dew point:|Điểm đọng sương
+Diagnostic tools|Công cụ chẩn đoán
+Disabled|Vô hiệu hóa
+Discoverable|Có thể khám phá
+Done|Xong
+Download Original|Tải Bản gốc
+Downloading images|Tải hình ảnh
+E|đông
+east|đông
+Edit channel|Soạn thảo kênh
+Edit note|Soạn thảo ghi chú
+Edit panels|Soạn thảo các panel
+Emergency only|Chỉ trường hợp khẩn cấp
+Empty Panel|Panel trống
+Enable live wallpapers|Kích hoạt ảnh nền sống động
+Enabled|Đã kích hoạt
+Enter RSS feed title|Nhập tựa cấp liệu RSS
+Enter RSS feed URL|Nhập URL cấp liệu RSS
+Entertainment|Giải trí
+Error|Lỗi
+Evening|Tối
+Every 2 hours|Mỗi 2 tiếng
+Every 24 hours|Mỗi 24 tiếng
+Every 30 Minutes|Mỗi 30 phút
+Every 30 minutes|Mỗi 30 phút
+Every 4 hours|Mỗi 4 tiếng
+Every hour|Mỗi tiếng
+Exit|Thoát
+Experimental|Thử nghiệm
+Experimental Settings|Cài đặt thử nghiệm
+Experimental settings|Cài đặt thử nghiệm
+Fahrenheit (#short)|Fahrenheit
+Failed to load RSS|Không tải được RSS
+Favorite Contacts|Số liên lạc ưa thích
+Favorite contacts|Số liên lạc ưa thích
+February|Tháng hai
+Filter|Lọc
+First day of the week|Ngày đầu tiên trong tuần
+First Quarter|Tuần trăng Đầu tiên
+Flight|Chuyến bay
+Folder|Danh mục
+Folder Name|Tên Danh mục
+Forecast|Dự báo
+from forecast|từ dự báo
+Full Moon|Trăng tròn
+Gallery|Bộ sưu tập
+Games|Trò chơi
+Gemini|Song Sinh
+Grayscale anaglyph (red/cyan)|Cặp ảnh nổi màu bổ sung thang độ xám (đỏ/lục lam)
+Green|Xanh lục
+G-Sensor|Cảm biến G
+Half an hour ago|Cách đây ửa tiếng
+Hectopascals|Hectopascal
+Hide Duplicates|Ẩn các bản sao
+Hide SIM Contacts|Ẩn danh bạ SIM
+Home|Trang chủ
+Home Settings|Cài đặt trang chủ
+Home settings|Cài đặt trang chủ
+hpa|hectopascal
+Humidity:|Độ ẩm:
+in %u days|trong %u ngày
+in Home Settings|Cài đặt tại Quay về
+inch|inch
+Inches|Inch
+Increase Counter|Tăng máy đếm
+Interface mode|Chế độ giao diện
+Invisible|Tàng hình
+January|Tháng giêng
+July|Tháng bảy
+June|Tháng sáu
+Kilometers per hour|kilômét một giờ
+Knots|hải lý
+knots|hải lý
+kph|km/g
+kts|Hải lý
+Landscape|Cảnh
+Landscape orientation required to enable left-to-right stereo mode|Cần định hướng phong cảnh để kích hoạt chế độ stereo trái sang phải
+Large|Rộng
+Last Call|Cuộc gọi Cuối cùng
+Last Message|Tin nhắn Cuối cùng
+Last Quarter|Tuần trăng Cuối cùng
+Last updated|Cập nhật lần cuối
+Left-to-right (HTC EVO 3D)|Trái sang phải (HTC EVO 3D)
+Legal information|Thông tin pháp lý
+Legal notices|Thông báo pháp lý
+Leo|Sư Tử
+Libra|Thiên Bình
+Lifestyle|Phong cách sống
+Live wallpapers can cause performance degradation of your 3D home screen. Switching between live and static wallpapers can take up to a minute. Static wallpapers are recommended for the best experience.|Ảnh nền sống động có thể gây xuống cấp thực thi của màn hình chủ 3D của bạn. Hoán đổi giữa ảnh nền sống động và tĩnh ct1 mất đến một phút. Ảnh nền tĩnh được khuyến cáo cho sự trải nghiệm tốt nhất.
+Loading failed|Tải thất bại
+Loading image for wallpaper|Tải hình cho ảnh nền
+Loading RSS feed %s...|Đang tải cấp liệu RSS %s...
+Loading skin failed!|Tải vỏ thất bại!
+Loading skins catalog failed!|Tải catalog vỏ thất bại!
+Loading...|Đang tải…
+Logging In...|Đang đăng nhập…
+Lunar Calendar|Âm Lịch
+Lunar day %d|Ngày âm lịch %d
+Manage apps|Quản lý Ứng dụng
+Manage Apps|Quản lý Ứng dụng
+Manage panels|Quản lý panel
+Manage Panels|Quản lý panel
+March|Tháng ba
+May|Tháng năm
+Messaging|Gửi tin nhắn
+Meters per second|Mét một giây
+Miles per hour|Dậm một giờ
+Millimetres|Milimét
+Misc|Linh tinh
+Miscellaneous|Linh tinh
+mm|mm
+Mobile|Di động
+Mode|Chế độ
+Monday|Thứ hai
+Moon|Trăng
+Moon Calendar|Âm Lịch
+Moon in %s,|Trăng vào %s,
+Morning|Sáng
+mph|dặm/g
+mps|m/giây
+Multimedia|Truyền thông đa phương tiện
+Music|Âm nhạc
+Music albums|Album nhạc
+N|bắc
+N/A|N/A
+nd|thứ
+NE|đông bắc
+Network Status|Tình trạng Mạng
+Never|Không bao giờ
+New Channel|Kênh mới
+New channel|Kênh mới
+New Contact|Số liên lạc mới
+New Folder|Danh mục Mới
+New Moon|Trăng Non
+News|Tin tức
+News Panel|Panel Tin tức
+News Panel Settings|Cài đặt Panel Tin Tức
+next|tiếp theo
+Next Alarm|Báo động Kế tiếp
+Night|Đêm
+No|Không
+no|Không
+No Alarms|Không Báo động
+No birthdays|Không có sinh nhật
+No calls|Không có cuộc gọi
+No Cities|Không có Thành phố
+No conditions|Không có điều kiện
+No Contacts.|Không có số liên lạc
+No Countries|Không có Quốc gia
+No deals loaded|Không có giao dịch được tải
+No Images|Không Hình ảnh
+No messages|Không có tin nhắn
+No news|Không có tin tức
+No rise/set info|Không có thông tin mặt trời mọc/cài đặt thông tin
+No RSS feed found at|Không tìm thấy cấp liệu RSS tại
+No rss loaded|Không có rss được tải
+No SIM|Không có SIM
+No text messages|Tin nhắn văn bản
+No title|Không tựa đề
+No upcoming events|Không có sự kiện sắp đến
+No upcoming events in a week|Không có sự kiện sắp tới trong một tuần
+No updates|Không có cập nhật
+No weather forecast|Không có dự báo thời tiết
+Normal|Bình thường
+north|bắc
+north east|đông bắc
+north west|tây bắc
+Not available|Không có
+Not connected|Không kết nối
+Notes|Ghi chú
+Note's default color|Màu mặc định của ghi chú
+Note's font|Phông chữ của ghi chú
+Notes Panel|Panel Ghi chú
+Notes Panel Settings|Cài đặt Panel Ghi chú
+November|Tháng mười một
+NW|tây bắc
+October|Tháng mười
+Off|Tắt
+Offer|Chào
+On|Bật
+One Touch Share|One Touch Share
+Only on free connections|Chỉ có trên kết nối miễn phí
+Open Contact|Mở số liên lạc
+Open in Browser|Mở trong Trình duyệt
+OpenGL 2.0 is required to run SPB Shell 3D|Yêu cầu mở GL 2.0 để chạy SPB Shell 3D
+Optimized anaglyph (red/cyan)|Cặp ảnh nổi màu bổ sung tối ưu (đỏ/lục lam)
+Other (assistant)|Khác (trợ lý)
+Page|Trang
+Pages: %d, images: %d|Trang: %d, hình ảnh: %d
+Panel Name|Tên panel
+Parsing skins catalog failed!|Phân tích catalog vỏ thất bại!
+Partly cloudy|Hơi có mây
+Partly cloudy, rain|Hơi có mây, mưa
+Partly cloudy, snow|Hơi có mây, tuyết
+Partly cloudy, thunder|Hơi có mây, sấm sét
+People|Thiên hạ
+Performance Warning|Cảnh báo Thực thi
+Performance Warning dialog|đối thoại Cảnh báo Thực thi
+Personal|Cá nhân
+Phone|Điện thoại
+Photo folder for gallery widgets|Danh mục ảnh cho các widget bộ sưu tập
+Picture Gallery|Bộ sưu tập Hình
+Picture of the Day|Hình của Ngày
+Picture Panel Settings|Cài đặt panel hình
+Pictures|Hình
+Pictures Of The Day|Hình ảnh Của Ngày
+Pictures Panel|Panel Hình
+Pictures Panel Settings|Cài đặt Panel Hình
+Pictures Settings|Cài đặt hình
+Pisces|Song Ngư
+Please Log In|Xin vui lòng đăng nhập
+Please wait...|Vui lòng chờ…
+Portrait|Chân dung
+Pressure:|Áp suất:
+Problem loading widget|Vấn đề tải widget
+Productivity|Năng suất
+Program|Chương trình
+Pulkovo|Pulkovo
+Purchase|Mua
+Purple|Màu tía
+Radio off|Tắt radio
+rd_loc|thứ
+Reading appointments...|Đang đọc các cuộc hẹn…
+Recycle Bin|Thùng rác
+Red|Đỏ
+Reduced|Được giảm
+Reload skin list|Tải lại dánh sách vỏ
+Remove All|Bỏ tất cả
+Rename|Đặt tên lại
+Rename Panel|Đặt tên lại panel
+Requesting images|Yêu cầu hình ảnh
+Retry|Thử lại
+Rise: %s|Mặt trời mọc: %s
+RSS Feed|Cấp RSS
+RSS Panel|Panel RSS
+RSS Panel Settings|Cài đặt panel RSS
+S|nam
+Safe mode|Chế độ an toàn
+Sagittarius|Nhân Mã
+Saint-Petersburg|Saint-Petersburg
+Save as New|Lưu như Mới
+Save to Existing|Lưu vào Hiện có
+Scorpio|Hổ Cáp
+Screen orientation|Định hướng màn hình
+SE|đông nam
+Searching|Đang tìm
+Select Channel|Chọn Kênh
+Select cities|Chọn các thành phố
+Select e-mail address|Chọn địa chỉ email
+Select phone number:|Chọn số điện thoại:
+Select shortcut|Chọn lệnh tắt
+Select Skin|Chọn Vỏ
+Select wallpaper from|Chọn ảnh nền từ
+Selected cities|Các thành phố đã chọn
+Selected City|Thành phố được chọn
+Selected city|Thành phố được chọn
+Send E-mail|Gửi email
+Send E-Mail|Gửi email
+Send Message|Gửi tin nhắn
+Send MMS|Gửi tin MMS
+Send SMS|Gửi tin SMS
+September|Tháng chín
+Serial number:|Số xê-ri:
+Set as Home|Cài đặt làm Trang chủ
+Set as Wallpaper|Cài đặt làm Ảnh nền
+Set wallpaper|Cài ảnh nền
+Set: %s|Cài giờ: %s
+Settings|Cài đặt
+Show all|Hiển thị tất cả
+Show all day events|Hiển thị mọi sự kiện trong ngày
+Show all day events in calendar widgets|Hiển thị các sự kiện cả ngày trong widget lịch
+Show full news|Hiển thị tin tức đầy đủ
+Show images in news|Hiển thị hỉnh ảnh trong tin tức
+Silent|Im lặng
+Skin loading|Tải vỏ
+Small|Nhỏ
+Smartphone|Điện thoại thông minh
+Smog|Sương mù
+Social|Xã hội
+Sound Profile|Cấu hình Âm thanh
+south|nam
+south east|đông nam
+south west|tây nam
+SPB Shell 3D is loading...|SPB Shell 3D đang tải...
+SPB Wallpapers|Ảnh nền SPB
+SPB Widget|SPB Widget
+st|thứ
+Standard Edition [Beta]|Phiên bản Chuẩn [Beta]
+Stereoscopic 3D mode|Chế độ 3D hình nổi
+Stereoscopic 3D mode will be disabled|Chế độ 3D stereo sẽ được tắt
+Stereoscopic 3D Settings|Cài đặt 3D hình nổi
+Sun in %s,|Mặt trời vào %s,
+Sunday|Chủ nhật
+SW|tây nam
+Switching the interface mode can take up to a minute. Screen orientation will be changed to '%s'.|Hoán đổi chế độ giao diện có thể mất đến một phút. Định hướng màn hình sẽ thay đổi thành '%s'.
+System|Hệ thống
+Tablet|Bảng con
+Taurus|Kim Ngưu
+Temperatur scale|Thang nhiệt độ
+Temperature scale|Thang nhiệt độ
+Test Battery|Thử pin
+th|thứ
+Thank you for your support. Your copy is now registered.|Cảm ơn sự hỗ trợ của bạn. Nay bản của bạn đã được đăng ký.
+The experimental features below are not ready to be shipped in the core of SPB Shell 3D. They may contain severe defects and cause system instability. Use them at your own risk.|Các tính năng thử nghiệm sau đây chưa sẵn sàng để gửi trong lõi SPB Shell 3D. Chúng có thể chứa khuyết điểm nghiêm trọng và gây bất ổn hệ thống. Hãy tự mạo hiểm sử dụng chúng.
+The maximum number of panels is reached|Đã đạt số lượng panle tối đa
+The name cannot be changed.|Tên không thay đổi được.
+The previous launch of SPB Shell 3D was unsuccessful. Please tap "Retry" to launch it again or "Home" to activate a different Home screen.|Lần khởi chạy trước đó của SPB Shell 3D đã không thành công. Vui lòng gõ "Thử lại" để khởi chạy lần nữa hoặc "Trở về" để kích hoạt một Màn hình trang chủ khác.
+Time|Thời gian
+Time Panel|Panel Thời gian
+Time Panel Settings|Cài đặt Panel Thời gian
+Today|Hôm nay
+Toggle|Bập bênh
+Tomorrow|Ngày mai
+Tools|Công cụ
+Travel|Du lịch
+Unfortunately, we could not locate your purchase in Android Market. Please uninstall this copy before installing a new one.|Rất tiếc, chúng tôi không định vị được món hàng mua của bạn trên Thị trường Android. Vui lòng tháo cài đặt bản này trước khi cài đặt bản mới.
+Unfortunately, we could not locate your purchase. Please uninstall this copy before installing a new one.|Rất tiếc, chúng tôi không định vị được món hàng mua của bạn. Vui lòng tháo cài đặt bản này trước khi cài đặt bản mới.
+Uninstall|Tháo cài đặt
+Uninstall apps|Tháo cài đặt ứng dụng
+Unknown|Không nhận ra
+Unknown location|Địa điểm không xác định
+Upcoming events|Các sự kiện sắp đến
+Update|Cập nhật
+Update deals list automatically|Cập nhật danh sách giao dịch tự động
+Update Now|Cập nhật ngay
+Update pictures page automatically|Cập nhật trang hình tự động
+Update weather forecasts automatically|Tự động cập nhật dự báo thời tiết
+Updated|Được cập nhật
+Updated:|Được cập nhật:
+Updating image|Cập nhật hình ảnh
+Updating...|Đang cập nhật…
+Use 3D in application list|Sử dụng 3D trong danh sách ứng dụng
+Use 3D in edit mode|Dùng 3D ở chế độ soạn thảo
+Use cellular connection for updating deals list|Dùng kết nối di động để cập nhật danh sách giao dịch
+Use cellular connection for updating deals list automatically|Dùng kết nối di động để tự động cập nhật danh sách giao dịch
+Use cellular connection for updating pictures automatically|Dùng kết nối di động để cập nhật hình tự động
+Use cellular connection for updating weather automatically|Dùng kết nối di động để tự động cập nhật thời tiết
+Use new color every time|Dùng màu mới mỗi lần
+Use previous note's color|Dùng màu của ghi chú trước đó
+Value|Giá trị
+variable|biến số
+Version %s, Build %s|Phiên bản %s, Thiết lập %s
+Vibro|Rung
+Video Call|Gọi video
+View Duplicates|Xem các bản sao
+View SIM Contacts|Xem danh bạ SIM
+Virgo|Xử Nữ
+W|tây
+Wallpaper|Ảnh nền
+Wallpapers|Ảnh nền
+Waning Crescent|Trăng lưỡi liềm khuyết
+Waning Gibbous|Trăng khuyết
+Waxing Crescent|Trăng lưỡi liềm tròn dần
+Waxing Gibbous|Trăng khuyết tròn dần
+Weather|Thời tiết
+Weather and Clock|Thời tiết và Đồng hồ
+Weather Forecast|Dự báo Thời tiết
+Weather Settings|Cài đặt Thời tiết
+Welcome to notes panel|Chào mừng đến với bảng ghi chú
+west|tây
+Widget is too big to be added.|Widget quá to để được thêm vào.
+Widgets|Các widget
+Widgets Settings|Cái đặt các widget
+Wind direction:|Hướng gió:
+Wind speed scale|Thang tốc độ gió
+Wind speed:|Tốc độ gió:
+Wind:|Gió:
+Work|Công việc
+World Time|Giờ Thế giới
+Wrong serial number. Please check it again.|Số xê-ri sai. Vui lòng thử lại.
+Yandex.Search|Yandex.Search
+Yellow|Vàng
+Yes|Có
+Yesterday|Hôm qua
+You save|Bạn tiết kiệm
+Your video system isn't compatible with Shell 3D.|Hệ video của bạn không tương thích với Shell 3D.

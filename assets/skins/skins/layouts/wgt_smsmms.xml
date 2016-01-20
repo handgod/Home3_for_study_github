@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+
+<Layouts Name="SMS/MMS Widget" Type="widget">
+
+  <Rules>
+    <PlatformCondition Platform="tablets">
+      <ScreenCondition Orientation="portrait">
+        <UseLayout Name="TabletsPortrait"/>
+      </ScreenCondition>
+      <Default>
+        <UseLayout Name="TabletsLandscape"/>
+      </Default>
+    </PlatformCondition>
+    <Default>
+      <ScreenCondition Orientation="landscape">
+        <UseLayout Name="SmartphoneLandscape"/>
+      </ScreenCondition>
+      <Default>
+        <UseLayout Name="Default"/>
+      </Default>
+    </Default>
+  </Rules>
+
+  <General>
+    <Skin AutoSkin="wgt_smsmms"/>
+    <Font Name="SenderFont" Face="Droid Sans" HeightPxl="10" Bold="y" Color="FF000000"/>
+    <Font Name="TextFont" Face="Droid Sans" HeightPxl="8" Bold="n" Color="FF000000"/>
+    <Font Name="TimeFont" Face="Droid Sans" HeightPxl="10" Bold="n" Color="FF4D4D4D"/>
+    <Font Name="NoSmsFont" Face="Droid Sans" HeightPxl="11" Bold="y" Color="FF000000"/>
+  </General>
+
+  <Layout Name="MessageDefault">
+    <Plugins LayoutType="frame">
+      <LayoutSize Width="fill" Height="fill"/>
+
+      <Plugin Class="Spb.LSP.Generic" ID="20" Name="Bubble">
+        <LayoutSize Width="fill" Height="fill"/>
+      </Plugin>
+
+      <Plugins LayoutType="frame">
+        <LayoutSize Width="fill" Height="fill"/>
+        <LayoutMargins Left="26" Right="8" Top="9" Bottom="7"/>
+
+        <Plugins LayoutType="frame">
+          <LayoutSize Width="fill" Height="fill"/>
+          <Plugins LayoutType="frame">
+            <LayoutSize Width="fill" Height="12"/>
+            <Plugin Class="Spb.LSP.Generic" ID="31" Name="Sender">
+              <LayoutSize Width="fill" Height="fill"/>
+              <LayoutMargins Left="0" Right="0" Top="0" Bottom="0"/>
+              <Font Name="Font" Face="Droid Sans" HeightPxl="10" Bold="y" Color="FF000000"/>
+              <Int Name="TimestampClip" Value="1"/>
+            </Plugin>
+            <Plugin Class="Spb.LSP.Generic" ID="32" Name="Time">
+              <LayoutSize Width="fill" Height="fill"/>
+              <LayoutMargins Left="0" Right="0" Top="0" Bottom="0"/>
+              <Font Name="Font" Face="Droid Sans" HeightPxl="10" Bold="n" Color="FF4D4D4D"/>
+              <Int Name="LeftAlign" Value="0"/>
+            </Plugin>
+          </Plugins>
+          <Plugin Class="Spb.LSP.Generic" ID="30" Name="Text">
+            <LayoutSize Width="fill" Height="fill"/>
+            <LayoutMargins Left="0" Right="0" Top="14" Bottom="0"/>
+            <Font Name="Font" Face="Droid Sans" HeightPxl="8" Bold="n" Color="FF000000"/>
+          </Plugin>
+        </Plugins>
+
+        <Plugins LayoutType="frame">
+          <LayoutSize Width="fill" Height="fill"/>
+          <Plugin Class="Spb.LSP.Generic" ID="50" Name="NoSms">
+            <LayoutSize Width="fill" Height="fill"/>
+          </Plugin>
+        </Plugins>
+        
+      </Plugins>
+    </Plugins>
+  </Layout>
+  
+  <Layout Name="Default">
+    <Plugins LayoutType="frame">
+      <LayoutSize Width="fill" Height="fill"/>
+
+      <Plugins LayoutType="frame">
+        <LayoutSize Width="70" Height="fill"/>
+        <LayoutMargins Left="0" Right="0" Top="10" Bottom="8"/>
+        <Plugin Class="Spb.LSP.Generic" ID="10" Name="Photo" Align="center|center_vert">
+          <LayoutSize Width="56" Height="fill"/>
+        </Plugin>
+      </Plugins>
+
+      <Plugins Extends="MessageDefault">
+        <LayoutMargins Left="60" Right="0" Top="3" Bottom="2"/>
+      </Plugins>
+
+    </Plugins>
+  </Layout>
+
+  <Layout Name="SmartphoneLandscape">
+    <Plugins LayoutType="frame">
+      <LayoutSize Width="fill" Height="fill"/>
+
+      <Plugins LayoutType="frame">
+        <LayoutSize Width="70" Height="fill"/>
+        <LayoutMargins Left="0" Right="0" Top="6" Bottom="6"/>
+        <Plugin Class="Spb.LSP.Generic" ID="10" Name="Photo" Align="center|center_vert">
+          <LayoutSize Width="54" Height="fill"/>
+        </Plugin>
+      </Plugins>
+
+      <Plugins Extends="MessageDefault">
+        <LayoutMargins Left="54" Right="0" Top="3" Bottom="2"/>
+      </Plugins>
+      
+    </Plugins>
+  </Layout>
+  
+  <Layout Name="TabletsPortrait">
+    <Plugins LayoutType="frame">
+      <LayoutSize Width="fill" Height="92"/>
+
+      <Plugins LayoutType="frame">
+        <LayoutSize Width="70" Height="fill"/>
+        <LayoutMargins Left="0" Right="0" Top="20" Bottom="20"/>        
+        <Plugin Class="Spb.LSP.Generic" ID="10" Name="Photo" Align="center|center_vert">
+          <LayoutSize Width="fill" Height="fill"/>
+        </Plugin>
+      </Plugins>
+
+      <Plugins LayoutType="frame">
+        <LayoutSize Width="fill" Height="fill"/>
+        <LayoutMargins Left="60" Right="0" Top="0" Bottom="0"/>
+
+        <Plugin Class="Spb.LSP.Generic" ID="20" Name="Bubble">
+          <LayoutSize Width="fill" Height="fill"/>
+        </Plugin>
+
+        <Plugins LayoutType="frame">
+          <LayoutSize Width="fill" Height="fill"/>
+          <LayoutMargins Left="26" Right="9" Top="9" Bottom="7"/>
+          <Plugins LayoutType="linear" Orientation="vertical">
+            <LayoutSize Width="fill" Height="fill"/>
+            <Plugin Class="Spb.LSP.Generic" ID="31" Name="Sender">
+              <LayoutSize Width="fill" Height="12"/>
+              <LayoutMargins Left="0" Right="4" Top="0" Bottom="0"/>
+              <Int Name="TimestampClip" Value="0"/>
+            </Plugin>
+            <Plugin Class="Spb.LSP.Generic" ID="32" Name="Time">
+              <LayoutSize Width="fill" Height="12"/>
+              <LayoutMargins Left="0" Right="0" Top="0" Bottom="0"/>
+              <Int Name="LeftAlign" Value="1"/>
+            </Plugin>
+            <Plugin Class="Spb.LSP.DashLine" ID="40" Name="DashLine">
+              <LayoutSize Width="fill" Height="1"/>
+              <LayoutMargins Left="2" Right="2" Top="3" Bottom="3"/>
+            </Plugin>
+            <Plugin Class="Spb.LSP.Generic" ID="30" Name="Text" StretchFactor="1">
+              <LayoutSize Width="fill" Height="0"/>
+              <LayoutMargins Left="0" Right="0" Top="0" Bottom="0"/>
+            </Plugin>
+          </Plugins>
+        </Plugins>
+
+        <Plugins LayoutType="frame">
+          <LayoutSize Width="fill" Height="fill"/>
+          <LayoutMargins Left="26" Right="9" Top="9" Bottom="7"/>
+          <Plugin Class="Spb.LSP.Generic" ID="50" Name="NoSms">
+            <LayoutSize Width="fill" Height="fill"/>
+          </Plugin>
+        </Plugins>
+      </Plugins>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="TabletsLandscape">
+    <Plugins LayoutType="frame">
+      <LayoutSize Width="fill" Height="fill"/>
+      <LayoutMargins Left="0" Right="0" Top="9" Bottom="9"/>
+
+      <Plugins Extends="Default">
+      </Plugins>
+    </Plugins>
+  </Layout>
+
+</Layouts>

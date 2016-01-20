@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<Layouts Name="Folder" Type="widget">
+  <Rules>
+    <ScreenCondition Width="480" Height="320">
+      <UseLayout Name="480x320"/>
+    </ScreenCondition>
+
+	<ScreenCondition Orientation="landscape">
+      <PlatformCondition Platform="tablets">
+		<UseLayout Name="Default"/>
+	  </PlatformCondition>
+	  <Default>
+		<UseLayout Name="Landscape"/>
+	  </Default>
+	</ScreenCondition>
+	
+	<Default>  
+	  <UseLayout Name="Default"/>
+	</Default>
+  </Rules>
+
+  <General>
+    <Int Name="InFolder" Value="1"/>
+    <ScrollY Value="Auto"/>
+    <AbsoluteSize Name="PageDim"  X="4"  Y="100"/>
+  </General>
+
+  <Layout Name="Default">
+    <General>
+      <Rect Name="ContentRect" X="0" Y="0" Width="224" Height="56" />
+    </General>
+    <Plugins>
+	  <Plugin Name="OneBlock"><BoundRect X="0" Y="0" Width="56" Height="56" /></Plugin>
+      <Plugins Name="WidgetsGroup">
+        <!-- Here home widgets go -->
+      </Plugins>
+    </Plugins>
+  </Layout>
+  
+  <Layout Name="Landscape">
+    <General>
+      <Rect Name="ContentRect" X="0" Y="0" Width="336" Height="56" />
+      <AbsoluteSize Name="PageDim"  X="6"  Y="100"/>
+    </General>
+    <Plugins Extends="Default"></Plugins>
+  </Layout>
+	
+  <Layout Name="480x320">
+    <General>
+      <AbsoluteSize Name="PageDim"  X="5"  Y="100"/>
+    </General>
+    <Plugins Extends="Landscape"></Plugins>
+  </Layout>
+  
+</Layouts>

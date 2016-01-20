@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<skin Name="Panel Frame">
+  <items>
+    <item DontScale="1">
+      <Image Name="Image" File="frame.png"/>
+      <Rect Name="ImageInt" X="7" Y="37" Width="240" Height="381"/>
+      <Int Name="Caption" Value="1"/>
+      
+      <Rect Name="BaseScreen_L" X="0" Y="0" Width="800" Height="432"/>
+      <Rect Name="Frame_L" X="-14" Y="-54" Width="828" Height="510"/>
+      <Rect Name="FrameInt_L" X="0" Y="0" Width="800" Height="432"/>
+      <Rect Name="FramePos_L" X="0" Y="0" Width="800" Height="432"/>
+
+      <Rect Name="BaseScreen_P" X="0" Y="0" Width="480" Height="762"/>
+      <Rect Name="Frame_P" X="-14" Y="-75" Width="508" Height="860"/>
+      <Rect Name="FrameInt_P" X="0" Y="0" Width="480" Height="762"/>
+      <Rect Name="FramePos_P" X="0" Y="0" Width="480" Height="762"/>
+    </item>
+    <item>
+      <Font Name="CaptionFont" Face="Droid Sans" HeightPxl="20" Bold="n" Color="FFFFFFFF"/>
+    </item>
+  </items>
+</skin>

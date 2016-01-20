@@ -1,0 +1,369 @@
+<?xml version="1.0"?>
+
+<Layouts Name="Moon panel" Type="panel">
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layers>
+    <Layer Name="PanelFrame" Dialog="PanelFrame"/>
+    <Layer/>
+  </Layers>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Rules>
+    <!-- tablets specification -->
+    <PlatformCondition Platform="tablets">
+      <ScreenCondition Orientation="landscape"> <UseLayout Name="Landscape_Tablet"/> </ScreenCondition>
+      <ScreenCondition Orientation="portrait">  <UseLayout Name="Portrait_Tablet"/>  </ScreenCondition>
+    </PlatformCondition>
+
+    <!-- phones specification -->
+    <PlatformCondition Platform="smartphone">
+      <ScreenCondition Orientation="landscape"> <UseLayout Name="Landscape"/> </ScreenCondition>
+      <ScreenCondition Orientation="portrait">  <UseLayout Name="Portrait"/>  </ScreenCondition>
+    </PlatformCondition>
+  </Rules>
+
+  <!-- **************************************************************************************************************** -->
+
+  <General>
+    <Skin AutoSkin="timepanel_moon"/>
+    <DialogObject Value="Spb.Data.MoonPanel"/>
+
+    <Font Name="ftHeader"    Face="Droid Sans" HeightPxl="12" Bold="y" Color="FFFFFFFF"/>
+    <Font Name="ftPhase"     Face="Droid Sans" HeightPxl="12" Bold="y" Color="FFFFFFFF"/>
+    <Font Name="ftPercent"   Face="Droid Sans" HeightPxl="12" Bold="y" Color="FFFFA0A0"/>
+    <Font Name="ftZodiac"    Face="Droid Sans" HeightPxl="10" Bold="y" Color="FFFFFFFF"/>
+    <Font Name="ftMarker"    Face="Droid Sans" HeightPxl="9"  Bold="y" Color="FFFFFFFF"/>
+    <Font Name="ftMoonDay"   Face="Droid Sans" HeightPxl="9"  Bold="n" Color="FFFFA0A0"/>
+    <Font Name="ftNextText"  Face="Droid Sans" HeightPxl="10" Bold="y" Color="FFFFFFFF"/>
+    <Font Name="ftNextPhase" Face="Droid Sans" HeightPxl="9"  Bold="n" Color="FFFFA0A0"/>
+    <Font Name="ftRiseSet"   Face="Droid Sans" HeightPxl="9"  Bold="n" Color="FFFFA0A0"/>
+  </General>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="Background">
+    <Frame Width="fill" Height="fill">
+      <!-- frame and filler -->
+      <Plugin Name="Fill" ID="102" Width="fill" Height="fill"/>
+      <!-- nebula image --> 
+      <Plugin Name="Nebula" Class="Spb.LSP.Image" Width="fill" Height="fill">
+        <String Name="ImageName" Value="Nebula"/>
+        <Int Name="DialogData" Value="0"/>
+        <Int Name="Stretch" Value="1"/>
+      </Plugin>
+      <!-- generated starfield -->
+      <Plugin Name="Stars" ID="101" Width="fill" Height="fill"/>
+    </Frame>
+  </Layout>
+
+  <Layout Name="MoonHeader">
+    <Row Width="fill" Height="25">
+      <Plugin Width="30" Height="fill" Name="PrevDay" ID="200" AutoSkin="misc"/>
+      <Plugin Width="00" Height="fill" Name="CurDate"  ID="202" StretchFactor="1"/>
+      <Plugin Width="30" Height="fill" Name="NextDay" ID="201" AutoSkin="misc"/>
+      <Plugin Width="01" Height="fill" Name="LastSep"  Class="Spb.LSP.Separator">
+        <Int Name="Falloff" Value="40"/>
+        <Int Name="Opacity" Value="150"/>
+      </Plugin>
+    </Row>
+  </Layout>
+
+  <Layout Name="MoonSceneAndBorders">
+    <Col Width="fill" Height="fill">
+      <Plugin Width="fill" Height="fill" StretchFactor="1" Name="col01"/>
+      <Row Width="fill" Height="fill" StretchFactor="4">
+        <Plugin Width="fill" Height="fill" StretchFactor="1" Name="row01"/>
+        <Plugin Width="fill" Height="fill" StretchFactor="3" Name="MoonScene" ID="100"/>
+        <Plugin Width="fill" Height="fill" StretchFactor="1" Name="row02"/>
+      </Row>
+      <Plugin Width="fill" Height="fill" StretchFactor="2" Name="col02"/>
+    </Col>
+  </Layout>
+
+  <Layout Name="PosSummary">
+    <Col Width="fill" Height="fill">
+      <Plugin Width="fill" Height="auto" Name="PosPhase" ID="300"/>
+      <Plugin Width="fill" Height="fill" Margins="1 0 0 0" StretchFactor="1" Name="MoonDay" ID="301"/>
+    </Col>
+  </Layout>
+
+  <Layout Name="NextNewMoon">
+    <Col Width="fill" Height="fill">
+      <Row Width="fill" Height="15">
+        <Plugin Width="fill" Height="fill" StretchFactor="1" Name="NextNewText" ID="700"/>
+        <Plugin Name="MoonNew" Class="Spb.LSP.Image" Width="15" Height="15">
+          <String Name="ImageName" Value="MoonNew"/> <Int Name="DialogData" Value="0"/>
+        </Plugin>
+      </Row>
+      <Plugin Width="fill" Height="fill" StretchFactor="1" Name="NextNew" ID="701"/>
+    </Col>
+  </Layout>
+
+  <Layout Name="NextNewMoon_L">
+    <Row Width="fill" Height="fill">
+      <Plugin Width="fill" Height="fill" StretchFactor="1" Name="NextNewText" ID="700"/>
+      <Plugin Name="MoonNew" Class="Spb.LSP.Image" Width="15" Height="15" Align="center">
+        <String Name="ImageName" Value="MoonNew"/> <Int Name="DialogData" Value="0"/>
+      </Plugin>
+      <Plugin Width="75" Height="fill" Name="NextNew" ID="701"/>
+    </Row>
+  </Layout>
+
+  <Layout Name="NextFullMoon">
+    <Col Width="fill" Height="fill">
+      <Row Width="fill" Height="15">
+        <Plugin Width="fill" Height="fill" StretchFactor="1" Name="NextFullText" ID="800"/>
+        <Plugin Name="MoonFull" Class="Spb.LSP.Image" Width="15" Height="15">
+          <String Name="ImageName" Value="MoonFull"/> <Int Name="DialogData" Value="0"/>
+        </Plugin>
+      </Row>
+      <Plugin Width="fill" Height="fill" StretchFactor="1" Name="NextFull" ID="801"/>
+    </Col>
+  </Layout>
+
+  <Layout Name="NextFullMoon_L">
+    <Row Width="fill" Height="fill">
+      <Plugin Width="fill" Height="fill" StretchFactor="1" Name="NextFullText" ID="800"/>
+      <Plugin Name="MoonFull" Class="Spb.LSP.Image" Width="15" Height="15" Align="center">
+        <String Name="ImageName" Value="MoonFull"/> <Int Name="DialogData" Value="0"/>
+      </Plugin>
+      <Plugin Width="75" Height="fill" Name="NextFull" ID="801"/>
+    </Row>
+  </Layout>
+
+  <Layout Name="SunZodiac">
+    <Row Width="fill" Height="15">
+      <Plugin Width="15" Height="fill" Margins="0 0 0 0" StretchFactor="0" Name="SunZIcon"  ID="401" AutoSkin="zodiac"/>
+      <Plugin Width="55" Height="fill" Margins="0 3 0 0" StretchFactor="0" Name="SunZAngle" ID="402"/>
+      <Plugin Width="00" Height="fill" Margins="0 3 0 0" StretchFactor="1" Name="SunZText"  ID="400"/>
+    </Row>
+  </Layout>
+
+  <Layout Name="SunZodiac_L">
+    <Col Width="fill" Height="fill">
+      <Plugin Width="fill" Height="0" StretchFactor="1" Name="SunZText" ID="400">
+        <Int Name="textalign" Value="6"/>
+      </Plugin>
+      <Row Width="fill" Height="0" StretchFactor="1">
+        <Plugin Width="fill" Height="fill" StretchFactor="1" Margins="0 0 5 0" Name="SunZAngle" ID="402">
+          <Int Name="textalign" Value="6"/>
+        </Plugin>
+        <Plugin Width="12" Height="12" Align="center" Name="SunZIcon"  ID="401" AutoSkin="zodiac"/>
+      </Row>
+    </Col>
+  </Layout>
+
+  <Layout Name="MoonZodiac">
+    <Row Width="fill" Height="15">
+      <Plugin Width="15" Height="fill" Margins="0 0 0 0" StretchFactor="0" Name="MoonZIcon"  ID="501" AutoSkin="zodiac"/>
+      <Plugin Width="55" Height="fill" Margins="0 3 0 0" StretchFactor="0" Name="MoonZAngle" ID="502"/>
+      <Plugin Width="00" Height="fill" Margins="0 3 0 0" StretchFactor="1" Name="MoonZText"  ID="500"/>
+    </Row>
+  </Layout>
+
+  <Layout Name="MoonZodiac_L">
+    <Col Width="fill" Height="fill">
+      <Plugin Width="fill" Height="0" StretchFactor="1" Name="MoonZText" ID="500">
+        <Int Name="textalign" Value="6"/>
+      </Plugin>
+      <Row Width="fill" Height="0" StretchFactor="1">
+        <Plugin Width="fill" Height="fill" StretchFactor="1" Margins="0 0 5 0" Name="MoonZAngle" ID="502">
+          <Int Name="textalign" Value="6"/>
+        </Plugin>
+        <Plugin Width="12" Height="12" Align="center" Name="MoonZIcon"  ID="501" AutoSkin="zodiac"/>
+      </Row>
+    </Col>
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="Portrait">
+    <Frame Width="fill" Height="fill">
+      <Plugins Extends="common:PanelSettings"/>
+
+      <Col Name="MainFrame" Width="fill" Height="fill" Margins="14 6 6 54">
+        <Plugins Extends="MoonHeader" Margins="0 0 34 0"/>
+
+        <Frame Width="fill" Height="fill" Margins="8">
+          <Plugins Extends="Background"/>
+          <Col Width="fill" Height="fill" Margins="4 6 6 4">
+            <!-- info alongside the top -->            
+            <Row Width="fill" Height="50">
+              <Plugins Extends="PosSummary" StretchFactor="1"/>
+              <Col Width="fill" Height="fill" StretchFactor="1">
+                <Plugins Extends="NextNewMoon" StretchFactor="1"/>
+                <Plugins Extends="NextFullMoon" StretchFactor="1"/>
+              </Col>
+            </Row>
+            <!-- the scene itself -->
+            <Plugins Extends="MoonSceneAndBorders"/>
+            <!-- info about sun/moon -->
+            <Plugins Extends="SunZodiac"/>
+            <Plugin Width="fill" Height="15" Name="SunRiseSet" ID="900"/>
+            <Plugins Extends="MoonZodiac"/>
+            <Plugin Width="fill" Height="15" Name="MoonRiseSet" ID="901"/>
+          </Col>
+        </Frame>
+      </Col>
+    </Frame>
+  </Layout>
+  
+  <Layout Name="Landscape">
+    <Frame Width="fill" Height="fill">
+      <Plugins Extends="common:PanelSettings_L"/>
+
+      <Col Name="MainFrame" Width="fill" Height="fill" Margins="14 7 50 10">
+        <Plugins Extends="MoonHeader" Margins="0 0 34 0"/>
+
+        <Frame Width="fill" Height="fill" Margins="7">
+          <Plugins Extends="Background"/>
+
+          <Frame Width="fill" Height="fill" Margins="4 6 6 4">
+            <!-- middle scene-->
+            <Plugins Extends="MoonSceneAndBorders" Margins="4"/>
+            <!-- top-left -->
+            <Col Width="120" Height="50" Align="top|left">
+              <Plugins Extends="PosSummary"/>
+            </Col>
+            <!-- top-right -->
+            <Col Width="120" Height="60" Align="top|right">
+              <Plugins Extends="SunZodiac_L"/>
+              <Plugins Extends="MoonZodiac_L"/>
+            </Col>
+            <!-- bottom-right -->
+            <Col Width="140" Height="30" Align="bottom|right">
+              <Plugins Extends="NextNewMoon_L" StretchFactor="1"/>
+              <Plugins Extends="NextFullMoon_L" StretchFactor="1"/>
+            </Col>
+            <!-- bottom-left -->
+            <Col Width="160" Height="30" Align="bottom|left">
+              <Row Width="fill" Height="15">
+                <Plugin Name="SunRune" Class="Spb.LSP.Image" Width="15" Height="fill">
+                  <String Name="ImageName" Value="SunRune"/> <Int Name="DialogData" Value="0"/>
+                </Plugin>
+                <Plugin Width="fill" Height="fill" Margins="0 2 0 0" Name="SunRiseSet" ID="900">
+                  <Int Name="textalign" Value="4"/>
+                </Plugin>
+              </Row>
+              <Row Width="fill" Height="15">
+                <Plugin Name="MoonRune" Class="Spb.LSP.Image" Width="15" Height="fill">
+                  <String Name="ImageName" Value="MoonRune"/> <Int Name="DialogData" Value="0"/>
+                </Plugin>
+                <Plugin Width="fill" Height="fill" Margins="0 2 0 0" Name="MoonRiseSet" ID="901">
+                  <Int Name="textalign" Value="4"/>
+                </Plugin>
+              </Row>
+            </Col>
+            <!-- end of plugins-->
+          </Frame>
+        </Frame>
+      </Col>
+    </Frame>
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="Portrait_Tablet">
+    <Frame Width="fill" Height="fill">
+      <Plugins Extends="common:PanelSettings_Tablet"/>
+
+      <Frame Width="fill" Height="fill">
+        <Col Width="fill" Height="fill">
+
+          <Plugins Extends="MoonHeader" Margins="0 0 28 0">
+          </Plugins>
+
+          <Frame Width="fill" Height="fill" Margins="6 0 0 0">
+            <Plugins Extends="Background"/>
+            <Col Width="fill" Height="fill" Margins="8">
+              <!-- info alongside the top -->
+              <Row Width="fill" Height="50">
+                <Plugins Extends="PosSummary" StretchFactor="1"/>
+                <Col Width="fill" Height="fill" StretchFactor="1">
+                  <Plugins Extends="NextNewMoon" StretchFactor="1"/>
+                  <Plugins Extends="NextFullMoon" StretchFactor="1"/>
+                </Col>
+              </Row>
+              <!-- the scene itself -->
+              <Plugins Extends="MoonSceneAndBorders" Margins="20"/>
+              <!-- info about sun/moon -->
+              <Plugins Extends="SunZodiac">
+                <Plugin Name="SunRune" Class="Spb.LSP.Image" Width="0" Height="0"/>
+              </Plugins>
+              <Plugin Width="fill" Height="15" Name="SunRiseSet" ID="900"/>
+              <Plugins Extends="MoonZodiac">
+                <Plugin Name="MoonRune" Class="Spb.LSP.Image" Width="0" Height="0"/>
+              </Plugins>
+              <Plugin Width="fill" Height="15" Name="MoonRiseSet" ID="901"/>
+            </Col>
+          </Frame>
+        </Col>
+      </Frame>
+    </Frame>
+  </Layout>
+
+
+  <Layout Name="Landscape_Tablet">
+    <Frame Width="fill" Height="fill">
+      <!-- "settings" icon-->
+      <Plugins Extends="common:PanelSettings_Tablet"/>
+
+      <Frame Width="fill" Height="fill">
+        <Col Width="fill" Height="fill">
+
+          <Plugins Extends="MoonHeader" Margins="0 0 28 0">
+          </Plugins>
+
+          <Frame Width="fill" Height="fill" Margins="6 0 0 0">
+            <Plugins Extends="Background"/>
+
+            <Frame Width="fill" Height="fill" Margins="8">
+              <!-- middle scene-->
+              <Plugins Extends="MoonSceneAndBorders" Margins="20"/>
+              <!-- top-left -->
+              <Col Width="120" Height="50" Align="top|left">
+                <Plugins Extends="PosSummary"/>
+              </Col>
+              <!-- top-right -->
+              <Col Width="120" Height="60" Align="top|right">
+                <Plugins Extends="SunZodiac_L"/>
+                <Plugins Extends="MoonZodiac_L"/>
+              </Col>
+              <!-- bottom-right -->
+              <Col Width="140" Height="30" Align="bottom|right">
+                <Plugins Extends="NextNewMoon_L" StretchFactor="1"/>
+                <Plugins Extends="NextFullMoon_L" StretchFactor="1"/>
+              </Col>
+              <!-- bottom-left -->
+              <Col Width="160" Height="30" Align="bottom|left">
+                <Row Width="fill" Height="15">
+                  <Plugin Name="SunRune" Class="Spb.LSP.Image" Width="15" Height="fill">
+                    <String Name="ImageName" Value="SunRune"/> <Int Name="DialogData" Value="0"/>
+                  </Plugin>
+                  <Plugin Width="fill" Height="fill" Margins="0 2 0 0" Name="SunRiseSet" ID="900">
+                    <Int Name="textalign" Value="4"/>
+                  </Plugin>
+                </Row>
+                <Row Width="fill" Height="15">
+                  <Plugin Name="MoonRune" Class="Spb.LSP.Image" Width="15" Height="fill">
+                    <String Name="ImageName" Value="MoonRune"/> <Int Name="DialogData" Value="0"/>
+                  </Plugin>
+                  <Plugin Width="fill" Height="fill" Margins="0 2 0 0" Name="MoonRiseSet" ID="901">
+                    <Int Name="textalign" Value="4"/>
+                  </Plugin>
+                </Row>
+              </Col>
+              <!-- end of plugins-->
+            </Frame>
+          </Frame>
+        </Col>
+      </Frame>
+    </Frame>
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+</Layouts>

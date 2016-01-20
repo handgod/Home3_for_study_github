@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<skin Name="Worldtime Widget">
+  <items>
+    <item DPI="96">
+      <Image Name="Icon"        File="icon.png"/>
+      <Image Name="globe"       File="globe.png"/>
+      <Image Name="globe_big"   File="globe_big.png"/>
+      <Image Name="panel"       File="panel.png"/>
+      <Image Name="tex_line"    File="tex_line.png"/>
+      <Image Name="tex_glow"    File="tex_glow.png"/>
+      <Image Name="tex_back"    File="tex_back.png"/>
+      <Image Name="tex_earth"   File="tex_earth.png"/>
+      <Image Name="tex_bump"    File="tex_bump.png"/>
+
+      <Image Name="custom_background"  File="custom-background.png"/>
+
+      <Font Name="font_city" Face="Droid Sans" HeightPxl="10" Bold="n" Color="FFFFFFFF"/>
+      <Font Name="font_time" Face="Droid Sans" HeightPxl="10" Bold="y" Color="FFEEEEFF"/>
+
+      <Point Name="padding"  X="2" Y="0"/>
+    </item>
+  </items>
+</skin>
+  

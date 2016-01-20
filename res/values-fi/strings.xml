@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SPB Shell 3D</string>
+    <string name="weather_city_title">Type 3 letters to start auto-completion:</string>
+    <string name="weather_enter_city_name">Enter city name</string>
+    <string name="weather_more_cities">More...</string>
+    <string name="weather_locate_nearest_city">Search the nearest city</string>
+    <string name="weather_current_location">Current location</string>
+    <string name="searching_city_title">Positioning</string>
+    <string name="searching_city_progress">Searching for nearest cities...</string>
+    <string name="city_location_failed">Failed to locate nearest city</string>
+    <string name="dialog_shell_loading">SPB Shell 3D lataa...</string>
+    <string name="gadget_error_text">Ongelma ladattaessa Widgetiä</string>
+    <string name="dialog_select_shortcut">Valitse pikakuvake</string>
+    <string name="dialog_choose_widget">Valitse Widget</string>
+    <string name="chooser_wallpaper">Valitse taustakuva</string>
+    <string name="wallpaper_instructions">Aseta taustakuva</string>
+    <string name="pick_wallpaper">Taustakuvat</string>
+    <string name="wallpapers_spb">SPB Taustakuvat</string>
+    <string name="yes">Kyllä</string>
+    <string name="no">Ei</string>
+    <string name="wait">Odota hetki.</string>
+    <string name="home_widget_error">Widget on liian iso lisättäväksi.</string>
+    <string name="cancel">Peruuta</string>
+    <string name="error">error</string>
+    <string name="infinity">infinity</string>
+    <string name="dialog_unsupported_devices_title">Virhe</string>
+    <string name="dialog_unsupported_devices_message">Tarvitset OpenGL 2.0 käyttääksesi SPB Shell 3D:tä</string>
+    <string name="license_fail">Valitettavasti emme löytäneet maksuasi Android Marketista. Kokeile ohjelman poistamista ja uudelleenasennusta.</string>
+    <string name="purchase">Osta</string>
+    <string name="exit">Poistu</string>
+    <string name="legal_notices_title">Oikeudellisia huomautuksia</string>
+    <string name="license_fail_handango">Emme valitettavasti pystyneet tunnistamaan maksuasi. Poista ohjelma ja yritä asentaa se uudelleen.</string>
+    <string name="safe_mode_title">Vikasietotila</string>
+    <string name="safe_mode_text">SPB Shell 3D:n aikaisempi käynnistyminen epäonnistui. Paina \"Yritä Uudelleen\" käynnistääksesi taas tai Kotipainiketta aktivoidaksesi jonkun muun valikon.</string>
+    <string name="safe_mode_retry">Yritä Uudelleen</string>
+    <string name="safe_mode_home">Koti</string>
+    <string name="sd_install_title">Virhe</string>
+    <string name="sd_install_text">Installation to a storage card is not supported. Please install SPB Shell 3D to the main memory</string>
+    <string name="contacts_failed_pick">Failed to load the selected contact. Try to link the contact to Google account or save it to phone.</string>
+</resources>

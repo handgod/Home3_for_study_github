@@ -1,0 +1,814 @@
+<?xml version="1.0"?>
+
+<Layouts Name="Time Panel" Type="panel">
+
+	<!-- **************************************************************************************************************** -->
+
+	<Layers>
+		<Layer Name="PanelFrame" Dialog="PanelFrame"/>
+		<Layer/>
+	</Layers>
+
+	<!-- **************************************************************************************************************** -->
+
+	<Rules>
+		<!-- tablets specification -->
+		<PlatformCondition Platform="tablets">
+			<ScreenCondition Width="600" Height="1024">
+				<UseLayout Name="Portrait_Tablet_Small"/>
+			</ScreenCondition>
+			<ScreenCondition Orientation="landscape">
+				<UseLayout Name="Landscape_Tablet"/>
+			</ScreenCondition>
+			<ScreenCondition Orientation="portrait">
+				<UseLayout Name="Portrait_Tablet"/>
+			</ScreenCondition>
+		</PlatformCondition>
+
+		<ScreenCondition Width="320" Height="480">
+			<UseLayout Name="Portrait_Small"/>
+		</ScreenCondition>
+
+		<ScreenCondition Width="240" Height="320">
+			<UseLayout Name="Portrait_Tiny"/>
+		</ScreenCondition>
+
+		<ScreenCondition Orientation="landscape">
+			<UseLayout Name="Landscape"/>
+		</ScreenCondition>
+
+		<Default>
+			<UseLayout Name="Portrait"/>
+		</Default>
+	</Rules>
+
+	<!-- **************************************************************************************************************** -->
+
+	<General>
+		<Skin AutoSkin="timepanel" DoubleSkin="timepanel"/>
+		<DefaultFont Face="Droid Sans" HeightPxl="10" Bold="n" Color="FFFFFFFF"/>
+		<Font Name="Default"  Face="Droid Sans" HeightPxl="12" Bold="y" Color="FFFFFFFF"/>
+		<Font Name="Small"    Face="Droid Sans" HeightPxl="9" Bold="n" Color="FFFFFFFF"/>
+		<Font Name="Time"     Face="Droid Sans" HeightPxl="9" Bold="n" Color="FFFFFFFF"/>
+		<Font Name="DigitalTime" Face="Droid Sans" HeightPxl="21" Bold="y" Color="FFFFFFFF"/>
+		<Font Name="MoonDay"  Face="Droid Sans" HeightPxl="9" Bold="y" Color="FFFFFFFF"/>
+		<Font Name="MoonPhaseNameCalendarTablet"  Face="Droid Sans" HeightPxl="8" Bold="y" Color="FFFFFFFF"/>
+		<Font Name="MoonPhaseDateCalendarTablet"  Face="Droid Sans" HeightPxl="8" Bold="n" Color="FFFFFFFF"/>
+		<Font Name="SmallClockCity"  Face="Droid Sans" HeightPxl="10" Bold="y" Color="FFFFFFFF"/>
+
+		<Point Name="ACFaceCenterDefault" X="80" Y="80"/>
+		<Point Name="ACHourCenterDefault" X="5" Y="5"/>
+		<Point Name="ACMinuteCenterDefault" X="5" Y="16"/>
+
+		<Rect Name="ACHourDefault" X="0" Y="0" Width="46" Height="10"/>
+		<Rect Name="ACMinuteDefault" X="0" Y="10" Width="68" Height="10"/>
+
+	</General>
+
+	<!-- **************************************************************************************************************** -->
+
+	<Layout Name="MoonPhaseGroup">
+		<Plugins LayoutType="linear" Orientation="horizontal" Align="center" StretchFactor="1">
+			<LayoutSize Width="180" Height="auto"/>
+			<LayoutMargins Top="1"/>
+
+			<Plugin Name="MoonPhasePicture" Class="Spb.LSP.Generic" ID="8" Align="center">
+				<LayoutMargins Top="6" Bottom="2" Right="3"/>
+				<LayoutSize Width="45" Height="45"/>
+			</Plugin>
+
+			<Plugins Name="MoonInfo" LayoutType="linear" Orientation="vertical" StretchFactor="1">
+				<LayoutMargins Left="4" Top="3"/>
+				<LayoutSize Width="0" Height="fill"/>
+
+				<Plugin Name="CurrentMoonPhase" Class="Spb.LSP.Generic" ID="5">
+					<LayoutSize Width="fill" Height="20"/>
+				</Plugin>
+
+				<Plugin Name="MoonPhaseName"    Class="Spb.LSP.Generic" ID="6">
+					<LayoutMargins Top="2"/>
+					<LayoutSize Width="fill" Height="15"/>
+				</Plugin>
+
+				<Plugin Name="MoonPhaseStatus"  Class="Spb.LSP.Generic" ID="7">
+					<LayoutSize Width="fill" Height="15"/>
+				</Plugin>
+			</Plugins>
+		</Plugins>
+	</Layout>
+
+	<Layout Name="AlarmGroup">
+		<Plugins LayoutType="linear" Orientation="vertical" Align="center" StretchFactor="1">
+			<LayoutSize Width="180" Height="auto"/>
+
+			<Plugin Name="NextAlarm" Class="Spb.LSP.Generic" ID="3">
+				<LayoutSize Width="fill" Height="20"/>
+			</Plugin>
+			<Plugin Name="ToNextAlarm" Class="Spb.LSP.Generic" ID="4">
+				<LayoutSize Width="fill" Height="20"/>
+			</Plugin>
+
+		</Plugins>
+	</Layout>
+
+	<Layout Name="Portrait">
+		<Plugins LayoutType="frame">
+			<LayoutSize Width="fill" Height="fill"/>
+			<!--			<Plugins Extends="common:PanelSettings"/> -->
+
+			<Plugins Name="MainFrame" LayoutType="linear" Orientation="vertical">
+				<LayoutMargins Left="15" Top="14" Right="15" Bottom="57"/>
+				<LayoutSize Width="fill" Height="fill"/>
+
+				<!-- main design elements -->
+				<Plugin Name="CurrentDate" Class="Spb.LSP.Generic" ID="2">
+					<LayoutSize Width="fill" Height="20"/>
+					<LayoutMargins Top="6"/>
+				</Plugin>
+
+				<Plugin Name="Clock" Class="Spb.LSP.Generic" ID="1" Align="center" StretchFactor="2">
+					<LayoutMargins Top="4"/>
+					<LayoutSize Width="164" Height="164"/>
+				</Plugin>
+
+				<Plugins Name="AlarmFrame" LayoutType="frame" Align="center" StretchFactor="1">
+					<LayoutSize Width="fill" Height="auto"/>
+
+					<Plugin Name="AlarmSelection" ID="1001">
+						<LayoutSize Width="fill" Height="fill"/>
+					</Plugin>
+
+					<Plugins Name="AlarmGroup" Extends="AlarmGroup"/>
+				</Plugins>
+
+				<Plugin Width="220" Height="1" Name="Separator" Class="Spb.LSP.Separator">
+					<LayoutMargins Top="3" Bottom="5"/>
+					<LayoutSize Width="fill" Height="fill"/>
+					<Int Name="Side" Value="2"/>
+					<Int Name="Falloff" Value="40"/>
+					<Int Name="Opacity" Value="150"/>
+				</Plugin>
+
+				<Plugins Name="MoonFrame" LayoutType="frame" Align="center" StretchFactor="1">
+					<LayoutSize Width="fill" Height="auto"/>
+
+					<Plugin Name="MoonSelection" ID="1000">
+						<LayoutSize Width="fill" Height="fill"/>
+					</Plugin>
+
+					<Plugins Name="MoonPhaseGroup" Extends="MoonPhaseGroup"/>
+				</Plugins>
+
+			</Plugins>
+		</Plugins>
+	</Layout>
+
+	<Layout Name="Portrait_Small">
+		<Plugins Extends="Portrait">
+			<Plugins Name="MainFrame">
+				<Plugin Name="CurrentDate">
+					<LayoutSize Width="fill" Height="17"/>
+				</Plugin>
+
+				<Plugin Name="Clock" Class="Spb.LSP.Generic" ID="1" Align="center" StretchFactor="2">
+					<LayoutMargins />
+					<!-- reset -->
+				</Plugin>
+
+				<Plugins Name="AlarmFrame">
+					<Plugins Name="AlarmGroup">
+						<Plugin Name="NextAlarm">
+							<LayoutSize Width="fill" Height="16"/>
+						</Plugin>
+						<Plugin Name="ToNextAlarm">
+							<LayoutSize Width="fill" Height="16"/>
+						</Plugin>
+					</Plugins>
+				</Plugins>
+
+				<Plugin Name="Separator">
+					<LayoutMargins/>
+				</Plugin>
+
+				<Plugins Name="MoonFrame" LayoutType="frame">
+
+					<Plugin Name="MoonSelection" ID="1000">
+						<LayoutSize Width="fill" Height="fill"/>
+					</Plugin>
+
+					<Plugins Name="MoonPhaseGroup">
+						<Plugin Name="MoonPhasePicture" Class="Spb.LSP.Generic" ID="8">
+							<LayoutMargins Top="4" Bottom="2"/>
+						</Plugin>
+
+						<Plugins Name="MoonInfo">
+							<Plugin Name="CurrentMoonPhase" Class="Spb.LSP.Generic" ID="5">
+								<LayoutSize Width="fill" Height="16"/>
+							</Plugin>
+						</Plugins>
+					</Plugins>
+				</Plugins>
+
+			</Plugins>
+		</Plugins>
+	</Layout>
+
+	<Layout Name="Portrait_Tiny">
+		<Plugins Extends="Portrait_Small">
+			<Plugins Name="MainFrame">
+				<Plugins Name="AlarmFrame">
+					<LayoutSize Width="0" Height="0"/>
+
+					<Plugins Name="AlarmGroup">
+						<LayoutSize Width="0" Height="0"/>
+					</Plugins>
+				</Plugins>
+
+				<Plugins Name="MoonFrame" LayoutType="frame" >
+					<Plugins Name="MoonPhaseGroup">
+						<Plugin Name="MoonPhasePicture" Class="Spb.LSP.Generic" ID="8">
+							<LayoutMargins Top="0"/>
+							<LayoutSize Width="45" Height="45"/>
+						</Plugin>
+
+						<Plugins Name="MoonInfo">
+							<LayoutMargins Left="4" Top="1"/>
+							<Plugin Name="CurrentMoonPhase" Class="Spb.LSP.Generic" ID="5">
+								<LayoutSize Width="fill" Height="14"/>
+							</Plugin>
+							<Plugin Name="MoonPhaseName" Class="Spb.LSP.Generic" ID="6">
+								<LayoutMargins Top="2"/>
+								<LayoutSize Width="fill" Height="12"/>
+							</Plugin>
+
+							<Plugin Name="MoonPhaseStatus" Class="Spb.LSP.Generic" ID="7">
+								<LayoutSize Width="fill" Height="12"/>
+							</Plugin>
+						</Plugins>
+					</Plugins>
+				</Plugins>
+
+			</Plugins>
+		</Plugins>
+	</Layout>
+
+	<!-- **************************************************************************************************************** -->
+
+	<Layout Name="MoonPhaseGroup_Tablet">
+		<Plugins LayoutType="linear" Orientation="horizontal" StretchFactor="1">
+			<LayoutSize Width="fill" Height="50"/>
+
+			<Plugin Name="MoonPhasePicture" Class="Spb.LSP.Generic" ID="8">
+				<LayoutSize Width="50" Height="50"/>
+			</Plugin>
+
+			<Plugins Name="MoonInfo" LayoutType="linear" Orientation="vertical" StretchFactor="1">
+				<LayoutMargins Left="4"/>
+				<LayoutSize Width="fill" Height="50"/>
+
+				<Plugin Name="CurrentMoonPhase" Class="Spb.LSP.Generic" ID="5">
+					<LayoutSize Width="fill" Height="20"/>
+					<LayoutMargins Left="10" Top="5"/>
+				</Plugin>
+
+				<Plugin Name="MoonPhaseName"    Class="Spb.LSP.Generic" ID="6">
+					<LayoutSize Width="fill" Height="12"/>
+					<LayoutMargins Left="10"/>
+				</Plugin>
+
+				<Plugin Name="MoonPhaseStatus"  Class="Spb.LSP.Generic" ID="7">
+					<LayoutSize Width="fill" Height="12"/>
+					<LayoutMargins Left="10"/>
+				</Plugin>
+			</Plugins>
+		</Plugins>
+	</Layout>
+
+	<Layout Name="MoonPhaseGroupSmall_Tablet_L">
+		<Plugins LayoutType="linear" Orientation="vertical" Align="center" StretchFactor="1">
+			<LayoutSize Width="60" Height="auto"/>
+
+			<Plugin Name="MoonPhasePicture" Class="Spb.LSP.Generic" ID="11" Align="center">
+				<LayoutMargins Top="6" Bottom="2"/>
+				<LayoutSize Width="32" Height="32"/>
+			</Plugin>
+
+			<Plugin Name="MoonPhaseName"    Class="Spb.LSP.Generic" ID="10" Align="center">
+				<LayoutMargins Top="2"/>
+				<LayoutSize Width="fill" Height="20"/>
+			</Plugin>
+
+			<Plugin Name="MoonPhaseDate" Class="Spb.LSP.Generic" ID="15" Align="center">
+				<LayoutSize Width="fill" Height="10"/>
+			</Plugin>
+
+			<Plugin Name="MoonPhaseTime" Class="Spb.LSP.Generic" ID="16" Align="center">
+				<LayoutSize Width="fill" Height="10"/>
+			</Plugin>
+		</Plugins>
+	</Layout>
+
+	<Layout Name="MoonPhaseGroupSmall_Tablet_P">
+		<Plugins LayoutType="linear" Orientation="horizontal" Align="center_vert" StretchFactor="1">
+			<LayoutSize Width="fill" Height="32"/>
+
+			<Plugin Name="MoonPhasePicture" Class="Spb.LSP.Generic" ID="11">
+				<LayoutSize Width="26" Height="26"/>
+			</Plugin>
+
+			<Plugins LayoutType="linear" Orientation="vertical" StretchFactor="1">
+				<LayoutSize Width="0" Height="auto"/>
+
+				<Plugin Name="MoonPhaseName" Class="Spb.LSP.Generic" ID="10" Align="center_vert">
+					<LayoutMargins Top="2" Left="30"/>
+					<LayoutSize Width="fill" Height="12"/>
+				</Plugin>
+
+				<Plugin Name="MoonPhaseDateTime" Class="Spb.LSP.Generic" ID="9" Align="center_vert">
+					<LayoutMargins Left="30"/>
+					<LayoutSize Width="fill" Height="12"/>
+				</Plugin>
+			</Plugins>
+
+		</Plugins>
+	</Layout>
+
+	<Layout Name="ClockGroupSmall_Tablet">
+		<Plugins LayoutType="linear" Orientation="vertical" Align="center" StretchFactor="1">
+			<LayoutSize Width="97" Height="auto"/>
+			<LayoutMargins Top="1"/>
+
+			<Plugin Name="SmallClock1" Class="Spb.LSP.Generic" ID="12" Align="center">
+				<LayoutSize Width="64" Height="64"/>
+				<LayoutMargins Bottom="8"/>
+			</Plugin>
+			<!--
+			<Plugin Name="Sep1" Class="Spb.LSP.Generic" ID="501" Align="center_horz">
+				<LayoutSize Width="50" Height="8"/>
+			</Plugin>
+-->
+			<Plugin Name="SmallClockCity" Class="Spb.LSP.Generic" ID="14" Align="center">
+				<LayoutSize Width="fill" Height="15"/>
+			</Plugin>
+
+			<Plugin Name="SmallClockDate"    Class="Spb.LSP.Generic" ID="13" Align="center">
+				<LayoutSize Width="fill" Height="15"/>
+			</Plugin>
+		</Plugins>
+	</Layout>
+
+	<!-- **************************************************************************************************************** -->
+
+	<Layout Name="Landscape_Tablet">
+
+		<Plugins LayoutType="frame">
+			<LayoutSize Width="fill" Height="fill"/>
+
+			<!--			<Plugins Extends="common:PanelSettings_Tablet"/> -->
+
+			<Plugins Name="MainFrame" LayoutType="frame" >
+				<LayoutSize Width="fill" Height="fill"/>
+				<!--
+					<Plugins Name="MainFrame" LayoutType="frame" >
+-->						<LayoutSize Width="fill" Height="fill"/>
+
+				<Plugin Class="Spb.LSP.9Patch" Name="Shade" AutoSkin="misc">
+					<String Name="ImageName" Value="darken"/>
+					<LayoutSize Width="fill" Height="fill"/>
+					<LayoutMargins Top="30"/>
+				</Plugin>
+				<!--
+							<Plugin Name="ClockFrame" ID="1002">
+								<LayoutSize Width="fill" Height="fill"/>
+								<LayoutMargins Top="30"/>
+							</Plugin>
+-->
+				<Plugins Name="MainFrame" LayoutType="linear" Orientation="vertical">
+					<LayoutSize Width="fill" Height="fill"/>
+
+					<!-- main design elements -->
+					<Plugin Name="CurrentDate" Class="Spb.LSP.Generic" ID="2">
+						<LayoutSize Width="fill" Height="30"/>
+					</Plugin>
+
+					<Plugins LayoutType="linear" Orientation="horizontal" StretchFactor="1">
+						<LayoutSize Width="fill" Height="0"/>
+
+						<Plugins LayoutType="frame">
+							<LayoutMargins Right="10"/>
+							<LayoutSize Width="190" Height="fill"/>
+							<!--
+							<Plugin Name="ClockFrame" ID="1002">
+								<LayoutSize Width="fill" Height="fill"/>
+							</Plugin>
+-->
+							<Plugins LayoutType="linear" Orientation="vertical" StretchFactor="1" Align="center_horz">
+								<LayoutSize Width="154" Height="auto"/>
+
+								<Plugin Name="Clock" Class="Spb.LSP.Generic" ID="1" Align="center_horz" StretchFactor="1">
+									<LayoutMargins Top="25" Bottom="10"/>
+									<LayoutSize Width="164" Height="164"/>
+								</Plugin>
+
+								<Plugin Name="DigitalClock" Class="Spb.LSP.Generic" ID="111">
+									<LayoutSize Width="fill" Height="25"/>
+								</Plugin>
+
+								<Plugins Name="AlarmFrame" LayoutType="frame" Align="center" StretchFactor="1">
+									<LayoutSize Width="fill" Height="auto"/>
+
+									<Plugin Name="AlarmSelection" ID="1001">
+										<LayoutSize Width="fill" Height="40"/>
+									</Plugin>
+
+									<Plugins LayoutType="linear" Orientation="vertical" StretchFactor="1" Align="center_horz">
+										<LayoutSize Width="fill" Height="auto"/>
+
+										<Plugin Name="NextAlarm" Class="Spb.LSP.Generic" ID="3">
+											<LayoutSize Width="fill" Height="15"/>
+											<LayoutMargins Top="10"/>
+										</Plugin>
+
+										<Plugin Name="ToNextAlarm" Class="Spb.LSP.Generic" ID="4">
+											<LayoutSize Width="fill" Height="20"/>
+										</Plugin>
+									</Plugins>
+
+								</Plugins>
+
+							</Plugins>
+						</Plugins> <!-- clock / alarm frame -->
+
+						<Plugin Width="3" Height="fill" Margins="10 0 0 10" Name="Separator" Class="Spb.LSP.Line"> 
+						</Plugin>
+
+
+						<Plugins LayoutType="linear" Orientation="vertical" StretchFactor="1">
+							<LayoutSize Width="fill" Height="fill"/>
+
+							<!-- extra clocks -->
+							<Group Name="Hor_09" LayoutType="linear" Orientation="horizontal" StretchFactor="1">
+								<LayoutSize Width="fill" Height="auto"/>
+								<LayoutMargins Left="5" Right="5" Top="-10"/>
+								<Int Name="Size" Value="3"/>
+								<Plugins Name="ClockGroupSmall1" Extends="ClockGroupSmall_Tablet"/>
+							</Group>
+							<!--
+							<Plugin Name="Sep1" Class="Spb.LSP.Generic" ID="501" Align="center_horz">
+								<LayoutSize Width="200" Height="1"/>
+							</Plugin>
+-->
+							<Plugin Width="fill" Height="2" Margins="0 10 10 0" Name="sep" Class="Spb.LSP.DashLine"/>
+
+							<Plugins ID="1000" Extends="MoonPhaseGroup_Tablet" Align="center" StretchFactor="1">
+								<LayoutSize Width="fill" Height="50"/>
+								<LayoutMargins Left="75" Right="65"/>
+							</Plugins>
+
+							<Plugin Width="fill" Height="2" Margins="0 10 10 0" Name="sep1" Class="Spb.LSP.DashLine"/>
+
+							<Group LayoutType="linear" Orientation="horizontal" Align="center_horz" StretchFactor="2">
+								<LayoutSize Width="fill" Height="60"/>
+								<Int Name="Size" Value="5"/>								
+								<Plugins Name="MoonPhaseGroup1" Extends="MoonPhaseGroupSmall_Tablet_L"/>
+							</Group>
+						</Plugins>
+					</Plugins>
+				</Plugins>
+			</Plugins>
+		</Plugins>
+	</Layout>
+
+	<!-- **************************************************************************************************************** -->
+
+	<Layout Name="Portrait_Tablet">
+
+		<Plugins LayoutType="frame">
+			<LayoutSize Width="fill" Height="fill"/>
+
+			<!--			<Plugins Extends="common:PanelSettings_Tablet"/> -->
+
+			<Plugin Name="ClockFrame" ID="1002">
+				<LayoutSize Width="fill" Height="fill"/>
+				<LayoutMargins Top="30" />
+			</Plugin>
+
+			<Plugins LayoutType="linear" Orientation="vertical">
+				<LayoutSize Width="fill" Height="fill"/>
+
+				<!-- current date -->
+				<Plugin Name="CurrentDate" Class="Spb.LSP.Generic" ID="2">
+					<LayoutSize Width="fill" Height="30"/>
+				</Plugin>
+
+				<!-- main clock / moon stuff -->
+				<Plugins LayoutType="linear" Orientation="horizontal" StretchFactor="5">
+					<LayoutSize Width="fill" Height="0"/>
+
+					<!-- main clock -->
+					<Plugins LayoutType="frame">
+						<LayoutMargins Right="10" />
+						<LayoutSize Width="195" Height="fill"/>
+						<!--
+						<Plugin Name="ClockFrame" ID="1002">
+							<LayoutSize Width="fill" Height="fill"/>
+						</Plugin>
+-->
+						<Plugins LayoutType="linear" Orientation="vertical" StretchFactor="1" Align="center_horz">
+							<LayoutSize Width="164" Height="auto"/>
+
+							<Plugin Name="Clock" Class="Spb.LSP.Generic" ID="1" Align="center_horz" StretchFactor="1">
+								<LayoutMargins Top="25" Bottom="15"/>
+								<LayoutSize Width="164" Height="164"/>
+							</Plugin>
+
+							<Plugin Name="DigitalClock" Class="Spb.LSP.Generic" ID="111">
+								<LayoutSize Width="fill" Height="30"/>
+							</Plugin>
+
+							<Plugins Name="AlarmFrame" LayoutType="frame" Align="center" StretchFactor="1">
+								<LayoutSize Width="fill" Height="auto"/>
+
+								<Plugin Name="AlarmSelection" ID="1001">
+									<LayoutSize Width="fill" Height="40"/>
+								</Plugin>
+
+								<Plugins Name="AlarmFrame" LayoutType="linear" Orientation="vertical" Align="center" StretchFactor="1">
+									<LayoutSize Width="fill" Height="auto"/>
+
+									<Plugin Name="NextAlarm" Class="Spb.LSP.Generic" ID="3">
+										<LayoutSize Width="fill" Height="15"/>
+										<LayoutMargins Top="10"/>
+									</Plugin>
+
+									<Plugin Name="ToNextAlarm" Class="Spb.LSP.Generic" ID="4">
+										<LayoutSize Width="fill" Height="20"/>
+									</Plugin>
+								</Plugins>
+							</Plugins>
+						</Plugins>
+
+					</Plugins>
+
+					<Plugin Width="3" Height="fill" Margins="10 0 10 10" Name="Separator" Class="Spb.LSP.Line"> 
+					</Plugin>
+
+					<!-- moon stuff -->
+					<Plugins LayoutType="linear" Orientation="vertical" StretchFactor="1">
+						<LayoutSize Width="0" Height="fill"/>
+
+						<Plugins ID="1000" Extends="MoonPhaseGroup_Tablet" Align="center" StretchFactor="1">
+							<LayoutSize Width="fill" Height="50"/>
+						</Plugins>
+
+						<Plugin Width="fill" Height="2" Margins="15 10 10 0" Name="sep" Class="Spb.LSP.DashLine"/>
+
+						<Group LayoutType="linear" Orientation="vertical" Align="center_horz" StretchFactor="8">
+							<LayoutMargins Top="20"/>
+							<LayoutSize Width="fill" Height="60"/>
+							<Int Name="Size" Value="5"/>
+
+							<Plugins Name="MoonPhaseGroup1" Extends="MoonPhaseGroupSmall_Tablet_P">
+								<LayoutMargins Left="10" Right="10"/>
+							</Plugins>
+						</Group>
+					</Plugins>
+				</Plugins>
+
+				<Plugin Width="fill" Height="2" Margins="20 10 10 0" Name="sep" Class="Spb.LSP.DashLine"/>
+
+				<!-- extra clocks -->
+				<Group Name="Hor_09" LayoutType="linear" Orientation="horizontal" StretchFactor="1">
+					<LayoutMargins Top="0"/>
+					<LayoutSize Width="fill" Height="100"/>
+					<Int Name="Size" Value="3"/>
+					<Plugins Name="ClockGroupSmall1" Extends="ClockGroupSmall_Tablet"/>
+				</Group>
+			</Plugins>
+		</Plugins>
+	</Layout>
+
+	<!-- **************************************************************************************************************** -->
+
+	<Layout Name="Portrait_Tablet_Small">  <!-- For Samsung Galaxy Tab 7" -->
+
+		<Plugins LayoutType="frame">
+			<LayoutSize Width="fill" Height="fill"/>
+
+			<Plugin Class="Spb.LSP.9Patch" Name="Shade" AutoSkin="misc">
+				<String Name="ImageName" Value="darken"/>
+				<LayoutSize Width="fill" Height="fill"/>
+				<LayoutMargins Top="30"/>
+			</Plugin>
+
+			<!--			<Plugins Extends="common:PanelSettings_Tablet"/> -->
+
+			<Plugins LayoutType="linear" Orientation="vertical">
+				<LayoutSize Width="fill" Height="fill"/>
+
+				<!-- current date -->
+				<Plugin Name="CurrentDate" Class="Spb.LSP.Generic" ID="2">
+					<LayoutSize Width="fill" Height="30"/>
+				</Plugin>
+
+				<!-- main clock / moon stuff -->
+				<Plugins LayoutType="linear" Orientation="horizontal" StretchFactor="5">
+					<LayoutSize Width="fill" Height="0"/>
+
+					<!-- main clock -->
+					<Plugins LayoutType="frame">
+						<LayoutMargins Right="5" />
+						<LayoutSize Width="180" Height="fill"/>
+						<!--
+						<Plugin Name="ClockFrame" ID="1002">
+							<LayoutSize Width="fill" Height="fill"/>
+						</Plugin>
+-->
+						<Plugins LayoutType="linear" Orientation="vertical" StretchFactor="1" Align="center_horz">
+							<LayoutSize Width="164" Height="auto"/>
+
+							<Plugin Name="Clock" Class="Spb.LSP.Generic" ID="1" Align="center_horz" StretchFactor="1">
+								<LayoutMargins Top="25" Bottom="20"/>
+								<LayoutSize Width="164" Height="164"/>
+							</Plugin>
+
+							<Plugin Name="DigitalClock" Class="Spb.LSP.Generic" ID="111">
+								<LayoutSize Width="fill" Height="30"/>
+							</Plugin>
+
+							<Plugins Name="AlarmFrame" LayoutType="frame" Align="center" StretchFactor="1">
+								<LayoutSize Width="fill" Height="auto"/>
+
+								<Plugin Name="AlarmSelection" ID="1001">
+									<LayoutSize Width="fill" Height="40"/>
+								</Plugin>
+
+								<Plugins Name="AlarmFrame" LayoutType="linear" Orientation="vertical" Align="center" StretchFactor="1">
+									<LayoutSize Width="fill" Height="auto"/>
+
+									<Plugin Name="NextAlarm" Class="Spb.LSP.Generic" ID="3">
+										<LayoutSize Width="fill" Height="15"/>
+									</Plugin>
+
+									<Plugin Name="ToNextAlarm" Class="Spb.LSP.Generic" ID="4">
+										<LayoutSize Width="fill" Height="20"/>
+									</Plugin>
+								</Plugins>
+							</Plugins>
+						</Plugins>
+
+					</Plugins>
+
+					<Plugin Width="3" Height="fill" Margins="10 0 5 10" Name="Separator" Class="Spb.LSP.Line"> 
+					</Plugin>
+
+
+					<!-- moon stuff -->
+					<Plugins LayoutType="linear" Orientation="vertical" StretchFactor="1">
+						<LayoutSize Width="0" Height="fill"/>
+
+						<Plugins ID="1000" Extends="MoonPhaseGroup_Tablet" Align="center" StretchFactor="1">
+							<LayoutSize Width="fill" Height="50"/>
+						</Plugins>
+
+						<Plugin Width="fill" Height="2" Margins="15 10 10 0" Name="sep" Class="Spb.LSP.DashLine"/>
+
+
+						<Group LayoutType="linear" Orientation="vertical" Align="center_horz" StretchFactor="8">
+							<LayoutMargins Top="15"/>
+							<LayoutSize Width="fill" Height="60"/>
+							<Int Name="Size" Value="5"/>
+
+							<Plugins Name="MoonPhaseGroup1" Extends="MoonPhaseGroupSmall_Tablet_P">
+								<LayoutMargins Left="10" Right="10"/>
+							</Plugins>
+						</Group>
+					</Plugins>
+				</Plugins>
+
+				<Plugin Width="fill" Height="2" Margins="20 10 10 0" Name="sep" Class="Spb.LSP.DashLine"/>
+
+
+				<!-- extra clocks -->
+				<Group Name="Hor_09" LayoutType="linear" Orientation="horizontal" StretchFactor="1">
+					<LayoutMargins Top="0"/>
+					<LayoutSize Width="fill" Height="100"/>
+					<Int Name="Size" Value="3"/>
+					<Plugins Name="ClockGroupSmall1" Extends="ClockGroupSmall_Tablet"/>
+				</Group>
+			</Plugins>
+		</Plugins>
+	</Layout>
+
+	<!-- **************************************************************************************************************** -->
+
+	<Layout Name="Landscape">
+		<Plugins LayoutType="frame">
+			<LayoutSize Width="fill" Height="fill"/>
+
+			<!--			<Plugins Extends="common:PanelSettings_L"/> -->
+
+			<Plugins Name="MainFrame" LayoutType="frame">
+				<LayoutMargins Left="14" Top="14" Right="56" Bottom="14"/>
+				<LayoutSize Width="fill" Height="fill"/>
+
+				<!-- main design elements -->
+				<Plugin Name="CurrentDate" Class="Spb.LSP.Generic" ID="2">
+					<LayoutSize Width="fill" Height="20"/>
+					<LayoutMargins Top="6"/>
+				</Plugin>
+
+				<Plugins Name="Horz1" LayoutType="linear" Orientation="horizontal">
+					<LayoutSize Width="fill" Height="fill"/>
+
+					<Plugin Name="Clock" Class="Spb.LSP.Generic" ID="1" Align="center" StretchFactor="1">
+						<LayoutMargins Top="18" Right="0"/>
+						<LayoutSize Width="164" Height="164"/>
+					</Plugin>
+
+					<Plugins Name="Vert1" LayoutType="linear" Orientation="vertical" StretchFactor="1" Align="center_vert">
+						<LayoutMargins Top="20"/>
+						<LayoutSize Width="140" Height="fill"/>
+
+						<Plugins Name="AlarmFrame" LayoutType="frame" Align="center" StretchFactor="1">
+							<LayoutSize Width="fill" Height="auto"/>
+							<LayoutMargins Right="15"/>
+
+							<Plugin Name="AlarmSelection" ID="1001">
+								<LayoutSize Width="fill" Height="fill"/>
+							</Plugin>
+
+							<Plugins LayoutType="linear" Orientation="vertical" StretchFactor="1" Align="center">
+								<LayoutSize Width="140" Height="auto"/>
+
+								<Plugin Name="NextAlarmSmall" Class="Spb.LSP.Generic" ID="31">
+									<LayoutMargins Left="-6"/>
+									<LayoutSize Width="fill" Height="16"/>
+								</Plugin>
+								<Plugin Name="ToNextAlarm" Class="Spb.LSP.Generic" ID="41">
+									<LayoutMargins Left="-6"/>
+									<LayoutSize Width="fill" Height="16"/>
+								</Plugin>
+
+								<Plugin Name="ToNextAlarm2" Class="Spb.LSP.Generic" ID="42">
+									<LayoutMargins Left="-6"/>
+									<LayoutSize Width="fill" Height="16"/>
+								</Plugin>
+
+							</Plugins>
+						</Plugins>
+
+						<Plugin Width="130" Height="1" Name="Separator" Class="Spb.LSP.Separator" Align="center">
+							<LayoutMargins Top="0" Bottom="0"/>
+							<Int Name="Side" Value="2"/>
+							<Int Name="Falloff" Value="50"/>
+						</Plugin>
+
+						<!--
+						<Plugins ID="1000" Extends="MoonPhaseGroup">
+							<LayoutSize Width="fill" Height="auto"/>
+							<LayoutMargins Left="-6"/>
+						</Plugins>
+-->
+
+						<Plugins Name="MoonFrame" LayoutType="frame" Align="center" StretchFactor="1">
+							<LayoutSize Width="fill" Height="auto"/>
+
+							<Plugin Name="MoonSelection" ID="1000">
+								<LayoutSize Width="fill" Height="fill"/>
+								<LayoutMargins Right="15"/>
+							</Plugin>
+
+							<Plugins LayoutType="linear" Orientation="vertical" StretchFactor="1">
+								<LayoutSize Width="fill" Height="auto"/>
+
+								<Plugin Name="MoonPhasePicture" Class="Spb.LSP.Generic" ID="8" Align="center">
+									<LayoutMargins Top="2" Bottom="2" Right="3"/>
+									<LayoutSize Width="45" Height="45"/>
+								</Plugin>
+
+								<Plugin Name="CurrentMoonPhase" Class="Spb.LSP.Generic" ID="5">
+									<LayoutSize Width="fill" Height="20"/>
+								</Plugin>
+
+								<Plugin Name="MoonPhaseName"    Class="Spb.LSP.Generic" ID="6">
+									<LayoutMargins Top="2"/>
+									<LayoutSize Width="fill" Height="15"/>
+								</Plugin>
+
+								<Plugin Name="MoonPhaseStatus"  Class="Spb.LSP.Generic" ID="7">
+									<LayoutSize Width="fill" Height="15"/>
+								</Plugin>
+							</Plugins> 
+
+						</Plugins>
+
+					</Plugins>
+
+				</Plugins>
+
+			</Plugins>
+		</Plugins>
+	</Layout>
+
+</Layouts>

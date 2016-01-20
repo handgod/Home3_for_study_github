@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Launcher>
+  <Pages Count="3" Home="0"/>
+  
+  <DefaultPage>
+    <LimitLayout X="-1" Y="-1"/>
+    <Pad/>
+  </DefaultPage>
+
+  <!-- Site accept only concrete [virtual] folder uris -->
+
+  <Site Uri="special:page,0">
+    <!-- Instance target can be a concrete widget or tag:* or template:* -->
+    <!-- Instance properties are inherited from template:* to tag:* to tag:*#best to widget:* -->
+
+    <Widget Uri="widget:init,yasearch" Template="yasearch" Cond="80"/>
+    <Widget Uri="widget:init,calendarwidget" Template="calendarwidget" CondNeg="80"/>
+	  <!--AndroidWidget Uri="android:somewidget" ComponentName="package/class"/-->
+
+    <Instance Target="tag:alarm#best"/>
+    <Instance Target="tag:calculator#best"/>
+    <Instance Target="tag:email#best"/>
+    <Instance Target="tag:gmail#best"/>
+
+    <Instance Target="tag:market#best"/>
+    <Instance Target="tag:settings#best"/>
+    <Instance Target="tag:camera#best"/>
+    <Instance Target="tag:youtube#best"/>
+
+    <Instance Target="tag:media#best"/>
+  </Site>
+  
+  <Site Uri="special:page,1" FirstRun="True">
+    <!--<Widget Uri="widget:init,gallery" Template="gallery"/>-->
+    <Widget Uri="widget:init,worldtime" Template="worldtime" View="WorldTime2"/>
+
+    <Instance Target="tag:maps#best"/>
+    <Instance Target="tag:latitude#best"/>
+    <Instance Target="tag:navigation#best"/>
+    <Instance Target="tag:places#best"/>
+  </Site>
+
+  <Site Uri="special:page,2">
+    <!--<Widget Uri="widget:init,sms" Template="sms"/>-->
+    <Widget Uri="widget:toolsfolder" Template="folder" View="Folder"/>
+    <Instance Target="special:contacts" View="Folder"/>
+    <Widget Uri="widget:init,birthdays" Template="birthdays"/>
+  </Site>
+
+  <!--<Site Uri="special:page,3">
+    <Widget Uri="widget:toolsfolder" Template="folder" View="Folder"/>
+    <Instance Target="special:bookmarks" View="Folder"/>
+  </Site>-->
+
+  <Site Uri="widget:toolsfolder">
+    <Widget Uri="widget:wifi" Template="wifi.ext"/>
+    <Widget Uri="widget:bluetooth" Template="bluetooth.ext"/>
+    <Widget Uri="widget:backlight" Template="backlight"/>
+    <Widget Uri="widget:profile" Template="profile"/>
+    <Widget Uri="widget:battery" Template="battery"/>
+    <Widget Uri="widget:operator" Template="operator"/>
+  </Site>
+  
+  <Site Uri="special:currentpage">
+	<!-- -->
+	<!-- -->
+	<!-- -->
+	<!-- -->
+  	<Instance Target="template:androidshortcut"/>
+  </Site>
+
+  <Site Uri="special:contacts">
+    <Instance Target="template:favcontact"/>
+  </Site>
+  
+  <Site Uri="special:albums">
+    <Instance Target="template:album"/>
+  </Site>
+  
+  <Site Uri="special:bookmarks">
+    <Instance Target="template:bookmark"/>
+  </Site>
+	
+  <Site Uri="special:hidden">
+    <Instance Target="special:bookmarks"/>
+  </Site>
+	
+  <panels Home="0" Perm="pt_800:0_200:1_100:2_2:3_0:4_1:5_300:6_900:7_1100:8_">
+    <page Id="0" Car="1" Hue="-1"/>
+    <page Id="1" Car="1" Hue="-1"/>
+    <page Id="2" Car="1" Hue="-1"/>
+    <page Id="100" Car="1" Hue="-1"/>
+    <page Id="200" Car="1" Hue="-1"/>
+    <page Id="300" Car="1" Hue="-1"/>
+    <page Id="400" Car="0" Hue="-1"/>
+    <page Id="500" Car="0" Hue="-1"/>
+    <page Id="600" Car="0" Hue="-1"/>
+    <page Id="700" Car="0" Hue="-1"/>
+    <page Id="800" Car="1" Hue="-1"/>
+    <page Id="900" Car="1" Hue="-1"/>
+    <page Id="1000" Car="0" Hue="-1"/>
+    <page Id="1100" Car="1" Hue="-1"/>
+    <page Id="1200" Car="0" Hue="-1"/>
+    <page Id="1300" Car="0" Hue="-1"/>
+    <page Id="1400" Car="0" Hue="-1"/>
+  </panels>
+
+</Launcher>

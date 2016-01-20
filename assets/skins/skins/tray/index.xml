@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skin Name="Tray">
+  <items>
+    <item>
+      <Image Name="bg_btn" File="bg_btn.png"/>
+      <Image Name="bg_tray" File="bg_tray.png"/>
+      <Image Name="border_left" File="border_left.png"/>
+      <Image Name="border_right" File="border_right.png"/>
+      <Image Name="okbtn" File="okbtn.png"/>
+      <Image Name="binbtn" File="binbtn.png"/>
+      <Image Name="launcherbtn" File="launcherbtn.png"/>
+    </item>
+  </items>
+</skin>

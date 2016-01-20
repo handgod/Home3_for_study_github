@@ -1,0 +1,469 @@
+<?xml version="1.0"?>
+
+<Layouts Name="Weather Panel" Type="panel">
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layers>
+    <Layer Name="PanelFrame" Dialog="PanelFrame"/>
+    <Layer/>
+  </Layers>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Rules>
+    <!-- tablets specification -->
+    <PlatformCondition Platform="tablets">
+      <ScreenCondition Orientation="landscape"> <UseLayout Name="Landscape_Tablet"/> </ScreenCondition>
+      <ScreenCondition Orientation="portrait">  <UseLayout Name="Portrait_Tablet"/>  </ScreenCondition>
+    </PlatformCondition>
+
+    <!-- portrait specialization -->
+    <ScreenCondition Width="480" Height="800"> <UseLayout Name="Portrait"/> </ScreenCondition>
+    <ScreenCondition Width="800" Height="1280"> <UseLayout Name="Portrait_800x1280"/> </ScreenCondition>
+    <ScreenCondition Width="540" Height="960"> <UseLayout Name="Portrait_540x960"/> </ScreenCondition>
+    <ScreenCondition Width="320" Height="480"> <UseLayout Name="Portrait_320x480"/> </ScreenCondition>
+    <ScreenCondition Width="240" Height="400"> <UseLayout Name="Portrait_240x400"/> </ScreenCondition>
+    <ScreenCondition Width="240" Height="320"> <UseLayout Name="Portrait_240x320"/> </ScreenCondition>
+
+    <!-- landscape specialization -->
+    <ScreenCondition Orientation="landscape">  <UseLayout Name="Landscape"/> </ScreenCondition>
+    
+    <!-- defaults -->
+    <Default> <UseLayout Name="Portrait"/> </Default>
+  </Rules>
+
+  <!-- **************************************************************************************************************** -->
+
+  <General>
+    <DialogObject Value="Spb.Data.WeatherPanel"/>
+    <Skin AutoSkin="misc"/>
+    <DefaultFont Face="Droid Sans" HeightPxl="10" Bold="n" Color="FFFFFFFF"/>
+
+    <Font Name="ftTemp"   Face="Droid Sans" HeightPxl="28" Bold="n" Color="FFFFFFFF"/>
+    <Font Name="ftCity"   Face="Droid Sans" HeightPxl="12" Bold="y" Color="FFFFFFFF"/>
+    <Font Name="ftMedium" Face="Droid Sans" HeightPxl="11" Bold="n" Color="FFFFFFFF"/>
+    <Font Name="ftSmall"  Face="Droid Sans" HeightPxl="9"  Bold="n" Color="FFFFFFFF"/>
+    <Font Name="ftWeek"   Face="Droid Sans" HeightPxl="9"  Bold="n" Color="FFFFFFFF"/>
+  </General>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="WeatherScene">
+    <Frame Width="fill" Height="fill">
+      <Plugin Width="fill" Height="fill" Name="Scene" ID="10" AutoSkin="weatherscene"/>
+      <Plugin Width="160" Height="16" Margins="3 0 7 0" Name="CondDesc" ID="201" Align="right|top"/>
+      <Plugin Width="160" Height="28" Margins="18 0 7 0" Name="CondTemp" ID="200" Align="right|top"/>
+      <Plugin Width="auto" Height="auto" Margins="0 0 6 4" Name="CondTher" ID="204" AutoSkin="misc" Align="right|bottom"/>
+      <Plugin Width="160" Height="24" Margins="0 8 0 4" Name="CondInfo" ID="203" Align="left|bottom"/>
+    </Frame>
+  </Layout>
+
+  <Layout Name="WeatherFrame">
+    <Col Width="fill" Height="fill">
+      <Plugins Name="WeatherScene" Extends="WeatherScene" StretchFactor="1">
+      </Plugins>
+      <Frame Name="Conditions" Width="fill" Height="19">
+        <Plugin Name="FrameSub" Width="fill" Height="fill" ID="2"/>
+        <Row Width="fill" Height="fill">
+          <Plugin Width="42" Height="fill" Margins="0 6 0 0" Name="CondWind" ID="205" AutoSkin="wgt_weather" StretchFactor="1"/>
+          <Plugin Width="35" Height="fill" Margins="0 0 0 0" Name="CondPress" ID="206" AutoSkin="wgt_weather" StretchFactor="1"/>
+          <Plugin Width="22" Height="fill" Margins="0 0 0 0" Name="CondHumid" ID="207" AutoSkin="wgt_weather" StretchFactor="1"/>
+        </Row>
+      </Frame>
+    </Col>
+  </Layout>
+
+  <Layout Name="CityHeader">
+    <Row Width="fill" Height="25">
+      <Plugin Width="30" Height="fill" Name="PrevCity" ID="500" AutoSkin="misc"/>
+      <Plugin Width="00" Height="fill" Name="StrCity"  ID="100" StretchFactor="1"/>
+      <Plugin Width="30" Height="fill" Name="NextCity" ID="501" AutoSkin="misc"/>
+      <Plugin Width="01" Height="fill" Name="LastSep"  Class="Spb.LSP.Separator">
+        <Int Name="Falloff" Value="40"/>
+        <Int Name="Opacity" Value="150"/>
+      </Plugin>
+    </Row>
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+  <!-- Portrait -->
+  <Layout Name="Portrait">
+    <General>
+      <Int Name="SmallIconSize" Value="32"/>
+      <Int Name="LargeIconSize" Value="72"/>
+    </General>
+    
+    <Frame Width="fill" Height="fill">
+      <Plugins Extends="common:PanelSettings"/>
+
+      <Col Name="MainFrame" Width="fill" Height="fill" Margins="14 6 6 55">
+        <Plugins Extends="CityHeader" Margins="0 0 34 0"/>
+        <Plugins Width="fill" Height="166" Margins="9 9 9 0" Name="WeatherFrame" Extends="WeatherFrame"/>
+
+        <Col Width="fill" Height="fill" Margins="2 0 0 2" Name="ForeSummPlugins" StretchFactor="1">
+          <Plugin Width="fill" Height="fill" StretchFactor="1" Name="StrFore" ID="102"/>
+          <Row Dynamic="1" Width="fill" Height="fill" StretchFactor="1" Name="ForeSummGroup" ID="1000">
+            <Plugin Width="0" Height="fill" Name="ForeSumm" ID="300" AutoSkin="wgt_weather" StretchFactor="1"/>
+          </Row>
+        </Col>
+
+        <Row Dynamic="1" Width="fill" Height="64" Name="ForeTabsGroup" ID="1001">
+          <Frame Width="0" Height="fill" Name="ForeTabs" StretchFactor="1">
+            <Plugin Width="fill" Height="fill" Name="ForeTabSel" ID="301" AutoSkin="wgt_weather"/>
+
+            <Col Width="fill" Height="fill" Name="ForeTab" AutoSkin="wgt_weather">
+              <Plugin Width="36"   Height="36" Margins="2 0 0 0"  Name="TabIcon" ID="302" AutoSkin="wgt_weather" Align="center"/>
+              <Plugin Width="fill" Height="8"  Margins="-2 0 0 0" Name="TabDay"  ID="303" StretchFactor="1"/>
+              <Plugin Width="fill" Height="8"  Margins="0 0 0 0"  Name="TabTemp" ID="304" StretchFactor="1"/>
+            </Col>
+          </Frame>
+        </Row>
+      </Col>
+    </Frame>
+  </Layout>
+
+  <!-- Portrait_800x1280 -->
+  <Layout Name="Portrait_800x1280">
+    <Plugins Extends="Portrait">   
+      <Col Name="MainFrame" Width="fill" Height="fill" Margins="14 6 6 55">
+        <Plugins Name="WeatherFrame" Width="fill" Height="220"/>
+      </Col>
+    </Plugins>
+  </Layout>
+
+  <!-- Portrait_540x960 -->
+  <Layout Name="Portrait_540x960">
+    <Plugins Extends="Portrait">      
+      <Col Name="MainFrame">
+        <Plugins Name="ForeSummPlugins" Margins="9 0 0 9"/>
+      </Col>
+    </Plugins>
+  </Layout>
+  
+  <!-- Portrait_320x480 -->
+  <Layout Name="Portrait_320x480">
+    <Plugins Extends="Portrait">      
+      <Col Name="MainFrame" Width="fill" Height="fill" Margins="14 6 6 55">
+        <Plugins Name="WeatherFrame" Width="fill" Height="151"/>
+
+        <Plugins Name="ForeSummPlugins" Margins="4 0 0 4">
+          <Plugin Width="0" Height="0" StretchFactor="0" Name="StrFore"/>
+        </Plugins>
+
+        <Row Dynamic="1" Name="ForeTabsGroup" Width="fill" Height="53">
+          <Plugins Name="ForeTabs">
+            <Col Name="ForeTab"><Plugin Name="TabIcon" Width="30" Height="30"/></Col>
+          </Plugins>
+        </Row>               
+      </Col>
+    </Plugins>
+  </Layout>
+
+  <!-- Portrait_240x400 -->
+  <Layout Name="Portrait_240x400">
+    <Plugins Extends="Portrait">
+      <Col Name="MainFrame" Width="fill" Height="fill" Margins="14 6 6 55">
+        <Plugins Name="WeatherFrame" Width="fill" Height="166"/>
+        <Row Dynamic="1" Name="ForeTabsGroup" Width="fill" Height="64"/>
+      </Col>
+    </Plugins>
+  </Layout>
+
+  <!-- Portrait_240x320 -->
+  <Layout Name="Portrait_240x320">
+    <Plugins Extends="Portrait">
+      <Col Name="MainFrame" Width="fill" Height="fill" Margins="14 6 6 55">
+
+        <Plugins Name="WeatherFrame" Width="fill" Height="110">
+          <Plugins Name="WeatherScene"><Plugin Name="CondTher" Width="0" Height="0"/></Plugins>
+        </Plugins>
+
+        <Plugins Name="ForeSummPlugins" Margins="4 0 0 4" StretchFactor="0">
+          <Plugin Width="0" Height="0" StretchFactor="0" Name="StrFore"/>
+        </Plugins>
+
+        <Row Dynamic="1" Name="ForeTabsGroup" Width="fill" Height="62"/>
+      </Col>
+    </Plugins>
+  </Layout>
+  
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="Landscape">
+    <General>
+      <Int Name="SmallIconSize" Value="32"/>
+      <Int Name="LargeIconSize" Value="72"/>
+    </General>
+    
+    <Frame Width="fill" Height="fill">
+      <Plugins Extends="common:PanelSettings_L">
+      </Plugins>
+
+      <Col Name="MainFrame" Width="fill" Height="fill" Margins="14 7 50 10">
+        <Plugins Extends="CityHeader" Margins="0 0 34 0">
+        </Plugins>
+
+        <Col Width="fill" Height="fill" StretchFactor="1">
+          <Row Width="fill" Height="fill" Margins="6" StretchFactor="1">
+            <Plugins Name="WeatherScene" Extends="WeatherScene" StretchFactor="1">
+              <Plugin Name="CondTher" Width="0" Height="0"/>
+              <Plugin Name="CondDesc" Width="fill" Height="16"/>
+              <Plugin Name="CondTemp" Width="fill" Height="28"/>
+            </Plugins>
+
+            <!-- list of current conditions -->
+            <Col Width="fill" Height="fill" Margins="0 4 0 0" StretchFactor="1">
+              <Plugin Width="fill" Height="16" Name="CondWindS" ID="209" AutoSkin="wgt_weather">
+                <Int Name="style" Value="1"/>
+              </Plugin>
+              <Plugin Width="fill" Height="16" Name="CondWindD" ID="210" AutoSkin="wgt_weather">
+                <Int Name="style" Value="1"/>
+              </Plugin>
+              <Plugin Width="fill" Height="16" Name="CondPress" ID="206" AutoSkin="wgt_weather">
+                <Int Name="style" Value="1"/>
+              </Plugin>
+              <Plugin Width="fill" Height="16" Name="CondHumid" ID="207" AutoSkin="wgt_weather">
+                <Int Name="style" Value="1"/>
+              </Plugin>
+              <Plugin Width="fill" Height="0" StretchFactor="1" Name="vsep" Class="Spb.LSP.DashLine"/>
+              <Plugin Width="fill" Height="16" Name="StrFore" ID="102"/>
+
+              <Row Dynamic="1" Width="fill" Height="auto" Margins="2 0 0 0" Name="ForeSummGroup" ID="1000">
+                <Plugin Width="0" Height="28" Name="ForeSumm" ID="300" AutoSkin="wgt_weather" StretchFactor="1"/>
+              </Row>
+            </Col>
+          </Row>
+
+          <Row Dynamic="1" Width="fill" Height="44" Name="ForeTabsGroup" ID="1001">
+            <Frame Width="0" Height="44" Name="ForeTabs" StretchFactor="1">
+              <Plugin Width="fill" Height="fill" Name="ForeTabSel" ID="301" AutoSkin="wgt_weather"/>
+
+              <Row Width="fill" Height="fill" Margins="4" Name="ForeTab" AutoSkin="wgt_weather">
+                <Plugin Width="36" Height="36" Name="TabIcon" ID="302" AutoSkin="wgt_weather" Align="center_vert"/>
+
+                <Col Width="20" Height="20" Align="center_vert" StretchFactor="1">
+                  <Plugin Width="fill" Height="10" Name="TabDay" ID="303"/>
+                  <Plugin Width="fill" Height="10" Name="TabTemp" ID="304"/>
+                </Col>
+              </Row>
+            </Frame>
+          </Row>
+        </Col>
+      </Col>
+    </Frame>
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="Portrait_Tablet">
+    <General>
+      <Int Name="SmallIconSize" Value="32"/>
+      <Int Name="LargeIconSize" Value="72"/>
+      
+      <Font Name="ftTemp"   Face="Droid Sans" HeightPxl="30" Bold="n" Color="FFFFFFFF"/>
+      <Font Name="ftCity"   Face="Droid Sans" HeightPxl="12" Bold="y" Color="FFFFFFFF"/>
+      <Font Name="ftMedium" Face="Droid Sans" HeightPxl="11" Bold="n" Color="FFFFFFFF"/>
+      <Font Name="ftSmall"  Face="Droid Sans" HeightPxl="10" Bold="n" Color="FFFFFFFF"/>
+      <Font Name="ftWeek"   Face="Droid Sans" HeightPxl="11" Bold="y" Color="FFFFFFFF"/>
+    </General>
+    
+    <Frame Width="fill" Height="fill">      
+      <Plugins Extends="common:PanelSettings_Tablet"/>
+
+      <Frame Width="fill" Height="fill">
+        <Col Width="fill" Height="fill">
+
+          <Plugins Extends="CityHeader" Margins="0 0 28 0">
+          </Plugins>
+
+          <Frame Margins="6 0 0 0" Width="fill" Height="0" StretchFactor="1">
+            <!-- main darken -->
+            <Plugin Class="Spb.LSP.9Patch" Name="Shade" AutoSkin="misc">
+              <String Name="ImageName" Value="darken"/>
+              <LayoutSize Width="fill" Height="fill"/>
+            </Plugin>
+
+            <Col Width="fill" Height="fill" Margins="3">
+              <Frame Width="fill" Height="fill" StretchFactor="4">
+                <Plugin Class="Spb.LSP.9Patch" Name="InnerFrame" Width="fill" Height="fill" AutoSkin="misc">
+                  <String Name="ImageName" Value="darken_inner"/>
+                </Plugin>
+                
+                <Col Width="fill" Height="fill" Margins="2">
+                  <Row Width="fill" Height="fill" StretchFactor="1">
+                    <Plugins Name="WeatherScene" Extends="WeatherScene" StretchFactor="8"/>
+                    <Col Dynamic="1" Width="fill" Height="fill" ID="1000" StretchFactor="2">
+                      <Plugin Width="fill" Height="0" Margins="3 6 2 3" Name="ForeSumm" ID="300" AutoSkin="wgt_weather" StretchFactor="1"/>
+                    </Col>
+                  </Row>
+
+                  <Row Width="fill" Height="20" Margins="4 0 0 4">
+                    <Plugin Width="fill" Height="20" ID="205" Name="CondWind" StretchFactor="1" AutoSkin="wgt_weather">
+                      <Int Name="style" Value="2"/>
+                    </Plugin>
+                    <Plugin Width="fill" Height="fill" ID="207" Name="CondHumid" AutoSkin="wgt_weather" StretchFactor="1">
+                      <Int Name="style" Value="2"/>
+                    </Plugin>
+                    <Plugin Width="fill" Height="20" ID="206" Name="CondPress" StretchFactor="1" AutoSkin="wgt_weather">
+                      <Int Name="style" Value="2"/>
+                    </Plugin>
+                  </Row>
+                </Col>
+              </Frame>
+
+              <Row Dynamic="1" Size="4" Width="fill" Height="fill" Margins="20 0 1 0" Name="Hor_09" ID="1001" StretchFactor="3">
+                <Plugin Width="2" Height="fill" Name="VSep" Class="Spb.LSP.Separator">
+                  <Int Name="Side" Value="0"/>
+                  <Int Name="Skip" Value="1"/>
+                  <Int Name="Falloff" Value="50"/>
+                </Plugin>
+
+                <Col Width="0" Height="fill" Margins="0 4 4 0" AutoSkin="wgt_weather" StretchFactor="1">
+                  <Plugin Width="fill" Height="fill" Name="TabDay" ID="303" StretchFactor="1">
+                    <Int Name="textalign" Value="4"/>
+                    <Int Name="dayoffset" Value="1"/>
+                    <Int Name="daylong" Value="1"/>
+                  </Plugin>
+                  <Plugin Width="fill" Height="fill" Name="TabTemp" ID="304" StretchFactor="1">
+                    <Int Name="textalign" Value="4"/>
+                    <Int Name="dayoffset" Value="1"/>
+                  </Plugin>
+
+                  <Col Dynamic="1" Width="fill" Height="fill" Margins="6 0 0 0" Name="Hor_11" ID="1002" StretchFactor="6">
+                    <Row Width="fill" Height="0" StretchFactor="1">
+                      <Plugin Width="0" Height="fill" Name="ForeDets"  ID="305" AutoSkin="wgt_weather" StretchFactor="1">
+                        <Int Name="dayoffset" Value="1"/>
+                      </Plugin>
+                      <Plugin Width="0" Height="fill" Margins="0 2 0 0" Name="ForeDprt" ID="306" AutoSkin="wgt_weather" StretchFactor="3"/>
+                    </Row>
+                  </Col>
+                </Col>
+              </Row>
+
+            </Col>
+
+          </Frame>
+        </Col>
+      </Frame>
+    </Frame>
+  </Layout>
+
+  <Layout Name="Landscape_Tablet">
+    <General>
+      <Int Name="SmallIconSize" Value="32"/>
+      <Int Name="LargeIconSize" Value="72"/>
+      
+      <Font Name="ftTemp"   Face="Droid Sans" HeightPxl="30" Bold="n" Color="FFFFFFFF"/>
+      <Font Name="ftCity"   Face="Droid Sans" HeightPxl="12" Bold="y" Color="FFFFFFFF"/>
+      <Font Name="ftMedium" Face="Droid Sans" HeightPxl="11" Bold="n" Color="FFFFFFFF"/>
+      <Font Name="ftSmall"  Face="Droid Sans" HeightPxl="9"  Bold="n" Color="FFFFFFFF"/>
+      <Font Name="ftWeek"   Face="Droid Sans" HeightPxl="11" Bold="y" Color="FFFFFFFF"/>
+    </General>
+    
+    <Frame Width="fill" Height="fill">      
+      <!-- "settings" icon-->
+      <Plugins Extends="common:PanelSettings_Tablet"/>
+
+      <Frame Width="fill" Height="fill">
+        <Col Width="fill" Height="fill">
+          <Plugins Extends="CityHeader" Margins="0 0 28 0">
+          </Plugins>
+
+          <Frame Margins="6 0 0 0" Width="fill" Height="0" StretchFactor="1">
+            <!-- main darken -->
+            <Plugin Class="Spb.LSP.9Patch" Name="Shade" AutoSkin="misc">
+              <String Name="ImageName" Value="darken"/>
+              <LayoutSize Width="fill" Height="fill"/>
+            </Plugin>
+
+            <Col Width="fill" Height="fill" Margins="3">
+              <Frame Width="fill" Height="fill" StretchFactor="10">
+                <Plugin Class="Spb.LSP.9Patch" Name="InnerFrame" Width="fill" Height="fill" AutoSkin="misc">
+                  <String Name="ImageName" Value="darken_inner"/>
+                </Plugin>
+                
+                <Row Width="fill" Height="fill" Margins="2">
+                  <Frame Width="fill" Height="fill" Margins="2" StretchFactor="5">
+                    <Plugin Width="fill" Height="fill" Name="Scene" ID="10" Align="center" AutoSkin="weatherscene"/>
+
+                    <Row Width="fill" Height="fill" Margins="6">
+                      <Plugin Width="fill" Height="28" Name="CondInfo" ID="203" StretchFactor="10" Align="bottom"/>
+                      <Plugin Width="auto" Height="auto" Name="CondTher" ID="204" AutoSkin="misc" Align="bottom"/>
+                    </Row>
+                  </Frame>
+
+                  <Col Width="fill" Height="fill" Margins="0 8 8 0" StretchFactor="4">
+                    <Row Width="fill" Height="fill" Margins="2 0 0 4" StretchFactor="3">
+                      <Col Width="fill" Height="fill" StretchFactor="3">
+                        <Plugin Width="fill" Height="fill" Name="CondDesc" ID="201" StretchFactor="2">
+                          <Int Name="textalign" Value="16"/>
+                        </Plugin>
+                        <Plugin Width="fill" Height="fill" Name="CondDate" ID="208" StretchFactor="2">
+                          <Int Name="detailed" Value="1"/>
+                        </Plugin>
+                      </Col>
+                      <Plugin Width="fill" Height="fill" Name="CondTemp" ID="200" StretchFactor="2">
+                        <Int Name="textalign" Value="2"/>
+                      </Plugin>
+                    </Row>
+
+                    <Col Width="fill" Height="fill" Margins="2 0 0 2" StretchFactor="4">
+                      <Plugin Width="fill" Height="2" Margins="2 0 0 0" Name="HSep1" Class="Spb.LSP.DashLine"/>
+                      <Plugin Width="fill" Height="fill" Name="CondWindS" ID="209" AutoSkin="wgt_weather" StretchFactor="1">
+                        <Int Name="style" Value="1"/>
+                      </Plugin>
+                      <Plugin Width="fill" Height="fill" Name="CondWindD" ID="210" AutoSkin="wgt_weather" StretchFactor="1">
+                        <Int Name="style" Value="1"/>
+                      </Plugin>
+                      <Plugin Width="fill" Height="fill" Name="CondPress" ID="206" AutoSkin="wgt_weather" StretchFactor="1">
+                        <Int Name="style" Value="1"/>
+                      </Plugin>
+                      <Plugin Width="fill" Height="fill" Name="CondHumid" ID="207" AutoSkin="wgt_weather" StretchFactor="1">
+                        <Int Name="style" Value="1"/>
+                      </Plugin>
+                      <Plugin Width="fill" Height="2" Margins="2 0 0 0" Name="HSep2" Class="Spb.LSP.DashLine"/>
+                    </Col>
+
+                    <Row Dynamic="1" Width="fill" Height="fill" Margins="0 0 0 2" Name="Hor_08" ID="1000" StretchFactor="2">
+                      <Plugin Width="0" Height="fill" Name="ForeSumm" ID="300" AutoSkin="wgt_weather" StretchFactor="1"/>
+                    </Row>
+                  </Col>
+                </Row>
+              </Frame>
+
+              <Row Dynamic="1" Width="fill" Height="fill" Margins="4 0 1 0" Name="Hor_09" ID="1001" StretchFactor="03">
+                <Plugin Width="2" Height="fill" Name="VSep" Class="Spb.LSP.Separator">
+                  <Int Name="Side" Value="0"/>
+                  <Int Name="Skip" Value="1"/>
+                </Plugin>
+
+                <Col Width="0" Height="fill" Margins="0 4 4 0" Name="Ver_10" AutoSkin="wgt_weather" StretchFactor="1">
+                  <Plugin Width="fill" Height="fill" Name="TabDay" ID="303" StretchFactor="1">
+                    <Int Name="textalign" Value="4"/>
+                    <Int Name="dayoffset" Value="1"/>
+                    <Int Name="daylong" Value="1"/>
+                  </Plugin>
+                  <Plugin Width="fill" Height="fill" Name="TabTemp" ID="304" StretchFactor="1">
+                    <Int Name="textalign" Value="4"/>
+                    <Int Name="dayoffset" Value="1"/>
+                  </Plugin>
+
+                  <Row Dynamic="1" Width="fill" Height="fill" Margins="2 0 0 0" Name="Hor_11" ID="1002" StretchFactor="2">
+                    <Plugin Width="0" Height="fill" Name="ForeDets"  ID="305" AutoSkin="wgt_weather" StretchFactor="1">
+                      <Int Name="dayoffset" Value="1"/>
+                    </Plugin>
+                  </Row>
+                </Col>
+              </Row>
+            </Col>
+          </Frame>
+        </Col>
+      </Frame>
+    </Frame>
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+</Layouts>

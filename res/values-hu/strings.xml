@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SPB Shell 3D</string>
+    <string name="weather_city_title">Type 3 letters to start auto-completion:</string>
+    <string name="weather_enter_city_name">Enter city name</string>
+    <string name="weather_more_cities">More...</string>
+    <string name="weather_locate_nearest_city">Search the nearest city</string>
+    <string name="weather_current_location">Current location</string>
+    <string name="searching_city_title">Positioning</string>
+    <string name="searching_city_progress">Searching for nearest cities...</string>
+    <string name="city_location_failed">Failed to locate nearest city</string>
+    <string name="dialog_shell_loading">Az SPB Shell 3D betöltése folymatban...</string>
+    <string name="gadget_error_text">Hiba a Widget betöltése közben.</string>
+    <string name="dialog_select_shortcut">Parancsikon kiválasztása</string>
+    <string name="dialog_choose_widget">Widget kiválasztása</string>
+    <string name="chooser_wallpaper">Háttérkép kiválasztása</string>
+    <string name="wallpaper_instructions">Háttérkép beállítása</string>
+    <string name="pick_wallpaper">Háttérképek</string>
+    <string name="wallpapers_spb">SPB Háttérképek</string>
+    <string name="yes">Igen</string>
+    <string name="no">Nem</string>
+    <string name="wait">Kérem várjon.</string>
+    <string name="home_widget_error">A widget túl nagy a hozzáadáshoz.</string>
+    <string name="cancel">Mégsem</string>
+    <string name="error">error</string>
+    <string name="infinity">infinity</string>
+    <string name="dialog_unsupported_devices_title">Hiba</string>
+    <string name="dialog_unsupported_devices_message">Az SPB Shell 3D futtatásához OpenGl 2.0-ra van szükség.</string>
+    <string name="license_fail">Sajnos nem találjuk a licenszét az Android Marketen. Kérjük törölje le ezt a programot az új telepítése előtt.</string>
+    <string name="purchase">Vásárlás</string>
+    <string name="exit">Kilépés</string>
+    <string name="legal_notices_title">Jogi információk</string>
+    <string name="license_fail_handango">Sajnos nem találjuk a vásárlását. Kérem távolítsa el ezt a példányt egy új telepítése előtt.</string>
+    <string name="safe_mode_title">Csökkentett mód</string>
+    <string name="safe_mode_text">Az SPB Shell 3D utolsó indítása meghiúsult. Kattintson az Újra gombra az újrakezdéshez, vagy az Otthon gombra egy másik főoldal választásához.</string>
+    <string name="safe_mode_retry">Újra</string>
+    <string name="safe_mode_home">Főoldal</string>
+    <string name="sd_install_title">Hiba</string>
+    <string name="sd_install_text">Installation to a storage card is not supported. Please install SPB Shell 3D to the main memory</string>
+    <string name="contacts_failed_pick">A kiválasztott névjegy betöltése sikertelen. Próbálja meg összekötni a Google fiókjával, vagy mentse a telefonra.</string>
+</resources>

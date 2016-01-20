@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<skin Name="Calendar Panel" Type="panel">
+  <items>
+    <item DontScale="1">
+      <Image Name="Today" File="today.png"/>
+      <Image Name="BlankCalendar" File="blank_calendar.png"/>
+      <Image Name="Calendar" File="calendar.png"/>
+      <Image Name="Recurring" File="recurring.png"/>
+    </item>
+
+    <!-- We set it to DontScale for coordinates as they are used to draw into BlankCalendar bitmap buffer -->
+    <item DontScale="1">
+      <Rect Name="DayRect" X="150" Y="52" Width="37" Height="29"/>
+      <Rect Name="DayOfTheWeekRect" X="150" Y="14" Width="37" Height="24"/>
+      <Rect Name="TodayDayRect" X="20" Y="98" Width="116" Height="160"/>
+      <Rect Name="TodayDOWRect" X="20" Y="76" Width="116" Height="24"/>
+      <Point Name="TodayMarkOffset" X="7" Y="-3"/>
+    </item>
+  </items>
+
+  <items>
+    <item DontScale="1">
+      <Font Name="WorkingDayFont" Face="Droid Sans" HeightPxl="18" Bold="n" Color="ff000000" />
+      <Font Name="SundayFont" Face="Droid Sans" HeightPxl="18" Bold="n" Color="ff1111cc" />
+      <Font Name="SaturdayFont" Face="Droid Sans" HeightPxl="18" Bold="n" Color="ffee7755" />
+      <Font Name="OtherMonthDayFont" Face="Droid Sans" HeightPxl="18" Bold="n" Color="ff555555" />
+      <Font Name="TodayFont" Face="Droid Sans" HeightPxl="32" Bold="n" Color="ff000000" />
+      <Font Name="DayOfTheWeekFont" Face="Droid Sans" HeightPxl="18" Bold="n" Color="ff505050" />
+      <Font Name="TodayDayFont" Face="Droid Sans" HeightPxl="76" Bold="n" Color="ff181818" />
+      <Font Name="TodayDOWFont" Face="Droid Sans" HeightPxl="16" Bold="n" Color="ff5a5a5a" />
+      <Int Name="OtherMonthFontAlpha" Value="120" />
+    </item>
+  </items>
+
+</skin>

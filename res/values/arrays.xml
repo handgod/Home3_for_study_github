@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="examples">
+        <item>кафе</item>
+        <item>кинотеатр</item>
+        <item>гостиница</item>
+        <item>автосервис</item>
+        <item>Сбербанк</item>
+        <item>банкомат</item>
+        <item>каток</item>
+        <item>нотариус</item>
+        <item>стоматология</item>
+        <item>ресторан</item>
+        <item>автозаправка</item>
+        <item>ЖЭК</item>
+        <item>аптека</item>
+        <item>почтовое отделение</item>
+    </string-array>
+    <string-array name="weather_temp_unit_titles">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+    </string-array>
+    <string-array name="weather_temp_unit_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="weather_temp_formats">
+        <item>%d℃</item>
+        <item>%d℉</item>
+    </string-array>
+    <string-array name="weather_temp_range_formats">
+        <item>%1$2$d℃/%2$1$d℃</item>
+        <item>%1$2$d℉/%2$1$d℉</item>
+    </string-array>
+    <string-array name="weather_press_unit_titles">
+        <item>Millimeters of mercury</item>
+        <item>Inches of mercury</item>
+        <item>Atmospheres</item>
+        <item>Hectopascals</item>
+    </string-array>
+    <string-array name="weather_press_unit_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="weather_press_formats">
+        <item>%.0f mmHg</item>
+        <item>%.2f inHg</item>
+        <item>%.2f atm</item>
+        <item>%.2f hPa</item>
+    </string-array>
+    <string-array name="weather_press_range_formats">
+        <item>%1$2$.0f/%2$1$.0f mmHg</item>
+        <item>%1$2$.2f/%2$1$.2f inHg</item>
+        <item>%1$2$.2f/%2$1$.2f atm</item>
+        <item>%1$2$.2f/%2$1$.2f hPa</item>
+    </string-array>
+    <string-array name="weather_wind_speed_unit_titles">
+        <item>Miles per Hour</item>
+        <item>Knots</item>
+        <item>Meters per Second</item>
+        <item>Kilometers per Hour</item>
+    </string-array>
+    <string-array name="weather_wind_speed_unit_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="weather_wind_speed_formats">
+        <item>%.2f mph</item>
+        <item>%.2f knots</item>
+        <item>%.2f mps</item>
+        <item>%.2f kmph</item>
+    </string-array>
+    <string-array name="weather_wind_speed_range_formats">
+        <item>%1$2$.2f/%2$1$.2f mph</item>
+        <item>%1$2$.2f/%2$1$.2f knots</item>
+        <item>%1$2$.2f/%2$1$.2f mps</item>
+        <item>%1$2$.2f/%2$1$.2f kmph</item>
+    </string-array>
+    <string-array name="weather_humidity_unit_titles">
+        <item>Percents</item>
+    </string-array>
+    <string-array name="weather_humidity_unit_values">
+        <item>0</item>
+    </string-array>
+    <string-array name="weather_humidity_formats">
+        <item>%.2f%%</item>
+    </string-array>
+    <array name="weather_humidity_range_formats">
+        <item>@string/weather_humidity_range_format_1</item>
+    </array>
+    <string-array name="weather_winddir_unit_titles">
+        <item>Direction codes (N, NE...)</item>
+        <item>Finer direction codes (N, NNE...)</item>
+        <item>Degrees</item>
+        <item>Marine direction codes (NEtN...)</item>
+    </string-array>
+    <string-array name="weather_winddir_unit_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="weather_winddir_formats">
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+    </string-array>
+    <array name="weather_winddir_range_formats">
+        <item>@string/weather_winddir_range_format</item>
+        <item>@string/weather_winddir_range_format</item>
+        <item>@string/weather_winddir_range_format</item>
+        <item>@string/weather_winddir_range_format</item>
+    </array>
+    <string-array name="weather_wind_directions">
+        <item>N</item>
+        <item>NE</item>
+        <item>E</item>
+        <item>SE</item>
+        <item>S</item>
+        <item>SW</item>
+        <item>W</item>
+        <item>NW</item>
+    </string-array>
+    <string-array name="weather_wind_directions_finer">
+        <item>N</item>
+        <item>NNE</item>
+        <item>NE</item>
+        <item>ENE</item>
+        <item>E</item>
+        <item>ESE</item>
+        <item>SE</item>
+        <item>SSE</item>
+        <item>S</item>
+        <item>SSW</item>
+        <item>SW</item>
+        <item>WSW</item>
+        <item>W</item>
+        <item>WNW</item>
+        <item>NW</item>
+        <item>NNW</item>
+    </string-array>
+    <string-array name="weather_wind_directions_marine">
+        <item>N</item>
+        <item>NtE</item>
+        <item>NNE</item>
+        <item>NEtN</item>
+        <item>NE</item>
+        <item>NEtE</item>
+        <item>ENE</item>
+        <item>EtN</item>
+        <item>E</item>
+        <item>EtS</item>
+        <item>ESE</item>
+        <item>SEtE</item>
+        <item>SE</item>
+        <item>SEtS</item>
+        <item>SSE</item>
+        <item>StE</item>
+        <item>S</item>
+        <item>StW</item>
+        <item>SSW</item>
+        <item>SWtS</item>
+        <item>SW</item>
+        <item>SWtW</item>
+        <item>WSW</item>
+        <item>WtS</item>
+        <item>W</item>
+        <item>WtN</item>
+        <item>WNW</item>
+        <item>NWtW</item>
+        <item>NW</item>
+        <item>NWtN</item>
+        <item>NNW</item>
+        <item>NtW</item>
+    </string-array>
+    <string-array name="weather_icon_titles">
+        <item></item>
+        <item>Clear</item>
+        <item>Clear</item>
+        <item>Partly cloudy</item>
+        <item>Partly cloudy</item>
+        <item>Cloudy</item>
+        <item>Smog</item>
+        <item>Cloudy, rain</item>
+        <item>Cloudy, heavy rain</item>
+        <item>Cloudy, rain with snow</item>
+        <item>Cloudy, snow</item>
+        <item>Cloudy, heavy snow</item>
+        <item>Cloudy, hail</item>
+        <item>Cloudy, thunder</item>
+        <item>Partly cloudy, rain</item>
+        <item>Partly cloudy, thunder</item>
+        <item>Partly cloudy, snow</item>
+        <item>Clear</item>
+        <item>Partly cloudy</item>
+        <item>Partly cloudy</item>
+        <item>Cloudy</item>
+        <item>Cloudy, rain</item>
+        <item>Cloudy, heavy rain</item>
+        <item>Cloudy, rain with snow</item>
+        <item>Cloudy, snow</item>
+        <item>Cloudy, heavy snow</item>
+        <item>Cloudy, hail</item>
+        <item>Cloudy, thunder</item>
+        <item>Partly cloudy, rain</item>
+        <item>Partly cloudy, thunder</item>
+        <item>Partly cloudy, snow</item>
+    </string-array>
+    <string-array name="weather_update_period_choices">
+        <item>Every 15 minutes</item>
+        <item>Every 30 minutes</item>
+        <item>Every hour</item>
+        <item>Twice a day</item>
+        <item>Every day</item>
+    </string-array>
+    <string-array name="weather_update_period_values">
+        <item>900000</item>
+        <item>1800000</item>
+        <item>3600000</item>
+        <item>43200000</item>
+        <item>86400000</item>
+    </string-array>
+    <string-array name="weather_launch_mode_choices">
+        <item>Display Forecast Screen</item>
+        <item>Display Current Conditions Screen</item>
+        <item>Display Last Used Screen</item>
+    </string-array>
+    <string-array name="weather_launch_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>

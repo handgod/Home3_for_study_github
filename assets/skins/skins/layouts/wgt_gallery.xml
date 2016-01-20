@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+
+<Layouts Name="Gallery Widget" Type="widget">
+
+<!-- **************************************************************************************************** -->
+
+  <Rules>
+    <PlatformCondition Platform="tablets">
+      <ScreenCondition Orientation="portrait">
+        <UseLayout Name="TP"/>
+      </ScreenCondition>
+	    <Default>
+	      <UseLayout Name="TL"/>
+	    </Default>
+    </PlatformCondition>
+    <PlatformCondition Platform="smartphone">
+      <ScreenCondition Orientation="portrait">
+        <UseLayout Name="SP"/>
+      </ScreenCondition>
+	    <Default>
+	      <UseLayout Name="SL"/>
+	    </Default>
+    </PlatformCondition>
+    <Default>
+      <UseLayout Name="SP"/>
+    </Default>
+  </Rules>
+
+<!-- **************************************************************************************************** -->
+
+<General>
+  <Skin AutoSkin="wgt_gallery"/>
+</General>
+
+<!-- **************************************************************************************************** -->
+
+<Layout Name="SP">
+  <General>
+    <Int   Name="thumbsX" Value="4"/>
+    <Int   Name="thumbsY" Value="1"/>
+    <Point Name="szThumb" X="46" Y="46"/>
+    <Point Name="szFrame" X="48" Y="48"/>
+    <Point Name="ptGhost" X="2"  Y="-2"/>
+  </General>
+  <Frame Width="fill" Height="fill">
+    <Plugin Width="fill" Height="fill" Name="wgt_frame" Class="Spb.LSP.StdFrame"/>
+		<Col Width="fill" Height="fill" Name="col">
+			<Col Name="header" Width="fill" Height="auto"/>
+	    <Col Name="pics" Dynamic="1" ID="100" Width="fill" Height="fill" Margins="3">
+	      <Row Dynamic="1" ID="200" Width="fill" Height="fill" Margins="3" Factor="1">
+	        <Plugin Name="thumbnail" ID="0" Width="fill" Height="fill" Factor="1"/>
+	      </Row>
+	    </Col>
+		</Col>
+  </Frame>
+</Layout>
+
+<!-- **************************************************************************************************** -->
+
+<Layout Name="SL">
+  <General>
+    <Int   Name="thumbsX" Value="4"/>
+    <Int   Name="thumbsY" Value="1"/>
+    <Point Name="szThumb" X="36" Y="36"/>
+    <Point Name="szFrame" X="39" Y="39"/>
+    <Point Name="ptGhost" X="2"  Y="-2"/>
+  </General>
+  <Plugins Extends="SP"/>
+</Layout>
+
+<Layout Name="TL">
+  <General>
+    <Int   Name="thumbsX" Value="4"/>
+    <Int   Name="thumbsY" Value="1"/>
+    <Point Name="szThumb" X="46" Y="46"/>
+    <Point Name="szFrame" X="48" Y="48"/>
+    <Point Name="ptGhost" X="2"  Y="-2"/>
+  </General>
+	
+	<Plugins Extends="SP">
+		<Col Name="col">
+			<Col Name="header">
+				<Fix Name="header_backgrd" Width="fill" Height="24">
+			    <Plugins Extends="common:WidgetHeader"/>
+					<Plugin Name="Caption" ID="1" Class="Spb.LSP.Text"
+					        Width="fill" Height="auto" Align="center">
+	    			<DefaultFont Face="Droid Sans" HeightPxl="12" Bold="n" Color="FFFFFFFF"/>   
+						<Int Name="DialogData" Value="1"/>
+					</Plugin>
+			  </Fix>
+			</Col>
+		</Col>
+	</Plugins>
+</Layout>
+
+<Layout Name="TP">
+  <General>
+    <Int   Name="thumbsX" Value="3"/>
+    <Int   Name="thumbsY" Value="2"/>
+    <Point Name="szThumb" X="46" Y="46"/>
+    <Point Name="szFrame" X="48" Y="48"/>
+    <Point Name="ptGhost" X="2"  Y="-2"/>
+  </General>
+  <Plugins Extends="SP"/>
+</Layout>
+
+<!-- **************************************************************************************************** -->
+
+</Layouts>
+
+

@@ -1,0 +1,27 @@
+<!-- Same as Background.xml, but opaque for live wallpaper -->
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<Layouts>
+
+  <Rules>
+    <UseLayout Name="Default"/>
+  </Rules>
+
+  <General>
+    <LayerAlign Value="Screen"/>
+    <FullScreen Value="1"/>
+  </General>
+
+  <Layout Name="Default">
+    <Plugins LayoutType="frame">
+      <LayoutSize Width="fill" Height="fill"/>
+      <Plugin Name="Background" Class="Spb.LSP.Rect">
+        <LayoutSize Width="fill" Height="fill"/>
+        <Color Name="Color" Value="000000"/>
+        <Int Name="Opacity" Value="255"/>
+      </Plugin>
+    </Plugins>
+  </Layout>
+
+</Layouts>

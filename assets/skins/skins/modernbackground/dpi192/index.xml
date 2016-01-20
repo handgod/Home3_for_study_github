@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skin name="settings">
+	<items>
+		<item DontScale="1">
+			<Image Name="header_bg" File="header_bg.png"/>
+			<Image Name="gradient" File="gradient.png"/>
+			<Image Name="noise" File="noise.png"/>
+		</item>
+	</items>
+</skin>

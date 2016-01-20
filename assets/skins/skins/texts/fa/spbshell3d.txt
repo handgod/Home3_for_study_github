@@ -1,0 +1,519 @@
+ a few seconds|در عرض چند ثانیه
+ day|روز
+ days|روز
+ hour|ساعت
+ hours|ساعت
+ hr| hr
+ hrs|ساعت
+ lunar day|روز قمری
+ min|دقیقه
+ mins| دقیقه
+ minute|دقیقه
+ minutes|دقیقه
+%d bought|%d خریداری شد
+%d day|%d روز
+%d days|%d روز
+%d hour|%d ساعت
+%d hours|%d ساعت
+%d minute|%d دقیقه
+%d minutes|%d دقیقه
+%d more...|%d بیشتر...
+%i active channel|%i کانال فعال
+%i active channels|%i کانال فعال
+%i image|%i تصویر
+%i images|%i تصویر
+%i more today|امروز %i بیشتر
+%i more...|%i بیشتر ...
+%i page|%i صفحه
+%i pages|%i صفحه
+%i%% of Full|%i%% از ظرفیت کامل
+%s 2007—2011 Yandex|%s 2007—2011 Yandex
+(<1 min)|(<1 دقیقه)
+(in|(به
+(in seconds)|(به ثانیه)
+(No title)|(بدون عنوان)
+[ Loading images... ]|[ در حال بارگذاری تصاویر... ]
+[ Tap here for images load ]|[ برای بارگذاری تصاویر اینجا ضربه بزنید ]
+A few minutes ago|چند دقیقه پیش
+About|درباره
+Above horizon|بالای افق
+Activate|فعال سازی
+Activation|فعال سازی
+Activation failed. Check your Internet connection.|فعال سازی ناموفق بود. اتصال اینترنت خود را وارسی کنید.
+Active Channels|کانال های فعال
+Active channels|کانال های فعال
+Add|افزودن
+Add category|افزودن دسته
+Add city|افزودن شهر
+Add custom channel|افزودن کانال سفارشی
+Add new city|افزودن شهر جدید
+Add note|افزودن یادداشت
+Add Panel|افزودن پانل
+Add to Home screen|افزودن به صفحه اصلی
+Airplane|هواپیما
+Airplane Mode|حالت هواپیما
+All day|تمام روز
+All pictures|همه عکس ها
+Allow resizing of all Android widgets|اجازه تغییر اندازه تمامی ویجت های اندروید
+An hour ago|یک ساعت پیش
+Android Shortcut|میانبر آندروید
+Android Widget|اسبابک آندروید
+Anniversary|سالگرد
+Appearance|ظاهر
+Application|برنامه
+April|آوریل
+Aqua|آب
+Aquarius|برج دلو
+Aries|برج حمل
+as of %s|در تاریخ %s
+at %s|در %s
+atm|atm
+Atmospheres|اتمسفر
+Atmospheric pressure scale|مقیاس فشار اتمسفر
+August|آگوست
+Auto|خودکار
+Auto (keyboard only)|خودکار (فقط صفحه کلید)
+Auto arrange widgets|چیدن خودکار اسبابک ها
+Automatic|خودکار
+Automatic naming|نام گذاری خودکار
+Backlight|نور پشتی
+Battery|باتری
+Below horizon|زیر افق
+Birthday|تولد
+Birthdays|تاریخ های تولد
+Black|مشکی
+Blue|آبی
+Bluetooth|بلوتوث
+Bookmarks|نشانک ها
+Bookmarks Folder|پوشه نشانک ها
+Business|تجارت
+Buy!|بخرید!
+Cache size|اندازه حافظه پنهان
+Calculator|ماشین حساب
+Calendar|تقویم
+Calendar Panel|پانل تقویم
+Calendar Panel Settings|تنظیمات پانل تقویم
+Call|تماس
+Call Log|واقعه نگار تماس
+Cancel|لغو
+Cancer|برج سرطان
+Capricorn|برج جدی
+Categories|دسته بندی ها
+Category Name|نام دسته بندی
+Celsius (#short)|سلسیوس
+Change|تغییر
+Change City|تغییر شهر
+Change profile|تغییر نمایه
+Channels list|فهرست کانال ها
+Choose Color|انتخاب رنگ
+Choose Program|انتخاب برنامه
+Choose SPB Widget|انتخاب اسبابک SPB
+Choose widget|انتخاب اسبابک
+Clear|صاف
+Clear cache|پاک کردن حافظه پنهان
+Clock|ساعت
+Cloudy|ابری
+Cloudy, hail|ابری، تگرگ
+Cloudy, heavy rain|ابری، باران شدید
+Cloudy, heavy snow|ابری، برف سنگین
+Cloudy, rain|ابری، باران
+Cloudy, rain with snow|ابری، باران و برف
+Cloudy, snow|ابری، برف
+Cloudy, thunder|ابری، رعد
+Color anaglyph (red/cyan)|anaglyph رنگی (قرمز/فیروزه ای)
+Communication|ارتباط
+Contact|مخاطب
+Contacts|مخاطبین
+Contacts Folder|پوشه مخاطبین
+Copyright %s 2007-2011\nSPB Software|حق نسخه برداری %s 2007-2011\nSPB Software
+Copyright %s 2007-2012\nSPB Software|حق نسخه برداری %s 2007-2012\nSPB Software
+Create Folder|ایجاد پوشه
+Current|فعلی
+Current city|شهر فعلی
+Current conditions|شرایط فعلی
+Current Conditions|شرایط فعلی
+Current skin|پوسته فعلی
+Day|روز
+Deal of the Day|معامله روز
+Deal of the Day Panel|پانل معامله روز
+Deal of the Day Panel Settings|تنظیمات معامله روز
+Deals|معاملات
+December|دسامبر
+Default|پیش فرض
+Delete note|حذف یادداشت
+Dew point:|نقطه شبنم:
+Diagnostic tools|ابزار تشخیص
+Disabled|غیر فعال شد
+Discoverable|قابل تشخیص
+Done|انجام شد
+Download Original|دانلود اصلی
+Downloading images|دانلود تصاویر
+E|E
+east|شرق
+Edit channel|ویرایش کانال
+Edit note|ویرایش یادداشت ها
+Edit panels|ویرایش پانل ها
+Emergency only|فقط اضطراری
+Empty Panel|پانل خالی
+Enable live wallpapers|فعال کردن کاغذ دیواری زنده
+Enabled|فعال شد
+Enter RSS feed title|ورود عنوان خوراک RSS
+Enter RSS feed URL|ورود URL خوراک RSS
+Entertainment|سرگرمی
+Error|خطا
+Evening|عصر
+Every 2 hours|هر 2 ساعت
+Every 24 hours|هر 24 ساعت
+Every 30 Minutes|هر 30 دقیقه
+Every 30 minutes|هر 30 دقیقه
+Every 4 hours|هر 4 ساعت
+Every hour|هر ساعت
+Exit|خروج
+Experimental|آزمایشی
+Experimental Settings|تنظیمات آزمایشی
+Experimental settings|تنظیمات آزمایشی
+Fahrenheit (#short)|فارنهایت
+Failed to load RSS|بارگذاری RSS ناموفق بود
+Favorite Contacts|مخاطبین مورد علاقه
+Favorite contacts|مخاطبین مورد علاقه
+February|فوریه
+Filter|فیلتر
+First day of the week|اولین روز هفته
+First Quarter|یک چهارم اول
+Flight|پرواز
+Folder|پوشه جدید
+Folder Name|نام پوشه
+Forecast|پیش بینی
+from forecast|از پیش بینی
+Full Moon|ماه کامل
+Gallery|گالری
+Games|بازی
+Gemini|برج جوزا
+Grayscale anaglyph (red/cyan)|anaglyph سیاه وسفید (قرمز/فیروزه ای)
+Green|سبز
+G-Sensor|حسگر جی
+Half an hour ago|نیم ساعت پیش
+Hectopascals|هکتو پاسکال
+Hide Duplicates|مخفی کردن تکراری ها
+Hide SIM Contacts|مخفی کردن مخاطبین سیم کارت
+Home|صفحه اصلی
+Home Settings|تنظیمات صفحه اصلی
+Home settings|تنظیمات صفحه اصلی
+hpa|hpa
+Humidity:|رطوبت:
+in %u days|در %u روز
+in Home Settings|در تنظیمات صفحه اصلی
+inch|inch
+Inches|اینچ
+Increase Counter|افزایش شمارگر
+Interface mode|حالت رابط
+Invisible|مخفی
+January|ژانویه
+July|جولای
+June|جون
+Kilometers per hour|کیلومتر در ساعت
+Knots|knots
+knots|knots
+kph|kph
+kts|گره
+Landscape|خوابیده (افقی)
+Landscape orientation required to enable left-to-right stereo mode|برای استفاد از حالت استریوی چپ به راست باید از جهت گیری افقی استفاده کنید
+Large|بزرگ
+Last Call|آخرین تماس
+Last Message|آخرین پیام
+Last Quarter|ربع (هفته) آخر
+Last updated|آخرین به روز رسانی
+Left-to-right (HTC EVO 3D)|چپ به راست (HTC EVO 3D)
+Legal information|اطلاعات قانونی
+Legal notices|اعلان های قانونی
+Leo|برج اسد
+Libra|برج میزان
+Lifestyle|سبک زندگی
+Live wallpapers can cause performance degradation of your 3D home screen. Switching between live and static wallpapers can take up to a minute. Static wallpapers are recommended for the best experience.|کاغذهای دیواری زنده باعث افت کارایی صفحه اصلی سه بعدی شما می شوند. جابجایی بین کاغذهای دیواری زنده و ساکن تا یک دقیقه ممکن است طول بکشد. کاغذهای دیواری ساکن برای بهترین نتیجه توصیه می شوند.
+Loading failed|بارگذاری ناموفق بود
+Loading image for wallpaper|بارگذاری تصویر برای کاغذ دیواری
+Loading RSS feed %s...|بارگذاری فید RSS %s... به میزان
+Loading skin failed!|بارگذاری پوسته ناموفق بود!
+Loading skins catalog failed!|بارگذاری کاتالوگ پوسته ها ناموفق بود!
+Loading...|در حال بارگذاری...
+Logging In...|در حال ورود...
+Lunar Calendar|تقویم قمری
+Lunar day %d|روز قمری %d
+Manage apps|مدیریت برنامه ها
+Manage Apps|مدیریت برنامه ها
+Manage panels|مدیریت پانل ها
+Manage Panels|مدیریت پانل ها
+March|مارس
+May|مه
+Messaging|تبادل پیام
+Meters per second|متر در ثانیه
+Miles per hour|مایل در ساعت
+Millimetres|میلی متر
+Misc|متفرقه
+Miscellaneous|متفرقه
+mm|mm
+Mobile|تلفن همراه
+Mode|حالت
+Monday|دوشنبه
+Moon|ماه
+Moon Calendar|تقویم قمری
+Moon in %s,|دوشنبه %d،
+Morning|صبح
+mph|mph
+mps|mps
+Multimedia|چند رسانه ای
+Music|موسیقی
+Music albums|آلبوم های موسیقی
+N|N
+N/A|N/A
+nd|دومین
+NE|NE
+Network Status|وضعیت شبکه
+Never|هرگز
+New Channel|کانال جدید
+New channel|کانال جدید
+New Contact|مخاطب جدید
+New Folder|پوشه جدید
+New Moon|ماه جدید
+News|اخبار
+News Panel|پانل اخبار
+News Panel Settings|تنظیمات پانل اخبار
+next|بعدی
+Next Alarm|هشدار بعدی
+Night|شب
+No|خیر
+no|خیر
+No Alarms|بدون هشدار
+No birthdays|بدون تولد
+No calls|بدون تماس
+No Cities|بدون شهر
+No conditions|بدون شرایط
+No Contacts.|بدون تماس.
+No Countries|بدون کشور
+No deals loaded|معامله ای بارگذاری نشد
+No Images|بدون تصاویر
+No messages|بدون پیام
+No news|بدون خبر
+No rise/set info|اطلاعات طلوع/غروب موجود نیست
+No RSS feed found at|خوراک RSS پیدا نشد
+No rss loaded|هیچ rss  بارگذاری نشد
+No SIM|بدون سیم کارت
+No text messages|بدون پیام های متنی
+No title|بدون عنوان
+No upcoming events|بدون رویدادهای نزدیک
+No upcoming events in a week|بدون هیچ رویداد نزدیک در هفته
+No updates|بدون به روز رسانی
+No weather forecast|بدون پیش بینی هوا
+Normal|عادی
+north|شمال
+north east|شمال شرق
+north west|شمال غرب
+Not available|موجود نیست
+Not connected|متصل نیست
+Notes|یادداشت ها
+Note's default color|رنگ پیش فرض یادداشت
+Note's font|قلم یادداشت
+Notes Panel|پانل یادداشت ها
+Notes Panel Settings|تنظیمات پانل یادداشت ها
+November|نوامبر
+NW|NW
+October|اکتبر
+Off|خاموش
+Offer|پیشنهاد
+On|فعال
+One Touch Share|One Touch Share
+Only on free connections|فقط در اتصالات آزاد
+Open Contact|باز کردن مخاطب
+Open in Browser|باز کردن در مرورگر
+OpenGL 2.0 is required to run SPB Shell 3D|برای اجرای SPB Shell 3D به OpenGL 2.0 نیاز است
+Optimized anaglyph (red/cyan)|anaglyph بهینه شده (قرمز/فیروزه ای)
+Other (assistant)|سایر (دستیار)
+Page|صفحه
+Pages: %d, images: %d|صفحات: %d تصاویر: %d
+Panel Name|نام پانل
+Parsing skins catalog failed!|تجزیه کاتالوگ پوسته ها ناموفق بود!
+Partly cloudy|نسبتا ابری
+Partly cloudy, rain|نسبتا ابری، باران
+Partly cloudy, snow|نسبتا ابری، برف
+Partly cloudy, thunder|نسبتا ابری، رعد
+People|مردم
+Performance Warning|هشدار کارایی
+Performance Warning dialog|مکالمه هشدار کارایی
+Personal|شخصی
+Phone|تلفن
+Photo folder for gallery widgets|پوشه عکس برای اسبابک های گالری
+Picture Gallery|گالری عکس ها
+Picture of the Day|عکس روز
+Picture Panel Settings|تنظیمات پانل عکس
+Pictures|عکس ها
+Pictures Of The Day|عکس روز
+Pictures Panel|پانل عکس ها
+Pictures Panel Settings|تنظیمات پانل عکس ها
+Pictures Settings|تنظیمات عکس ها
+Pisces|برج حوت
+Please Log In|لطفا وارد شوید
+Please wait...|لطفا صبر کنید...
+Portrait|ایستاده (عمودی)
+Pressure:|فشار:
+Problem loading widget|مشکل در بارگذاری اسبابک
+Productivity|حاصلخیزی
+Program|برنامه
+Pulkovo|Pulkovo
+Purchase|خرید
+Purple|ارغوانی
+Radio off|رادیو خاموش
+rd_loc|.
+Reading appointments...|در حال خواندن قرارهای ملاقات...
+Recycle Bin|سطل بازیافت
+Red|قرمز
+Reduced|کاهش یافته
+Reload skin list|بارگذاری مجدد فهرست پوسته
+Remove All|حذف همه
+Rename|نام گذاری مجدد
+Rename Panel|تغییر نام پانل
+Requesting images|درخواست تصاویر
+Retry|تلاش مجدد
+Rise: %s|طلوع: %s
+RSS Feed|خوراک RSS
+RSS Panel|پانل RSS
+RSS Panel Settings|تنظیمات پانل RSS
+S|S
+Safe mode|حالت امن
+Sagittarius|برج قوس
+Saint-Petersburg|سن پترزبورگ
+Save as New|ذخیره به عنوان جدید
+Save to Existing|ذخیره در موجود
+Scorpio|برج عقرب
+Screen orientation|جهت صفحه
+SE|SE
+Searching|در حال جستجو
+Select Channel|انتخاب کانال
+Select cities|انتخاب شهرها
+Select e-mail address|انتخاب نشانی ایمیل
+Select phone number:|انتخاب شماره تلفن:
+Select shortcut|انتخاب میانبر
+Select Skin|انتخاب پوسته
+Select wallpaper from|انتخاب کاغذ دیواری از
+Selected cities|شهرهای انتخاب شده
+Selected City|شهر انتخاب شده
+Selected city|شهر انتخاب شده
+Send E-mail|ارسال ایمیل
+Send E-Mail|ارسال ایمیل
+Send Message|ارسال پیام
+Send MMS|ارسال MMS
+Send SMS|ارسال پیامک
+September|سپتامبر
+Serial number:|شماره سریال:
+Set as Home|تنظیم به عنوان خانه
+Set as Wallpaper|تنظیم به عنوان کاغذ دیواری
+Set wallpaper|تنظیم کاغذ دیواری
+Set: %s|غروب: %s
+Settings|تنظیمات
+Show all|نمایش همه
+Show all day events|نمایش همه رویدادهای روز
+Show all day events in calendar widgets|نمایش همه رویدادهای روز در اسبابک تقویم
+Show full news|نمایش کامل اخبار
+Show images in news|نمایش تصاویر در اخبار
+Silent|ساکت
+Skin loading|بارگذاری پوسته
+Small|کوچک
+Smartphone|گوشی هوشمند
+Smog|دود و مه
+Social|اجتماعی
+Sound Profile|نمایه صدا
+south|جنوب
+south east|جنوب شرق
+south west|جنوب غرب
+SPB Shell 3D is loading...|SPB Shell 3D در حال بارگذاری است...
+SPB Wallpapers|کاغذهای دیواری SPB
+SPB Widget|اسبابک SPB
+st|اولین
+Standard Edition [Beta]|نسخه استاندارد [بتا]
+Stereoscopic 3D mode|حالت سه بعدی استریوسکوپی
+Stereoscopic 3D mode will be disabled|حالت سه بعدی استریوسکوپیک غیرفعال خواهد شد
+Stereoscopic 3D Settings|تنظیمات سه بعدی استریوسکوپی
+Sun in %s,|یکشنبه %d،
+Sunday|یکشنبه
+SW|SW
+Switching the interface mode can take up to a minute. Screen orientation will be changed to '%s'.|جابجایی به حالت رابط ممکن است تا یک دقیقه طول بکشد. جهت صفحه به '%s' تغییر خواهد کرد.
+System|سیستم
+Tablet|تبلت
+Taurus|برج ثور
+Temperatur scale|مقیاس دما
+Temperature scale|مقیاس دما
+Test Battery|آزمایش باتری
+th|ام
+Thank you for your support. Your copy is now registered.|با تشکر از حمایت شما. کپی شما اکنون ثبت شد.
+The experimental features below are not ready to be shipped in the core of SPB Shell 3D. They may contain severe defects and cause system instability. Use them at your own risk.|قابلیت های آزمایشی زیر آماده ارسال به هسته SPB Shell 3D نیستند. آنها ممکن است حاوی نقایص شدیدی بوده و باعث ناپایداری سیستم شوند. خطر استفاده از آنها با خود شماست.
+The maximum number of panels is reached|ظرفیت حداکثر تعداد پانل ها تکمیل شد
+The name cannot be changed.|نام قابل تغییر نیست.
+The previous launch of SPB Shell 3D was unsuccessful. Please tap "Retry" to launch it again or "Home" to activate a different Home screen.|اجرای قبلی SPB Shell 3D موفقیت آمیز نبود. لطفا روی "Retry" ضربه بزنید تا اجرا شود یا روی "Home" ضربه بزنید تا یک صفحه اصلی متفاوت فعال شود.
+Time|زمان
+Time Panel|پانل زمان
+Time Panel Settings|تنظیمات پانل زمان
+Today|امروز
+Toggle|جابجایی
+Tomorrow|فردا
+Tools|ابزار
+Travel|مسافرت
+Unfortunately, we could not locate your purchase in Android Market. Please uninstall this copy before installing a new one.|متاسفانه، نتوانستیم خرید شما را در Android Market پیدا کنیم. لطفا قبل از نصب کپی جدید، این نسخه را حذف کنید.
+Unfortunately, we could not locate your purchase. Please uninstall this copy before installing a new one.|متاسفانه، نتوانستیم خرید شما را پیدا کنیم. لطفا قبل از نصب کپی جدید، این نسخه را حذف کنید.
+Uninstall|حذف
+Uninstall apps|حذف برنامه ها
+Unknown|ناشناخته
+Unknown location|موقعیت ناشناخته
+Upcoming events|رویدادهای نزدیک
+Update|به روز رسانی
+Update deals list automatically|به روز رسانی خودکار فهرست معاملات
+Update Now|اکنون به روز رسانی شود
+Update pictures page automatically|به روز رسانی خودکار صفحه عکس ها
+Update weather forecasts automatically|به روز رسانی خودکار پیش بینی هوا
+Updated|به روز رسانی شده
+Updated:|به روز رسانی شده:
+Updating image|به روز رسانی تصویر
+Updating...|در حال به روز رسانی...
+Use 3D in application list|در فهرست برنامه ها از 3D استفاده شود
+Use 3D in edit mode|استفاده از 3D در حالت ویرایش
+Use cellular connection for updating deals list|برای به روز رسانی فهرست معاملات از تلفن سلولی استفاده کنید
+Use cellular connection for updating deals list automatically|برای به روز رسانی فهرست پیشنهادات موجود به صورت خودکار از اتصال موبایل کمک بگیر
+Use cellular connection for updating pictures automatically|برای به روز رسانی خودکار عکس ها از تلفن سلولی استفاده کنید
+Use cellular connection for updating weather automatically|برای به روز رسانی وضعیت آب و هوا به صورت خودکار از اتصال موبایل کمک بگیر
+Use new color every time|هر بار رنگ جدیدی را استفاده کن
+Use previous note's color|از رنگ قبلی یادداشت استفاده کن
+Value|ارزش
+variable|متغیر
+Version %s, Build %s|Version %s, Build %s
+Vibro|ویبره
+Video Call|تماس تصویری
+View Duplicates|مشاهده تکراری ها
+View SIM Contacts|مشاهده مخاطبین سیم کارت
+Virgo|برج سنبله
+W|W
+Wallpaper|کاغذ دیواری
+Wallpapers|کاغذهای دیواری
+Waning Crescent|نازک شدن هلال ماه
+Waning Gibbous|نازک شدن قرص ماه
+Waxing Crescent|کامل شدن هلال ماه
+Waxing Gibbous|کامل شدن قرص ماه
+Weather|هوا
+Weather and Clock|آب و هوا و زمان
+Weather Forecast|پیش بینی هوا
+Weather Settings|تنظیمات هوا
+Welcome to notes panel|به پنل یادداشت خوش آمدید
+west|غرب
+Widget is too big to be added.|این اسبابک برای اضافه شدن خیلی بزرگ است.
+Widgets|اسبابک ها
+Widgets Settings|تنظیمات اسبابک ها
+Wind direction:|جهت باد:
+Wind speed scale|مقیاس سرعت باد
+Wind speed:|سرعت باد:
+Wind:|باد:
+Work|کار
+World Time|ساعت جهانی
+Wrong serial number. Please check it again.|شماره سریال اشتباه. لطفا دوباره آن را وارسی کنید.
+Yandex.Search|Yandex.Search
+Yellow|زرد
+Yes|بله
+Yesterday|دیروز
+You save|صرفه جویی می کنید
+Your video system isn't compatible with Shell 3D.|سیستم ویدئویی شما با Shell 3D سازگار نیست.

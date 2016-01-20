@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+
+<Layouts>
+
+  <Layers>
+    <Layer Name="Frame" Dialog="BackgrdFrame"/>
+    <Layer/>
+  </Layers>
+  <Rules>
+      <Default>
+          <UseLayout Name="240x400"/>
+      </Default>
+  </Rules>
+
+  <General>
+      <DefaultFont Face="Droid Sans" HeightPxl="11" Bold="n" Color="FFFFFFFF"/>
+      <ScrollY Value="On"/>
+  </General>
+
+  <Layout Name="Default">
+    <Plugins>
+      <Group Name="Group" ID="0">
+        <Plugins>
+          <Plugin Name="UserPic"  ID="1"/>
+          <Plugin Name="UserName" ID="2"/>
+          <Plugin Name="EvtName"  ID="3"/>
+          <Plugin Name="DaysCnt"  ID="4"/>
+          <Plugin Name="UserSel"  ID="9"/>
+        </Plugins>
+      </Group>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="240x400">
+    <General>
+        <Point Name="ContentSize" X="230" Y="180"/>
+    </General>
+    <Plugins Extends="Default">
+      <Group Name="Group">
+        <BoundRect X="0" Y="0" Width="230" Height="60"/>
+        <Plugins>
+          <Plugin Name="UserPic">
+              <BoundRect X="12" Y="2" Width="44" Height="44"/>
+          </Plugin>
+          <Plugin Name="UserName">
+              <BoundRect X="72" Y="0" Width="150" Height="15"/>
+          </Plugin>
+          <Plugin Name="EvtName">
+              <BoundRect X="72" Y="15" Width="150" Height="15"/>
+          </Plugin>
+          <Plugin Name="DaysCnt">
+              <BoundRect X="72" Y="30" Width="150" Height="15"/>
+          </Plugin>
+          <Plugin Name="UserSel">
+              <BoundRect X="9" Y="0" Width="212" Height="48"/>
+          </Plugin>
+        </Plugins>
+      </Group>
+    </Plugins>
+  </Layout>
+
+</Layouts>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SPB Shell 3D</string>
+    <string name="dialog_shell_loading">SPB Shell 3D se nalaga ...</string>
+    <string name="gadget_error_text">Težava z nalaganjem gradnika</string>
+    <string name="dialog_select_shortcut">Izberi bližnjico</string>
+    <string name="dialog_choose_widget">Izberi gradnik</string>
+    <string name="chooser_wallpaper">Izberi ozadje iz</string>
+    <string name="wallpaper_instructions">Nastavi ozadje</string>
+    <string name="pick_wallpaper">Ozadja</string>
+    <string name="wallpapers_spb">Ozadja SPB</string>
+    <string name="yes">Da</string>
+    <string name="no">Ne</string>
+    <string name="wait">Prosimo, počakajte ...</string>
+    <string name="home_widget_error">Gradnika ni mogoče dodati, ker je prevelik.</string>
+    <string name="cancel">Prekliči</string>
+    <string name="error">error</string>
+    <string name="infinity">infinity</string>
+    <string name="dialog_unsupported_devices_title">Napaka</string>
+    <string name="dialog_unsupported_devices_message">Za izvajanje aplikacije SPB Shell 3D potrebujete OpenGL 2.0.</string>
+    <string name="license_fail">Vašega nakupa v središču Android Market žal ni bilo mogoče najti. Preden namestite nov izvod, odstranite obstoječega.</string>
+    <string name="purchase">Nakup</string>
+    <string name="exit">Izhod</string>
+    <string name="legal_notices_title">Pravna obvestila</string>
+    <string name="license_fail_handango">Vašega nakupa žal ni bilo mogoče najti. Preden namestite nov izvod, odstranite obstoječega.</string>
+    <string name="safe_mode_title">Varni način</string>
+    <string name="safe_mode_text">Prejšnji zagon aplikacije SPB Shell 3D ni uspel. Za ponovni zagon tapnite »Poskusi znova« ali »Začetni zaslon« za aktivacijo drugega začetnega zaslona.</string>
+    <string name="safe_mode_retry">Poskusi znova</string>
+    <string name="safe_mode_home">Začetni zaslon</string>
+    <string name="sd_install_title">Napaka</string>
+    <string name="sd_install_text">Installation to a storage card is not supported. Please install SPB Shell 3D to the main memory</string>
+    <string name="contacts_failed_pick">Failed to load the selected contact. Try to link the contact to Google account or save it to phone.</string>
+</resources>

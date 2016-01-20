@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<skin Name="Backlight Widget">
+  <items>
+    <item DontScale="1">
+      <Int Name="level_images_count" Value="4" />
+      <Image Name="icons"  File="backlight.png" />
+    </item>
+  </items>
+</skin>

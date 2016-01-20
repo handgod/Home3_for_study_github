@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SPB Shell 3D</string>
+    <string name="dialog_shell_loading">SPB Shell 3D se încarcă...</string>
+    <string name="gadget_error_text">Problemă în încărcarea widget-ului</string>
+    <string name="dialog_select_shortcut">Selectare scurtătură</string>
+    <string name="dialog_choose_widget">Alegere widget</string>
+    <string name="chooser_wallpaper">Selectare tapet din</string>
+    <string name="wallpaper_instructions">Setare tapet</string>
+    <string name="pick_wallpaper">Tapete</string>
+    <string name="wallpapers_spb">Tapete SPB</string>
+    <string name="yes">Da</string>
+    <string name="no">Nu</string>
+    <string name="wait">Vă rugăm așteptați...</string>
+    <string name="home_widget_error">Widget-ul este prea mare pentru a fi adăugat.</string>
+    <string name="cancel">Anulare</string>
+    <string name="error">error</string>
+    <string name="infinity">infinity</string>
+    <string name="dialog_unsupported_devices_title">Eroare</string>
+    <string name="dialog_unsupported_devices_message">OpenGL 2.0 este necesar pentru a putea rula SPB Shell 3D</string>
+    <string name="license_fail">Din păcate nu am putut localiza achiziția dvs. pe Android Market. Vă rugăm dezinstalați această copie înainte de a instala una nouă.</string>
+    <string name="purchase">Achiziție</string>
+    <string name="exit">Ieșire</string>
+    <string name="legal_notices_title">Prevederi de natură juridică</string>
+    <string name="license_fail_handango">Din nefericire, nu am putut localiza achiziția dvs. Vă rugăm dezinstalați această copie înainte de a instala una nouă.</string>
+    <string name="safe_mode_title">Mod de siguranță</string>
+    <string name="safe_mode_text">Lansarea anterioară a SPB Shell 3D a eșuat. Vă rugăm apăsați „Reîncercare” pentru a-l relansa sau „Acasă” pentru a activa un alt ecran de întâmpinare.</string>
+    <string name="safe_mode_retry">Reîncercare</string>
+    <string name="safe_mode_home">Acasă</string>
+    <string name="sd_install_title">Eroare</string>
+    <string name="sd_install_text">Installation to a storage card is not supported. Please install SPB Shell 3D to the main memory</string>
+    <string name="contacts_failed_pick">Failed to load the selected contact. Try to link the contact to Google account or save it to phone.</string>
+</resources>

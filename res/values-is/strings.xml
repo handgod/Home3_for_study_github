@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SPB Shell 3D</string>
+    <string name="dialog_shell_loading">SPB Shell 3D er að hlaðast...</string>
+    <string name="gadget_error_text">Vandamál við að hlaða græju</string>
+    <string name="dialog_select_shortcut">Velja flýtileið</string>
+    <string name="dialog_choose_widget">Velja græju</string>
+    <string name="chooser_wallpaper">Velja veggfóður úr</string>
+    <string name="wallpaper_instructions">Velja veggfóður</string>
+    <string name="pick_wallpaper">Veggfóður</string>
+    <string name="wallpapers_spb">SPB veggfóður</string>
+    <string name="yes">Já</string>
+    <string name="no">Nei</string>
+    <string name="wait">Augnablik...</string>
+    <string name="home_widget_error">Græjan er of stór og er því ekki hægt að bæta henni við.</string>
+    <string name="cancel">Hætta við</string>
+    <string name="error">error</string>
+    <string name="infinity">infinity</string>
+    <string name="dialog_unsupported_devices_title">Villa</string>
+    <string name="dialog_unsupported_devices_message">Það þarf OpenGL 2.0 til að keyra SPB Shell 3D</string>
+    <string name="license_fail">Því miður fundum við ekki það sem þú keyptir á Android Market. Fjarlægðu þetta eintak áður en þú setur nýtt upp.</string>
+    <string name="purchase">Kaup</string>
+    <string name="exit">Hætta</string>
+    <string name="legal_notices_title">Lagaleg atriði</string>
+    <string name="license_fail_handango">Því miður fundum við ekki það sem þú keyptir. Fjarlægðu þetta eintak áður en þú setur nýtt upp.</string>
+    <string name="safe_mode_title">Öryggisstilling</string>
+    <string name="safe_mode_text">Ekki tókst að ræsa SPB Shell 3D síðast þegar það var reynt. Ýttu á \"Reyna aftur\" til að ræsa það aftur eða á \"Heim\" til að velja annan heimaskjá.</string>
+    <string name="safe_mode_retry">Reyna aftur</string>
+    <string name="safe_mode_home">Heim</string>
+    <string name="sd_install_title">Villa</string>
+    <string name="sd_install_text">Installation to a storage card is not supported. Please install SPB Shell 3D to the main memory</string>
+    <string name="contacts_failed_pick">Failed to load the selected contact. Try to link the contact to Google account or save it to phone.</string>
+</resources>

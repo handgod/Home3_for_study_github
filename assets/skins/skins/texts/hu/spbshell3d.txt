@@ -1,0 +1,545 @@
+ a few seconds| pár mp.
+ day| nap
+ days| napok
+ hour| óra
+ hours| óra
+ hr| ó.
+ hrs| ó.
+ lunar day| holdnap
+ min| p.
+ mins| p.
+ minute| perc
+ minutes| perc
+%d bought|%d megvéve
+%d day|%d nap múlva
+%d days|%d nap múlva
+%d hour|%d óra múlva
+%d hours|%d óra múlva
+%d minute|%d perc múlva
+%d minutes|%d perc múlva
+%d more...|még %d...
+%i active channel|%i aktív csatorna
+%i active channels|%i aktív csatorna
+%i image|%i kép
+%i images|%i kép
+%i more today|még %i esemény mára
+%i more...|még %i...
+%i page|%i oldal
+%i pages|%i oldal
+%i%% of Full|Holdtölte: %i%%
+%s 2007—2011 Yandex|%s 2007—2011 Yandex
+(<1 min)|(<1 perc)
+(in|(hátravan:
+(in seconds)|(másodperceken belül)
+(No title)|(nincs cím)
+[ Loading images... ]|[ Képek betöltése... ]
+[ Tap here for images load ]|[ Bökjön ide a képek betöltéséhéz ]
+A few minutes ago|Néhány perce
+About|Névjegy
+About SPB Shell 3D|Az SPB Shell 3D-ről
+Above horizon|Horizont fölött
+Accelerometer|Gyorsulásérzékelő
+Activate|Aktivál
+Activation|Aktiválás
+Activation failed. Check your Internet connection.|Sikertelen aktiválás. Ellenőrizze az internetkapcsolatát!
+Active Channels|Aktív Csatornák
+Active channels|Aktív csatornák
+Add|Hozzáadás
+Add category|Kategória hozzáadása
+Add channel|Csatorna hozzáadása
+Add city|Város hozzáadása
+Add custom channel|Egyedi kategória hozzáadása
+Add new city|Új város hozzáadása
+Add note|Megjegyzés hozzáadása
+Add Panel|Panel hozzáadása
+Add to Home screen|Hozzáadás a főképernyőhöz
+Airplane|Repülő üzemmód
+Airplane Mode|Repülő üzemmód
+Alcatel Widget|Alcatel Widget
+All day|Egész nap
+All pictures|Minden kép
+Allow resizing of all Android widgets|Android widgetek átméretezésének engedélyezése
+An hour ago|Egy órája
+Android Shortcut|Android parancsikon
+Android Widget|Android widget
+Anniversary|ünnep
+Appearance|Megjelenés
+Application|Alkalmazás
+April|Április
+Aqua|Víz
+Aquarius|Vízöntő
+Aries|Kos
+as of %s|%s
+at %s|%snál
+atm|atm
+Atmospheres|Atmoszférák
+Atmospheric pressure scale|Légnyomás skála
+August|Augusztus
+Auto|Automatikus
+Auto (keyboard only)|Auto (csak billentyűzet)
+Auto arrange widgets|Widgetek automatikus elrendezése
+Automatic|Automatikus
+Automatic naming|Automatikus elnevezés
+Backlight|Háttérvilágítás
+Battery|Akku
+Below horizon|Horizont alatt
+Birthday|Születésnap
+Birthdays|Születésnapok
+Black|fekete
+Blue|Kék
+Bluetooth|Bluetooth
+Bookmarks|Könyvjelzők
+Bookmarks Folder|Könyvjelzők
+Business|Üzlet
+Buy!|Vásárol!
+Cache size|Cache méret
+Calculator|Számológép
+Calendar|Naptár
+Calendar Panel|Naptár panel
+Calendar Panel Settings|Naptár panel beállításai
+Call|Hívás
+Call Log|Hívásnapló
+Cancel|Mégsem
+Cancer|Rák
+Capricorn|Bak
+Categories|Kategória
+Category Name|Kategória neve
+Celsius (#short)|Celsius
+Change|Változtat
+Change City|Város megváltoztatása
+Change profile|Profil megváltoztatása
+Channels list|Csatornák listája
+Choose Alcatel Widget|Alcatel Widget kiválasztása
+Choose Color|Válasszon színt
+Choose Program|Válasszon programot
+Choose SPB Widget|Válasszon SPB Widgetet
+Choose widget|Widget kiválasztása
+Clear|Felhőtlen
+Clear cache|Cache ürítése
+Clock|Óra
+Cloudy|Felhős
+Cloudy, hail|Felhős, záporok
+Cloudy, heavy rain|Felhős, heves eső
+Cloudy, heavy snow|Felhős, erős havazás
+Cloudy, rain|Felhős, eső
+Cloudy, rain with snow|Felhős, havaseső
+Cloudy, snow|Felhős, hó
+Cloudy, thunder|Felhős, vihar
+Color anaglyph (red/cyan)|Szín anaglif (piros/cián)
+Communication|Kommunikáció
+Contact|Névjegy
+Contact Settings|Névjegy beállításai
+Contact Size|Névjegy mérete
+Contacts|Kapcsolatok
+Contacts Folder|Névjegyek mappa
+Copyright %s 2007-2011\nSPB Software|Copyright %s 2007-2011\nSPB Software
+Copyright %s 2007-2012\nSPB Software|Copyright %s 2007-2012\nSPB Software
+Create Folder|Mappa létrehozása
+Current|Jelenlegi
+Current city|Jelenlegi város
+Current conditions|Jelenlegi állapotok
+Current Conditions|Jelenlegi állapotok
+Current skin|Jelenlegi felület
+Custom channel|Egyedi csatorna
+Day|Nap
+Deal of the Day|Nap üzlete
+Deal of the Day Panel|Napi üzlet panel
+Deal of the Day Panel Settings|Napi üzlet beállításai
+Deals|Üzletek
+December|December
+Default|Alapértelmezés
+Default Action|Alapértelmezett viselkedés
+Delete note|Megjegyzés törlése
+Dew point:|Harmatpont:
+Diagnostic tools|Diagnosztikai eszközök
+Disabled|Kikapcsolva
+Discoverable|Látható
+Done|Kész
+Download Original|Eredeti letöltése
+Downloading images|Képek letöltése
+E|K
+east|kelet
+Edit channel|Csatorna szerkesztése
+Edit Contact|Névjegy szerkesztése
+Edit note|Megjegyzés szerkesztése
+Edit panels|Panelek szerkesztése
+Emergency only|Csak vészhívás
+Empty Panel|Üres Panel
+Enable live wallpapers|Élő háttér engedélyezése
+Enabled|Engedélyezve
+Enter RSS feed title|Adja meg az RSS feed nevét
+Enter RSS feed URL|Adja meg az RSS feed URL-jét
+Entertainment|Szórakozás
+Error|Hiba
+Evening|Este
+Every 2 hours|2 óránként
+Every 24 hours|24 óránként
+Every 30 Minutes|30 percenként
+Every 30 minutes|30 percenként
+Every 4 hours|4 óránként
+Every hour|Óránként
+Exit|Kilépés
+Experimental|Kísérleti
+Experimental Settings|Kísérleti beállítások
+Experimental settings|Kísérleti Beállítások
+Fahrenheit (#short)|Fahrenheit
+Failed to add contact|Névjegy hozzáadása sikertelen
+Failed to load RSS|RSS feed betöltése sikertelen
+Failed to load the selected contact. Try to link the contact to Google account or save it to phone.|A kiválasztott névjegy betöltése sikertelen. Próbálja meg összekötni a Google fiókjával, vagy mentse a telefonra.
+Favorite Contacts|Kedvenc névjegyek
+Favorite contacts|Kedvenc névjegyek
+Favorites|Kedvencek
+February|Február
+Filter|Szűrő
+First day of the week|Hét első napja
+First Quarter|Első negyed
+Flight|Járat
+Folder|Mappa
+Folder Name|Mappa neve
+Forecast|Előrejelzés
+from forecast|előrejelzésből
+Full Moon|Telihold
+Gallery|Naptár
+Games|Játékok
+Gemini|Ikrek
+Gravity|Gravitáció
+Grayscale anaglyph (red/cyan)|Szürkeskála anaglif (piros/cián)
+Green|zöld
+G-Sensor|G-szenzor
+Half an hour ago|Fél órája
+Hectopascals|Hectopascal
+Hide Duplicates|Többszörös bejegyzések elrejtése
+Hide SIM Contacts|SIM névjegyek elrejtése
+Home|Főoldal
+Home Settings|Otthon beállítások
+Home settings|Otthon beállítások
+hpa|hPa
+Humidity:|Páratartalom:
+in %u days|%u napon belül.
+in Home Settings|a főoldal beállításaiban
+inch|inch
+Inches|inch
+Increase Counter|Számláló növelése
+Interface mode|Interfész mód
+Invisible|Láthatatlan
+January|Január
+July|Július
+June|Június
+Kilometers per hour|kilóméter per óra
+Knots|Csomó
+knots|csomó
+kph|km/h
+kts|kts
+Landscape|Fekvő
+Landscape orientation required to enable left-to-right stereo mode|A balról-jobbra sztereó mód engedélyezéséhez fekvő nézet szükséges
+Large|Nagy
+Last Call|Utolsó hívás
+Last Message|Utolsó üzenet
+Last Quarter|Utolsó negyed
+Last updated|Utoljára frissítve
+Left-to-right (HTC EVO 3D)|Balról-jobbra (HTC EVO 3D)
+Legal information|Jogi információk
+Legal notices|Jogi információk
+Leo|Oroszlán
+Libra|Mérleg
+Lifestyle|Életstílus
+Live wallpapers can cause performance degradation of your 3D home screen. Switching between live and static wallpapers can take up to a minute. Static wallpapers are recommended for the best experience.|Az élő háttér teljesítmény problémákat okozhat a 3D főoldalon. A statikus és az élő háttér közötti váltás akár egy percet is igénybe vehet. A legjobb működéshez a statikus háttér javasolt.
+Loading failed|Betöltés sikertelen
+Loading image for wallpaper|Háttérképek betöltése
+Loading RSS feed %s...|RSS feed betöltése %s...
+Loading skin failed!|Felület betöltése sikertelen
+Loading skins catalog failed!|Felületkatalógus betöltése sikertelen.
+Loading...|Betöltés...
+Logging In...|Bejelentkezés...
+Lunar Calendar|Holdnaptár
+Lunar day %d|Holdnap %d
+Manage apps|Alkalmazások kezelése
+Manage Apps|Alkalmazások kezelése
+Manage panels|Panelek kezelése
+Manage Panels|Panelek kezelése
+March|Március
+May|Május
+Medium|Közepes
+Messaging|Üzenetkezelés
+Meters per second|Méter per másodperc
+Miles per hour|Mérföld per óra
+Millimetres|Miliméter
+Misc|Egyéb
+Miscellaneous|Egyéb
+mm|mm
+Mobile|Mobil
+Mode|Mód
+Monday|Hétfő
+Moon|Hold
+Moon Calendar|Holdnaptár
+Moon in %s,|%s-n belül hold
+Morning|Reggel
+mph|mph
+mps|m/s
+Multimedia|Multimedia
+Music|Zene
+Music albums|Zenei albumok
+N|É
+N/A|N/A
+nd|.
+NE|ÉK
+Network Status|Hálózat állapota
+Never|Soha
+New|Új
+New Channel|Új csatorna
+New channel|Új csatorna
+New Contact|Új névjegy
+New Folder|Új mappa
+New Moon|Újhold
+New update available|Új frissítések elérhetők
+News|Hírek
+News Panel|Hírek panel
+News Panel Settings|Hírek panel beállításai
+next|Következő
+Next Alarm|Következő ébresztő
+Night|Éjszaka
+No|Nem
+no|nincs info
+No Alarms|Nincs ébresztő
+No birthdays|Nincs születésnap
+No calls|Nincs hívás
+No Cities|Nincs város
+No conditions|Nincs feltétel
+No Contacts.|Nem található névjegy
+No Countries|Nincs ország
+No deals loaded|Nincs üzlet betöltve
+No Images|Nincs kép
+No messages|Nincs üzenet
+No news|Nincs hír
+No rise/set info|Nincs napkelte/napnyugta info
+No RSS feed found at|Nem található RSS feed
+No rss loaded|Nincs RSS betöltve
+No SIM|Nincs SIM
+No text messages|Nincs üzenet
+No title|Nincs cím
+No upcoming events|Nincs elkövetkező esemény
+No upcoming events in a week|Nincs a héten elkövetkező esemény
+No updates|Nincs frissítés
+No weather forecast|Nincs időjárás előrejelzés
+Normal|Normál
+north|észak
+north east|észak kelet
+north west|észak nyugat
+Not available|Nem elérhető
+Not connected|Nincs kapcsolat
+Notes|Jegyzetek
+Note's default color|Megjegyzés alapértelmezett színe
+Note's font|Megjegyzés betűtípúsa
+Notes Panel|Megjegyzés panel
+Notes Panel Settings|Megjegyzés panel beállításai
+November|November
+NW|ÉNY
+October|Október
+Off|Kikapcsol
+Offer|Ajánl
+On|be
+One Touch Share|One Touch Share
+Only on free connections|Csak a szabad kapcsolatokon
+Open Contact|Névjegy megnyitása
+Open in Browser|Böngésző megnyitása
+OpenGL 2.0 is required to run SPB Shell 3D|Az SPB Shell 3D futtatásához OpenGl 2.0-ra van szükség.
+Optimized anaglyph (red/cyan)|Optimizált anaglif (piros/cián)
+Other (assistant)|Egyéb (asszisztens)
+Page|Oldal
+Pages: %d, images: %d|Oldalak: %d, képek: %d
+Panel Name|Panel név
+Panels|Panelek
+Panels Settings|Panelek beállítása
+Parsing skins catalog failed!|Felületkatalógus feldolgozása sikertelen.
+Partly cloudy|Részben felhős
+Partly cloudy, rain|Részben felhős, eső
+Partly cloudy, snow|Részben felhős, hó
+Partly cloudy, thunder|Részben felhős, vihar
+People|Emberek
+Performance Warning|Teljesítmény figyelmeztetés
+Performance Warning dialog|Teljesítmény figyelmeztetés ablak
+Personal|Személyes
+Phone|Telefon
+Photo folder for gallery widgets|A Galéria widget könyvtára
+Picture Gallery|Képgaléria
+Picture of the Day|A nap képe
+Picture Panel Settings|Képek panel beállítások
+Pictures|Képek
+Pictures Of The Day|A nap képei
+Pictures Panel|Képek panel
+Pictures Panel Settings|Képek panel beállításai
+Pictures Settings|Kép beállítások
+Pisces|Halak
+Please Log In|Kérem jelentkezzen be
+Please wait...|Kérem várjon.
+Portrait|Álló
+Pressure:|Nyomás:
+Problem loading widget|Hiba a Widget betöltése közben.
+Productivity|Termelékenység
+Program|Program
+Pulkovo|Pulkovo
+Purchase|Vásárlás
+Purple|Lila
+Quick Setting|Gyors beállítás
+Radio off|Rádió ki
+rd_loc|.
+Reading appointments...|Találkozók beolvasása
+Recycle Bin|Lomtár
+Red|Piros
+Reduced|Csökkentett
+Reload skin list|Felületlista frissítése
+Remove All|Mindet töröl
+Rename|Átnevezés
+Rename Panel|Panel átnevezése
+Requesting images|Képek kérése
+Retry|Újra
+Rise: %s|Napkelte: %s
+RSS Feed|RSS Feed
+RSS Panel|RSS panel
+RSS Panel Settings|RSS panel beállítások
+S|D
+Safe mode|Csökkentett mód
+Sagittarius|Nyilas
+Saint-Petersburg|Szentpétervár
+Save as New|Mentés újként
+Save to Existing|Mentés
+Scorpio|Skorpió
+Screen orientation|Képernyő elrendezés
+Screen orientation will be changed to Landscape|A képernyő elrendezés fekvőre fog változni.
+SE|DK
+Searching|Keresés
+Select Channel|Csatorna kiválasztása
+Select cities|Városok kiválasztása
+Select Contact Action|Válassza ki a névjegy műveletét
+Select Contact Size|Válassza ki a névjegy méretét
+Select e-mail address|Válasszon e-mail címet
+Select phone number:|Válasszon telefonszámot:
+Select shortcut|Parancsikon kiválasztása
+Select Skin|Válasszon felületet:
+Select wallpaper from|Háttérkép kiválasztása
+Selected cities|Kiválasztott városok
+Selected City|Választott város
+Selected city|Választott város
+Send Email|Email küldése
+Send E-mail|E-mail küldése
+Send E-Mail|E-mail küldése
+Send Message|Üzenet küldése
+Send MMS|MMS küldése
+Send SMS|SMS küldés
+September|Szeptember
+Serial number:|Sorozatszám:
+Set as Home|Beállítás kezdőlapként
+Set as Wallpaper|Beállítás háttérképként
+Set wallpaper|Háttérkép beállítása
+Set: %s|Napnyugta: %s
+Settings|Beállítások
+Show all|Mindet mutat
+Show all day events|Egész nap mutatása
+Show all day events in calendar widgets|Egész napos események mutatása a naptár widgetben
+Show full news|Minden hír mutatása
+Show images in news|Képek mutatása a hírekben
+Silent|Csendes
+Skin loading|Felület betöltése
+Small|Kicsi
+Smartphone|Okostelefon
+Smog|Szmog
+Social|Közösségi
+Social Network|Közösségi háló
+Sound Profile|Hang profil
+south|dél
+south east|délkelet
+south west|délnyugat
+SPB Shell 3D is loading...|Az SPB Shell 3D betöltése folymatban...
+SPB Wallpapers|SPB Háttérképek
+SPB Widget|SPB Widget
+st|.
+Standard Edition [Beta]|Standard Edition [Beta]
+Stereoscopic 3D mode|Sztereoszkópikus 3D mód
+Stereoscopic 3D mode will be disabled|A sztereoszkopikus 3D mód ki lesz kapcsolva
+Stereoscopic 3D Settings|Sztereoszkópikus 3D beállítások
+Sun in %s,|Nap %s-n belül
+Sunday|Vasárnap
+SW|DNY
+Switching the interface mode can take up to a minute. Screen orientation will be changed to '%s'.|Az interfész módok közötti váltás akár egy percet is igénybe vehet. A képernyő orientációja %s lesz.
+System|Rendszer
+Tablet|Tablet
+Taurus|Bika
+Temperatur scale|Hőmérséklet skála
+Temperature scale|Hőmérséklet skála
+Test Battery|Akku teszt
+th|.
+Thank you for your support. Your copy is now registered.|Köszönjük a támogatását. Ezzel az Ön példányának a regisztrációja megtörtént.
+The experimental features below are not ready to be shipped in the core of SPB Shell 3D. They may contain severe defects and cause system instability. Use them at your own risk.|A lenti kísérleti szolgáltatások nem részei az SPB Shell 3D-nek. Tartalmazhatnak hibákat és akár rendszerösszeomlást is okozhatnak. Saját felelősségre használja őket.
+The maximum number of panels is reached|Ennél több panel nem lehet.
+The name cannot be changed.|A nevet nem lehet megváltoztatni
+The previous launch of SPB Shell 3D was unsuccessful. Please tap "Retry" to launch it again or "Home" to activate a different Home screen.|Az SPB Shell 3D utolsó indítása meghiúsult. Kattintson az Újra gombra az újrakezdéshez, vagy az Otthon gombra egy másik főoldal választásához.
+Time|Idő
+Time Panel|Idő panel
+Time Panel Settings|Idő panel beállításai
+Today|Mai nap
+Toggle|Kapcsol
+Tomorrow|Holnap
+Tools|Eszközök
+Travel|Utazás
+Unfortunately, we could not locate your purchase in Android Market. Please uninstall this copy before installing a new one.|Sajnos nem találjuk a licenszét az Android Marketen. Kérjük törölje le ezt a programot az új telepítése előtt.
+Unfortunately, we could not locate your purchase. Please uninstall this copy before installing a new one.|Sajnos nem találjuk a vásárlását. Kérem távolítsa el ezt a példányt egy új telepítése előtt.
+Uninstall|Eltávolítás
+Uninstall apps|Alkalmazások eltávolítása
+Unknown|Ismeretlen
+Unknown location|Ismeretlen hely
+Upcoming events|Következő események
+Update|Frissít
+Update deals list automatically|Üzlet lista automatikus frissítése
+Update Now|Frissítés most
+Update pictures page automatically|Képek automatikus frissítése
+Update weather forecasts automatically|Időjárás előrejelzés automatikus frissítése
+Updated|Frissítve
+Updated:|frissítve:
+Updating image|Kép frissítése
+Updating...|frissítés folyamatban....
+Use 3D in application list|3D használata az alkalmazás listában
+Use 3D in edit mode|3D használata szerkesztői módban
+Use cellular connection for updating deals list|Az üzletek listájának frissítése mobilhálózaton
+Use cellular connection for updating deals list automatically|Mobilkapcsolat használata az üzletek listájának automatikus frissítéséhez
+Use cellular connection for updating pictures automatically|Képek automatikus feltöltése mobilhálózaton is
+Use cellular connection for updating weather automatically|Mobilkapcsolat használata az időjárás automatikus frissítéséhez
+Use new color every time|Minden alkalommal új szín használata
+Use previous note's color|Előző megjegyzés színének használata
+Value|Érték
+variable|változó
+Version %s, Build %s|%s verzió, %s build
+Vibro|Rezgő
+Video Call|Videóhívás
+View Duplicates|Duplán szereplő értékek mutatása
+View SIM Contacts|SIM névjegyek mutatása
+Virgo|Szűz
+W|NY
+Wallpaper|Háttérkép
+Wallpapers|Háttérképek
+Waning Crescent|Utolsó negyed
+Waning Gibbous|Utolsó negyed
+Waxing Crescent|Első negyed
+Waxing Gibbous|Első negyed
+Weather|Időjárás
+Weather and Clock|Időjárás és óra
+Weather Forecast|Időjárás előrejelzés
+Weather Panel Settings|Időjárás panel beállításai
+Weather Settings|Időjárás beállítások
+Welcome to notes panel|Üdvözöljük a megyjegyzés panelen
+west|nyugat
+Widget is too big to be added.|A widget túl nagy a hozzáadáshoz.
+Widgets|Widgetek
+Widgets Settings|Widget beállítások
+Wind direction:|Szélirány:
+Wind speed scale|Szélsebesség skála:
+Wind speed:|Szélsebesség:
+Wind:|Szél:
+Work|Munkahely
+World Time|Világidő
+Wrong serial number. Please check it again.|Hibás sorozatszám. Kérem ellenőrízze és próbálja újra!
+Yandex.Search|Yandex.Search
+Yellow|Sárga
+Yes|Igen
+Yesterday|Tegnap
+You save|Mentés
+Your video system isn't compatible with Shell 3D.|Az ön videó rendszere nem kompatibilis a Shell 3D-vel.

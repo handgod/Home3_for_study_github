@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Layouts Name="Panel Settings" Type="other">
+
+  <Layout Name="PanelSettings">
+    <Plugins LayoutType="frame">
+      <LayoutSize Width="fill" Height="fill"/>
+      <Plugin Class="Spb.LSP.Generic" Name="Settings" ID="3000" AutoSkin="misc" Align="top|right">
+        <LayoutSize Width="24" Height="24"/>
+        <LayoutMargins Top="14" Right="12"/>
+        <Font Name="Default" Face="Droid Sans" HeightPxl="11" Bold="n" Color="FFFFFFFF"/>
+      </Plugin>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="PanelSettings_L">
+    <Plugins Extends="PanelSettings">
+      <Plugin Name="Settings">
+        <LayoutMargins Top="14" Right="55"/>
+      </Plugin>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="PanelSettings_Tablet">
+    <Plugins Extends="PanelSettings">
+      <Plugin Name="Settings">
+        <LayoutMargins All="0"/>
+      </Plugin>
+    </Plugins>
+  </Layout>
+
+  
+  <Layout Name="PlusBtn">
+    <Plugins LayoutType="frame">
+      <LayoutSize Width="fill" Height="fill"/>
+      <Plugin Class="Spb.LSP.Image" Name="Plus" ID="3010" AutoSkin="misc" Align="top|right">
+        <LayoutSize Width="24" Height="24"/>
+        <LayoutMargins Top="14" Right="12"/>
+        <Font Name="Default" Face="Droid Sans" HeightPxl="11" Bold="n" Color="FFFFFFFF"/>
+	<String Name="ImageName" Value="Add"/>
+      </Plugin>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="PlusBtn_L">
+    <Plugins Extends="PlusBtn">
+      <Plugin Name="Plus">
+        <LayoutMargins Top="14" Right="55"/>
+      </Plugin>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="PlusBtn_Tablet">
+    <Plugins Extends="PlusBtn">
+      <Plugin Name="Plus">
+        <LayoutMargins All="0"/>
+      </Plugin>
+    </Plugins>
+  </Layout>
+
+  
+  <Layout Name="HeaderLayout">
+    <Frame Name="Content" Width="fill" Height="44" Margins="0 0 0 4">
+      <Plugin Name="TopLine" Class="Spb.LSP.Separator" Align="top" Width="fill" Height="1">
+        <Int Name="Side" Value="2"/>
+        <Int Name="Falloff" Value="20"/>
+        <Int Name="Opacity" Value="150"/>
+      </Plugin>
+      <Plugin Name="BottomLine" Class="Spb.LSP.Separator" Align="bottom" Width="fill" Height="1">
+        <Int Name="Side" Value="2"/>
+        <Int Name="Falloff" Value="20"/>
+        <Int Name="Opacity" Value="200"/>
+      </Plugin>
+    </Frame>
+  </Layout>
+
+  <Layout Name="WidgetHeader">
+    <Col Name="plugins" Width="fill" Height="fill">
+      <Plugin Name="backgrd" Class="Spb.LSP.9Patch" AutoSkin="wgt_frame_tablets">
+        <LayoutSize Width="fill" Height="fill"/>
+        <String Name="ImageName" Value="Header"/>
+        <Rect Name="StretchRect" X="15" Y="9" Width="2" Height="2"/>
+      </Plugin>
+      <Plugin Name="separator" Class="Spb.LSP.Separator">
+        <LayoutSize Width="fill" Height="1"/>
+        <Int Name="Side" Value="3"/>
+        <Int Name="Opacity" Value="150"/>
+      </Plugin>
+    </Col>
+  </Layout>
+
+</Layouts>

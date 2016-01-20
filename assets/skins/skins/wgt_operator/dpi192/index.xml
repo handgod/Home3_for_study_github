@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<skin Name="Operator Widget" Type="widget">
+  <items>
+    <item DontScale="1">
+      <Image Name="signal0"      File="operator.png" X="0" Y="0"   Width="72" Height="72" />
+      <Image Name="signal1"      File="operator.png" X="0" Y="72"  Width="72" Height="72" />
+      <Image Name="signal2"      File="operator.png" X="0" Y="144" Width="72" Height="72" />
+
+      <Image Name="signal3"      File="operator.png" X="0" Y="216" Width="72" Height="72" />
+      <Image Name="signal4"      File="operator.png" X="0" Y="288" Width="72" Height="72" />
+      <Image Name="radioOff"     File="operator.png" X="0" Y="360" Width="72" Height="72" />
+
+      <Image Name="noSIM"        File="operator.png" X="0" Y="432" Width="72" Height="72" />
+      <Image Name="searching"    File="operator.png" X="0" Y="504" Width="72" Height="72" />
+      <Image Name="notConnected" File="operator.png" X="0" Y="576" Width="72" Height="72" />
+
+      <Image Name="emergencyOnly" File="operator.png" X="0" Y="576" Width="72" Height="72" />
+
+      <Image Name="Signal"   File="signal.png" />
+      <Image Name="Sim"      File="sim.png"    />
+      <Image Name="Logo"     File="logo.png"    />
+      <Image Name="Chip"     File="chip.png"    />
+    </item>
+  </items>
+</skin>

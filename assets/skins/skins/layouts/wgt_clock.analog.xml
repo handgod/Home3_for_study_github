@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+
+<Layouts Name="Clock Widget" Type="widget">
+
+  <Rules>
+    <Default>
+      <UseLayout Name="Default"/>
+    </Default>
+  </Rules>
+
+  <General>
+    <Skin AutoSkin="wgt_clock"/>
+    <DefaultFont Face="Droid Sans" HeightPxl="10" Bold="n" Color="FFFFFFFF"/>
+    
+    <Int Name="DialogData" Value="1"/>
+    
+    <Int Name="Align" Value="32769"/>
+    <!-- DT_END_ELLIPSIS | DT_CENTER-->
+
+  </General>
+
+
+  <Layout Name="Default">
+
+    <Fix Width="fill" Height="fill">
+      <Plugin Name="AnalogV" ID="12" Width="fill" Height="fill">
+        <String Name="Face" Value="face-2x2-a"/>
+        <String Name="ArrH" Value="arrows-2x2-ah"/>
+        <String Name="ArrM" Value="arrows-2x2-am"/>
+        <!--<Point  Name="ArrCtr" X="56" Y="75"/>
+        <Point  Name="ArrHSh" X="0"  Y="0"/>
+        <Point  Name="ArrMSh" X="0"  Y="0"/>-->
+      </Plugin>
+
+        <Plugin Name="AMPMLbl" ID="1"  Class="Spb.LSP.Text"  Margins="16"
+              Width="auto" Height="auto" Align="center_vert|right"/>
+    </Fix>
+  </Layout>
+
+</Layouts>
+
+

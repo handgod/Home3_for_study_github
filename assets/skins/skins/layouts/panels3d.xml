@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+
+<Layouts Name="Panel Frame" Type="panel">
+
+  <Layers>
+    <Layer Name="Background" Dialog="Background"/>
+    <Layer/>
+  </Layers>
+
+  <Rules>
+    <PlatformCondition Platform="Tablets">
+      <UseLayout Name="Tablets"/>
+    </PlatformCondition>
+    <ScreenCondition Width="360" Height="640">
+      <UseLayout Name="360x640"/>
+    </ScreenCondition>
+    <ScreenCondition Orientation="landscape">
+      <UseLayout Name="Landscape"/>
+    </ScreenCondition>
+    <Default>
+      <UseLayout Name="Portrait"/>
+    </Default>
+  </Rules>
+
+  <Layout Name="Portrait">
+    <Plugins LayoutType="frame">
+      <LayoutSize Width="fill" Height="fill"/>
+
+      <Plugin Name="Carousel" Class="Spb.LSP.Carousel3D" ID="0">
+        <LayoutSize Width="fill" Height="fill"/>
+        <Point Name="Distance" X="10" Y="0"/>
+        <Font Name="Caption" Face="Droid Sans" HeightPxl="10" Bold="n" Color="FFFFFFFF"/>
+      </Plugin>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="Landscape">
+    <Plugins Extends="Portrait">
+      <Plugin Name="Carousel">
+        <Point Name="Distance" X="5" Y="0"/>
+        <Font Name="Caption" Face="Droid Sans" HeightPxl="10" Bold="n" Color="FFFFFFFF"/>
+      </Plugin>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="360x640">
+    <General>
+      <DialogObject Value="Spb.Data.Panels"/>
+      <Skin Skin="panels/dpi144"/>
+    </General>
+    <Plugins Extends="Portrait"/>
+  </Layout>
+
+  <Layout Name="Tablets">
+    <Plugins Extends="Portrait">
+      <Plugin Name="Carousel">
+        <Point Name="Distance" X="10" Y="0"/>
+      </Plugin>
+    </Plugins>
+  </Layout>
+
+</Layouts>

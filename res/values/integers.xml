@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="location_timeout_sec_gps">60</integer>
+    <integer name="location_timeout_sec_network">20</integer>
+    <integer name="location_timeout_sec_others">60</integer>
+    <integer name="current_location_default_update_period">3600000</integer>
+    <integer name="cities.db.source.version">20</integer>
+    <integer name="weather_default_update_period">3600000</integer>
+</resources>

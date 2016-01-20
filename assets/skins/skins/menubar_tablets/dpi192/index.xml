@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skin Name="Navigation Bar (tablets)">
+  <items>
+    <item DontScale="1">
+      <Image Name="MenuIcons" File="menu_icons.dds"/>
+
+      <Image Name="Rotate"  File="rotate.dds"/>
+      <Image Name="Weather" File="weather.dds"/>
+      <Image Name="CallLog" File="calllog.dds"/>
+      
+      <Image Name="BarNor"  File="menubarnor.png"/>
+      <Image Name="BarSel"  File="menubarsel.png"/>
+      <Image Name="BarBtns" File="menubarbtns.png"/>
+      
+      <!-- define exact menu buttons for menuicons -->
+      <Image Name="WeatherCondition" File="weather.dds" X="0" Y="78" Width="72" Height="62"/>
+      <Image Name="WeatherForecast" File="weather.dds" X="0" Y="6" Width="72" Height="62"/>
+      <Image Name="Close" File="menu_icons.dds" X="0" Y="162" Width="54" Height="54"/>
+      <Image Name="Menu" File="menu_icons.dds" X="0" Y="0" Width="54" Height="54"/>
+
+      <Image Name="LauncherIcon" File="ico-launcher.dds"/>
+      <Image Name="BackIcon" File="ico-back.dds"/>
+      <Image Name="EditPanelsIcon" File="ico-editpanels.dds"/>
+      <Image Name="Dot" File="selector-dot.dds" X="28" Y="0" Width="28" Height="28"/>
+      <Image Name="Dot_Active" File="selector-dot.dds" X="0" Y="0" Width="28" Height="28"/>
+      <Image Name="Home" File="selector-home.dds" X="28" Y="0" Width="28" Height="28"/>
+      <Image Name="Home_Active" File="selector-home.dds" X="0" Y="0" Width="28" Height="28"/>
+
+      <Image Name="SliderBtn" File="slider-btn.png"/>
+      <Image Name="SliderBtnTapped" File="slider-btn-tapped.png"/>
+    </item>
+  </items>
+</skin>

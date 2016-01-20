@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<skin>
+    <items>
+        <item>
+            <!-- Images for default program extensions -->
+            <String Name="settings_bluetooth_name" Value="Settings"/>
+            <String Name="settings_wifi_name" Value="Settings"/>
+            <String Name="settings_operator_name" Value="Settings"/>
+            <String Name="settings_battery_name" Value="Settings"/>
+            <String Name="settings_deviceinfo_name" Value="Settings"/>
+            <String Name="settings_sound_name" Value="Settings"/>
+            <String Name="settings_storage_name" Value="Settings"/>
+            <String Name="settings_phone_name" Value="Settings"/>
+
+            <Image Name="settings_bluetooth_icon" File="settings_bluetooth.png"/>
+            <Image Name="settings_wifi_icon" File="settings_wifi.png"/>
+            <Image Name="settings_phone_icon" File="settings_phone.png"/>
+
+
+            <!-- To override extensions even if the platfrom returns icons ant texts -->
+            <Int Name="settings_bluetooth_override" Value="1"/>
+            <Int Name="settings_wifi_override" Value="1"/>
+            <Int Name="settings_phone_override" Value="1"/>
+ 	    <Int Name="email_new_override" Value="1"/>
+	    <Int Name="contacts_new_override" Value="1"/>
+   
+
+            <String Name="contacts_new_name" Value="New"/>
+
+            <String Name="email_new_name" Value="Compose"/>
+            <String Name="calendar_new_name" Value="New"/>
+            <String Name="sms_new_name" Value="New"/>
+
+        </item>
+    </items>
+</skin>

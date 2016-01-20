@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<skin Name="Wireless Widget" Type="widget">
+  <items>
+    <item DontScale="1">
+      <Image Name="wifi_on"  File="states.png" X="0" Y="0" Width="72" Height="72" />
+      <Image Name="wifi_off"  File="states.png" X="72" Y="0" Width="72" Height="72" />
+      <Image Name="wifi_trans"  File="states.png" X="144" Y="0" Width="72" Height="72" />
+
+      <Image Name="bt_on"  File="states.png" X="0" Y="144" Width="72" Height="72" />
+      <Image Name="bt_off"  File="states.png" X="72" Y="144" Width="72" Height="72" />
+      <Image Name="bt_trans"  File="states.png" X="144" Y="144" Width="72" Height="72" />
+      <Image Name="bt_discov"  File="states.png" X="0" Y="72" Width="72" Height="72" />
+
+      <Image Name="phone_on"  File="states.png" X="0" Y="216" Width="72" Height="72" />
+      <Image Name="phone_off"  File="states.png" X="72" Y="216" Width="72" Height="72" />
+      <Image Name="phone_trans"  File="states.png" X="144" Y="216" Width="72" Height="72" />
+
+      <Image Name="flight_on"  File="states.png" X="0" Y="288" Width="72" Height="72" />
+      <Image Name="flight_off"  File="states.png" X="72" Y="288" Width="72" Height="72" />
+      <Image Name="flight_trans"  File="states.png" X="144" Y="288" Width="72" Height="72" />
+
+      <Image Name="gps_on"  File="states.png" X="0" Y="720" Width="72" Height="72" />
+      <Image Name="gps_off"  File="states.png" X="72" Y="720" Width="72" Height="72" />
+      <Image Name="gps_trans"  File="states.png" X="144" Y="720" Width="72" Height="72" />
+
+
+      <!-- different set of icons to show in extended view -->
+      <Image Name="wifi_on_ext"  File="states_ext.png" X="0" Y="0" Width="72" Height="72" />
+      <Image Name="wifi_off_ext"  File="states_ext.png" X="72" Y="0" Width="72" Height="72" />
+      <Image Name="wifi_trans_ext"  File="states_ext.png" X="144" Y="0" Width="72" Height="72" />
+
+      <Image Name="bt_on_ext"  File="states_ext.png" X="0" Y="144" Width="72" Height="72" />
+      <Image Name="bt_off_ext"  File="states_ext.png" X="72" Y="144" Width="72" Height="72" />
+      <Image Name="bt_trans_ext"  File="states_ext.png" X="144" Y="144" Width="72" Height="72" />
+      <Image Name="bt_discov_ext"  File="states_ext.png" X="0" Y="72" Width="72" Height="72" />
+
+    </item>
+  </items>
+</skin>

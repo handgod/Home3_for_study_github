@@ -1,0 +1,546 @@
+ a few seconds| et par sekunder
+ day| dag
+ days| dage
+ hour| time
+ hours| timer
+ hr| ti
+ hrs| timer
+ lunar day| måne dag
+ min| min
+ mins| min
+ minute| minut
+ minutes| minutter
+%d bought|%d købt
+%d day|%d dag
+%d days|%d dage
+%d hour|%d time
+%d hours|%d timer
+%d minute|%d minut
+%d minutes|%d minutter
+%d more...|%d mere...
+%i active channel|%i aktiv kanal
+%i active channels|%i aktive kanaler
+%i image|%i billede
+%i images|%i billeder
+%i more today|%i flere idag
+%i more...|%i flere...
+%i page|%i side
+%i pages|%i sider
+%i%% of Full|%i%% af fuld
+%s 2007—2011 Yandex|%s 2007—2011 Yandex
+(<1 min)|(<1 min)
+(in|(i
+(in seconds)|(i sekunder)
+(No title)|(Ingen titel)
+[ Loading images... ]|[ Henter billeder.... ]
+[ Tap here for images load ]|[ Tryk her for at hente billeder ]
+A few minutes ago|Få minutter siden
+About|Om
+About SPB Shell 3D|Om SPB Shell 3D
+Above horizon|Over horisont
+Accelerometer|Accelerometer
+Activate|Aktiver
+Activation|Aktivering
+Activation failed. Check your Internet connection.|Aktivering fejlede. Tjek din internet forbindelse.
+Active Channels|Aktive kanaler
+Active channels|Aktive kanaler
+Add|Tilføj
+Add category|Tilføj kategori
+Add channel|Tilføj kanal
+Add city|Tilføj by
+Add custom channel|Tilføj tilpasset kanal
+Add new city|Tilføj ny by
+Add note|Tilføj note
+Add Panel|Tilføj panel
+Add to Home screen|Tilføj til startskærm
+Airplane|Flymaskine
+Airplane Mode|Flytilstand
+Alcatel Widget|Alcatel Widget
+All day|Hele dagen
+All pictures|Alle billeder
+Allow resizing of all Android widgets|Tillad at ændre størrelse på Android Widgets
+An hour ago|En time siden
+Android Shortcut|Android genvej
+Android Widget|Android Widget
+Anniversary|Jubilæum
+Appearance|Udseende
+Application|Applikationer
+April|april
+Aqua|Vand
+Aquarius|Vandmanden
+Aries|Væderen
+as of %s|som af %s
+at %s|ved %s
+atm|atm
+Atmospheres|Atmosfærisk
+Atmospheric pressure scale|Atmosfærisk tryk skala
+August|august
+Auto|Auto
+Auto (keyboard only)|Auto (kun tastatur)
+Auto arrange widgets|Auto arranger widgets
+Automatic|Automatisk
+Automatic naming|Automatisk navngivning
+Backlight|Baggrundslys
+Battery|Batteri
+Below horizon|Under horisont
+Birthday|Fødselsdag
+Birthdays|Fødselsdage
+Black|Sort
+Blue|Blå
+Bluetooth|Bluetooth
+Bookmarks|Bogmærker
+Bookmarks Folder|Bogmærke mappe
+Business|Forretning
+Buy!|Køb!
+Cache size|Cache størrelse
+Calculator|Lommeregner
+Calendar|Kalender
+Calendar Panel|Kalender panel
+Calendar Panel Settings|Kalender Panel indstillinger
+Call|Ring til
+Call Log|Opkaldsliste
+Cancel|Annullere
+Cancer|Kræft
+Capricorn|Stenbukken
+Categories|Kategorier
+Category Name|Kategori navn
+Celsius (#short)|Celsius
+Change|Skift
+Change City|Skift by
+Change profile|Skift profil
+Channels list|Kanal liste
+Choose Alcatel Widget|Vælg Alcatel Widget
+Choose Color|Vælg farve
+Choose Program|Vælg program
+Choose SPB Widget|Vælg SPB Widget
+Choose widget|Vælg Widget
+Clear|Klart
+Clear cache|Ryd Cache
+Clock|Ur
+Cloudy|Skyet
+Cloudy, hail|Skyet, hagl
+Cloudy, heavy rain|Skyet, tung regn
+Cloudy, heavy snow|Skyet, meget sne
+Cloudy, rain|Skyet, regn
+Cloudy, rain with snow|Skyet, regn med sne
+Cloudy, snow|Skyet, sne
+Cloudy, thunder|Skyet, turden
+Color anaglyph (red/cyan)|Farve anaglyph (rød/cyan)
+Communication|Kommunikation
+Contact|Kontaktperson
+Contact Settings|Kontakt indstillinger
+Contact Size|Kontakt størrelse
+Contacts|Kontakter
+Contacts Folder|Kontakter mappe
+Copyright %s 2007-2011\nSPB Software|Copyright %s 2007-2011\nSPB Software
+Copyright %s 2007-2012\nSPB Software|Copyright %s 2007-2012\nSPB Software
+Create Folder|Opret mappe
+Current|Nuværende
+Current city|Nuværende by
+Current conditions|Nuværende betingelser
+Current Conditions|Nuværende betingelser
+Current skin|Nuværende skin
+Custom channel|Tilpas kanal
+Day|Dag
+Deal of the Day|Dagens køb
+Deal of the Day Panel|Dagens køb Panel
+Deal of the Day Panel Settings|Dagens køb indstillinger
+Deals|Aftaler
+December|december
+Default|Standard
+Default Action|Standard handling
+Delete note|Slet note
+Dew point:|Dugpunkt:
+Diagnostic tools|Diagnostisk værktøj
+Disabled|Deaktiveret
+Discoverable|Kan ses
+Done|Færdig
+Download Original|Hent original
+Downloading images|Henter billede
+E|Ø
+east|øst
+Edit channel|Rediger kanal
+Edit Contact|Rediger kontakt
+Edit note|Rediger note
+Edit panels|Rediger Paneler
+Emergency only|Kun nødopkald
+Empty Panel|Tomt panel
+Enable live wallpapers|Aktiver live baggrundsbilleder
+Enabled|Aktiver
+Enter RSS feed title|Indtast RSS feed titel
+Enter RSS feed URL|Indtast RSS feed URL
+Entertainment|Underholdning
+Error|Fejl
+Evening|Aften
+Every 2 hours|Hver 2. time
+Every 24 hours|Hver 24. timer
+Every 30 Minutes|Hver 30. minut
+Every 30 minutes|Hver 30. minut
+Every 4 hours|Hver 4. time
+Every hour|Hver time
+Exit|Afslut
+Experimental|Eksperimental
+Experimental Settings|Experimentalle indstillinger
+Experimental settings|Experimentalle indstillinger
+Fahrenheit (#short)|Fahrenheit
+Failed to add contact|Fejlede ved at tilføje kontakt
+Failed to load RSS|Fejlede ved at hente RSS
+Failed to load the selected contact. Try to link the contact to Google account or save it to phone.|Kunne ikke hente den valgte kontakt. Prøv at forbinde kontakten til Google konto eller gem den på din telefon.
+Favorite Contacts|Favorit kontakter
+Favorite contacts|Favorit kontakter
+Favorites|Favoritter
+February|februar
+Filter|Filter
+First day of the week|Første dag i ugen
+First Quarter|Første kvarter
+Flight|Fly
+Folder|Mappe
+Folder Name|Mappe navn
+Forecast|Udsigt
+from forecast|vejrudsigt
+Full Moon|Fuldmåne
+Gallery|Galleri
+Games|Spil
+Gemini|Tvillingen
+Gravity|Hældning
+Grayscale anaglyph (red/cyan)|Gråskala anaglyph (rød/cyan)
+Green|Grøn
+G-Sensor|G-sensor
+Half an hour ago|En halv time siden
+Hectopascals|Hektopascal
+Hide Duplicates|Skjul duplikater
+Hide SIM Contacts|Skjul SIM kontakter
+Home|Hjem
+Home Settings|Hjem indstillinger
+Home settings|Hjem indstillinger
+hpa|hPa
+Humidity:|Fugtighed:
+in %u days|i %u dage
+in Home Settings|i Hjem indstillinger
+inch|inch
+Inches|Tommer
+Increase Counter|Forhøj tæller
+Interface mode|Interface mode
+Invisible|usynlig
+January|januar
+July|juli
+June|juni
+Kilometers per hour|Kilometer per time
+Knots|Knude
+knots|knob
+kph|km/h
+kts|kts
+Landscape|Landskab
+Landscape orientation required to enable left-to-right stereo mode|Landskab orienteret bekrævet for at aktivere venstre-til-højre stereo mode
+Large|Stor
+Last Call|Sidste opkald
+Last Message|Sidste besked
+Last Quarter|Sidste kvartal
+Last updated|Sidst opdateret
+Left-to-right (HTC EVO 3D)|Venstre-til-højre (HTC EVO 3D)
+Legal information|Juridisk information
+Legal notices|Juridisk info
+Leo|Løven
+Libra|Vægten
+Lifestyle|Livstil
+Live wallpapers can cause performance degradation of your 3D home screen. Switching between live and static wallpapers can take up to a minute. Static wallpapers are recommended for the best experience.|Live baggrundsbilleder kan medfører at ydelsen falder i din 3D Hjemmeskærm. Skift mellem live baggrundsbilleder og faste kan tage flere minutter. Faste baggrundsbilleder anbefales for den bedste ydeevne.
+Loading failed|Fejl ved hentning
+Loading image for wallpaper|Henter billede til baggrundsbillede
+Loading RSS feed %s...|Henter RSS feeds %s...
+Loading skin failed!|Fejl ved hentning af skin!
+Loading skins catalog failed!|Fejl ved hentning af skin katalog!
+Loading...|Henter...
+Logging In...|Logger ind...
+Lunar Calendar|Måne kalender
+Lunar day %d|Måne dag %d
+Manage apps|Håndter apps
+Manage Apps|Håndter apps
+Manage panels|Håndter Paneler
+Manage Panels|Håndter Paneler
+March|marts
+May|maj
+Medium|Medium
+Messaging|Beskeder
+Meters per second|Meter per sekund
+Miles per hour|Miles per time
+Millimetres|Millimeter
+Misc|Diverse
+Miscellaneous|Blandet
+mm|mm
+Mobile|Mobil
+Mode|Mode
+Monday|Mandag
+Moon|Måne
+Moon Calendar|Månekalender
+Moon in %s,|Måne i %s,
+Morning|Morgen
+mph|mph
+mps|mps
+Multimedia|Multimedia
+Music|Musik
+Music albums|Musik albums
+N|N
+N/A|N/A
+nd|.
+NE|NØ
+Network Status|Netværk status
+Never|Aldrig
+New|Ny
+New Channel|Ny kanal
+New channel|Ny kanal
+New Contact|Ny kontakt
+New Folder|Ny mappe
+New Moon|Nymåne
+New update available|Nye opdatering tilgængelig
+News|Nyheder
+News Panel|Nyhedspanel
+News Panel Settings|Nyhedspanel indstillinger
+next|næste
+Next Alarm|Næste alarm
+Night|Nat
+No|Nej
+no|Nej
+No Alarms|Ingen alarmer
+No birthdays|Ingen fødselsdag
+No calls|Ingen opkald
+No Cities|Ingen byer
+No conditions|Ingen omstændigheder
+No Contacts.|Ingen kontakter.
+No Countries|Ingen lande
+No deals loaded|Ingen køb hentet
+No Images|Intet billede
+No messages|Ingen beskeder
+No news|Ingen nyheder
+No rise/set info|Ingen opgang/nedgang info
+No RSS feed found at|Ingen RSS feed fundet ved
+No rss loaded|Ingen RSS hentet
+No SIM|Ingen sim-kort
+No text messages|Ingen tekst beskeder
+No title|Ingen titel
+No upcoming events|Ingen kommende begivenheder
+No upcoming events in a week|Ingen kommende begivenheder i en uge
+No updates|Ingen opdateringer
+No weather forecast|Ingen vejrudsigt
+Normal|Normal
+north|nord
+north east|nordøst
+north west|nordvest
+Not available|Ikke tilgængelig
+Not connected|Ikke forbundet
+Notes|Noter
+Note's default color|Noters standard farve
+Note's font|Noters skrifttype
+Notes Panel|Note panel
+Notes Panel Settings|Note panel indstillinger
+November|november
+NW|Nordvest
+October|oktober
+Off|Fra
+Offer|Tilbud
+On|Til
+One Touch Share|One Touch Share
+Only on free connections|Kun en gratis forbindelse
+Open Contact|Åben kontakt
+Open in Browser|Åben i browser
+OpenGL 2.0 is required to run SPB Shell 3D|OpenGL 2.o er påkrævet for at kører SPB Shell 3D
+Optimized anaglyph (red/cyan)|Optimeret anaglyph (rød/cyan)
+Other (assistant)|Andre (assistent)
+Page|Side
+Pages: %d, images: %d|Sider: %d, billeder: %d
+Panel Name|Panel navn
+Panels|Paneler
+Panels Settings|Paneler indstillinger
+Parsing skins catalog failed!|Fejl ved analysering af skin katalog!
+Partly cloudy|Delvis skyet
+Partly cloudy, rain|Delvis skyet, regn
+Partly cloudy, snow|Delvis skyet, sne
+Partly cloudy, thunder|Delvis skyet, torden
+People|Personer
+Performance Warning|Ydeevne advarsel
+Performance Warning dialog|Ydelses advarsel dialog
+Personal|Personlig
+Phone|Telefon
+Photo folder for gallery widgets|Billede mappe til galleri widgets
+Picture Gallery|Billede Galleri
+Picture of the Day|Dagens billede
+Picture Panel Settings|Billede Panel indstillinger
+Pictures|Billeder
+Pictures Of The Day|Dagens billeder
+Pictures Panel|Billlede Panel
+Pictures Panel Settings|Billede Panel indstillinger
+Pictures Settings|Billig indstillinger
+Pisces|Fisken
+Please Log In|Venligst login
+Please wait...|Vent venligst...
+Portrait|Portræt
+Pressure:|Tryk:
+Problem loading widget|Problem
+Productivity|Produktivitet
+Program|Program
+Pulkovo|Pulkovo
+Purchase|Køb
+Purple|Lilla
+Quick Setting|Hurtig indstillinger
+Radio off|Radio slået fra
+rd_loc|.
+Reading appointments...|Læser begivenhed...
+Recycle Bin|Papirkurv
+Red|Rød
+Reduced|Reduceret
+Reload skin list|Hent skin liste igen
+Remove All|Fjern alle
+Rename|Omdøb
+Rename Panel|Omdøb Panel
+Requesting images|Forespørger på billede
+Retry|Forsøg igen
+Rise: %s|Opgang: %s
+RSS Feed|RSS Feed
+RSS Panel|RSS Panel
+RSS Panel Settings|RSS Panel indstillinger
+S|S
+Safe mode|Fejlsikret tilstand
+Sagittarius|Skytten
+Saint-Petersburg|Saint-Petersburg
+Save as New|Gem som ny
+Save to Existing|Gem som eksisterende
+Scorpio|Skorpion
+Screen orientation|Skærmorientering
+Screen orientation will be changed to Landscape|Skærmen vil blive vendt til landskab
+SE|SØ
+Searching|Søger
+Select Channel|Vælg kanal
+Select cities|Vælg byer
+Select Contact Action|Vælg kontakt handling
+Select Contact Size|Vælg kontakt størrelse
+Select e-mail address|Vælg email adresse:
+Select phone number:|Vælg telefonnummer:
+Select shortcut|Vælg genvej
+Select Skin|Vælg skin
+Select wallpaper from|Vælg baggrundsbillede fra
+Selected cities|Valgte byer
+Selected City|Valgte by
+Selected city|Valgte by
+Send Email|Send email
+Send E-mail|Send E-mail
+Send E-Mail|Send E-mail
+Send Message|Send besked
+Send MMS|Send MMS
+Send SMS|Send SMS
+September|september
+Serial number:|Serie nummer:
+Set as Home|Vælg som hjem
+Set as Wallpaper|Vælg som baggrundsbillede
+Set wallpaper|Brug baggrundsbillede
+Set: %s|Nedgang: %s
+Settings|Indstillinger
+Show all|Vis alle
+Show all day events|Vis alle dags begivenheder
+Show all day events in calendar widgets|Vis alle dags begivenheder i kalender widgets
+Show full news|Vis fulde nyheder
+Show images in news|Vis billeder i nyheder
+Silent|Stille
+Skin loading|Henter skin
+Small|Lille
+Smartphone|Smartphone
+Smog|Smog
+Social|Social
+Social Network|Social netværk
+Sound Profile|Lydprofil
+south|syd
+south east|sydøst
+south west|sydvest
+SPB Shell 3D is loading...|SPB Shell 3D starter...
+SPB Wallpapers|SPB Baggrundsbilleder
+SPB Widget|SPB Widget
+st|.
+Standard Edition [Beta]|Standard Udgave [Beta]
+Stereoscopic 3D mode|Stereoskopisk 3D mode
+Stereoscopic 3D mode will be disabled|Stereoskopisk 3D mode vil blive deaktiveret
+Stereoscopic 3D Settings|Stereoskopisk 3D indstillinger
+Sun in %s,|Sol i %s,
+Sunday|Søndag
+SW|SV
+Switching the interface mode can take up to a minute. Screen orientation will be changed to '%s'.|Skift mellem interface kan tage op til et minut. Skærmorientering vil blive skiftet til '%s'.
+System|System
+Tablet|tablet
+Tap here to download|Tryk her for at hente
+Taurus|Tyren
+Temperatur scale|Temperatur skala
+Temperature scale|Temperatur skala
+Test Battery|Test batteri
+th|.
+Thank you for your support. Your copy is now registered.|Tak for din hjælp. Dit produkt er nu registreret.
+The experimental features below are not ready to be shipped in the core of SPB Shell 3D. They may contain severe defects and cause system instability. Use them at your own risk.|De eksperimentale funktioner nedenfor er ikke klar til at blive leveret i  kernen af SPB Shell 3D. De indeholder muligvis nogle defekter og kan skabe system problemer. Det er egen risiko at bruge dem.
+The maximum number of panels is reached|Maksimum of antal paneler er nået
+The name cannot be changed.|Navnet kan ikke ændres.
+The previous launch of SPB Shell 3D was unsuccessful. Please tap "Retry" to launch it again or "Home" to activate a different Home screen.|Den tidligere start af SPB Shell 3D skete ikke med succes. Venligst tryk "Prøv igen" for at prøve igen, eller tryk "Hjem" for at aktivere en anden Startskærm.
+Time|Tid
+Time Panel|Tidspanel
+Time Panel Settings|Tid Panel Indstillinger
+Today|I dag
+Toggle|Skift
+Tomorrow|I morgen
+Tools|Værktøj
+Travel|Rejse
+Unfortunately, we could not locate your purchase in Android Market. Please uninstall this copy before installing a new one.|Vi kunne desværre ikke finde dit køb i Android Market. Venligst afinstaller din kopi inden installation af den nye.
+Unfortunately, we could not locate your purchase. Please uninstall this copy before installing a new one.|Vi kunne desværre ikke finde dit køb. Venligst afinstallere denne kopi inden installation af en ny.
+Uninstall|Afinstaller
+Uninstall apps|Afinstaller apps
+Unknown|Ukendt
+Unknown location|Ukendt lokation
+Upcoming events|Kommende begivenheder
+Update|Opdater
+Update deals list automatically|Opdater automatisk aftale liste
+Update Now|Opdater nu
+Update pictures page automatically|Opdater automatisk billede side
+Update weather forecasts automatically|Opdater vejret automatisk
+Updated|Opdateret
+Updated:|Opdateret:
+Updating image|Opdatere billede...
+Updating...|Opdatere...
+Use 3D in application list|Brug 3D i program liste
+Use 3D in edit mode|Brug 3D i redigeringstilstand
+Use cellular connection for updating deals list|Brug data netværk til at opdatere aftale liste
+Use cellular connection for updating deals list automatically|Brug netværk forbindelse for at opdatere aftale liste automatisk
+Use cellular connection for updating pictures automatically|Brug telefonforbindelse til at opdatere billeder automatisk
+Use cellular connection for updating weather automatically|Brug mobil forbindelse til at opdatere vejret automatisk
+Use new color every time|Brug ny farve hver gang
+Use previous note's color|Brug tidligere note farve
+Value|Værdi
+variable|variabler
+Version %s, Build %s|Version %s, Build %s
+Vibro|Vibro
+Video Call|Videoopkald
+View Duplicates|Vis duplikater
+View SIM Contacts|Vis SIM kontakter
+Virgo|Jomfruen
+W|V
+Wallpaper|Baggrundsbillede
+Wallpapers|Baggrundsbilleder
+Waning Crescent|Aftagende halvmåne
+Waning Gibbous|Aftagende fuldmåne
+Waxing Crescent|Tiltagende halvmåne
+Waxing Gibbous|Tiltagende fuldmåne
+Weather|Vejret
+Weather and Clock|Vejret og ur
+Weather Forecast|Vejrudsigt
+Weather Panel Settings|Vejrpanel indstillinger
+Weather Settings|Vejr indstillinger
+Welcome to notes panel|Velkommen til noter panel
+west|vest
+Widget is too big to be added.|Widgeten er for stor til at blive tilføjet.
+Widgets|Widgets
+Widgets Settings|Widgets indstillinger
+Wind direction:|Vindretning:
+Wind speed scale|Vindstyrke skala
+Wind speed:|Vindstyrke:
+Wind:|Vind:
+Work|Arbejde
+World Time|Verdenstid
+Wrong serial number. Please check it again.|Verkeerd serienummer. Probeer opnieuw.
+Yandex.Search|Yandex.Search
+Yellow|Gul
+Yes|Ja
+Yesterday|Igår
+You save|Du spare
+Your video system isn't compatible with Shell 3D.|Dit video system virker ikke med Shell 3D.

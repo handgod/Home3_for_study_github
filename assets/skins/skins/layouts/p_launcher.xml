@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<Layouts>
+  <Layers>
+    <Layer Name="Background" Dialog="ModernBackground"/>
+    <Layer/>
+  </Layers>
+
+  <Rules>
+	<PlatformCondition Platform="tablets">
+      <ScreenCondition Orientation="landscape">
+          <UseLayout Name="TabletsLandscape"/>
+	  </ScreenCondition>
+      <Default>
+          <UseLayout Name="TabletsPortrait"/>
+	  </Default>
+	</PlatformCondition>
+	
+    <ScreenCondition Orientation="landscape">
+        <UseLayout Name="Landscape"/>
+	</ScreenCondition>
+	
+    <Default>
+        <UseLayout Name="Default"/>
+    </Default>
+
+  </Rules>
+  
+  <General>
+    <DialogObject Value="Spb.Data.ProgramListDlg"/>
+    <ScrollY Value="Auto"/>
+    <Int Name="Width" Value="4"/> <!-- items per line -->
+    <DefaultFont Face="Droid Sans" HeightPxl="10" Bold="n" Color="FFFFFFFF"/>
+    <Int Name="3D" Value="1"/>
+  </General>
+  
+  <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+
+  <Layout Name="Default">
+    <General>
+      <Rect Name="TopViewportRect" X="0" Y="-30" Width="0" Height="60"/>
+      <Rect Name="BottomViewportRect" X="0" Y="-30" Width="0" Height="60"/>
+      <Point Name="Skew" X="20" Y="0"/>
+    </General>
+    <Frame Width="fill" Height="auto">
+      <Column Name="Line" ID="11" Dynamic="1" Width="fill" Height="auto" Margins="35 0 0 35">
+        <Row Name="Column" ID="12" Dynamic="1" Width="fill" Height="auto">
+		  <Int Name="Layout:StretchFactorSum" Value="4"/>
+          <Frame Name="ContentWrapper" Width="0" Height="auto" StretchFactor="1">
+		  	<Plugins Name="Content" Width="60" Height="80" Align="center">
+              <Plugin Name="Cell" ID="10">
+			  	<BoundRect X="-2" Y="0" Width="64" Height="70"/>
+			  </Plugin>
+              <Plugin Name="Badge" ID="9">
+                <BoundRect X="30" Y="0" Width="20" Height="20"/>
+              </Plugin>
+              <Plugin Name="Uninstall" ID="8">
+                <BoundRect X="24" Y="0" Width="26" Height="26"/>
+              </Plugin>
+			</Plugins>
+          </Frame>
+        </Row>
+      </Column>
+    </Frame>
+  </Layout>
+
+  <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+
+  <Layout Name="Landscape">
+  	<General>
+	  <Int Name="Width" Value="6"/>
+	</General>
+	<Plugins Extends="Default">
+	  <Column Name="Line" Dynamic="1">
+        <Row Name="Column" Dynamic="1">
+		  <Int Name="Layout:StretchFactorSum" Value="6"/>
+		</Row>
+	  </Column>
+	</Plugins>
+  </Layout>
+  
+  <Layout Name="TabletsLandscape">
+  	<General>
+	  <Int Name="Width" Value="8"/>
+	</General>
+	<Plugins Extends="Default">
+	  <Column Name="Line" Dynamic="1">
+        <Row Name="Column" Dynamic="1">
+		  <Int Name="Layout:StretchFactorSum" Value="8"/>
+		</Row>
+	  </Column>
+	</Plugins>
+  </Layout>
+  
+  <Layout Name="TabletsPortrait">
+  	<General>
+	  <Int Name="Width" Value="5"/>
+	</General>
+	<Plugins Extends="Default">
+	  <Column Name="Line" Dynamic="1">
+        <Row Name="Column" Dynamic="1">
+		  <Int Name="Layout:StretchFactorSum" Value="5"/>
+		</Row>
+	  </Column>
+	</Plugins>
+  </Layout>
+
+</Layouts>

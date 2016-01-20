@@ -1,0 +1,546 @@
+ a few seconds| einige Sekunden
+ day| Tag
+ days| Tagen
+ hour| Stunde
+ hours| Stunden
+ hr| St.
+ hrs| St.
+ lunar day| Mondtag
+ min| Min.
+ mins| Min.
+ minute| Minute
+ minutes| Minuten
+%d bought|%d gekauft
+%d day|%d Tag
+%d days|%d Tage
+%d hour|%d Stunde
+%d hours|in %d Stunden
+%d minute|%d Minute
+%d minutes|in %d Minuten
+%d more...|%d mehr...
+%i active channel|%i aktiver Kanal
+%i active channels|%i aktive Kanäle
+%i image|%i Bild
+%i images|%i Bilder
+%i more today|%i weitere
+%i more...|%i weitere...
+%i page|%i Seite
+%i pages|%i Seiten
+%i%% of Full|%i%% vom Vollmond
+%s 2007—2011 Yandex|%s 2007—2011 Yandex
+(<1 min)|(<1 Min)
+(in|(in
+(in seconds)|(in Sekunden)
+(No title)|(Kein Titel)
+[ Loading images... ]|[ Lade Bilder... ]
+[ Tap here for images load ]|[ Hier drücken, um Bilder zu laden ]
+A few minutes ago|Vor einigen Minuten
+About|Info
+About SPB Shell 3D|Über SPB Shell 3D
+Above horizon|Über dem Horizont
+Accelerometer|Beschleunigungssensor
+Activate|Aktivieren
+Activation|Aktivierung
+Activation failed. Check your Internet connection.|Aktivierung fehlgeschlagen. Prüfen Sie bitte Ihre Internetverbindung.
+Active Channels|Aktive Kanäle
+Active channels|Aktive Kanäle
+Add|Hinzufügen
+Add category|Kategorie hinzufügen
+Add channel|Kanal hinzufügen
+Add city|Stadt hinzufügen
+Add custom channel|Eigene Kanäle hinzufügen
+Add new city|Neue Stadt hinzurüfen
+Add note|Notiz hinzufügen
+Add Panel|Panel hinzufügen
+Add to Home screen|Zum Homescreen hinzufügen
+Airplane|Flugmodus
+Airplane Mode|Flugmodus
+Alcatel Widget|Alcatel Widget
+All day|Ganztägig
+All pictures|Alle Bilder
+Allow resizing of all Android widgets|Alle Android Widgets in der Größe ändern
+An hour ago|Vor einer Stunde
+Android Shortcut|Android Verknüpfung
+Android Widget|Android Widget
+Anniversary|Jahrestag
+Appearance|Gestaltung
+Application|Anwendung
+April|April
+Aqua|Aqua
+Aquarius|Wassermann
+Aries|Widder
+as of %s|wie in %s
+at %s|in %s
+atm|Atm.
+Atmospheres|Atmosphären
+Atmospheric pressure scale|Luftdruck Maßstab
+August|August
+Auto|Automatisch
+Auto (keyboard only)|Automatisch (Nur Tastatur)
+Auto arrange widgets|Widget Auto-Anpassung
+Automatic|Automatik
+Automatic naming|Automatisch benennen
+Backlight|Beleuchtung
+Battery|Akkustatus
+Below horizon|Unter dem Horizont
+Birthday|Geburtstag
+Birthdays|Geburtstage
+Black|Schwarz
+Blue|Blau
+Bluetooth|Bluetooth
+Bookmarks|Lesezeichen
+Bookmarks Folder|Lesezeichen Ordner
+Business|Business
+Buy!|Erwerben!
+Cache size|Cache Größe
+Calculator|Rechner
+Calendar|Kalender
+Calendar Panel|Kalender Panel
+Calendar Panel Settings|Kalender Paneel Einstellungen
+Call|Anrufen
+Call Log|Anrufhistorie
+Cancel|Abbrechen
+Cancer|Krebs
+Capricorn|Steinbock
+Categories|Kategorien
+Category Name|Name der Kategorie
+Celsius (#short)|Celsius (°C)
+Change|Ändern
+Change City|Stadt wechseln
+Change profile|Profil ändern
+Channels list|Kanalliste
+Choose Alcatel Widget|Alcatel Widget auswählen
+Choose Color|Farbe wählen
+Choose Program|Anwendung wählen
+Choose SPB Widget|SPB Widget wählen
+Choose widget|Widget wählen
+Clear|Klar
+Clear cache|Cache leeren
+Clock|Uhr
+Cloudy|Bewölkt
+Cloudy, hail|Bewölkt, Hagel
+Cloudy, heavy rain|Wolkig, starker Regen
+Cloudy, heavy snow|Bewölkt, starker Schneefall
+Cloudy, rain|Bewölkt, Regen
+Cloudy, rain with snow|Bewölkt, Schneeregen
+Cloudy, snow|Bewölkt, Schnee
+Cloudy, thunder|Bewölkt, Blitzgewitter
+Color anaglyph (red/cyan)|Farb Anaglyph (rot/blau)
+Communication|Kommunikation
+Contact|Kontakt
+Contact Settings|Kontakte Einstellungen
+Contact Size|Kontakte Größe
+Contacts|Kontakte
+Contacts Folder|Kontaktordner
+Copyright %s 2007-2011\nSPB Software|Copyright %s 2007-2011\nSPB Software
+Copyright %s 2007-2012\nSPB Software|Copyright %s 2007-2012\nSPB Software
+Create Folder|Ordner erstellen
+Current|Aktiviert
+Current city|Derzeitige Stadt
+Current conditions|Derzeitiges Wetter
+Current Conditions|Derzeitiges Wetter
+Current skin|Derzeitiges design
+Custom channel|Benutzerdefinierter Kanal
+Day|Tagsüber
+Deal of the Day|Angebot des Tages
+Deal of the Day Panel|Angebot des Tages Panel
+Deal of the Day Panel Settings|Angebot des Tages Panel Einstellungen
+Deals|Deals
+December|Dezember
+Default|Standard
+Default Action|Standard Aktion
+Delete note|Notiz löschen
+Dew point:|Taupunkt
+Diagnostic tools|Diagnose Tools
+Disabled|Ausgeschaltet
+Discoverable|Sichtbar
+Done|Fertig
+Download Original|Original herunterladen
+Downloading images|Bilder werden heruntergeladen
+E|O
+east|Ost
+Edit channel|Bearbeitung abbrechen
+Edit Contact|Kontakt bearbeiten
+Edit note|Notiz bearbeiten
+Edit panels|Paneele bearbeiten
+Emergency only|Nur Notruf
+Empty Panel|Leeres Panel
+Enable live wallpapers|Live Hintergründe aktivieren
+Enabled|Eingeschaltet
+Enter RSS feed title|RSS Titel eingeben
+Enter RSS feed URL|RSS URL eingeben
+Entertainment|Unterhaltung
+Error|Fehler
+Evening|Abends
+Every 2 hours|Alle 2 Stunden
+Every 24 hours|Alle 24 Stunden
+Every 30 Minutes|Alle 30 Minuten
+Every 30 minutes|Alle 30 Minuten
+Every 4 hours|Alle 4 Stunden
+Every hour|Jede Stunde
+Exit|Beenden
+Experimental|Experimentell
+Experimental Settings|Experimentelle Einstellungen
+Experimental settings|Experimentelle Einstellungen
+Fahrenheit (#short)|Fahrenheit (°F)
+Failed to add contact|Kontakt konnte nicht hinzugefügt werden
+Failed to load RSS|Laden des RSS Feeds fehlgeschlagen
+Failed to load the selected contact. Try to link the contact to Google account or save it to phone.|Ausgewählter Kontakt konnte nicht geladen werden. Versuchen Sie bitte den Kontakt an Ihren Google Account zu koppeln oder auf dem Telefon zu speichern.
+Favorite Contacts|Bevorzugte Kontakte
+Favorite contacts|Bevorzugte Kontakte
+Favorites|Favoriten
+February|Februar
+Filter|Filter
+First day of the week|Erster Wochentag
+First Quarter|Halbmond zunehmend
+Flight|Flug
+Folder|Ordner
+Folder Name|Ordner Name
+Forecast|Vorhersage
+from forecast|wie in
+Full Moon|Vollmond
+Gallery|Galerie
+Games|Spiele
+Gemini|Zwillinge
+Gravity|Gravitation
+Grayscale anaglyph (red/cyan)|Graustufen Anaglyph (rot/blau)
+Green|Grün
+G-Sensor|G-Sensor
+Half an hour ago|Vor einer halben Stunde
+Hectopascals|Hektopascal
+Hide Duplicates|Duplikate zusammenführen
+Hide SIM Contacts|SIM Kontakte ausblenden
+Home|Homescreen
+Home Settings|Homescreen Einstellungen
+Home settings|Homescreen Einstellungen
+hpa|hPa
+Humidity:|Luftfeuchtigkeit:
+in %u days|In %u Tagen
+in Home Settings|in Startseite Einstellungen
+inch|in. HG
+Inches|Zoll Quecksilber
+Increase Counter|Zähler zurücksetzen
+Interface mode|Oberflächen Modus
+Invisible|Unsichtbar
+January|Januar
+July|Juli
+June|Juni
+Kilometers per hour|Kilometer pro Stunde
+Knots|Knoten
+knots|Knoten
+kph|Km/h
+kts|kn
+Landscape|Querformat
+Landscape orientation required to enable left-to-right stereo mode|Für den Links-nach-Rechts Stereo Modus wird der Querformat benötigt
+Large|Groß
+Last Call|Letzter Anruf
+Last Message|Letzte Nachricht
+Last Quarter|Halbmond abnehmend
+Last updated|Letztes Update
+Left-to-right (HTC EVO 3D)|Links-nach-Rechts
+Legal information|Allgemeine Geschäftsbedingungen
+Legal notices|Allgemeine Nutzungsbestimmungen
+Leo|Löwe
+Libra|Waage
+Lifestyle|Lifestyle
+Live wallpapers can cause performance degradation of your 3D home screen. Switching between live and static wallpapers can take up to a minute. Static wallpapers are recommended for the best experience.|Live Hintergründe können die Geschwindigkeit Ihres 3D Bildschirms reduzieren. Der Wechsel zwischen einem Live- und einem Statischen-Hintergrund kann bis zu einer Minute dauern. Ein Statischer-Hintergrund wird für die ein bestmögliches Benutzererlebnis empfohlen.
+Loading failed|Laden fehlgeschlagen
+Loading image for wallpaper|Bild für Hintergrund wird geladen
+Loading RSS feed %s...|RSS Feed wird geladen %s...
+Loading skin failed!|Herunterladen des Designs fehlgeschlagen
+Loading skins catalog failed!|Herunterladen des Design-Kataloges fehlgeschlagen
+Loading...|Laden...
+Logging In...|Anmeldung...
+Lunar Calendar|Mond Kalender
+Lunar day %d|Mondtag %d
+Manage apps|Anwendungen verwalten
+Manage Apps|Anwendungen verwalten
+Manage panels|Paneele anordnen
+Manage Panels|Paneele anordnen
+March|März
+May|Mai
+Medium|Normal
+Messaging|Messaging
+Meters per second|Meter pro Sekunde
+Miles per hour|Meilen pro Stunde
+Millimetres|Millimeter-Quecksilbersäule
+Misc|Sonstige
+Miscellaneous|Sonstige
+mm|mm Hg
+Mobile|Handy
+Mode|Modus
+Monday|Montag
+Moon|Mond
+Moon Calendar|Mondkalender
+Moon in %s,|Mond in %s,
+Morning|Morgens
+mph|mph
+mps|mps
+Multimedia|Multimedia
+Music|Musik
+Music albums|Musik Alben
+N|N
+N/A|N/A
+nd|ter
+NE|Nordost
+Network Status|Netzwerkstatus
+Never|Niemals
+New|Neu
+New Channel|Neuer Kanal
+New channel|Neuer Kanal
+New Contact|Neuer Kontakt
+New Folder|Neuer Ordner
+New Moon|Neumond
+New update available|Ein neues Update ist verfügbar
+News|Nachrichten
+News Panel|Nachrichten Panel
+News Panel Settings|Nachrichten Panel Einstellungen
+next|weiter
+Next Alarm|Anstehend
+Night|Nachts
+No|Nein
+no|Nein
+No Alarms|Keine Alarme
+No birthdays|Keine Geburtstage
+No calls|Keine Anrufe
+No Cities|Keine Städte
+No conditions|Keine Daten
+No Contacts.|Keine Kontakte gefunden...
+No Countries|Keine Länder
+No deals loaded|Keine Angebote heruntergeladen
+No Images|Keine Bilder
+No messages|Keine Nachrichten
+No news|Keine Nachrichten
+No rise/set info|Keine Information zum Sonnenunter-/aufgang
+No RSS feed found at|Kein RSS Kanal gefunden unter
+No rss loaded|Kein RSS Feed vorhanden
+No SIM|Keine SIM-Karte
+No text messages|Keine Textnachrichten
+No title|Kein Titel
+No upcoming events|Keine bevorstehenden Termine
+No upcoming events in a week|Keine bevorstehenden Termine in kommender Woche
+No updates|Keine Updates
+No weather forecast|Keine Wettervorhersage
+Normal|Normal
+north|Norden
+north east|Nordost
+north west|Nordwest
+Not available|Nicht verfügbar
+Not connected|Nicht verbunden
+Notes|Notizen
+Note's default color|Standardfarbe für Notizen
+Note's font|Schriftfarbe von Notizen
+Notes Panel|Notizen Panel
+Notes Panel Settings|Notizen Panel Einstellungen
+November|November
+NW|NW
+October|Oktober
+Off|Aus
+Offer|Angebot
+On|An
+One Touch Share|One Touch Share
+Only on free connections|Nur bei kostenlosen Verbindungen
+Open Contact|Kontakt öffnen
+Open in Browser|Im Browser öffnen
+OpenGL 2.0 is required to run SPB Shell 3D|OpenGl 2.0 wird benötigt, um SPB Shell 3D ausführen zu können
+Optimized anaglyph (red/cyan)|Optimiertes Anaglyph (rot/blau)
+Other (assistant)|Andere (Assistent)
+Page|Seite
+Pages: %d, images: %d|Seiten: %d, Bilder: %d
+Panel Name|Panel Name
+Panels|Paneele
+Panels Settings|Panel Einstellungen
+Parsing skins catalog failed!|Der Emfang vom Design-Katalog ist fehlgeschlagen
+Partly cloudy|Teils bewölkt
+Partly cloudy, rain|Teilweise bewölkt, Regen
+Partly cloudy, snow|Teilweise bewölkt, Schnee
+Partly cloudy, thunder|Teilweise bewölkt, Blitzgewitter
+People|Person
+Performance Warning|Wichtiger Hinweis
+Performance Warning dialog|Leistungsfähigkeit Warnung
+Personal|Persönlich
+Phone|Telefon
+Photo folder for gallery widgets|Foto-Ordner für Widget Gallerie
+Picture Gallery|Bildergallerie
+Picture of the Day|Bild des Tages
+Picture Panel Settings|Bilder Paneel Einstellungen
+Pictures|Bilder
+Pictures Of The Day|Bild des Tages
+Pictures Panel|Bilder Panel
+Pictures Panel Settings|Bilder Panel Einstellungen
+Pictures Settings|Bilder-Einstellungen
+Pisces|Fische
+Please Log In|Bitte anmelden
+Please wait...|Bitte warten...
+Portrait|Hochformat
+Pressure:|Luftdruck:
+Problem loading widget|Problem beim Laden des Widgets
+Productivity|Produktivität
+Program|Programm
+Pulkovo|Pulkovo
+Purchase|Kaufen
+Purple|Lila
+Quick Setting|Schnelleinstellungen
+Radio off|Radio aus
+rd_loc|ter
+Reading appointments...|Termine werden gelesen...
+Recycle Bin|Mülleimer
+Red|Rot
+Reduced|Verkleinern
+Reload skin list|Design-Liste neu laden
+Remove All|Alle entfernen
+Rename|Umbenennen
+Rename Panel|Panel umbenennen
+Requesting images|Bilder werden abgerufen
+Retry|Wiederholen
+Rise: %s|Aufang: %s
+RSS Feed|RSS Feed
+RSS Panel|RSS Panel
+RSS Panel Settings|RSS Paneel Einstellungen
+S|S
+Safe mode|Abgesicherter-Modus
+Sagittarius|Schütze
+Saint-Petersburg|Sankt Petersburg
+Save as New|Neuer Kontakt
+Save to Existing|Als existierenden Kontakt
+Scorpio|Skorpion
+Screen orientation|Ausrichtung
+Screen orientation will be changed to Landscape|Bildschirmausrichtung wird in die Horizontale geändert
+SE|Sürdost
+Searching|Suche...
+Select Channel|Kanal auswählen
+Select cities|Stadt auswählen
+Select Contact Action|Aktion für Kontakte festlegen
+Select Contact Size|Größe für Kontakte festlegen
+Select e-mail address|E-Mail Adresse auswählen
+Select phone number:|Telefonnummer auswählen
+Select shortcut|Verknüpfung wählen
+Select Skin|Design auswählen
+Select wallpaper from|Hintergrundbild wählen aus
+Selected cities|Stadt auswählen
+Selected City|Ausgewählt Stadt
+Selected city|Ausgewählt Stadt
+Send Email|E-Mail senden
+Send E-mail|E-Mail senden
+Send E-Mail|E-Mail senden
+Send Message|Nachricht senden
+Send MMS|MMS senden
+Send SMS|SMS senden
+September|September
+Serial number:|Seriennummer:
+Set as Home|Als Hauptbildschirm wäheln
+Set as Wallpaper|Als Hintergrund auswählen
+Set wallpaper|Hintergrund wählen
+Set: %s|Untergang: %s
+Settings|Einstellungen
+Show all|Alle darstellen
+Show all day events|Ganztägige Termine anzeigen
+Show all day events in calendar widgets|Zeige ganztägige Termine im Kalender
+Show full news|Volle Nachrichten darstellen
+Show images in news|Bilder in Nachrichten einzeigen
+Silent|Lautlos
+Skin loading|Lade Design...
+Small|Klein
+Smartphone|Smartphone
+Smog|Nebel
+Social|Sozial
+Social Network|Soziale Netzwerke
+Sound Profile|Klingeltöne
+south|Süden
+south east|Südost
+south west|Südwest
+SPB Shell 3D is loading...|SPB Shell 3D lädt...
+SPB Wallpapers|SPB WallpapersCopy
+SPB Widget|SPB Widget
+st|er
+Standard Edition [Beta]|Standard Edition [Beta]
+Stereoscopic 3D mode|Stereoskopisches 3D
+Stereoscopic 3D mode will be disabled|Der stereoskopischer 3D Modus wird deaktiviert
+Stereoscopic 3D Settings|Stereoskopisches 3D Einstellungen
+Sun in %s,|Sonne in %s,
+Sunday|Sonntag
+SW|SW
+Switching the interface mode can take up to a minute. Screen orientation will be changed to '%s'.|Ändern des Oberflächen-Modi kann einige Minuten in Anspruch nehmen. Der Bildschirm wird nach '%s' ausgerichtet.
+System|System
+Tablet|Tablet
+Tap here to download|Hier drücken zu laden
+Taurus|Stier
+Temperatur scale|Temperaturmaßstab
+Temperature scale|Temperatur Format
+Test Battery|Batterie testen
+th|ter
+Thank you for your support. Your copy is now registered.|Vielen Dank für Ihre Unterstützung. Ihre Kopie ist jetzt registriert.
+The experimental features below are not ready to be shipped in the core of SPB Shell 3D. They may contain severe defects and cause system instability. Use them at your own risk.|Die folgenden experimentellen Funktionen sind noch nicht bereit, um in die Kernfunktionen von SPB Shell 3D integriert zu werden. Sie könnten einige unerwartete Effekte oder Instabilität mit sich bringen. Bitte benutzen Sie diese auf eigene Verantwortung.
+The maximum number of panels is reached|Die Maximale Zahl der möglichen Paneele ist erreicht
+The name cannot be changed.|Der Name kann nicht geändert werden
+The previous launch of SPB Shell 3D was unsuccessful. Please tap "Retry" to launch it again or "Home" to activate a different Home screen.|Der vorhergehende Start von SPB Shell 3D war nicht erfolgreich. Bitte drücken Sie "erneut versuchen" oder "Home" um den Standard-Homescreen zu starten.
+Time|Zeit
+Time Panel|Zeit Panel
+Time Panel Settings|Zeit Panel Einstellungen
+Today|Heute
+Toggle|Umschalter
+Tomorrow|Morgen
+Tools|Extras
+Travel|Reise
+Unfortunately, we could not locate your purchase in Android Market. Please uninstall this copy before installing a new one.|Leider konnten wir Ihren Kauf im Android Market nicht identifizieren. Bitte deinstallieren Sie diese Kopie befor Sie eine neue installieren.
+Unfortunately, we could not locate your purchase. Please uninstall this copy before installing a new one.|Leider konnten wir Ihren Zahlungseingang nicht bestätigen. Bitte entfernen Sie diese Version, befor Sie eine andere installieren.
+Uninstall|Deinstallieren
+Uninstall apps|Anwendungen deinstallieren
+Unknown|Unbekannt
+Unknown location|Unbekannter Ort
+Upcoming events|Kommende Veranstaltungen
+Update|Aktualisieren
+Update deals list automatically|Angebote automatisch aktualisieren
+Update Now|Jetzt aktualisieren
+Update pictures page automatically|Bilder automatisch aktualisieren
+Update weather forecasts automatically|Wettervorhersagen automatisch aktualisieren
+Updated|Aktualisiert
+Updated:|Aktualisiert:
+Updating image|Bild aktualisieren...
+Updating...|Aktualisiere...
+Use 3D in application list|3D im App-Launcher verwenden
+Use 3D in edit mode|3D im Bearbeitungsmodus nutzen
+Use cellular connection for updating deals list|Mobilfunknetz für Aktualisierungen nutzen
+Use cellular connection for updating deals list automatically|Mobile Datenverbindung nutzen, um die Angebote des Tages zu aktualisieren
+Use cellular connection for updating pictures automatically|Mobile Datenverbindung für das automatische Aktualisieren der Bilder nutzen
+Use cellular connection for updating weather automatically|Mobile Datenverbindung nutzen, um das Wetter zu aktualisieren
+Use new color every time|Jedes Mal neue Farbe nutzen
+Use previous note's color|Vorherige Farbe für Notizen nutzen
+Value|Preis
+variable|Variabel
+Version %s, Build %s|Version %s, Build %s
+Vibro|Vibration
+Video Call|Videoanruf
+View Duplicates|Zeige Duplikate
+View SIM Contacts|SIM Kontakte zeigen
+Virgo|Jungfrau
+W|W
+Wallpaper|Hintergrund
+Wallpapers|Hintergründe
+Waning Crescent|abnehmender Sichelmond
+Waning Gibbous|Abnehmender Viertelmond
+Waxing Crescent|Zunehmender Sichelmond
+Waxing Gibbous|Zunehmender Dreiviertelmond
+Weather|Wetter
+Weather and Clock|Wetter und Uhr
+Weather Forecast|Wettervorhersage
+Weather Panel Settings|Einstellungen des Wetter Panels
+Weather Settings|Wetter Einstellungen
+Welcome to notes panel|Willkommen zum Notizen Panel
+west|Westen
+Widget is too big to be added.|Widget ist zu groß um hinzugefügt zu werden.
+Widgets|Widgets
+Widgets Settings|Widgets Einstellungen
+Wind direction:|Windrichtung
+Wind speed scale|Windgeschwindigkeit-Maßstab
+Wind speed:|Windgeschwindigkeit
+Wind:|Wind:
+Work|Arbeit
+World Time|Weltzeit
+Wrong serial number. Please check it again.|Falsche Seriennummer! Bitte überprüfen Sie Ihre Eingabe.
+Yandex.Search|Yandex.Search
+Yellow|Gelb
+Yes|Ja
+Yesterday|Gestern
+You save|Sie sparen
+Your video system isn't compatible with Shell 3D.|Ihr Video-System ist nicht kompatibel zu Shell 3D.

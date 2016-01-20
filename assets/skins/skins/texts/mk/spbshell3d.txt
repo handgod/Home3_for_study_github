@@ -1,0 +1,518 @@
+ a few seconds|неколку секунди
+ day|ден
+ days|денови
+ hour|час
+ hours|часови
+ hr| час
+ hrs|час
+ lunar day|лунарен ден
+ min|мин
+ mins|минути
+ minute|минута
+ minutes|минути
+%d bought|%d купено
+%d day|%d ден
+%d days|%d дена
+%d hour|%d час
+%d hours|%d часа
+%d minute|%d минута
+%d minutes|%d минути
+%d more...|%d уште...
+%i active channel|%i активен канал
+%i active channels|%i активни канали
+%i image|%i слика
+%i images|%i слики
+%i more today|уште %i денес
+%i more...|%i уште...
+%i page|%i страна
+%i pages|%i страни
+%i%% of Full|%i%% од цел
+%s 2007—2011 Yandex|%s 2007—2011 Yandex
+(<1 min)|(<1 мин)
+(in|(во
+(in seconds)|(во секунди)
+(No title)|(Нема наслов)
+[ Loading images... ]|[ Се вчитуваат слики... ]
+[ Tap here for images load ]|[ Потчукнете овде за вчитување слики ]
+A few minutes ago|Пред неколку минути
+About|За
+Above horizon|Над хоризонтот
+Activate|Активирај
+Activation|Активирање
+Activation failed. Check your Internet connection.|Активирањето не успеа. Проверете ја вашата интернет врска.
+Active Channels|Активни канали
+Active channels|Активни канали
+Add|Додај
+Add category|Додај категорија
+Add city|Додај град
+Add custom channel|Додај вообичаен канал
+Add new city|Додај нов град
+Add note|Додај белешка
+Add Panel|Додај панел
+Add to Home screen|Додај на почетниот екран
+Airplane|Авион
+Airplane Mode|Режим за авион
+All day|Цел ден
+All pictures|Сите фотографии
+Allow resizing of all Android widgets|Овозможи промена на големината на сите додатоци за андроид
+An hour ago|Пред еден саат
+Android Shortcut|Андроид кратенка
+Android Widget|Андроид графички контроли
+Anniversary|Годишнина
+Appearance|Изглед
+Application|Апликација
+April|Април
+Aqua|Вода
+Aquarius|Водолија
+Aries|Овен
+as of %s|од %s
+at %s|во %s
+atm|атм
+Atmospheres|Атмосфери
+Atmospheric pressure scale|Скала за атмосферски притисок
+August|Август
+Auto|Автоматски
+Auto (keyboard only)|Автоматски (само тастатура)
+Auto arrange widgets|Автоматско организирање графички контроли
+Automatic|Автоматски
+Automatic naming|Автоматско именување
+Backlight|Позадинско светло
+Battery|Батерија
+Below horizon|Под хоризонтот
+Birthday|Роденден
+Birthdays|Родендени
+Black|Црно
+Blue|Сино
+Bluetooth|Bluetooth
+Bookmarks|Обележувачи
+Bookmarks Folder|Папка со обележувачи
+Business|Бизнис
+Buy!|Купи!
+Cache size|Кеширана големина
+Calculator|Дигитрон
+Calendar|Календар
+Calendar Panel|Панел со календар
+Calendar Panel Settings|Поставки за панелот со календар
+Call|Повик
+Call Log|Дневник за повици
+Cancel|Откажи
+Cancer|Рак
+Capricorn|Јарец
+Categories|Категории
+Category Name|Име на категорија
+Celsius (#short)|Целзиус
+Change|Смени
+Change City|Смени град
+Change profile|Смени профил
+Channels list|Листа со канали
+Choose Color|Одбери боја
+Choose Program|Одбери програма
+Choose SPB Widget|Одбери SPB графичка контрола
+Choose widget|Одбери графичка контрола
+Clear|Јасно
+Clear cache|Избриши кеш
+Clock|Часовник
+Cloudy|Облачно
+Cloudy, hail|Облачно, град
+Cloudy, heavy rain|Облачно, пороен дожд
+Cloudy, heavy snow|Облачно, обилни снежни врнежи
+Cloudy, rain|Облачно, дожд
+Cloudy, rain with snow|Облачно, дожд со снег
+Cloudy, snow|Облачно, снег
+Cloudy, thunder|Облачно, грмотевици
+Color anaglyph (red/cyan)|Анаглиф во боја (црвено/тиркизно)
+Communication|Комуникација
+Contact|Контакт
+Contacts|Контакти
+Contacts Folder|Папка со контакти
+Copyright %s 2007-2011\nSPB Software|Авторски права %s 2007-2011\nSPB Software
+Copyright %s 2007-2012\nSPB Software|Авторски права %s 2007-2012\nSPB Software
+Create Folder|Создај папка
+Current|Моментална
+Current city|Моментален град
+Current conditions|Моментална состојба
+Current Conditions|Моментална состојба
+Current skin|Моментална маска
+Day|Ден
+Deal of the Day|Зделка на денот
+Deal of the Day Panel|Панел со зделка на денот
+Deal of the Day Panel Settings|Поставки на панелот зделка на денот
+Deals|Зделки
+December|Декември
+Default|Стандард
+Delete note|Избриши белешка
+Dew point:|Точка на росење:
+Diagnostic tools|Дијагностички алатки
+Disabled|Деактивирај
+Discoverable|Видлив
+Done|Готово
+Download Original|Преземи оригинал
+Downloading images|Преземање слики
+E|И
+east|исток
+Edit channel|Уреди канал
+Edit note|Уреди белешка
+Edit panels|Уреди панели
+Emergency only|Само итни повици
+Empty Panel|Празен панел
+Enable live wallpapers|Активирај тапети во живо
+Enabled|Активирај
+Enter RSS feed title|Внеси наслов на RSS-довод
+Enter RSS feed URL|Внеси URL на RSS-довод
+Entertainment|Забава
+Error|Грешка
+Evening|Вечер
+Every 2 hours|Секои 2 часа
+Every 24 hours|Секои 24 часа
+Every 30 Minutes|Секои 30 минути
+Every 30 minutes|Секои 30 минути
+Every 4 hours|Секои 4 часа
+Every hour|Секој час
+Exit|Излези
+Experimental|Експериментално
+Experimental Settings|Експериментални поставки
+Experimental settings|Експериментални поставки
+Fahrenheit (#short)|Фаренхајт
+Failed to load RSS|Вчитувањето на RSS не успеа
+Favorite Contacts|Омилени контакти
+Favorite contacts|Омилени контакти
+February|Февруари
+Filter|Филтер
+First day of the week|Прв ден од неделата
+First Quarter|Прва четвртина
+Flight|Лет
+Folder|Папка
+Folder Name|Име на папка
+Forecast|Прогноза
+from forecast|од прогноза
+Full Moon|Полна месечина
+Gallery|Галерија
+Games|Игри
+Gemini|Близнаци
+Grayscale anaglyph (red/cyan)|Сиво степенаст анаглиф  (црвено/тиркизно)
+Green|Зелено
+G-Sensor|G-сензор
+Half an hour ago|Пред половина час
+Hectopascals|Хектопаскали
+Hide Duplicates|Скриj дупликати
+Hide SIM Contacts|Скриј СИМ контакти
+Home|Дома
+Home Settings|Почетни поставки
+Home settings|Почетни поставки
+hpa|хпа
+Humidity:|Влажност:
+in %u days|за %u дена
+in Home Settings|во почетни поставки
+inch|инч
+Inches|Инчи
+Increase Counter|Зголеми броило
+Interface mode|Интерфејс режим
+Invisible|Невидлив
+January|Јануари
+July|Јули
+June|Јуни
+Kilometers per hour|Километри на час
+Knots|јазли
+knots|јазли
+kph|км/ч
+kts|милји на час
+Landscape|Пејсаж
+Landscape orientation required to enable left-to-right stereo mode|За овозможување на стерео режимот од лево на десно потребно е пејсажно усмерување
+Large|Голема
+Last Call|Последен повик
+Last Message|Последна порака
+Last Quarter|Последна четвртина
+Last updated|Последно ажурирано
+Left-to-right (HTC EVO 3D)|Лево на десно (HTC EVO 3D)
+Legal information|Правни информации
+Legal notices|Правни напомени
+Leo|Лав
+Libra|Вага
+Lifestyle|Животен стил
+Live wallpapers can cause performance degradation of your 3D home screen. Switching between live and static wallpapers can take up to a minute. Static wallpapers are recommended for the best experience.|Тапетите во живо може да предизвикаат деградација на вашиот 3D почетен екран. Префрлувањето помеѓу тапети во живи и статични тапети може да потрае до една минута. За најдобро доживување се препорачуваат статични тапети.
+Loading failed|Вчитувањето не успеа
+Loading image for wallpaper|Се вчитува слика за тапет
+Loading RSS feed %s...|Вчитување на RSS канал %s...
+Loading skin failed!|Вчитувањето маска не успеа
+Loading skins catalog failed!|Вчитувањето каталог со маски не успеа!
+Loading...|Се вчитува...
+Logging In...|Се најавува...
+Lunar Calendar|Лунарен календар
+Lunar day %d|Лунарен ден %d
+Manage apps|Управувај апликации
+Manage Apps|Управувај апликации
+Manage panels|Управувај панели
+Manage Panels|Управувај панели
+March|Март
+May|Мај
+Messaging|Пораки
+Meters per second|Метри во секунда
+Miles per hour|Милји на час
+Millimetres|Милиметри
+Misc|Разно
+Miscellaneous|Разно
+mm|мм
+Mobile|Мобилен
+Mode|Режим
+Monday|Понеделник
+Moon|Месечина
+Moon Calendar|Месечен календар
+Moon in %s,|Месечината во %s,
+Morning|Утро
+mph|м/ч
+mps|м/с
+Multimedia|Мултимедија
+Music|Музика
+Music albums|Музички албуми
+N|С
+N/A|Н/В
+nd|ри
+NE|СИ
+Network Status|Статус на мрежата
+Never|Никогаш
+New Channel|Нов канал
+New channel|Нов канал
+New Contact|Нов контакт
+New Folder|Нова папка
+New Moon|Млада месечина
+News|Вести
+News Panel|Панел со вести
+News Panel Settings|Поставки на панелот со вести
+next|следно
+Next Alarm|Следен аларм
+Night|Ноќ
+No|Нема
+no|нема податоци
+No Alarms|Нема аларми
+No birthdays|Нема родендени
+No calls|Нема повици
+No Cities|Нема градови
+No conditions|Нема состојби
+No Contacts.|Нема контакти.
+No Countries|Нема држави
+No deals loaded|Нема вчитано зделки
+No Images|Нема слики
+No messages|Нема пораки
+No news|Нема новости
+No rise/set info|Нема податоци за изгревањето/заоѓањето
+No RSS feed found at|Не е пронајден RSS-довод
+No rss loaded|Не е вчитан ниту еден RSS
+No SIM|Нема СИМ
+No text messages|Нема текстуални пораки
+No title|Нема наслов
+No upcoming events|Нема претстојни настани
+No upcoming events in a week|Нема претстојни настани во неделата
+No updates|Нема ажурирања
+No weather forecast|Нема временска прогноза
+Normal|Нормално
+north|север
+north east|североисток
+north west|северозапад
+Not available|Не е достапна
+Not connected|Не е поврзано
+Notes|Белешки
+Note's default color|Стандардна боја на забелешката
+Note's font|Фонт кај забелешките
+Notes Panel|Панел со белешки
+Notes Panel Settings|Поставки на панелот со белешки
+November|Ноември
+NW|СЗ
+October|Октомври
+Off|Исклучено
+Offer|Понуда
+On|Активирано
+One Touch Share|One Touch Share
+Only on free connections|Само за слободни врски
+Open Contact|Отвори контакт
+Open in Browser|Отвори во прелистувач
+OpenGL 2.0 is required to run SPB Shell 3D|За да работи SPB Shell 3D потребно е OpenGL 2.0
+Optimized anaglyph (red/cyan)|Оптимизиран анаглиф (црвено/тиркизно)
+Other (assistant)|Друго (соработник)
+Page|Страна
+Pages: %d, images: %d|Страни: %d, слики: %d
+Panel Name|Име на панел
+Parsing skins catalog failed!|Анализирањето на каталогот со маски не успеа!
+Partly cloudy|Дeлумно облачно
+Partly cloudy, rain|Делумно облачно, дожд
+Partly cloudy, snow|Делумно облачно, снег
+Partly cloudy, thunder|Делумно облачно, грмотевици
+People|Луѓе
+Performance Warning|Предупредување за работата
+Performance Warning dialog|Дијалог за предупредување за работата
+Personal|Лична
+Phone|Телефон
+Photo folder for gallery widgets|Папка со фотографии за галериски графички контроли
+Picture Gallery|Галерија со фотографии
+Picture of the Day|Фотографија на денот
+Picture Panel Settings|Поставки на панелот за фотографии
+Pictures|Фотографии
+Pictures Of The Day|Фотографии на денот
+Pictures Panel|Панел со фотографии
+Pictures Panel Settings|Поставки на панелот со фотографии
+Pictures Settings|Поставки за фотографии
+Pisces|Риби
+Please Log In|Најавете се
+Please wait...|Почекајте...
+Portrait|Портрет
+Pressure:|Притисок:
+Problem loading widget|Проблем во вчитувањето графичка контрола
+Productivity|Продуктивност
+Program|Програма
+Pulkovo|Пулково
+Purchase|Нарачка
+Purple|Виолетово
+Radio off|Исклучено радио
+rd_loc|ти
+Reading appointments...|Чита состаноци...
+Recycle Bin|Канта за отпадоци
+Red|Црвено
+Reduced|Смалено
+Reload skin list|Повторно вчитај листа со маски
+Remove All|Отстрани сè
+Rename|Преименувај
+Rename Panel|Преименувај панел
+Requesting images|Бара слики
+Retry|Обидете се повторно
+Rise: %s|Изгревање: %s
+RSS Feed|RSS-довод
+RSS Panel|Панел со RSS
+RSS Panel Settings|Поставки за панелот со RSS
+S|Ј
+Safe mode|Режим за безбедност
+Sagittarius|Стрелец
+Saint-Petersburg|Санкт-Петербург
+Save as New|Зачувај како нов
+Save to Existing|Зачувај во постоечките
+Scorpio|Скорпија
+Screen orientation|Ориентација на екранот
+SE|ЈИ
+Searching|Пребарува
+Select Channel|Одбери канал
+Select cities|Одбери градови
+Select e-mail address|Одбери адреса на е-пошта
+Select phone number:|Одбери телефонски број:
+Select shortcut|Одбери кратенка
+Select Skin|Одбери маска
+Select wallpaper from|Одбери тапет од
+Selected cities|Одбрани градови
+Selected City|Одбран град
+Selected city|Одбран град
+Send E-mail|Испрати е-пошта
+Send E-Mail|Испрати е-пошта
+Send Message|Испрати порака
+Send MMS|Испрати ММС
+Send SMS|Испрати СМС
+September|Септември
+Serial number:|Сериски број
+Set as Home|Постави како Дома
+Set as Wallpaper|Постави како тапет
+Set wallpaper|Постави тапет
+Set: %s|Заоѓање: %s
+Settings|Поставки
+Show all|Прикажи сè
+Show all day events|Прикажи ги сите дневни настани
+Show all day events in calendar widgets|Прикажи ги сите дневни настани во календарски графички контроли
+Show full news|Прикажи цели вести
+Show images in news|Прикажи слики во вести
+Silent|Безвучно
+Skin loading|Се вчитува маска
+Small|Мала
+Smartphone|Паметен телефон
+Smog|Смог
+Social|Дружење
+Sound Profile|Профил со звук
+south|југ
+south east|југоисток
+south west|југозапад
+SPB Shell 3D is loading...|SPB Shell 3D се вчитува...
+SPB Wallpapers|SPB тапети
+SPB Widget|SPB графичка контрола
+st|ви
+Standard Edition [Beta]|Стандардно издание [бета верзија]
+Stereoscopic 3D mode|Стереоскопски 3D режим
+Stereoscopic 3D mode will be disabled|Стереоскопскиот 3D режим ќе биде деактивиран
+Stereoscopic 3D Settings|Поставки за стереоскопско 3D
+Sun in %s,|Сонцето во %s,
+Sunday|Недела
+SW|ЈЗ
+Switching the interface mode can take up to a minute. Screen orientation will be changed to '%s'.|Префрлувањето на интерфејсот може да потрае до една минута. Ориентацијата на екранот ќе се смени во '%s'.
+System|Систем
+Tablet|Таблет
+Taurus|Бик
+Temperatur scale|Температурна скала
+Temperature scale|Температурна скала
+Test Battery|Тестирај батерија
+th|ти
+Thank you for your support. Your copy is now registered.|Ви благодариме за поддршката. Вашата копија сега е регистрирана.
+The experimental features below are not ready to be shipped in the core of SPB Shell 3D. They may contain severe defects and cause system instability. Use them at your own risk.|Експерименталните карактеристики од подолу не се готови за да се испратат во централниот дел на SPB Shell 3D. Тие може да содржат сериозни недостатоци и да предизвикаат нестабилност на системот. Користете ги на ваш сопствен ризик.
+The maximum number of panels is reached|Достигнат е максималниот број на панели
+The name cannot be changed.|Не може да се смени името.
+The previous launch of SPB Shell 3D was unsuccessful. Please tap "Retry" to launch it again or "Home" to activate a different Home screen.|Претходното стартување на SPB Shell 3D беше неуспешно. Потчукнете "Обидете се повторно" за повторно да ја стартувате или "Дома" за да активирате друг почетен екран.
+Time|Време
+Time Panel|Панел со време
+Time Panel Settings|Поставки на панелот за време
+Today|Денес
+Toggle|Префрли
+Tomorrow|Утре
+Tools|Алатки
+Travel|Патување
+Unfortunately, we could not locate your purchase in Android Market. Please uninstall this copy before installing a new one.|За жал, не можевме да ја пронајдеме вашата нарачка во Андроид пазар. Прво деинсталирајте ја оваа копија пред да инсталирате нова.
+Unfortunately, we could not locate your purchase. Please uninstall this copy before installing a new one.|За жал, не можевме да ја пронајдеме вашата нарачка. Прво деинсталирајте ја оваа копија пред да инсталирате нова.
+Uninstall|Деинсталирај
+Uninstall apps|Деинсталирај апликации
+Unknown|Непознато
+Unknown location|Непозната местоположба
+Upcoming events|Претстојни настани
+Update|Ажурирај
+Update deals list automatically|Автоматско ажурирање на листата со зделки
+Update Now|Ажурирај сега
+Update pictures page automatically|Автоматски ажурирај страна со фотографии
+Update weather forecasts automatically|Автоматско ажурирање на временска прогноза
+Updated|Ажурирано
+Updated:|Ажурирано:
+Updating image|Ажурирање на слика
+Updating...|Се ажурира...
+Use 3D in application list|Користи 3D во листата со апликации
+Use 3D in edit mode|Користи 3D во режим на уредување
+Use cellular connection for updating deals list|Користи мобилна врска за ажурирање на листата со зделки
+Use cellular connection for updating deals list automatically|Користете мобилна врска за автоматско ажурирање на списокот со зделки
+Use cellular connection for updating pictures automatically|Користи мобилна врска за автоматско ажурирање на фотографии
+Use cellular connection for updating weather automatically|Користете мобилна врска за автоматско ажурирање на времето
+Use new color every time|Секој пат користи нова боја
+Use previous note's color|Употреби ја бојата на претходната белешка
+Value|Вредност
+variable|променлива
+Version %s, Build %s|Верзија %s, Вградена %s
+Vibro|Вибрации
+Video Call|Видео повик
+View Duplicates|Види дупликати
+View SIM Contacts|Види СИМ контакти
+Virgo|Девица
+W|З
+Wallpaper|Тапет
+Wallpapers|Тапети
+Waning Crescent|Последна фаза на затемнување
+Waning Gibbous|Прва фаза на затемнување
+Waxing Crescent|Прва фаза (новина)
+Waxing Gibbous|Последна фаза на осветлување
+Weather|Време
+Weather and Clock|Време и часовник
+Weather Forecast|Временска прогноза
+Weather Settings|Поставки за времето
+Welcome to notes panel|Добредојдовте во панелот со белешки
+west|запад
+Widget is too big to be added.|Графичката контрола е преголема да се додаде.
+Widgets|Графички контроли
+Widgets Settings|Поставки за графички контроли
+Wind direction:|Правец на ветар:
+Wind speed scale|Скала за брзина на ветар
+Wind speed:|Брзина на ветар:
+Work|Работа
+World Time|Светско време
+Wrong serial number. Please check it again.|Погрешен сериски број. Проверете повторно.
+Yandex.Search|Yandex.Search
+Yellow|Жолто
+Yes|Да
+Yesterday|Вчера
+You save|Заштедувате
+Your video system isn't compatible with Shell 3D.|Вашиот видео систем не е компатибилен со Shell 3D.

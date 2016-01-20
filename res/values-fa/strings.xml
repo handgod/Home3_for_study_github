@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SPB Shell 3D</string>
+    <string name="dialog_shell_loading">SPB Shell 3D در حال بارگذاری است...</string>
+    <string name="gadget_error_text">مشکل در بارگذاری اسبابک</string>
+    <string name="dialog_select_shortcut">انتخاب میانبر</string>
+    <string name="dialog_choose_widget">انتخاب اسبابک</string>
+    <string name="chooser_wallpaper">انتخاب کاغذ دیواری از</string>
+    <string name="wallpaper_instructions">تنظیم کاغذ دیواری</string>
+    <string name="pick_wallpaper">کاغذهای دیواری</string>
+    <string name="wallpapers_spb">کاغذهای دیواری SPB</string>
+    <string name="yes">بله</string>
+    <string name="no">خیر</string>
+    <string name="wait">لطفا صبر کنید...</string>
+    <string name="home_widget_error">این اسبابک برای اضافه شدن خیلی بزرگ است.</string>
+    <string name="cancel">لغو</string>
+    <string name="error">error</string>
+    <string name="infinity">infinity</string>
+    <string name="dialog_unsupported_devices_title">خطا</string>
+    <string name="dialog_unsupported_devices_message">برای اجرای SPB Shell 3D به OpenGL 2.0 نیاز است</string>
+    <string name="license_fail">متاسفانه، نتوانستیم خرید شما را در Android Market پیدا کنیم. لطفا قبل از نصب کپی جدید، این نسخه را حذف کنید.</string>
+    <string name="purchase">خرید</string>
+    <string name="exit">خروج</string>
+    <string name="legal_notices_title">اعلان های قانونی</string>
+    <string name="license_fail_handango">متاسفانه، نتوانستیم خرید شما را پیدا کنیم. لطفا قبل از نصب کپی جدید، این نسخه را حذف کنید.</string>
+    <string name="safe_mode_title">حالت امن</string>
+    <string name="safe_mode_text">اجرای قبلی SPB Shell 3D موفقیت آمیز نبود. لطفا روی \"Retry\" ضربه بزنید تا اجرا شود یا روی \"Home\" ضربه بزنید تا یک صفحه اصلی متفاوت فعال شود.</string>
+    <string name="safe_mode_retry">تلاش مجدد</string>
+    <string name="safe_mode_home">صفحه اصلی</string>
+    <string name="sd_install_title">خطا</string>
+    <string name="sd_install_text">Installation to a storage card is not supported. Please install SPB Shell 3D to the main memory</string>
+    <string name="contacts_failed_pick">Failed to load the selected contact. Try to link the contact to Google account or save it to phone.</string>
+</resources>

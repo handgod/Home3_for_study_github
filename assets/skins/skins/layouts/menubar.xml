@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Layouts>
+
+  <Rules>
+    <PlatformCondition Platform="tablets">
+      <UseLayout Name="Tablets"/>
+    </PlatformCondition>
+    <ScreenCondition Width="360" Height="640">
+      <UseLayout Name="360x640"/>
+    </ScreenCondition>
+    <ScreenCondition Orientation="landscape">
+      <UseLayout Name="Landscape"/>
+    </ScreenCondition>    
+    <Default>
+      <UseLayout Name="Portrait"/>
+    </Default>
+  </Rules>
+
+  <General>
+    <LayerAlign Value="Bottom" Clip="0"/>
+    <Skin AutoSkin="menubar"/>
+  </General>
+
+  <Layout Name="Default">
+    <Plugins>
+      <Plugin Class="Spb.LSP.9Patch" Name="Backgrd">
+        <String Name="ImageName" Value="Background"/>
+        <Int Name="Multiply" Value="1"/>
+      </Plugin>
+      <Plugin Class="Spb.LSP.NavBar" Name="NavBar"/>
+      <Plugin Class="Spb.LSP.NavBarSlider" Name="Slider"/>
+   </Plugins>
+  </Layout>
+
+  <Layout Name="Portrait" BaseWidth="240">
+    <Frame Extends="Default" Width="fill" Height="auto">
+      <Plugin Name="Backgrd" Width="fill" Height="50"/>
+      <Plugin Name="NavBar" Align="top" Width="fill" Height="18" Margins="0 0 0 32"/>
+      <Plugin Name="Slider" Align="bottom" Width="fill" Height="36" Margins="14 0 0 0"/>
+    </Frame>
+  </Layout>
+
+  <Layout Name="Landscape" BaseHeight="240">
+    <General>
+      <LayerAlign Value="Right" Clip="0"/>
+      <Int Name="VerticalBar" Value="1"/>
+    </General>
+    <Frame Extends="Default" Width="auto" Height="fill">
+      <Plugin Name="Backgrd" Width="50" Height="fill"/>
+      <Plugin Name="NavBar" Align="left" Width="18" Height="fill" Margins="0 0 32 0"/>
+      <Plugin Name="Slider" Align="right" Width="36" Height="fill" Margins="0 14 0 0"/>
+    </Frame>
+  </Layout>
+
+  <Layout Name="Tablets">
+    <General>
+      <LayerAlign Value="Bottom" Clip="0"/>
+      <Int Name="VerticalBar" Value="0"/>
+      <Skin AutoSkin="menubar_tablets"/>
+    </General>
+    <Plugins LayoutType="linear" Orientation="horizontal">
+      <LayoutSize Width="fill" Height="auto"/>
+      
+      <Plugin Class="Spb.LSP.Generic" Name="EmptyL" StretchFactor="1">
+        <LayoutSize Width="0" Height="36"/>
+      </Plugin>
+      <Plugins LayoutType="frame" StretchFactor="1">
+        <LayoutSize Width="240" Height="36"/>
+        <Plugin Class="Spb.LSP.NavBar" Name="NavBar">
+          <LayoutSize Width="fill" Height="fill"/>
+        </Plugin>
+        <Plugin Class="Spb.LSP.NavBarSlider" Name="Slider">
+          <LayoutSize Width="fill" Height="fill"/>
+        </Plugin>
+      </Plugins>
+      <Plugin Class="Spb.LSP.Generic" Name="EmptyR" StretchFactor="1">
+        <LayoutSize Width="0" Height="36"/>
+      </Plugin>
+    </Plugins>
+  </Layout>
+
+</Layouts>

@@ -1,0 +1,544 @@
+ a few seconds|birkaç saniye
+ day|gün
+ days|günler
+ hour|saat
+ hours|saatler
+ hr| sa
+ hrs|saat
+ lunar day| ay günü
+ min| dk
+ mins| dk
+ minute|dakika
+ minutes|dakikalar
+%d bought|%d satın alındı
+%d day|%d gün içinde
+%d days|%d gün içinde
+%d hour|%d saat içinde
+%d hours|%d saat içinde
+%d minute|%d dakika içinde
+%d minutes|%d dakika içinde
+%d more...|%d daha fazla...
+%i active channel|%i aktif kanal
+%i active channels|%i aktif kanal
+%i image|%i görüntü
+%i images|%i görüntü
+%i more today|%i daha var bugün
+%i more...|%i daha...
+%i page|%i sayfa
+%i pages|%i sayfa
+%i%% of Full|Tam'ın %i%%
+%s 2007—2011 Yandex|%s 2007—2011 Yandex
+(<1 min)|(<1 dak)
+(in|(içinde
+(in seconds)|(saniye içinde)
+(No title)|(Başlık yok)
+[ Loading images... ]|[ Görüntü yükleniyor... ]
+[ Tap here for images load ]|[ Görüntünün yüklenmesi için tıklayın ]
+A few minutes ago|Bir kaç dakika önce
+About|Hakkında
+About SPB Shell 3D|SPB Shell 3D Hakkında
+Above horizon|Yatay üzeri
+Accelerometer|Hız Ölçer
+Activate|Etkinleştir
+Activation|Etkinleştirme
+Activation failed. Check your Internet connection.|Etkinleştirme başarısız oldu. İnternet bağlantınızı kontrol edin.
+Active Channels|Aktif Kanallar
+Active channels|Aktif kanallar
+Add|Ekle
+Add category|Kategori ekle
+Add channel|Kanal ekle
+Add city|Şehir ekle
+Add custom channel|Özel kanal ekle
+Add new city|Yeni şehir ekle
+Add note|Not ekle
+Add Panel|Panel Ekle
+Add to Home screen|Giriş Ekranına Ekle
+Airplane|Uçak
+Airplane Mode|Uçuş Modu
+Alcatel Widget|Alcatel Widget
+All day|Tüm gün
+All pictures|Tüm resimler
+Allow resizing of all Android widgets|Tüm adroid widgetların yeniden boyutlandırılmasına izin ver
+An hour ago|Bir saat önce
+Android Shortcut|Android Kısayol
+Android Widget|Android Widget
+Anniversary|Yıldönümü
+Appearance|Görünüm
+Application|Uygulama
+April|Nisan
+Aqua|Açık Mavi
+Aquarius|Kova
+Aries|Koç
+as of %s|%s olarak
+at %s|%s'de
+atm|atm
+Atmospheres|Atmosfer
+Atmospheric pressure scale|Atmosfer basınç ölçer
+August|Ağustos
+Auto|Otomatik
+Auto (keyboard only)|Otomatik (sadece klavye)
+Auto arrange widgets|Pencere öğelerini otomatik düzenle
+Automatic|Otomatik
+Automatic naming|Otomatik adlandırma
+Backlight|Fon ışığı
+Battery|Batarya
+Below horizon|Yatay altı
+Birthday|Doğum Günü
+Birthdays|Doğum Günleri
+Black|Siyah
+Blue|Mavi
+Bluetooth|Bluetooth
+Bookmarks|Yer imleri
+Bookmarks Folder|Yer imleri Klasörü
+Business|İş
+Buy!|Satın Al!
+Cache size|Önbellek boyutu
+Calculator|Hesap makinesi
+Calendar|Takvim
+Calendar Panel|Takvim Paneli
+Calendar Panel Settings|Takvim Paneli Ayarları
+Call|Ara
+Call Log|Arama Günlüğü
+Cancel|İptal
+Cancer|Yengeç
+Capricorn|Oğlak
+Categories|Kategoriler
+Category Name|Kategori Adı
+Celsius (#short)|Santigrat
+Change|Değiştir
+Change City|Şehri Değiştir
+Change profile|Profili değiştir
+Channels list|Kanal listesi
+Choose Alcatel Widget|Alcatel Widget Seç
+Choose Color|Renk Seç
+Choose Program|Program Seç
+Choose SPB Widget|SPB Widget'ı Seç
+Choose widget|Widget Seç
+Clear|Açık
+Clear cache|Önbelleği temizle
+Clock|Saat
+Cloudy|Bulutlu
+Cloudy, hail|Bulutlu, dolu yağışlı
+Cloudy, heavy rain|Bulutlu, yoğun yağışlı
+Cloudy, heavy snow|Bulutlu, yoğun karlı
+Cloudy, rain|Bulutlu, yağmurlu
+Cloudy, rain with snow|Bulutlu, karla karışık yağmurlu
+Cloudy, snow|Bulutlu, karlı
+Cloudy, thunder|Bulutlu, gök gürlemeli
+Color anaglyph (red/cyan)|Renkli anagilif (kırmızı/petrol yeşili)
+Communication|İletişim
+Contact|Kişi
+Contact Settings|Kişi Ayarları
+Contact Size|Kişi Boyutu
+Contacts|Kişiler
+Contacts Folder|Kişilerim Dosyası
+Copyright %s 2007-2011\nSPB Software|Telif Hakkı %s 2007-2011\nSPB Software
+Copyright %s 2007-2012\nSPB Software|Telif Hakkı %s 2007-2012\nSPB Software
+Create Folder|Klasör Oluştur
+Current|Geçerli
+Current city|Geçerli şehir
+Current conditions|Geçerli durumlar
+Current Conditions|Geçerli Durumlar
+Current skin|Geçerli Dış Görünüm
+Custom channel|Kanalı özelleştir
+Day|Gün
+Deal of the Day|Günün Fırsatı
+Deal of the Day Panel|Günün fırsatı paneli
+Deal of the Day Panel Settings|Günün Fırsatı Paneli Ayarları
+Deals|Fırsatlar
+December|Aralık
+Default|Varsayılan
+Default Action|Varsayılan Eylem
+Delete note|Notu sil
+Dew point:|Çiy noktası:
+Diagnostic tools|Tanılama araçları
+Disabled|Etkisizleştirildi
+Discoverable|Bulunabilir
+Done|Yapıldı
+Download Original|Orijinalini Yükle
+Downloading images|Görüntü yükleniyor
+E|D
+east|doğu
+Edit channel|Kanalı düzenle
+Edit Contact|Kişiyi Düzenle
+Edit note|Notu düzenle
+Edit panels|Panelleri düzenle
+Emergency only|Sadece acil
+Empty Panel|Boş Panel
+Enable live wallpapers|Canlı duvarkağıtlarını etkinleştir
+Enabled|Etkinleştirildi
+Enter RSS feed title|RSS akışı başlığı gir
+Enter RSS feed URL|RSS akışı URL'si gir
+Entertainment|Eğlence
+Error|Hata
+Evening|Akşam
+Every 2 hours|Her 2 saatte bir
+Every 24 hours|Her 24 saatte bir
+Every 30 Minutes|Her 30 Dakikada bir
+Every 30 minutes|Her 30 Dakikada bir
+Every 4 hours|Her 4 saatte bir
+Every hour|Her saatte bir
+Exit|Çıkış
+Experimental|Deneysel
+Experimental Settings|Deneysel Ayarlar
+Experimental settings|Deneysel ayarlar
+Fahrenheit (#short)|Fahrenhayt
+Failed to add contact|Kişi ekleme başarısız oldu
+Failed to load RSS|RSS yüklemesi başarısız oldu
+Failed to load the selected contact. Try to link the contact to Google account or save it to phone.|Seçili kişi yüklemesi başarısız oldu. Kişiyi Google hesabınıza eklemeye yada telefona kaydetmeye çalışın.
+Favorite Contacts|Favori Kişilerim
+Favorite contacts|Favori kişilerim
+Favorites|Favorilerim
+February|Şubat
+Filter|Filtre
+First day of the week|Haftanın ilk günü
+First Quarter|İlk çeyrek
+Flight|Uçuş
+Folder|Klasör
+Folder Name|Klasör Adı
+Forecast|Hava Tahmini
+from forecast|Hava Tahmininden
+Full Moon|Dolunay
+Gallery|Galeri
+Games|Oyunlar
+Gemini|İkizler
+Gravity|Yerçekimi
+Grayscale anaglyph (red/cyan)|Gri tonlama anagilif (kırmızı/petrol yeşili)
+Green|Yeşil
+G-Sensor|G-Sensör
+Half an hour ago|Yarım saat önce
+Hectopascals|Hektopaskal
+Hide Duplicates|Yinelenenleri Gizle
+Hide SIM Contacts|SİM Kişilerini Sakla
+Home|Ana
+Home Settings|Giriş sayfası Ayarları
+Home settings|Giriş sayfası ayarları
+hpa|hpa
+Humidity:|Nem:
+in %u days|%u gün içinde
+in Home Settings|Giriş Ayarlarında
+inch|inç
+Inches|İnç
+Increase Counter|Sayacı Artır
+Interface mode|Arabirim modu
+Invisible|Görünmez
+January|Ocak
+July|Temmuz
+June|Haziran
+Kilometers per hour|Kilometre saat
+Knots|Knot
+knots|knot
+kph|km/s
+kts|kt
+Landscape|Yatay
+Landscape orientation required to enable left-to-right stereo mode|Soldan sağa stereo modu için yatay yönü etkinleştrmek gerekli
+Large|Büyük
+Last Call|Son Görüşme
+Last Message|Son Mesaj
+Last Quarter|Son Çeyrek
+Last updated|Son güncelleştirme
+Left-to-right (HTC EVO 3D)|Soldan sağa (HTC EVO 3D)
+Legal information|Yasal bilgi
+Legal notices|Yasal uyarı
+Leo|Aslan
+Libra|Terazi
+Lifestyle|Yaşamstili
+Live wallpapers can cause performance degradation of your 3D home screen. Switching between live and static wallpapers can take up to a minute. Static wallpapers are recommended for the best experience.|Canlı duvarkağıtları 3B giriş ekranında performans düşüklüğüne sebep olabilir. Canlı ve statik duvarkağıtları arasındaki geçiş bir dakikayı alabilir. En iyi performans tecrübesi için statik duvar kağıtları önerilir.
+Loading failed|Yükleme Başarısız oldu
+Loading image for wallpaper|Duvarkağıdı için görüntü yükleniyor
+Loading RSS feed %s...|RSS akışı yükleniyor %s...
+Loading skin failed!|Dış görünüm yüklemesi başarısız oldu!
+Loading skins catalog failed!|Dış görünüm kataloğu yüklemesi başarısız oldu!
+Loading...|Yükleniyor...
+Logging In...|Oturum Açılıyor...
+Lunar Calendar|Ay Takvimi
+Lunar day %d|%d Ay günü
+Manage apps|Uygulamaları yönet
+Manage Apps|Uygulamaları Yönet
+Manage panels|Panelleri yönet
+Manage Panels|Panelleri Yönet
+March|Mart
+May|Mayıs
+Medium|Orta
+Messaging|Mesaj
+Meters per second|Metre saniye
+Miles per hour|Mil saat
+Millimetres|Milimetre
+Misc|Çeşitli
+Miscellaneous|Çeşitli
+mm|mm
+Mobile|Cep
+Mode|Mod
+Monday|Pazartesi
+Moon|Ay
+Moon Calendar|Ay Takvimi
+Moon in %s,|%s'de Ay,
+Morning|Sabah
+mph|mil/saat
+mps|metre/saniye
+Multimedia|Multimedya
+Music|Müzik
+Music albums|Müzik albümleri
+N|K
+N/A|Yok
+nd|nci
+NE|KD
+Network Status|Ağ Durumu
+Never|Asla
+New|Yeni
+New Channel|Yeni Kanal
+New channel|Yeni Kanal
+New Contact|Yeni Kişi
+New Folder|Yeni Klasör
+New Moon|Yeni ay
+News|Haberler
+News Panel|Haber Paneli
+News Panel Settings|Haber Paneli Ayarları
+next|sonraki
+Next Alarm|Sonraki Alarm
+Night|Gece
+No|Hayır
+no|Yok
+No Alarms|Alarm Yok
+No birthdays|Doğumgünü yok
+No calls|Arama yok
+No Cities|Şehir Yok
+No conditions|Koşul yok
+No Contacts.|Kişi Yok.
+No Countries|Ülke yok
+No deals loaded|Hiç bir kampanya yüklenmedi
+No Images|Resim Yok
+No messages|Mesaj yok
+No news|Haber yok
+No rise/set info|Batım/doğum bilgisi yok
+No RSS feed found at|RSS akışı bulunmadı
+No rss loaded|RSS yüklü değil
+No SIM|SIM Takılı Değil
+No text messages|Mesaj yok
+No title|Başlık yok
+No upcoming events|Yaklaşan etkinlik yok
+No upcoming events in a week|Hafta içinde yaklaşan etkinlik yok
+No updates|Güncelleme yok
+No weather forecast|Hava tahmini yok
+Normal|Normal
+north|kuzey
+north east|kuzey doğu
+north west|kuzey batı
+Not available|Yok
+Not connected|Bağlı değil
+Notes|Notlar
+Note's default color|Not'ların varsayılan rengi
+Note's font|Not'ların yazı tipi
+Notes Panel|Not Paneli
+Notes Panel Settings|Not Paneli Ayarları
+November|Kasım
+NW|KB
+October|Ekim
+Off|Kapalı
+Offer|Teklif
+On|Açık
+One Touch Share|One Touch Share
+Only on free connections|Sadece ücretsiz bağlantılarda
+Open Contact|Kişi Aç
+Open in Browser|Tarayıcıda Aç
+OpenGL 2.0 is required to run SPB Shell 3D|SPB Shell 3D'yi çalıştırmak için OpenGL 2.0 gerekli
+Optimized anaglyph (red/cyan)|İyileştirilmiş anagilif (kırmızı/petrol yeşili)
+Other (assistant)|Diğer (yardımcı)
+Page|Sayfa
+Pages: %d, images: %d|Sayfa: %d, görüntü: %d
+Panel Name|Panel Adı
+Panels|Paneller
+Panels Settings|Panel Ayarları
+Parsing skins catalog failed!|Dış görünüm kataloğu ayrıştırması başarısız oldu!
+Partly cloudy|Parçalı bulutlu
+Partly cloudy, rain|Parçalı bulutlu, yağmurlu
+Partly cloudy, snow|Parçalı bulutlu, karlı
+Partly cloudy, thunder|Parçalı bulutlu, fırtınalı
+People|Kişiler
+Performance Warning|Performans Uyarısı
+Performance Warning dialog|Performans Uyarı iletişim kutusu
+Personal|Kişisel
+Phone|Telefon
+Photo folder for gallery widgets|Galeri pencere öğeleri için resim klasörü
+Picture Gallery|Resim Galerisi
+Picture of the Day|Günün Resmi
+Picture Panel Settings|Resim Paneli Ayarları
+Pictures|Resimler
+Pictures Of The Day|Günün Resimleri
+Pictures Panel|Resim Paneli
+Pictures Panel Settings|Resimler Paneli Ayarları
+Pictures Settings|Resim Ayarları
+Pisces|Balık
+Please Log In|Lütfen Çevrimiçi Olun
+Please wait...|Lütfen bekleyin
+Portrait|Dikey
+Pressure:|Basınç:
+Problem loading widget|Pencere öğeleri yükleme problemi
+Productivity|Üretkenlik
+Program|Program
+Pulkovo|Pulkovo
+Purchase|Satın Al
+Purple|Mor
+Quick Setting|Hızlı Ayar
+Radio off|Radyo kapalı
+rd_loc|ncü
+Reading appointments...|Randevuları okuyor...
+Recycle Bin|Geri Dönüşüm Kutusu
+Red|Kırmızı
+Reduced|Sınırlı
+Reload skin list|Dış Görünüm listesi yeniden yükleniyor
+Remove All|Tümünü Sil
+Rename|Yeniden adlandır
+Rename Panel|Paneli Yeniden adlandır
+Requesting images|Görüntüler isteniyor
+Retry|Tekrar dene
+Rise: %s|Doğuş: %s
+RSS Feed|RSS Akışı
+RSS Panel|RSS Paneli
+RSS Panel Settings|RSS Paneli Ayarları
+S|G
+Safe mode|Güvenli mod
+Sagittarius|Yay
+Saint-Petersburg|Saint-Petersburg
+Save as New|Yeni olarak Kaydet
+Save to Existing|Varolana Kaydet
+Scorpio|Akrep
+Screen orientation|Ekran hizalaması
+Screen orientation will be changed to Landscape|Ekran yönlendirilmesi Yataya değiştirilecek
+SE|GD
+Searching|Aranıyor
+Select Channel|Kanal seç
+Select cities|Şehir seçin
+Select Contact Action|Kişi Eylemi Seç
+Select Contact Size|Kişi Boyutu Seç
+Select e-mail address|E-posta adresi seçin
+Select phone number:|Telefon numarası seçin
+Select shortcut|Kısayol seçin
+Select Skin|Dış Görünüm Seçin
+Select wallpaper from|Duvarkağıtları seçin
+Selected cities|Seçilen şehirler
+Selected City|Seçilen Şehir
+Selected city|Seçilen şehir
+Send Email|Eposta Gönder
+Send E-mail|E-posta Gönder
+Send E-Mail|E-Posta Gönder
+Send Message|Mesaj Gönder
+Send MMS|MMS Gönder
+Send SMS|SMS Gönder
+September|Eylül
+Serial number:|Seri Numarası:
+Set as Home|Giriş Sayfası olarak Ayarla
+Set as Wallpaper|Duvarkağıdı olarak ayarla
+Set wallpaper|Duvarkağıdı Ayarla
+Set: %s|Kur: %s
+Settings|Ayarlar
+Show all|Tümünü göster
+Show all day events|Günün tüm olaylarını göster
+Show all day events in calendar widgets|Takvim pencere öğesinde tüm gün etkinliklerini göster
+Show full news|Haberleri tam göster
+Show images in news|Haberlerde görüntü göster
+Silent|Sessiz
+Skin loading|Dış görünüm yükleniyor
+Small|Küçük
+Smartphone|Akıllı telefon
+Smog|Sis
+Social|Sosyal
+Social Network|Sosyal Ağ
+Sound Profile|Ses Profili
+south|güney
+south east|güney doğu
+south west|güney batı
+SPB Shell 3D is loading...|SPB Shell 3D yükleniyor...
+SPB Wallpapers|SPB Duvarkağıtları
+SPB Widget|SPB Widget
+st|nci
+Standard Edition [Beta]|Standart Sürüm [Beta]
+Stereoscopic 3D mode|Stereoskopik 3B modu
+Stereoscopic 3D mode will be disabled|stereoskopik 3B modu etkisizleştirilecek
+Stereoscopic 3D Settings|Stereoskopik 3B Ayarları
+Sun in %s,|%s içinde güneş,
+Sunday|Pazar
+SW|GB
+Switching the interface mode can take up to a minute. Screen orientation will be changed to '%s'.|Arabirim modunu değiştirmek bir dakika sürebilir. Ekran hizalama '%s'e değiştirilecek.
+System|Sistem
+Tablet|Tablet
+Taurus|Boğa
+Temperatur scale|Sıcaklık ölçeği
+Temperature scale|Sıcaklık ölçeği
+Test Battery|Bataryayı Test Et
+th|.
+Thank you for your support. Your copy is now registered.|Desteğiniz için teşekkürler. Ürününüz şimdi tescillendi.
+The experimental features below are not ready to be shipped in the core of SPB Shell 3D. They may contain severe defects and cause system instability. Use them at your own risk.|SPB Shell 3D'nin çekirdeklerinde alttaki deneysel özellikler gönderilmeye hazır değildir. Çeşitli hatalar ve sistem sistem kararsızlığı içerebilir. Riskleri bilerek ve kabul ederek kullanın.
+The maximum number of panels is reached|Panel için en yüksek numaraya ulaşıldı.
+The name cannot be changed.|Ad değiştirilemez.
+The previous launch of SPB Shell 3D was unsuccessful. Please tap "Retry" to launch it again or "Home" to activate a different Home screen.|SPB Shell 3D'nin önceki yüklemesi başarısız oldu. Tekrar açmak için lütfen "Tekrar Dene"ye basın yada "Giriş Sayfası"na basın farklı bir giriş sayfası etkinleştirmek için.
+Time|Zaman
+Time Panel|Zaman Paneli
+Time Panel Settings|Zaman Paneli Ayarları
+Today|Bugün
+Toggle|Aç/Kapat
+Tomorrow|Yarın
+Tools|Araçlar
+Travel|Seyahat
+Unfortunately, we could not locate your purchase in Android Market. Please uninstall this copy before installing a new one.|Maalesef, Android Market'de satın alınmış bulunmuyor. Yenisini yüklemeden önce bu kopyayı kaldırın.
+Unfortunately, we could not locate your purchase. Please uninstall this copy before installing a new one.|Maalesef, satın alınmış bulunmuyor. Yenisini yüklemeden önce bu kopyayı kaldırın.
+Uninstall|Kaldır
+Uninstall apps|Uygulamaları kaldır
+Unknown|Bilinmiyor
+Unknown location|Bilinmeyen konum
+Upcoming events|Yaklaşan etkinlikler
+Update|Güncelle
+Update deals list automatically|Kampanya listesini otomatik güncelle
+Update Now|Şimdi Güncelle
+Update pictures page automatically|Resimler sayfasını otomatik güncelle
+Update weather forecasts automatically|Hava Durumunu otomatik güncelle
+Updated|Güncellendi
+Updated:|Güncellendi:
+Updating image|Görüntü güncelleniyor
+Updating...|Güncelleniyor...
+Use 3D in application list|Uyguluma listesinde 3B kullan
+Use 3D in edit mode|Düzenleme modunda 3B kullan
+Use cellular connection for updating deals list|Kampanya listesini güncellemek için cep telefonu internet bağlantısını kullan
+Use cellular connection for updating deals list automatically|Fırsatlar listesini otomatik olarak güncellemek için cep telefonu şebekesini kullan
+Use cellular connection for updating pictures automatically|Resimleri otomatik güncellemek için cep telefonu internet bağlantısını kullan
+Use cellular connection for updating weather automatically|Hava Durumunu otomatik olarak güncellemek için cep telefonu şebekesini kullan
+Use new color every time|Her zaman yeni renk kullan
+Use previous note's color|Önceki not'un rengini kullan
+Value|Değer
+variable|değişken
+Version %s, Build %s|Versiyon %s, Yapı %s
+Vibro|Vibro
+Video Call|Görüntülü Arama
+View Duplicates|Yinelenenleri Görüntüle
+View SIM Contacts|SİM Kişilerini Görüntüle
+Virgo|Başak
+W|B
+Wallpaper|Duvar kağıdı
+Wallpapers|Duvar kağıtları
+Waning Crescent|Hilal
+Waning Gibbous|Konveks
+Waxing Crescent|Hilal
+Waxing Gibbous|Üçünci Dördün
+Weather|Hava Durumu
+Weather and Clock|Hava Durumu ve Saat
+Weather Forecast|Hava Tahmini
+Weather Panel Settings|Hava Durumu Paneli Ayarları
+Weather Settings|Hava Durumu Ayarları
+Welcome to notes panel|Not paneline hoşgeldiniz
+west|batı
+Widget is too big to be added.|Pencere öğesi eklemek için çok büyük.
+Widgets|Pencere öğeleri
+Widgets Settings|Pencere öğeleri Ayarları
+Wind direction:|Rüzgar yönü:
+Wind speed scale|Rüzgar hızı ölçeği
+Wind speed:|Rüzgar hızı:
+Wind:|Rüzgâr:
+Work|İş
+World Time|Dünya Saatleri
+Wrong serial number. Please check it again.|Yanlış seri numarası. Lütfen tekrar kontrol edin.
+Yandex.Search| Yandex.Web arama
+Yellow|Sarı
+Yes|Evet
+Yesterday|Dün
+You save|Kaydedin
+Your video system isn't compatible with Shell 3D.|Video sisteminiz Shell 3D ile uyumlu değil.

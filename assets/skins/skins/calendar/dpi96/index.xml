@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skin>
+  <items>
+    <item DontScale="1" DpiSpecific="1">
+      <Image Name="BlankCalendar" ScaleDpiY="80" File="blank_calendar.png" />
+      <Point Name="DaysOfTheWeek" ScaleDpiY="80" />
+      <Rect Name="DayRect" ScaleDpiY="80" Y="22" Height="12" X="75" Width="19" />
+      <Rect Name="TodayDayRect" ScaleDpiY="80" X="9" Y="41" Height="67" Width="58" />
+      <Rect Name="TodayDOWRect" ScaleDpiY="80" X="12" Y="32" Height="10" Width="58" />
+      <Rect Name="DayOfTheWeekRect" Y="4" Height="10" X="75" Width="19" />
+      <Point Name="TodayMarkOffset" Y="-1" X="4" />
+    </item>
+    <item DontScale="1">
+      <Image Name="Today" File="today.png" />
+      <Image Name="Calendar" File="calendar.png" />
+      <Image Name="Recurring" File="recurring.png" />
+    </item>
+    <item DontScale="1" />
+  </items>
+</skin>

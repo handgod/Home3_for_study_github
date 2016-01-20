@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SPB Shell 3D</string>
+    <string name="weather_city_title">Начните ввод для автодополнения:</string>
+    <string name="weather_enter_city_name">Введите имя города</string>
+    <string name="weather_more_cities">Ещё...</string>
+    <string name="weather_locate_nearest_city">Найти ближайший город</string>
+    <string name="weather_current_location">Текущее местоположение</string>
+    <string name="searching_city_title">Определение местоположения</string>
+    <string name="searching_city_progress">Поиск ближайших городов...</string>
+    <string name="city_location_failed">Не удалось определить ближайший город</string>
+    <string name="dialog_shell_loading">Загружается SPB Shell 3D...</string>
+    <string name="gadget_error_text">Проблемы при загрузке виджета</string>
+    <string name="dialog_select_shortcut">Выбрать ярлык</string>
+    <string name="dialog_choose_widget">Выбрать виджет</string>
+    <string name="chooser_wallpaper">Выбрать обои из</string>
+    <string name="wallpaper_instructions">Установить обои</string>
+    <string name="pick_wallpaper">Обои</string>
+    <string name="wallpapers_spb">Обои SPB</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="wait">Пожалуйста, подождите...</string>
+    <string name="home_widget_error">Виджет не помещается.</string>
+    <string name="cancel">Отмена</string>
+    <string name="error">error</string>
+    <string name="infinity">infinity</string>
+    <string name="dialog_unsupported_devices_title">Ошибка</string>
+    <string name="dialog_unsupported_devices_message">Для запуска SPB Shell 3D требуется OpenGL 2.0.</string>
+    <string name="license_fail">К сожалению, невозможно найти вашу покупку в Android Market. Пожалуйста, удалите эту копию перед установкой новой.</string>
+    <string name="purchase">Купить</string>
+    <string name="exit">Выход</string>
+    <string name="legal_notices_title">Правовая информация</string>
+    <string name="license_fail_handango">К сожалению, мы не можем обнаружить информацию о вашей покупке. Пожалуйста, удалите эту копию перед установкой новой.</string>
+    <string name="safe_mode_title">Безопасный режим</string>
+    <string name="safe_mode_text">Предыдущий запуск SPB Shell 3D завершился неудачно. Нажмите \"Повторить\" для повторного запуска или \"Домашний экран\" для выбора другого домашнего экрана.</string>
+    <string name="safe_mode_retry">Повторить</string>
+    <string name="safe_mode_home">Домашний экран</string>
+    <string name="sd_install_title">Ошибка</string>
+    <string name="sd_install_text">Installation to a storage card is not supported. Please install SPB Shell 3D to the main memory</string>
+    <string name="contacts_failed_pick">Не удалось загрузить выбранный контакт. Попробуйте связать контакт с Google-профилем или сохраните его в телефоне.</string>
+</resources>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Layouts>
+
+  <Rules>
+    <Condition Name="Dial:FullView" Value="1">
+      <ScreenCondition Width="360" Height="640">
+        <UseLayout Name="360x640-Shown"/>
+      </ScreenCondition>
+      <Default>
+        <UseLayout Name="240x320-Shown"/>
+      </Default>
+    </Condition>
+    <Condition Name="Dial:FullView" Value="0">
+      <ScreenCondition Width="360" Height="640">
+        <UseLayout Name="360x640-Hidden"/>
+      </ScreenCondition>
+      <Default>
+        <UseLayout Name="240x320-Hidden"/>
+      </Default>
+    </Condition>
+  </Rules>
+
+  <General>
+    <DialogObject Value="Spb.Data.Dial"/>
+  </General>
+
+  <Layout Name="Default">
+    <Plugins>
+      <Plugin Class="Spb.LSP.Generic" Name="d0" ID="0"/>
+      <Plugin Class="Spb.LSP.Generic" Name="d1" ID="1"/>
+      <Plugin Class="Spb.LSP.Generic" Name="d2" ID="2"/>
+      <Plugin Class="Spb.LSP.Generic" Name="d3" ID="3"/>
+      <Plugin Class="Spb.LSP.Generic" Name="d4" ID="4"/>
+      <Plugin Class="Spb.LSP.Generic" Name="d5" ID="5"/>
+      <Plugin Class="Spb.LSP.Generic" Name="d6" ID="6"/>
+      <Plugin Class="Spb.LSP.Generic" Name="d7" ID="7"/>
+      <Plugin Class="Spb.LSP.Generic" Name="d8" ID="8"/>
+      <Plugin Class="Spb.LSP.Generic" Name="d9" ID="9"/>
+      <Plugin Class="Spb.LSP.Generic" Name="Back" ID="100"/>
+      <Plugin Class="Spb.LSP.Generic" Name="Hide" ID="200"/>
+      <Plugin Class="Spb.LSP.Generic" Name="Show" ID="201"/>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="240x320-Shown">
+    <General>
+      <LayerAlign Value="Bottom" Cache="1"/>
+      <Skin DoubleSkin="dial/dpi192"/>
+      <Font Name="TextFont" Face="Droid Sans" HeightPxl="12" Bold="y"/>
+    </General>
+    <Plugins Extends="Default">
+      <Plugin Name="d0">
+        <BoundRect X="180" Y="40" Width="60" Height="40"/>
+      </Plugin>
+      <Plugin Name="d1">
+        <BoundRect X="0" Y="0" Width="60" Height="40"/>
+      </Plugin>
+      <Plugin Name="d2">
+        <BoundRect X="60" Y="0" Width="60" Height="40"/>
+      </Plugin>
+      <Plugin Name="d3">
+        <BoundRect X="120" Y="0" Width="60" Height="40"/>
+      </Plugin>
+      <Plugin Name="d4">
+        <BoundRect X="0" Y="40" Width="60" Height="40"/>
+      </Plugin>
+      <Plugin Name="d5">
+        <BoundRect X="60" Y="40" Width="60" Height="40"/>
+      </Plugin>
+      <Plugin Name="d6">
+        <BoundRect X="120" Y="40" Width="60" Height="40"/>
+      </Plugin>
+      <Plugin Name="d7">
+        <BoundRect X="0" Y="80" Width="60" Height="40"/>
+      </Plugin>
+      <Plugin Name="d8">
+        <BoundRect X="60" Y="80" Width="60" Height="40"/>
+      </Plugin>
+      <Plugin Name="d9">
+        <BoundRect X="120" Y="80" Width="60" Height="40"/>
+      </Plugin>
+      <Plugin Name="Back">
+        <BoundRect X="180" Y="0" Width="60" Height="40"/>
+      </Plugin>
+      <Plugin Name="Hide">
+        <BoundRect X="180" Y="80" Width="60" Height="40"/>
+      </Plugin>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="240x320-Hidden">
+    <General>
+      <LayerAlign Value="Bottom" Clip="0" Cache="0"/>
+      <Skin DoubleSkin="dial/dpi192"/>
+    </General>
+    <Plugins Extends="Default">
+      <Plugin Name="Show">
+        <BoundRect X="180" Y="0" Width="60" Height="40"/>
+      </Plugin>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="360x640-Shown">
+    <General>
+      <LayerAlign Value="Bottom" Cache="1"/>
+      <Skin Skin="dial/dpi144"/>
+      <Font Name="TextFont" Face="Droid Sans" HeightPxl="12" Bold="y"/>
+    </General>
+    <Plugins Extends="Default">
+      <Plugin Name="d0">
+        <BoundRect X="180" Y="40" Width="60" Height="40"/>
+      </Plugin>
+      <Plugin Name="d1">
+        <BoundRect X="0" Y="0" Width="60" Height="40"/>
+      </Plugin>
+      <Plugin Name="d2">
+        <BoundRect X="60" Y="0" Width="60" Height="40"/>
+      </Plugin>
+      <Plugin Name="d3">
+        <BoundRect X="120" Y="0" Width="60" Height="40"/>
+      </Plugin>
+      <Plugin Name="d4">
+        <BoundRect X="0" Y="40" Width="60" Height="40"/>
+      </Plugin>
+      <Plugin Name="d5">
+        <BoundRect X="60" Y="40" Width="60" Height="40"/>
+      </Plugin>
+      <Plugin Name="d6">
+        <BoundRect X="120" Y="40" Width="60" Height="40"/>
+      </Plugin>
+      <Plugin Name="d7">
+        <BoundRect X="0" Y="80" Width="60" Height="40"/>
+      </Plugin>
+      <Plugin Name="d8">
+        <BoundRect X="60" Y="80" Width="60" Height="40"/>
+      </Plugin>
+      <Plugin Name="d9">
+        <BoundRect X="120" Y="80" Width="60" Height="40"/>
+      </Plugin>
+      <Plugin Name="Back">
+        <BoundRect X="180" Y="0" Width="60" Height="40"/>
+      </Plugin>
+      <Plugin Name="Hide">
+        <BoundRect X="180" Y="80" Width="60" Height="40"/>
+      </Plugin>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="360x640-Hidden">
+    <General>
+      <LayerAlign Value="Bottom" Clip="0" Cache="0"/>
+      <Skin Skin="dial/dpi144"/>
+    </General>
+    <Plugins Extends="Default">
+      <Plugin Name="Show">
+        <BoundRect X="180" Y="0" Width="60" Height="40"/>
+      </Plugin>
+    </Plugins>
+  </Layout>
+</Layouts>

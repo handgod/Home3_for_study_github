@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Layouts>
+
+  <Rules>
+    <PlatformCondition Platform="tablets">
+      <UseLayout Name="Tablets"/>
+    </PlatformCondition>
+    <ScreenCondition Orientation="landscape">
+      <UseLayout Name="Landscape"/>
+    </ScreenCondition>
+    <Default>
+      <UseLayout Name="Portrait"/>
+    </Default>
+  </Rules>
+
+  <General>
+    <DialogObject Value="Spb.Data.TrayDock"/>
+    <Skin AutoSkin="tray"/>
+    <Skin Name="IconSkin" AutoSkin="tray"/>
+    <LayerAlign Value="Bottom"/>
+  </General>
+
+  
+  <Layout Name="Default">
+    <Plugins>
+      <Plugins Name="Main">
+
+        <Plugins Name="Btn1">
+          <Plugin Name="Line1" Class="Spb.LSP.Image">
+            <Int Name="Stretch" Value="1"/>
+          </Plugin>
+          <Plugin Name="Backgrd1" Class="Spb.LSP.Image">
+            <Int Name="Stretch" Value="1"/>
+          </Plugin>
+          <Plugin Name="Done" Class="Spb.LSP.MenuBar" ID="2">
+            <String Name="Action" Value="Done"/>
+            <String Name="Icon" Value="okbtn"/>
+          </Plugin>
+        </Plugins>
+
+        <Frame Name="TrayDock" Width="fill" Height="fill" StretchFactor="1">
+          <Plugin Name="Backgrd2" Class="Spb.LSP.Image" Width="fill" Height="fill">
+            <Int Name="Stretch" Value="1"/>
+          </Plugin>
+          <Plugin Name="Tray" Class="Spb.LSP.Form" Width="fill" Height="fill">
+            <String Name="Stylesheet" Value="Tray"/>
+          </Plugin>
+        </Frame>
+
+        <Plugins Name="Btn2">
+          <Plugin Name="Backgrd3" Class="Spb.LSP.Image">
+            <Int Name="Stretch" Value="1"/>
+          </Plugin>
+          <Plugin Name="Line3" Class="Spb.LSP.Image">
+            <Int Name="Stretch" Value="1"/>
+          </Plugin>
+          <Plugin Name="Launcher" Class="Spb.LSP.MenuBar" ID="4">
+            <Skin Name="IconSkin" AutoSkin="menubar"/>
+            <String Name="Icon" Value="EditPanelsIcon"/>
+            <String Name="Action" Value="EditPanels"/>
+          </Plugin>
+          <Plugin Name="Trash" Class="Spb.LSP.Trash"/>
+        </Plugins>
+      </Plugins>
+    </Plugins>
+  </Layout>
+
+
+  <Layout Name="Tablets">
+    <Frame Extends="Default" Width="fill" Height="34">      
+      <Row Name="Main" Width="fill" Height="fill">
+
+        <Plugins Name="Btn1">
+          <Plugin Name="Line1">
+            <String Name="ImageName" Value="border_left" />
+            <BoundRect X="34" Y="0" Width="4" Height="34"/>
+          </Plugin>
+          <Plugin Name="Backgrd1">
+            <String Name="ImageName" Value="bg_btn"/>
+            <BoundRect X="0" Y="0" Width="34" Height="34"/>
+          </Plugin>
+          <Plugin Name="Done">
+            <BoundRect X="0" Y="0" Width="34" Height="34"/>
+            <Rect Name="SelRect" X="2" Y="2" Width="32" Height="30"/>
+          </Plugin>
+        </Plugins>
+
+        <Frame Name="TrayDock">
+          <Plugin Name="Backgrd2">
+            <String Name="ImageName" Value="bg_tray"/>
+          </Plugin>
+        </Frame>
+
+        <Plugins Name="Btn2">
+          <Plugin Name="Backgrd3">
+            <String Name="ImageName" Value="bg_btn" />
+            <BoundRect X="4" Y="0" Width="34" Height="34"/>
+          </Plugin>
+          <Plugin Name="Line3">
+            <String Name="ImageName" Value="border_right"/>
+            <BoundRect X="0" Y="0" Width="4" Height="34"/>
+          </Plugin>
+          <Plugin Name="Launcher">
+            <BoundRect X="4" Y="0" Width="34" Height="34"/>
+            <Rect Name="SelRect" X="0" Y="2" Width="32" Height="30"/>
+          </Plugin>
+          <Plugin Name="Trash">
+            <BoundRect X="4" Y="0" Width="34" Height="34"/>
+          </Plugin>
+        </Plugins>
+
+      </Row>      
+    </Frame>
+  </Layout>
+
+
+  <Layout Name="Portrait">
+    <Frame Extends="Tablets" Width="fill" Height="48">
+      <Row Name="Main" Width="fill" Height="fill" Margins="14 0 0 0"/>
+      <Plugin Name="NavBar" Class="Spb.LSP.NavBar" AutoSkin="menubar" Width="fill" Height="fill" Margins="0 0 0 34"/>
+    </Frame>
+  </Layout>
+
+
+  <Layout Name="Landscape">
+
+    <General>
+      <LayerAlign Value="Right"/>
+      <Int Name="VerticalBar" Value="1"/>
+    </General>
+
+    <Frame Extends="Default" Width="48" Height="fill">
+      <Column Name="Main" ReverseBase="1" Width="fill" Height="fill" Margins="0 14 0 0">
+
+        <Plugins Name="Btn1">
+          <Plugin Name="Line1">
+            <String Name="ImageName" Value="border_bottom"/>
+            <BoundRect X="0" Y="0" Width="34" Height="4"/>
+          </Plugin>
+          <Plugin Name="Backgrd1">
+            <String Name="ImageName" Value="bg_btn_vert"/>
+            <BoundRect X="0" Y="4" Width="34" Height="34"/>
+          </Plugin>
+          <Plugin Name="Done">
+            <BoundRect X="0" Y="4" Width="34" Height="34"/>
+            <Rect Name="SelRect" X="2" Y="2" Width="30" Height="32"/>
+          </Plugin>
+        </Plugins>
+
+        <Frame Name="TrayDock">
+          <Plugin Name="Backgrd2">
+            <String Name="ImageName" Value="bg_tray_vert"/>
+          </Plugin>
+        </Frame>
+
+        <Plugins Name="Btn2">
+          <Plugin Name="Backgrd3">
+            <String Name="ImageName" Value="bg_btn_vert" />
+            <BoundRect X="0" Y="0" Width="34" Height="34"/>
+          </Plugin>
+          <Plugin Name="Line3">
+            <String Name="ImageName" Value="border_top" />
+            <BoundRect X="0" Y="34" Width="34" Height="4"/>
+          </Plugin>
+          <Plugin Name="Launcher">
+            <BoundRect X="0" Y="0" Width="34" Height="34"/>
+            <Rect Name="SelRect" X="2" Y="2" Width="30" Height="32"/>
+          </Plugin>
+          <Plugin Name="Trash">
+            <BoundRect X="0" Y="0" Width="34" Height="34"/>
+          </Plugin>
+        </Plugins>
+
+      </Column>
+
+      <Plugin Name="NavBar" Class="Spb.LSP.NavBar" AutoSkin="menubar" Width="fill" Height="fill" Margins="0 0 34 0"/>
+    </Frame>
+  </Layout>
+
+</Layouts>

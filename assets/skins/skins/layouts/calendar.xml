@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Layouts Name="Calendar Panel" Type="panel">
+
+  <Layers>
+    <Layer Name="PanelFrame" Dialog="PanelFrame"/>
+    <Layer/>
+  </Layers>
+
+  <Rules>
+    <PlatformCondition Platform="tablets">
+      <ScreenCondition Orientation="landscape">
+        <UseLayout Name="Tablet_Landscape"/>
+      </ScreenCondition>
+      <Default>
+        <UseLayout Name="Tablet_Portrait"/>
+      </Default>
+    </PlatformCondition>
+
+    <ScreenCondition Orientation="landscape">
+      <UseLayout Name="Landscape"/>
+    </ScreenCondition>
+
+    <ScreenCondition Width="320" Height="480">
+      <UseLayout Name="Portrait_Tiny"/>
+    </ScreenCondition>
+
+    <ScreenCondition Width="240" Height="320">
+      <UseLayout Name="Portrait_Tiny"/>
+    </ScreenCondition>
+
+    <Default>
+      <UseLayout Name="Portrait"/>
+    </Default>
+  </Rules>
+
+  <General>
+    <!-- placeholder -->
+    <Skin AutoSkin="calendar"/>
+  </General>
+
+  <Layout Name="MonthSwitcher">
+    <Row Width="fill" Height="25" Margins="0 0 34 0">
+      <Plugin Width="30" Height="fill" Name="MonthBack" ID="3" AutoSkin="misc"/>
+      <Plugin Width="0" Height="fill" Name="MonthName" ID="2" StretchFactor="1">
+        <Font Name="Font" Face="Droid Sans" HeightPxl="12" Bold="y"/>
+      </Plugin>
+      <Plugin Width="30" Height="fill" Name="MonthForward" ID="1" AutoSkin="misc"/>
+      <Plugin Width="1" Height="fill" Name="$3" Class="Spb.LSP.Separator">
+        <Int Name="Falloff" Value="40"/>
+        <Int Name="Opacity" Value="150"/>
+      </Plugin>
+    </Row>
+  </Layout>
+
+  <Layout Name="MonthNameDOW">
+    <Plugins LayoutType="linear" Orientation="horizontal">
+      <LayoutSize Width="fill" Height="25"/>
+      <LayoutMargins Left="0" Right="34" Top="0" Bottom="0"/>
+      
+      <Plugin Class="Spb.LSP.Generic" Name="MonthNameDOW" ID="4" StretchFactor="1" Align="center_vert">
+        <LayoutSize Width="0" Height="fill"/>
+        <Font Name="Font" Face="Droid Sans" HeightPxl="12" Bold="y"/>
+      </Plugin>
+      
+    </Plugins>
+  </Layout>
+
+  <Layout Name="AgendaApptList">
+    <Plugins LayoutType="frame">
+      <LayoutSize Width="fill" Height="fill"/>
+
+      <Plugin Class="Spb.LSP.ApptList" Name="ApptList" ID="7" Align="top">
+        <LayoutSize Width="fill" Height="fill"/>
+        <LayoutMargins Left="9" Right="9" Top="0" Bottom="0"/>
+        <Font Name="DateFont" Face="Droid Sans" HeightPxl="11" Bold="n" Color="ffffffff"/>
+        <Font Name="SubjectFont" Face="Droid Sans" HeightPxl="11" Bold="y" Color="ffffffff"/>
+        <Font Name="DetailsFont" Face="Droid Sans" HeightPxl="11" Bold="n" Color="ffffffff"/>
+        <Font Name="NoApptsFont" Face="Droid Sans" HeightPxl="14" Bold="y" Color="ffffffff"/>
+        <Font Name="MoreFont" Face="Droid Sans" HeightPxl="10" Bold="n" Color="ff979797"/>
+        <Font Name="MoreAllDayFont" Face="Droid Sans" HeightPxl="10" Bold="n" Color="ffffffff"/>
+        <Rect Name="AllDayApptRect" X="2" Y="0" Width="210" Height="33"/>
+        <Rect Name="ApptRect" X="2" Y="0" Width="210" Height="33"/>
+        <Rect Name="DateRect" X="2" Y="2" Width="210" Height="14"/>
+        <Rect Name="SubjectRect" X="2" Y="3" Width="210" Height="12"/>
+        <Rect Name="DetailsRect" X="2" Y="15" Width="210" Height="12"/>
+        <Rect Name="MoreRect" X="2" Y="2" Width="210" Height="12"/>
+        <Rect Name="PlusRect" X="0" Y="0" Width="0" Height="0"/>
+        <Rect Name="DashLineRect" X="5" Y="0" Width="206" Height="1"/>
+        <Color Name="DashLineRectColor" Value="FFFFFF"/>
+        <Rect Name="RecurringPadding" Left="4" Right="0" Top="0" Bottom="0"/>
+      </Plugin>
+
+    </Plugins>
+  </Layout>
+
+  <Layout Name="Agenda">
+    <Plugins Extends="AgendaApptList" LayoutType="frame">
+      <LayoutSize Width="fill" Height="fill"/>
+      <Plugin Name="ApptList"/>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="Portrait">
+    <Plugins LayoutType="frame">
+      <LayoutSize Width="fill" Height="fill"/>
+
+      <Plugins Extends="common:PlusBtn"/>
+
+      <Plugins LayoutType="frame">
+        <LayoutSize Width="fill" Height="32"/>
+        <LayoutMargins Left="6" Right="6" Top="14" Bottom="0"/>
+        <Plugins Name="MonthSwitcher" Extends="MonthSwitcher"/>
+      </Plugins>
+
+      <Plugins LayoutType="frame">
+        <LayoutSize Width="fill" Height="fill"/>
+        <LayoutMargins Left="3" Right="3" Top="46" Bottom="53"/>
+
+        <Plugins LayoutType="linear" Orientation="vertical">
+          <LayoutSize Width="fill" Height="fill"/>
+          <LayoutMargins Left="0" Right="0" Top="0" Bottom="0"/>
+          
+          <Plugin Class="Spb.LSP.CalendarMonth" Name="Grid" ID="20" Align="center">
+            <LayoutSize Width="fill" Height="auto"/>
+            <LayoutMargins Left="8" Right="8" Top="0" Bottom="0"/>
+          </Plugin>
+          
+          <Plugins Name="Agenda" Extends="Agenda" StretchFactor="1">
+            <LayoutSize Width="fill" Height="0"/>
+            <LayoutMargins Left="0" Right="0" Top="4" Bottom="6"/>
+          </Plugins>
+        </Plugins>
+      </Plugins>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="Portrait_Small">
+    <Plugins Extends="Portrait">
+    </Plugins>
+  </Layout>
+
+  <Layout Name="Portrait_Tiny">
+    <Plugins Extends="Portrait">
+
+      <Plugins Name="MainFrame">
+
+        <Plugins Name="MonthSwitcher">
+          <LayoutSize Width="fill" Height="26"/>
+        </Plugins>
+
+        <Plugins Name="PanelFrame">
+          <Plugins Name="CalendarFrame">
+            <Plugins Name="Agenda">
+              <LayoutMargins Top="0"/>
+            </Plugins>
+          </Plugins>
+        </Plugins>
+
+      </Plugins>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="TabletApptList">
+    <Plugins LayoutType="frame" Width="fill" Height="fill">
+      <Plugin Class="Spb.LSP.TabletApptList" Name="ApptList" ID="30" AutoSkin="calendar_tablet" Width="fill" Height="fill">
+        <Font Name="TabTextFont" Face="Droid Sans" HeightPxl="10" Bold="y" Color="ffffffff"/>
+        <Font Name="DOWFont" Face="Droid Sans" HeightPxl="12" Bold="n" Color="ffffffff"/>
+        <Font Name="DateFont" Face="Droid Sans" HeightPxl="8" Bold="n" Color="ffffffff"/>
+        <Font Name="DateOnIconFont" Face="Droid Sans" HeightPxl="17" Bold="n" Color="ff000000"/>
+        <Font Name="SubjectFont" Face="Droid Sans" HeightPxl="8" Bold="y" Color="ffffffff"/>
+        <Font Name="DetailsFont" Face="Droid Sans" HeightPxl="8" Bold="n" Color="ffffffff"/>
+        <Font Name="MoreFont" Face="Droid Sans" HeightPxl="9" Bold="n" Color="ffffffff"/>
+        <Font Name="NoApptsFont" Face="Droid Sans" HeightPxl="14" Bold="y" Color="ffffffff"/>
+        <Rect Name="TabClientRectMargins" Left="7" Right="7" Top="7" Bottom="7"/>
+        <Rect Name="TabTextMargins" Left="7" Right="7" Top="7" Bottom="10"/>
+        <Rect Name="DateFillRect" X="0" Y="0" Width="0" Height="28"/>
+        <Rect Name="DOWRect" X="40" Y="2" Width="150" Height="16"/>
+        <Rect Name="DateRect" X="40" Y="16" Width="150" Height="16"/>
+        <Rect Name="IconRect" X="5" Y="0" Width="32" Height="29"/>
+        <Rect Name="DateOnIconRect" X="5" Y="4" Width="31" Height="24"/>
+        <Rect Name="ApptRect" X="0" Y="0" Width="0" Height="32"/>
+        <Rect Name="ApptMargins" Left="6" Right="6" Top="2" Bottom="2"/>
+        <Rect Name="SubjectRect" X="0" Y="6" Width="200" Height="14"/>
+        <Rect Name="DetailsRect" X="0" Y="15" Width="0" Height="14"/>
+        <Rect Name="MoreRect" X="0" Y="0" Width="100" Height="12"/>
+        <Rect Name="RecurringPadding" Left="4" Right="0" Top="0" Bottom="0"/>
+        <Int Name="FillOpacity" Value="128"/>
+        <!-- 0-255 -->
+      </Plugin>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="Landscape">
+    <Plugins LayoutType="frame">
+      <LayoutSize Width="fill" Height="fill"/>
+      <Plugins Extends="common:PlusBtn_L"/>
+      <Plugins Name="MainFrame" LayoutType="linear" Orientation="vertical">
+        <LayoutSize Width="fill" Height="fill"/>
+        <LayoutMargins Left="14" Top="14" Right="56" Bottom="14"/>
+
+        <Plugins Extends="MonthSwitcher"/>
+
+        <Plugins LayoutType="linear" Orientation="horizontal" StretchFactor="1">
+          <LayoutSize Width="fill" Height="0"/>
+
+          <Plugins LayoutType="linear" Orientation="vertical" StretchFactor="3">
+            <LayoutSize Width="0" Height="fill"/>
+
+            <Plugin Class="Spb.LSP.CalendarMonth" Name="Grid" ID="20">
+              <LayoutSize Width="fill" Height="auto"/>
+            </Plugin>
+          </Plugins>
+
+          <Plugins Extends="AgendaApptList" StretchFactor="2">
+            <LayoutSize Width="0" Height="fill"/>
+            <LayoutMargins Left="3"/>
+
+            <Plugin Name="ApptList">
+              <LayoutMargins/>
+              <Rect Name="DashLineRect" X="5" Y="0" Width="124" Height="1"/>
+            </Plugin>
+
+          </Plugins>
+        </Plugins>
+      </Plugins>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="Tablet_Landscape">
+    <Plugins LayoutType="frame" Width="fill" Height="fill">
+      <Plugins Extends="common:PlusBtn_Tablet"/>
+
+      <Plugins LayoutType="linear" Orientation="vertical">
+        <LayoutSize Width="fill" Height="fill"/>
+
+        <Plugins Extends="MonthNameDOW"/>
+
+        <Plugins LayoutType="linear" Orientation="horizontal" StretchFactor="1">
+          <LayoutSize Width="fill" Height="0"/>
+
+          <Plugin Class="Spb.LSP.CalendarMonth" Name="Grid" ID="20" AutoSkin="calendar_tablet" StretchFactor="390">
+            <LayoutSize Width="0" Height="fill"/>
+            <LayoutMargins Left="0" Right="0" Top="0" Bottom="0"/>
+            <String Name="View" Value="Tablet"/>
+          </Plugin>
+
+          <Plugins Extends="TabletApptList" StretchFactor="610">
+            <LayoutSize Width="0" Height="fill"/>
+            <LayoutMargins Left="2" Right="0" Top="0" Bottom="0"/>
+          </Plugins>
+        </Plugins>
+      </Plugins>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="Tablet_Portrait">
+    <Plugins LayoutType="frame" Width="fill" Height="fill">
+      <Plugins Extends="common:PlusBtn_Tablet"/>
+
+      <Plugins LayoutType="linear" Orientation="vertical" Width="fill" Height="fill">
+        
+        <Plugins Extends="MonthNameDOW"/>
+
+        <Plugins LayoutType="linear" Orientation="vertical" StretchFactor="1">
+          <LayoutSize Width="fill" Height="0"/>
+
+          <Plugin Class="Spb.LSP.CalendarMonth" Name="Grid" ID="20" AutoSkin="calendar_tablet">
+            <LayoutSize Width="fill" Height="126"/>
+            <LayoutMargins Left="0" Right="0" Top="0" Bottom="0"/>
+            <String Name="View" Value="Tablet"/>
+          </Plugin>
+
+          <Plugins Extends="TabletApptList" StretchFactor="1">
+            <LayoutSize Width="fill" Height="0"/>
+            <LayoutMargins Left="0" Right="0" Top="0" Bottom="0"/>
+          </Plugins>
+        </Plugins>
+      </Plugins>
+    </Plugins>
+  </Layout>
+
+</Layouts>

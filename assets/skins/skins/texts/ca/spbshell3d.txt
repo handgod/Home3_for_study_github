@@ -1,0 +1,519 @@
+ a few seconds|uns segons
+ day|dia
+ days|dies
+ hour|hora
+ hours|hores
+ hr|h
+ hrs|h
+ lunar day|dia lunar
+ min|min
+ mins|min
+ minute|minut
+ minutes|minuts
+%d bought|%d de comanda
+%d day|%d dia
+%d days|%d dies
+%d hour|%d hora
+%d hours|%d hores
+%d minute|%d minut
+%d minutes|%d minuts
+%d more...|%d més...
+%i active channel|%i de canal actiu
+%i active channels|%i de canals actius
+%i image|%i imatge
+%i images|%i imatges
+%i more today|%i més avui
+%i more...|%i més...
+%i page|%i pàgina
+%i pages|%i pàgines
+%i%% of Full|%i%% de plenitud
+%s 2007—2011 Yandex|%s 2007—2011 Yandex
+(<1 min)|(<1 min)
+(in|en
+(in seconds)|(en segons)
+(No title)|No hi ha títol
+[ Loading images... ]|[ Càrrega d'imatges... ]
+[ Tap here for images load ]|[ Premi aquí per carregar les imatges ]
+A few minutes ago|Fa uns  minuts
+About|Sobre
+Above horizon|Sobre l'horitzó
+Activate|Activar
+Activation|Activació
+Activation failed. Check your Internet connection.|Ha fallat l'activació. Comprovi la seva connexió a Internet.
+Active Channels|Canals actius
+Active channels|Canals actius
+Add|Afegir
+Add category|Afegir categoria
+Add city|Afegir una ciutat
+Add custom channel|Afegir canal personalitzat
+Add new city|Afegir una ciutat nova
+Add note|Afegir una nota
+Add Panel|Afegir tauler
+Add to Home screen|Afegir a la pantalla d'Inici
+Airplane|Avió
+Airplane Mode|Mode avió
+All day|Tot el dia
+All pictures|Totes les imatges
+Allow resizing of all Android widgets|Permetre el canvi de mida de tots els ginys de l'Android
+An hour ago|Fa una hora
+Android Shortcut|Accés directe Android
+Android Widget|Giny Android
+Anniversary|Aniversari
+Appearance|Aparença
+Application|Aplicació
+April|Abril
+Aqua|Aigua
+Aquarius|Aquari
+Aries|Àries
+as of %s|el %s
+at %s|a %s
+atm|atm
+Atmospheres|Atmosferes
+Atmospheric pressure scale|Escala de la pressió atmosfèrica
+August|Agost
+Auto|Auto
+Auto (keyboard only)|Auto (Teclat només)
+Auto arrange widgets|Disposició automàtica de ginys
+Automatic|Automàtic
+Automatic naming|Assignació automàtica de nom
+Backlight|﻿Il·luminació a contrallum
+Battery|Bateria
+Below horizon|Sota l'horitzó
+Birthday|Aniversari
+Birthdays|Aniversaris
+Black|Negre
+Blue|Blau
+Bluetooth|Bluetooth
+Bookmarks|Llista d'adreces d'interès
+Bookmarks Folder|Carpeta d'adreces d'interès
+Business|Negoci
+Buy!|Compra!
+Cache size|Mida de la memòria cau
+Calculator|Calculadora
+Calendar|Calendari
+Calendar Panel|Tauler Calendari
+Calendar Panel Settings|Configuració del tauler Calendari
+Call|Trucar
+Call Log|Registre de trucades
+Cancel|Cancel.lar
+Cancer|Cranc
+Capricorn|Capricorn
+Categories|Categories
+Category Name|Nom de la categoria
+Celsius (#short)|Celsius
+Change|Canviar
+Change City|Canviar ciutat
+Change profile|Canviar el perfil
+Channels list|Llista de canals
+Choose Color|Triar color
+Choose Program|Triar programa
+Choose SPB Widget|Triar Giny SPB
+Choose widget|Triar giny
+Clear|Clar
+Clear cache|Esborrar la memòria cau
+Clock|Rellotge
+Cloudy|Ennuvolat
+Cloudy, hail|Ennuvolat, calamarsa
+Cloudy, heavy rain|Ennuvolat, pluja intensa
+Cloudy, heavy snow|Ennuvolat, neu intensa
+Cloudy, rain|Ennuvolat, pluja
+Cloudy, rain with snow|Ennuvolat, aiguaneu
+Cloudy, snow|Ennuvolat, neu
+Cloudy, thunder|Ennuvolat, trons
+Color anaglyph (red/cyan)|Anàglif en color (vermell / cian)
+Communication|Comunicació
+Contact|Contactes
+Contacts|Contactes
+Contacts Folder|Carpeta de contactes
+Copyright %s 2007-2011\nSPB Software|Copyright %s 2007-2011\nSPB Software
+Copyright %s 2007-2012\nSPB Software|Copyright %s 2007-2012\nSPB Software
+Create Folder|Crear carpeta
+Current|Actual
+Current city|Ciutat actual
+Current conditions|Condicions actuals
+Current Conditions|Condicions actuals
+Current skin|Aparença actual
+Day|Dia
+Deal of the Day|Oferta del dia
+Deal of the Day Panel|Tauler Oferta del dia
+Deal of the Day Panel Settings|Oferta del dia
+Deals|Ofertes
+December|Desembre
+Default|Per defecte
+Delete note|Esborrar nota
+Dew point:|Punt de rosada:
+Diagnostic tools|Eines diagnòstiques
+Disabled|No habilitat
+Discoverable|Reconeixible
+Done|Fet
+Download Original|Descàrrega d'original
+Downloading images|Descàrrega d'imatges
+E|E
+east|est
+Edit channel|Edició de canals
+Edit note|Editar nota
+Edit panels|Edició de taulers
+Emergency only|Emergència només
+Empty Panel|Tauler buit
+Enable live wallpapers|Habilitar imatges de fons simultànies
+Enabled|Habilitat
+Enter RSS feed title|Introduir títol per alimentació de RSS
+Enter RSS feed URL|Introduir URL per alimentació de RSS
+Entertainment|Entreteniment
+Error|Error
+Evening|Tarda
+Every 2 hours|Cada 2 hores
+Every 24 hours|Cada 24 hores
+Every 30 Minutes|Cada 30 minuts
+Every 30 minutes|Cada 30 minuts
+Every 4 hours|Cada 4 hores
+Every hour|Cada hora
+Exit|Sortida
+Experimental|Experimental
+Experimental Settings|Configuració experimental
+Experimental settings|Configuració experimental
+Fahrenheit (#short)|Fahrenheit
+Failed to load RSS|No s'ha pogut carregar RSS
+Favorite Contacts|Contactes favorits
+Favorite contacts|Contactes favorits
+February|Febrer
+Filter|Filtre
+First day of the week|Primer dia de la setmana
+First Quarter|Quart creixent
+Flight|Vol
+Folder|Carpeta
+Folder Name|Nom de la carpeta
+Forecast|Previsió
+from forecast|de la previsió
+Full Moon|Lluna plena
+Gallery|Galeria
+Games|Jocs
+Gemini|Bessons
+Grayscale anaglyph (red/cyan)|Anàglif en escala de grisos (vermell / cian)
+Green|Verd
+G-Sensor|Sensor G
+Half an hour ago|Fa mitja hora
+Hectopascals|Hectopascals
+Hide Duplicates|Amagar duplicats
+Hide SIM Contacts|Amagar contactes SIM
+Home|Inici
+Home Settings|Configuració d'Inici
+Home settings|Configuració d'Inici
+hpa|hpa
+Humidity:|Humitat:
+in %u days|en %u dies
+in Home Settings|Configuració de l'Inici
+inch|polzada
+Inches|Polzades
+Increase Counter|Incrementar el comptador
+Interface mode|Mode interfície
+Invisible|Invisible
+January|Gener
+July|Juliol
+June|Juny
+Kilometers per hour|Quilòmetres per hora
+Knots|nusos
+knots|nusos
+kph|kmh
+kts|nusos
+Landscape|Horitzontal
+Landscape orientation required to enable left-to-right stereo mode|Orientació horitzontal necessària per habilitar el mode estèreo d'esquerra a dreta
+Large|Gran
+Last Call|Darrera trucada
+Last Message|Darrer missatge
+Last Quarter|Quart minvant
+Last updated|Darrera actualització
+Left-to-right (HTC EVO 3D)|D'esquerra a dreta (HTC EVO 3D)
+Legal information|Informació legal
+Legal notices|Notícies legals
+Leo|Lleó
+Libra|Balança
+Lifestyle|Estil de vida
+Live wallpapers can cause performance degradation of your 3D home screen. Switching between live and static wallpapers can take up to a minute. Static wallpapers are recommended for the best experience.|Les imatges de fons simultànies poden empitjorar el rendiment de la pantalla principal 3D. El canvi entre fons de pantalla simultànies i estàtiques pot trigar fins a un minut. Es recomanen imatges de fons estàtiques per una millor experiència
+Loading failed|Ha fallat la càrrega
+Loading image for wallpaper|Càrrega d'imatge de fons
+Loading RSS feed %s...|Carregant RSS %s...
+Loading skin failed!|Ha fallat la càrrega de l'aparença!
+Loading skins catalog failed!|Ha fallat la càrrega del catàleg d'aparences!
+Loading...|Càrrega...
+Logging In...|Iniciant la sessió...
+Lunar Calendar|Calendari llunar
+Lunar day %d|Dia lunar %d
+Manage apps|Gestió d'apps
+Manage Apps|Gestió d'apps
+Manage panels|Gestió de de taulers
+Manage Panels|Gestió de de taulers
+March|Març
+May|Mai
+Messaging|Missatgeria
+Meters per second|Metres per segon
+Miles per hour|Milles per hora
+Millimetres|Mil·límetres
+Misc|Misc
+Miscellaneous|Miscel·lània
+mm|mm
+Mobile|Mòbil
+Mode|Mode
+Monday|Dilluns
+Moon|Lluna
+Moon Calendar|Calendari llunar
+Moon in %s,|Lluna en %s
+Morning|Matí
+mph|mph
+mps|mps
+Multimedia|Multimèdia
+Music|Musica
+Music albums|Àlbums de música
+N|N
+N/A|NA
+nd|n
+NE|NE
+Network Status|Estat de la xarxa
+Never|Mai
+New Channel|Canal nou
+New channel|Canal nou
+New Contact|Contacte nou
+New Folder|Carpeta nova
+New Moon|Lluna nova
+News|Notícies
+News Panel|Tauler Notícies
+News Panel Settings|Configuració del Tauler Notícies
+next|següent
+Next Alarm|Alarma següent
+Night|Nit
+No|No
+no|no
+No Alarms|No hi ha alarmes
+No birthdays|No hi ha aniversaris
+No calls|No hi ha trucades
+No Cities|No hi ha ciutats
+No conditions|No hi ha condicions
+No Contacts.|No hi ha contactes.
+No Countries|No hi ha països
+No deals loaded|No s'han carregar les ofertes
+No Images|No hi ha imatges
+No messages|No hi ha missatges
+No news|No hi ha notícies
+No rise/set info|No hi ha informació de sortida/posta de sol
+No RSS feed found at|No s'ha trobat l'alimentació de RSS al
+No rss loaded|No rss carregat
+No SIM|No hi ha SIM
+No text messages|No hi ha missatges de text
+No title|No hi ha títol
+No upcoming events|No hi ha esdeveniments pròxims
+No upcoming events in a week|No hi ha esdeveniments pròxims en una setmana
+No updates|No hi ha actualitzacions
+No weather forecast|No hi ha previsió meteorològica
+Normal|Normal
+north|nord
+north east|nord-est
+north west|nord-oest
+Not available|No disponible
+Not connected|No connectat
+Notes|Notes
+Note's default color|Color per defecte de la nota
+Note's font|Lletra de la nota
+Notes Panel|Tauler Notes
+Notes Panel Settings|Configuració del tauler Notes
+November|Novembre
+NW|NW
+October|Octobre
+Off|Apagar
+Offer|Oferta
+On|On
+One Touch Share|One Touch Share
+Only on free connections|Només en connexions lliures
+Open Contact|Obrir contacte
+Open in Browser|Obrir al navegador
+OpenGL 2.0 is required to run SPB Shell 3D|Es requereix OpenGL 2.0 per executar el Shell 3D SP
+Optimized anaglyph (red/cyan)|Anàglif optimitzat (vermell / cian)
+Other (assistant)|Un altre (assistent)
+Page|Pàgina
+Pages: %d, images: %d|Pàgines: %d, imatges: %d
+Panel Name|Nom del tauler
+Parsing skins catalog failed!|Ha fallat l'anàlisi del catàleg d'aparences!
+Partly cloudy|Parcialment ennuvolat
+Partly cloudy, rain|Parcialment ennuvolat, pluja
+Partly cloudy, snow|Parcialment ennuvolat, neu
+Partly cloudy, thunder|Parcialment ennuvolat, trons
+People|Gent
+Performance Warning|Advertència de rendiment
+Performance Warning dialog|Diàleg d'advertència de rendiment
+Personal|Personal
+Phone|Telèfon
+Photo folder for gallery widgets|Carpeta d'imatges de la galeria de ginys
+Picture Gallery|Galeria d'imatges
+Picture of the Day|Foto del dia
+Picture Panel Settings|Configuració del tauler Imatges
+Pictures|Imatges
+Pictures Of The Day|Fotos del dia
+Pictures Panel||Tauler Imatges
+Pictures Panel Settings|Configuració del tauler Imatges
+Pictures Settings|Configuració d'imatges
+Pisces|Peixos
+Please Log In|Iniciar sessió
+Please wait...|Esperi si us plau...
+Portrait|Vertical
+Pressure:|Pressió:
+Problem loading widget|Problema en la càrrega del giny
+Productivity|Productivitat
+Program|Programa
+Pulkovo|Pulkovo
+Purchase|Comanda
+Purple|púrpura
+Radio off|Radio apagada
+rd_loc|.
+Reading appointments...|Lecture de cites...
+Recycle Bin|Paperera de reciclatge
+Red|Vermell
+Reduced|Reduït
+Reload skin list|Carregar de nou la llista d'aparences
+Remove All|Eliminar tot
+Rename|Canviar el nom
+Rename Panel| Canviar el nom del tauler
+Requesting images|Sol.licitud d'imatges
+Retry|Torneu-ho a provar
+Rise: %s|Sortida: %s
+RSS Feed| Alimentació de RSS
+RSS Panel|Tauler RSS
+RSS Panel Settings|Configuració del tauler RSS
+S|S
+Safe mode|Mode segur
+Sagittarius|Sagitari
+Saint-Petersburg|Sant Petersburg
+Save as New|Guardar com a nou
+Save to Existing|Guardar com a existent
+Scorpio|Escorpí
+Screen orientation|Orientació de la pantalla
+SE|SE
+Searching|Cerca
+Select Channel|Seleccionar canal
+Select cities|Ciutats seleccionades
+Select e-mail address|Seleccionar adreça de correu electrònic
+Select phone number:|Seleccionar número de telèfon:
+Select shortcut|Seleccionar accés directe
+Select Skin|Seleccionar aparença
+Select wallpaper from|Seleccionar imatge de fons de
+Selected cities|Ciutats seleccionades
+Selected City|Ciutat seleccionada
+Selected city|Ciutat seleccionada
+Send E-mail|Enviar correu electrònic
+Send E-Mail|Enviar correu electrònic
+Send Message|Enviar missatge
+Send MMS|Enviar MMS
+Send SMS|Enviar SMS
+September|Setembre
+Serial number:|Número de sèrie:
+Set as Home|Seleccionar com Inici
+Set as Wallpaper|Seleccionar com imatge de fons
+Set wallpaper|Seleccionar imatge de fons
+Set: %s|Posta: %s
+Settings|Configuració
+Show all|Mostrar tot
+Show all day events|Mostrar tots els esdeveniments del dia
+Show all day events in calendar widgets|Mostrar tots els esdeveniments del dia en ginys de calendari
+Show full news|Mostrar notícies completes
+Show images in news|Mostrar imatges en notícies
+Silent|Silenci
+Skin loading|Càrrega de l'aparença
+Small|Petit
+Smartphone|Smartphone
+Smog|Boira
+Social|Social
+Sound Profile|Perfil de sons
+south|sud
+south east|sud-est
+south west|sud-oest
+SPB Shell 3D is loading...|El Shell 3D SPB s'està carregant...
+SPB Wallpapers|Imatges de fons SPB
+SPB Widget|Giny SPB
+st|er
+Standard Edition [Beta]|Edició estàndard [Beta]
+Stereoscopic 3D mode|Mode 3D estereoscòpic
+Stereoscopic 3D mode will be disabled|Es desactivarà el mode estereoscòpic 3D
+Stereoscopic 3D Settings|Configuració 3D estereoscòpic
+Sun in %s,|Sol en %s
+Sunday|Diumenge
+SW|SW
+Switching the interface mode can take up to a minute. Screen orientation will be changed to '%s'.|El canvi de mode interfície pot trigar fins a un minut. L'orientació de la pantalla canviarà a '% s'
+System|Sistema
+Tablet|Tableta
+Taurus|Taure
+Temperatur scale|Escala de temperatura
+Temperature scale|Escala de temperatura
+Test Battery|Prova de bateria
+th|º
+Thank you for your support. Your copy is now registered.|Gràcies per la seva assistència. La seva còpia ara està registrada.
+The experimental features below are not ready to be shipped in the core of SPB Shell 3D. They may contain severe defects and cause system instability. Use them at your own risk.|Les característiques experimentals següents no estan preparades per ser enviades al nucli del Shell 3D SPB. Poden tenir defectes greus i causar la inestabilitat del sistema. Utilitzeu al seu propi risc.
+The maximum number of panels is reached|S'arribat al màxim nombre de taulers
+The name cannot be changed.|El nom no pot ser canviat.
+The previous launch of SPB Shell 3D was unsuccessful. Please tap "Retry" to launch it again or "Home" to activate a different Home screen.|L'execució anterior del Shell 3D SPB no va tenir èxit. Si us plau, premi "Torneu-ho a provar" per executar de nou o "Inici" per activar una pantalla inicial diferent.
+Time|Hora
+Time Panel|Tauler d'hora
+Time Panel Settings|Configuració del tauler d'hora
+Today|Avui
+Toggle|Commutació
+Tomorrow|Demà
+Tools|Eines
+Travel|Viatge
+Unfortunately, we could not locate your purchase in Android Market. Please uninstall this copy before installing a new one.|Si us plau, desinstal.leu aquesta còpia abans d'instal.lar una nova.
+Unfortunately, we could not locate your purchase. Please uninstall this copy before installing a new one.|Desafortunadament, no vam poder localitzar la seva comanda.Si us plau, desinstal.leu aquesta còpia abans d'instal.lar una nova.
+Uninstall|Desinstal·lar
+Uninstall apps|Desinstal·lar apps
+Unknown|Desconegut
+Unknown location|Ubicació desconeguda
+Upcoming events|Propers esdeveniments
+Update|Actualitzar
+Update deals list automatically|Actualitzar la llista d'ofertes de forma automàtica
+Update Now|Actualitzar ara
+Update pictures page automatically|Actualitzar les imatges de la pàgina de forma automàtica
+Update weather forecasts automatically|Actualitzar les previsions meteorològiques de forma automàtica
+Updated|Actualitzat
+Updated:|Actualitzat:
+Updating image|Actualització d'imatge
+Updating...|Actualitzant...
+Use 3D in application list|Ús del 3D a la llista d'aplicacions
+Use 3D in edit mode|Ús del 3D en mode edició
+Use cellular connection for updating deals list|Ús de la connexió mòbil per a l'actualització automàtica de la llista d'ofertes
+Use cellular connection for updating deals list automatically|Faci ús de la connexió cel · lular per actualitzar automàticament la llista ofertes
+Use cellular connection for updating pictures automatically|Ús de la connexió mòbil per a l'actualització automàtica de imatges
+Use cellular connection for updating weather automatically|Faci ús de la connexió cel · lular per actualitzar automàticament el temps
+Use new color every time|Utilitzeu un color nou cada vegada
+Use previous note's color|Utilitzeu el color de la nota anterior
+Value|Valor
+variable|variable
+Version %s, Build %s|Versió %s, Muntatge %s
+Vibro|Vibració
+Video Call|Videotrucada
+View Duplicates|Veure duplicats
+View SIM Contacts|Veure contactes SIM
+Virgo|Verge
+W|W
+Wallpaper|imatge de fons
+Wallpapers|Imatges de fons
+Waning Crescent|Lluna minvant
+Waning Gibbous|Lluna creixent
+Waxing Crescent|Lluna creixent
+Waxing Gibbous|Lluna minvant
+Weather|El Temps
+Weather and Clock|Temps i rellotge
+Weather Forecast|Previsió meteorològica
+Weather Settings|Configuració meteorològica
+Welcome to notes panel|Benvingut al panell de notes
+west|oest
+Widget is too big to be added.|El giny és massa gran per ser afegit.
+Widgets|Ginys
+Widgets Settings|Configuració de ginys
+Wind direction:|Direcció del vent:
+Wind speed scale|Escala de velocitat del vent
+Wind speed:|Velocitat del vent:
+Wind:|Vent:
+Work|Treball
+World Time|Hora mundial
+Wrong serial number. Please check it again.|Número de sèrie incorrecte. Si us plau, torneu a comprovar.
+Yandex.Search|Yandex.Search
+Yellow|Groc
+Yes|Si
+Yesterday|Ahir
+You save|Estalvis
+Your video system isn't compatible with Shell 3D.|El seu sistema de vídeo no és compatible amb Shell 3D.

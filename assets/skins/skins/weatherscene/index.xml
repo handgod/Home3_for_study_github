@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<skin Name="Weather Panel" Type="panel">
+  <items>
+    <!-- textures for the layers -->
+    <item>
+      <Image Name="Frame"    File="frame.png"/>
+      <Image Name="BgDay"    File="bgday.dds"/>
+      <Image Name="BgNight"  File="bgnight.dds"/>
+      <Image Name="BgIce"    File="bgice.dds"/>
+      <Image Name="BgMoon"   File="bgmoon.dds"/>
+      <Image Name="BgSun"    File="bgsun.dds"/>
+      <Image Name="Clouds_1" File="clouds_1.dds"/>
+      <Image Name="Clouds_2" File="clouds_2.dds"/>
+      <Image Name="Clouds_3" File="clouds_3.dds"/>
+      <Image Name="Rain_1"   File="rain_1.dds"/>
+      <Image Name="Rain_2"   File="rain_2.dds"/>
+      <Image Name="Snow_1"   File="snow_1.dds"/>
+      <Image Name="Snow_2"   File="snow_2.dds"/>
+      <Image Name="Shadow"   File="shadow.dds"/>
+      <Image Name="Thunder"  File="thunder.dds"/>
+    </item>
+    <!-- layers geometry in percents of scene size -->
+    <item DontScale="1">
+      <Rect Name="rcBgDay"    X="0"  Y="0"  Width="100" Height="100"/>
+      <Rect Name="rcBgNight"  X="0"  Y="0"  Width="100" Height="100"/>
+      <Rect Name="rcBgIce"    X="0"  Y="0"  Width="100" Height="25"/>
+      <Rect Name="rcBgMoon"   X="0"  Y="0"  Width="100" Height="100"/>
+      <Rect Name="rcBgSun"    X="0"  Y="0"  Width="100"  Height="100"/>
+      <Rect Name="rcClouds_1" X="0"  Y="30" Width="100" Height="20"/>
+      <Rect Name="rcClouds_2" X="0"  Y="20" Width="100" Height="50"/>
+      <Rect Name="rcClouds_3" X="0"  Y="25" Width="100" Height="75"/>
+      <Rect Name="rcRain_1"   X="0"  Y="0"  Width="100" Height="100"/>
+      <Rect Name="rcRain_2"   X="0"  Y="0"  Width="100" Height="100"/>
+      <Rect Name="rcSnow_1"   X="0"  Y="0"  Width="100" Height="100"/>
+      <Rect Name="rcSnow_2"   X="0"  Y="0"  Width="100" Height="100"/>
+      <Rect Name="rcShadow"   X="0"  Y="0"  Width="100" Height="100"/>
+      <Rect Name="rcThunder"  X="0"  Y="0"  Width="100" Height="100"/>
+    </item>
+    <!-- layers shifting in cycles -->
+    <item DontScale="1">
+      <Point Name="ptBgDay"    X="0"  Y="0"/>
+      <Point Name="ptBgNight"  X="0"  Y="0"/>
+      <Point Name="ptBgIce"    X="0"  Y="0"/>
+      <Point Name="ptBgMoon"   X="0"  Y="0"/>
+      <Point Name="ptBgSun"    X="0"  Y="0"/>
+      <Point Name="ptClouds_1" X="2"  Y="0"/>
+      <Point Name="ptClouds_2" X="2"  Y="0"/>
+      <Point Name="ptClouds_3" X="1"  Y="0"/>
+      <Point Name="ptRain_1"   X="6"  Y="-36"/>
+      <Point Name="ptRain_2"   X="8"  Y="-42"/>
+      <Point Name="ptSnow_1"   X="2"  Y="-8"/>
+      <Point Name="ptSnow_2"   X="3"  Y="-16"/>
+      <Point Name="ptShadow"   X="0"  Y="0"/>
+      <Point Name="ptThunder"  X="0"  Y="0"/>
+    </item>
+    <!-- end of items -->
+  </items>
+</skin>
+  

@@ -1,0 +1,546 @@
+ a few seconds|2-3 วินาที
+ day|วัน
+ days|วัน
+ hour|ชั่วโมง
+ hours|ชั่วโมง
+ hr|ชม.
+ hrs|ชม.
+ lunar day|วันพระจันทร์
+ min|น.
+ mins|นาที
+ minute|นาที
+ minutes|นาที
+%d bought|ซื้อ %d
+%d day|%d วัน
+%d days|%d วัน
+%d hour|%d ชม.
+%d hours|%d ชม.
+%d minute|%d นาที
+%d minutes|%d นาที
+%d more...|อีก %d...
+%i active channel|ใช้งานได้ %i ช่อง
+%i active channels|ใ้ช้งาน %i ช่อง
+%i image|%i รูป
+%i images|%i รูป
+%i more today|วันนี้อีก %i
+%i more...|อีก %i...
+%i page|%i หน้า
+%i pages|%i หน้า
+%i%% of Full|%i%% ของทั้งหมด
+%s 2007—2011 Yandex|%s 2007—2011 Yandex
+(<1 min)|(<1 นาที)
+(in|(ใน
+(in seconds)|(ในไม่กี่วินาที)
+(No title)|(ไม่มีชื่อ)
+[ Loading images... ]|[ กำลังโหลดรูป... ]
+[ Tap here for images load ]|[ แตะที่นี่เพื่อโหลดรูป ]
+A few minutes ago|ไม่กี่นาทีที่แล้ว
+About|เกี่ยวกับโปรแกรม
+About SPB Shell 3D|เกี่ยวกับ SPB Shell 3D
+Above horizon|เหนือเส้น
+Accelerometer|Accelerometer
+Activate|เปิดใช้งาน
+Activation|การเปิดใช้งาน
+Activation failed. Check your Internet connection.|การเปิดใช้งานล้มเหลว กรุณาตรวจสอบการเชื่อมต่ออินเทอร์เน็ต
+Active Channels|ใช้งานช่องรายการ
+Active channels|ใช้งานช่องรายการ
+Add|เพิ่ม
+Add category|เพิ่มหมวด
+Add channel|เพิ่มช่องรายการ
+Add city|เพิ่มเมือง
+Add custom channel|เพิ่มช่องกำหนดเอง
+Add new city|เพิ่มเมืองใหม่
+Add note|เพิ่มบันทึกย่อ
+Add Panel|เพิ่มพาเนล
+Add to Home screen|เพิ่มลงโฮมสกรีน
+Airplane|เครื่องบิน
+Airplane Mode|โหมดเครื่องบิน
+Alcatel Widget|วิดเจ็ท Alcatel
+All day|ทั้งวัน
+All pictures|ทุกภาพ
+Allow resizing of all Android widgets|อนุญาติให้ทุกวิดเจ็ทเปลี่ยนขนาดได้
+An hour ago|ไม่กี่ชั่วโมงที่แล้ว
+Android Shortcut|ทางลัด Android
+Android Widget|วิดเจ็ท Android
+Anniversary|วันครบรอบ
+Appearance|การแสดงผล
+Application|โปรแกรม
+April|เมษายน
+Aqua|น้ำ
+Aquarius|กลุ่มดาวกุมภ์
+Aries|กลุ่มดาวเมษ
+as of %s|ของ %s
+at %s|ที่ %s
+atm|atm
+Atmospheres|ชั้นบรรยากาศ
+Atmospheric pressure scale|หน่วยวัดความดันอากาศ
+August|สิงหาคม
+Auto|อัตโนมัติ
+Auto (keyboard only)|อัตโนมัติ (คีย์บอร์ดเท่านั้น)
+Auto arrange widgets|เรียงวิดเจ็ทอัตโนมัติ
+Automatic|อัตโนมัติ
+Automatic naming|ตั้งชื่ออัตโนมัติ
+Backlight|ไฟหน้าจอ
+Battery|แบตเตอรี่
+Below horizon|ใต้เส้น
+Birthday|วันเกิด
+Birthdays|วันเกิด
+Black|สีดำ
+Blue|สีน้ำเงิน
+Bluetooth|บลูทูธ
+Bookmarks|คั่นหน้า
+Bookmarks Folder|โฟลเดอร์โปรด
+Business|ชั้นธุรกิจ
+Buy!|ซื้อ!
+Cache size|ขนาดข้อมูลแคช
+Calculator|เครื่องคิดเลข
+Calendar|ปฏิทิน
+Calendar Panel|พาเนลปฏิทิน
+Calendar Panel Settings|ตั้งค่าพาเนลปฏิทิน
+Call|โทร
+Call Log|รายการโทร
+Cancel|ยกเลิก
+Cancer|กลุ่มดาวกรกฎ
+Capricorn|กลุ่มดาวมังกร
+Categories|หมวด
+Category Name|ชื่อหมวด
+Celsius (#short)|เซลเซียส
+Change|เปลี่ยน
+Change City|เปลี่ยนเมือง
+Change profile|เปลี่ยนโปรไฟล์
+Channels list|รายชื่อช่อง
+Choose Alcatel Widget|เลือกวิดเจ็ท Alcatel
+Choose Color|เลือกสี
+Choose Program|เลือกโปรแกรม
+Choose SPB Widget|เลือกวิดเจ็ท SPB
+Choose widget|เลือกวิดเจ็ท
+Clear|ล้าง
+Clear cache|ลบข้อมูลแคช
+Clock|นาฬิกา
+Cloudy|เมฆปกคลุม
+Cloudy, hail|เมฆมาก, ลูกเห็บตก
+Cloudy, heavy rain|เมฆมาก, ฝนตกหนัก
+Cloudy, heavy snow|เมฆมาก, หิมะตกหนัก
+Cloudy, rain|เมฆมาก, ฝนตก
+Cloudy, rain with snow|เมฆมาก, พายุหิมะ
+Cloudy, snow|เมฆมาก, หิมะตก
+Cloudy, thunder|เมฆมาก, ฟ้าคะนอง
+Color anaglyph (red/cyan)|สีสามมิติ (แดง/ฟ้า)
+Communication|การติดต่อสื่อสาร
+Contact|รายชื่อติดต่อ
+Contact Settings|ตั้งค่ารายชื่อติดต่อ
+Contact Size|ขนาดรายชื่อติดต่อ
+Contacts|รายชื่อติดต่อ
+Contacts Folder|โฟลเดอร์รายชื่อติดต่อ
+Copyright %s 2007-2011\nSPB Software|สงวนลิขสิทธิ์ %s 2007-2011\nSPB Software
+Copyright %s 2007-2012\nSPB Software|ลิขสิทธิ์ถูกต้อง %s 2007-2012\nSPB Software
+Create Folder|สร้างโฟลเดอร์
+Current|ปัจจุบัน
+Current city|เมืองปัจจุบัน
+Current conditions|เงื่อนไขปัจจุบัน
+Current Conditions|เงื่อนไขปัจจุบัน
+Current skin|สกินที่ใช้ปัจจุบัน
+Custom channel|ช่องทางที่กำหนดเอง
+Day|กลางวัน
+Deal of the Day|ข้อเสนอประจำวัน
+Deal of the Day Panel|พาเนลดีลประจำวัน
+Deal of the Day Panel Settings|ตั้งค่าพาเนลดีลประจำวัน
+Deals|ข้อตกลง
+December|ธันวาคม
+Default|ค่าเริ่มต้น
+Default Action|ตามค่าเริ่มต้น
+Delete note|ลบบันทึกย่อ
+Dew point:|จุดน้ำค้าง:
+Diagnostic tools|เครื่องมือวิเคราะห์
+Disabled|ไม่ใช้งาน
+Discoverable|ค้นหาได้
+Done|เสร็จสิ้น
+Download Original|ดาวโหลดต้นฉบับ
+Downloading images|กำลังดาวโหลดรูป
+E|E
+east|ตะวันออก
+Edit channel|แก้ไขช่องรายการ
+Edit Contact|แก้ไขรายชื่อติดต่อ
+Edit note|แก้ไขบันทึก
+Edit panels|ปรับแต่งพาเนล
+Emergency only|ฉุกเฉินเท่านั้น
+Empty Panel|พาเนลว่าง
+Enable live wallpapers|ใช้งานภาพพื้นหลังแบบไลฟ์
+Enabled|ใช้งาน
+Enter RSS feed title|ใส่ชื่อ RSS
+Enter RSS feed URL|ใส่ URL ของ RSS
+Entertainment|ความบันเทิง
+Error|ผิดพลาด
+Evening|ตอนเย็น
+Every 2 hours|ทุก 2 ชั่วโมง
+Every 24 hours|ทุกๆ 24 ชั่วโมง
+Every 30 Minutes|ทุกๆ 30 นาที
+Every 30 minutes|ทุกๆ 30 นาที
+Every 4 hours|ทุกๆ 4 ชั่วโมง
+Every hour|ทุกๆ ชั่วโมง
+Exit|ออกจากโปรแกรม
+Experimental|ประสบการณ์
+Experimental Settings|ตั้งค่าการทดลอง
+Experimental settings|ตั้งค่าการทดลอง
+Fahrenheit (#short)|ฟาเรนไฮธ
+Failed to add contact|การเพิ่มรายชื่อล้มเหลว
+Failed to load RSS|การโหลด RSS ล้มเหลว
+Failed to load the selected contact. Try to link the contact to Google account or save it to phone.|การโหลดรายชื่อติดต่อล้มเหลว กรุณาลองเชื่อมต่อรายชื่อเข้ากับบัญชีกูเกิ้ล หรือบันทึกลงในมือถือ
+Favorite Contacts|รายชื่อโปรด
+Favorite contacts|รายชื่อโปรด
+Favorites|รายการโปรด
+February|กุมภาพันธ์
+Filter|ตัวกรอง
+First day of the week|วันแรกของสัปดาห์
+First Quarter|ส่วนแรกจากสี่ส่วน
+Flight|เที่ยวบิน
+Folder|โฟลเดอร์
+Folder Name|ชื่อโฟลเดอร์
+Forecast|พยากรณ์อากาศ
+from forecast|จากการพยากรณ์
+Full Moon|ดวงจันทร์เต็มดวง
+Gallery|แกลเลอรี
+Games|เกมส์
+Gemini|กลุ่มดาวมิถุน
+Gravity|แรงโน้มถ่วง
+Grayscale anaglyph (red/cyan)|เทาสามมิติ (แดง/ฟ้า)
+Green|สีเขียว
+G-Sensor|จีเซนเซอร์
+Half an hour ago|ครึ่งชั่วโมงที่แล้ว
+Hectopascals|เฮกโตปาสคาล
+Hide Duplicates|ซ่อนรายการซ้ำ
+Hide SIM Contacts|ซ่อนรายชื่อในซิม
+Home|โฮม
+Home Settings|ตั้งค่าโฮม
+Home settings|ตั้งค่าโฮม
+hpa|hPa
+Humidity:|ความชื้นสัมพัทธ์:
+in %u days|ใน %u วัน
+in Home Settings|ตั้งค่าในโฮม
+inch|นิ้ว
+Inches|นิ้ว
+Increase Counter|เพิ่มตัวนับ
+Interface mode|โหมดอินเทอร์เฟส
+Invisible|ซ่อน
+January|มกราคม
+July|กรกฎาคม
+June|มิถุนายน
+Kilometers per hour|กิโลเมตรต่อชั่วโมง
+Knots|นอท
+knots|นอท
+kph|kph
+kts|kts
+Landscape|แนวนอน
+Landscape orientation required to enable left-to-right stereo mode|หน้าจอแบบแนวนอนจะต้องเปิดใช้งานโหมดสเตริโอซ้ายไปขวา
+Large|ใหญ่
+Last Call|รายการโทรล่าสุด
+Last Message|ข้อความล่าสุด
+Last Quarter|ส่วนสุดท้ายจากสี่ส่วน
+Last updated|อัพเดทล่าสุด
+Left-to-right (HTC EVO 3D)|ซ้ายไปขวา (HTC EVO 3D)
+Legal information|ข้อมูลทางกฏหมาย
+Legal notices|คำชี้แจงทางกฎหมาย
+Leo|กลุ่มดาวสิงห์
+Libra|กลุ่มดาวตุลย์
+Lifestyle|แบบไลฟ์สไตล์
+Live wallpapers can cause performance degradation of your 3D home screen. Switching between live and static wallpapers can take up to a minute. Static wallpapers are recommended for the best experience.|การใช้งานภาพพื้นหลังแบบไลฟ์ อาจทำให้ประสิทธิภาพการทำงานในหน้าโฮมด้อยลง การสลับใช้งานระหว่างภาพพื้นหลังแบบปกติและแบบไลฟ์อาจใช้เวลาพอสมควร เราขอแนะนำให้ใช้ภาพพื้นหลังแบบปกติเพื่อการใช้งานที่สะดวกสบายที่สุดสำหรับคุณ
+Loading failed|การโหลดล้มเหลว
+Loading image for wallpaper|กำลังโหลดภาพพื้นหลัง
+Loading RSS feed %s...|กำลังโหลดฟีด RSS %s
+Loading skin failed!|การโหลดสกินล้มเหลว
+Loading skins catalog failed!|การโหลดแคตตาล็อกสกินล้มเหลว
+Loading...|กำลังโหลด...
+Logging In...|กำลังเข้าสูระบบ...
+Lunar Calendar|ปฏิทินพระจันทร์
+Lunar day %d|จันทรคติ %d
+Manage apps|จัดการโปรแรกม
+Manage Apps|จัดการโปรแกรม
+Manage panels|จัดการแผงควบคุม
+Manage Panels|จัดการพาเนล
+March|มีนาคม
+May|พฤษภาคม
+Medium|ปานกลาง
+Messaging|ข้อความ
+Meters per second|เมตรต่อวินาที
+Miles per hour|ไมล์ต่อชั่วโมง
+Millimetres|มิลลิเมตร
+Misc|สายไม่ได้รับ
+Miscellaneous|เบ็ดเตล็ด
+mm|มม.
+Mobile|มือถือ
+Mode|โหมด
+Monday|จันทร์
+Moon|ดวงจันทร์
+Moon Calendar|ปฏิทินดวงจันทร์
+Moon in %s,|ดวงจันทร์ขึ้นใน %s,
+Morning|ตอนเช้า
+mph|mph
+mps|mps
+Multimedia|มัลติมีเดีย
+Music|ดนตรี
+Music albums|อัลบั้มเพลง
+N|N
+N/A|N/A
+nd|.
+NE|NE
+Network Status|สถานะเครือข่าย
+Never|ไม่
+New|ใหม่
+New Channel|ช่องรายการใหม่
+New channel|ช่องรายการใหม่
+New Contact|เพิ่มรายชื่อใหม่
+New Folder|สร้างโฟลเดอร์
+New Moon|ดวงจันทร์ใหม่
+New update available|อัพเดทใหม่ได้ทันที
+News|ข่าว
+News Panel|พาเนลใหม่
+News Panel Settings|ตั้งค่าพาเนลใหม่
+next|ถัดไป
+Next Alarm|ปลุกครั้งต่อไป
+Night|กลางคืน
+No|ไม่ใช่
+no|ไม่ใช่
+No Alarms|ไม่ตั้งปลุก
+No birthdays|ไม่มีวันเกิด
+No calls|ไม่มีการโทร
+No Cities|ไม่มีเมือง
+No conditions|ไม่มีเงื่อนไข
+No Contacts.|ไม่มีรายชื่อติดต่อ
+No Countries|ไม่มีประเทศ
+No deals loaded|ไม่มีข้อเสนอโหลดไว้
+No Images|ไม่มีภาพ
+No messages|ไม่มีข้อความ
+No news|ไม่มีข่าว
+No rise/set info|ไม่มีข้อมูลดวงอาทิตย์ขึ้น/ตก
+No RSS feed found at|ไม่พบข้อมูล RSS จาก
+No rss loaded|ไม่ได้โหลด RSS
+No SIM|ไม่มีซิม
+No text messages|ไม่มีข้อความ
+No title|ไม่มีหัวข้อ
+No upcoming events|ไม่มีกิจกรรมเร็วๆ นี้
+No upcoming events in a week|ไม่มีกิจกรรมระหว่างสัปดาห์นี้
+No updates|ไม่มีการอัพเดท
+No weather forecast|ไม่มีข้อมูลสภาพอากาศ
+Normal|ปกติ
+north|เหนือ
+north east|ตะวันออกเฉียงเหนือ
+north west|ตะวันตกเฉียงเหนือ
+Not available|ใช้งานไม่ได้
+Not connected|ไม่เชื่อมต่อ
+Notes|บันทึกย่อ
+Note's default color|สีเริ่มต้นของบันทึกย่อ
+Note's font|อักษรของบันทึกย่อ
+Notes Panel|พาเนลบันทึกย่อ
+Notes Panel Settings|ตั้งค่าพาเนลบันทึกย่อ
+November|พฤศจิกายน
+NW|NW
+October|ตุลาคม
+Off|ปิด
+Offer|เสนอ
+On|เปิด
+One Touch Share|One Touch Share
+Only on free connections|เชื่อมต่อฟรีเท่านั้น
+Open Contact|เปิดรายชื่อติดต่อ
+Open in Browser|เปิดผ่านบราวเซอร์
+OpenGL 2.0 is required to run SPB Shell 3D|OpenGl 2.0 จำเป็นต้องเรียกใ้ช้งาน SPB Shell 3D
+Optimized anaglyph (red/cyan)|ปรับสามมิติ (แดง/ฟ้า)
+Other (assistant)|อื่นๆ (ผู้ช่วย)
+Page|หน้า
+Pages: %d, images: %d|หน้า: %d, รูป: %d
+Panel Name|ชื่อพาเนล
+Panels|พาเนล
+Panels Settings|ตั้งค่าพาเนล
+Parsing skins catalog failed!|การวิเคราะห์แคตตาล็อกสกินล้มเหลว!
+Partly cloudy|เมฆปกคลุมบางส่วน
+Partly cloudy, rain|เมฆปกคลุมบางส่วน, ฝนตก
+Partly cloudy, snow|เมฆปกคลุมบางส่วน, หิมะตก
+Partly cloudy, thunder|เมฆปกคลุมบางส่วน, ฟ้าคะนอง
+People|สมาชิก
+Performance Warning|การแจ้งเตือนการทำงาน
+Performance Warning dialog|กล่องข้อความแจ้งเตือนการทำงาน
+Personal|ส่วนบุคคล
+Phone|โทรศัพท์
+Photo folder for gallery widgets|โฟลเดอร์สำหรับวิดเจ็ทแกลเลอรี
+Picture Gallery|แกลเลอรีภาพ
+Picture of the Day|ภาพประจำวัน
+Picture Panel Settings|ตั้งค่าพาเนลรูปภาพ
+Pictures|รูปภาพ
+Pictures Of The Day|รูปประจำวัน
+Pictures Panel|พาเนลรูปภาพ
+Pictures Panel Settings|ตั้งค่าพาเนลรูป
+Pictures Settings|ตั้งค่าภาพ
+Pisces|กลุ่มดาวมีน
+Please Log In|กรุณาเข้าสูระบบ
+Please wait...|กรุณารอสักครู่...
+Portrait|แนวตั้ง
+Pressure:|ความกดอากาศ:
+Problem loading widget|เกิดปัญหาในการโหลดวิดเจ็ท
+Productivity|เกี่ยวกับโปรแกรม
+Program|โปรแกรม
+Pulkovo|Pulkovo
+Purchase|ซื้อ
+Purple|สีม่วงแดง
+Quick Setting|ตั้งค่าด่วน
+Radio off|ปิดวิทยุ
+rd_loc|.
+Reading appointments...|กำลังอ่านนัดหมาย...
+Recycle Bin|ถังขยะ
+Red|สีแดง
+Reduced|ลดลง
+Reload skin list|รายชื่อสกินที่โหลดใหม่
+Remove All|ลบทั้งหมด
+Rename|เปลี่ยนชื่อ
+Rename Panel|แผงตั้งชื่อใหม่
+Requesting images|กำลังร้องขอรูป
+Retry|ลองอีกครั้ง
+Rise: %s|ขึ้น: %s
+RSS Feed|ป้อน RSS
+RSS Panel|พาเนล RSS
+RSS Panel Settings|ตั้งค่าพาเนลของ RSS
+S|S
+Safe mode|เซฟโหมด
+Sagittarius|กลุ่มดาวธนู
+Saint-Petersburg|Saint-Petersburg
+Save as New|บันทึกเป็นรายการใหม่
+Save to Existing|บันทึกทับรายการเดิม
+Scorpio|กลุ่มดาวพิจิก
+Screen orientation|แนวหน้าจอ
+Screen orientation will be changed to Landscape|หน้าจอมือถือจะถูกปรับเป็นแนวนอน
+SE|SE
+Searching|กำลังค้นหา
+Select Channel|เลือกช่อง
+Select cities|เลือกเมือง
+Select Contact Action|เลือกการทำงานของรายชื่อติดต่อ
+Select Contact Size|เลือกขนาดของรายชื่อติดต่อ
+Select e-mail address|เลือกอีเมล
+Select phone number:|เลือกหมายเลขโทรศัพท์:
+Select shortcut|เลือกทางลัด
+Select Skin|เลือกสกิน
+Select wallpaper from|เลือกภาพพื้นหลังจาก
+Selected cities|เมืองที่เลือก
+Selected City|เมืองที่เลือก
+Selected city|เมืองที่เลือก
+Send Email|ส่งอีเมล
+Send E-mail|ส่งอีเมล
+Send E-Mail|ส่งอีเมล
+Send Message|ส่งข้อความ
+Send MMS|ส่ง MMS
+Send SMS|ส่ง SMS
+September|กันยายน
+Serial number:|หมายเลขผลิตภัณฑ์:
+Set as Home|ตั้งค่าไปที่โฮม
+Set as Wallpaper|ตั้งค่าไปที่ภาพพื้นหลัง
+Set wallpaper|กำหนดภาพพื้นหลัง
+Set: %s|ตก: %s
+Settings|ตั้งค่า
+Show all|แสดงทั้งหมด
+Show all day events|แสดงกิจกรรมทั้งวัน
+Show all day events in calendar widgets|แสดงกิจกรรมทั้งวันในวิดเจ็ทปฏิทิน
+Show full news|แสดงข่าวแบบเต็ม
+Show images in news|แสดงรูปในข่าว
+Silent|ไม่มีเสียง
+Skin loading|การโหลดสกิน
+Small|เล็ก
+Smartphone|สมาร์ทโฟน
+Smog|หมอก
+Social|กลุ่ม
+Social Network|เครือข่ายสังคม
+Sound Profile|โปรไฟล์เสียง
+south|ใต้
+south east|ตะวันออกเฉียงใต้
+south west|ตะวันตกเฉียงใต้
+SPB Shell 3D is loading...|กำลังโหลด SPB Shell 3D...
+SPB Wallpapers|SPB Wallpapers
+SPB Widget|SPB Widget
+st|.
+Standard Edition [Beta]|เวอร์ชั่นมาตรฐาน [เบต้า]
+Stereoscopic 3D mode|โหมดแสดงภาพ 3D
+Stereoscopic 3D mode will be disabled|โหมดกล้องมองภาพ 3D จะถูกปิดการใช้งาน
+Stereoscopic 3D Settings|ตั้งค่าการแสดงภาพ 3D
+Sun in %s,|ดวงอาทิตย์ขึ้นใน %s,
+Sunday|อาทิตย์
+SW|SW
+Switching the interface mode can take up to a minute. Screen orientation will be changed to '%s'.|การสลับโหมดอินเทอร์เฟสอาจใช้เวลาสักครู่ หน้าจอจะเปลี่ยนเป็น'%s'
+System|ระบบ
+Tablet|แท็บเล็ท
+Tap here to download|แตะที่นี่เพื่อดาวโหลด
+Taurus|กลุ่มดาวพฤษภ
+Temperatur scale|หน่วยวัดอุณหภูมิ
+Temperature scale|หน่วยวัดอุณหภูมิ
+Test Battery|ทดลองแบตเตอรี่
+th|.
+Thank you for your support. Your copy is now registered.|ขอบคุณสำหรับการสนับสนุน โปรแกรมของคุณได้รับการลงทะเบียนแล้ว
+The experimental features below are not ready to be shipped in the core of SPB Shell 3D. They may contain severe defects and cause system instability. Use them at your own risk.|คุณสมบัติด้านล่างใช้ทดลองยังไม่สามารถรวมอยู่ในแกนหลักของ SPB Shell 3D ได้ เนื่องจากอาจยังมีจุดบกพร่องซึ่งอาจก่อให้เกิดปัญหากับระบบได้ กรุณาใช้งานเฉพาะในส่วนของคุณ
+The maximum number of panels is reached|จำนวนสูงสุดของพาเนล มีค่าเกินกำหนด
+The name cannot be changed.|ไม่สามารถเปลี่ยนชื่อได้
+The previous launch of SPB Shell 3D was unsuccessful. Please tap "Retry" to launch it again or "Home" to activate a different Home screen.|การเรียกใช้ SPB Shell 3D ก่อนหน้านี้ไม่สำเร็จ โปรดแตะที่ "ลองอีกครั้ง" เพื่อเรียกใช้งานใหม่ หรือแตะที่ "โฮม" เพื่อเรียกใช้งานโฮมสกรีนอีกทางหนึ่ง
+Time|เวลา
+Time Panel|พาเนลเวลา
+Time Panel Settings|ตั้งค่าพาเนลเวลา
+Today|หน้าทูเดย์
+Toggle|ปุ่มสลับ
+Tomorrow|พรุ่งนี้
+Tools|เครื่องมือ
+Travel|เดินทาง
+Unfortunately, we could not locate your purchase in Android Market. Please uninstall this copy before installing a new one.|ขออภัย เรายังไม่เปิดให้บริการการสั่งซื้อในส่วนของ Android Market โปรดถอนการติดตั้งโปรแกรมเวอร์ชั่นนี้ ก่อนทำการติดตั้งเวอร์ชั่นใหม่
+Unfortunately, we could not locate your purchase. Please uninstall this copy before installing a new one.|ขออภัย เรายังไม่เปิดให้บริการการสั่งซื้อในส่วนนี้ของคุณ โปรดถอนการติดตั้งโปรแกรมเวอร์ชั่นนี้ ก่อนทำการติดตั้งเวอร์ชั่นใหม่
+Uninstall|ถอนการติดตั้ง
+Uninstall apps|ถอนการติดตั้งโปรแกรม
+Unknown|ไม่ปรากฎ
+Unknown location|ไม่ทราบแหล่งที่มา
+Upcoming events|กิจกรรมที่จะมีขึ้นเร็วๆ นี้
+Update|อัพเดท
+Update deals list automatically|อัพเดทรายการข้อตกลงอัตโนมัติ
+Update Now|อัพเดทเดี๋ยวนี้
+Update pictures page automatically|อัพเดทหน้าภาพอัตโนมัติ
+Update weather forecasts automatically|อัพเดทข้อมูลสภาพอากาศอัตโนมัติ
+Updated|อัพเดท
+Updated:|อัพเดทแล้ว:
+Updating image|กำลังอัพเดทรูป
+Updating...|กำลังอัพเดท...
+Use 3D in application list|ใช้ 3D กับรายชื่อโปรแกรม
+Use 3D in edit mode|ใช้ 3D ในโหมดตั้งค่า
+Use cellular connection for updating deals list|อัพเดทรายการข้อตกลงผ่านการเชื่อมต่อมือถือ
+Use cellular connection for updating deals list automatically|อัพเดทรายการดีลอัตโนมัติเมื่อเชื่อมต่อมือถือ
+Use cellular connection for updating pictures automatically|ใช้การเชื่อมต่อมือถือในการอัพเดทภาพอัตโนมัติ
+Use cellular connection for updating weather automatically|อัพเดทพยากรณ์อากาศผ่านการเชื่อมต่อมือถือโดยอัตโนมัติ
+Use new color every time|ใช้สีใหม่ทุกครั้ง
+Use previous note's color|ใช้บันทึกย่อตามสีก่อนหน้านี้
+Value|มูลค่า
+variable|แปรปรวน
+Version %s, Build %s|เวอร์ชั่น %s, สร้าง %s
+Vibro|Vibro
+Video Call|โทรวิดีโอ
+View Duplicates|แสดงรายการซ้ำ
+View SIM Contacts|แสดงรายชื่อในซิม
+Virgo|กลุ่มดาวกันย์
+W|W
+Wallpaper|ภาพพื้นหลัง
+Wallpapers|ภาพพื้นหลัง
+Waning Crescent|ข้างแรมช่วงหลัง
+Waning Gibbous|ข้างแรมช่วงแรก
+Waxing Crescent|ข้างขึ้นช่วงหลัง
+Waxing Gibbous|ข้างขึ้นช่วงแรก
+Weather|สภาพอากาศ
+Weather and Clock|สภาพอากาศและเวลา
+Weather Forecast|พยากรณ์อากาศ
+Weather Panel Settings|ตั้งค่าพาเนลสภาพอากาศ
+Weather Settings|การตั้งค่าพยากา
+Welcome to notes panel|ขอต้อนรับสู่พาเนลบันทึกย่อ
+west|ตะวันตก
+Widget is too big to be added.|เพิ่มวิดเจ็ทไม่ได้ เนื่องจากขนาดใหญ่เกินไป
+Widgets|วิดเจ็ท
+Widgets Settings|ตั้งค่าวิดเจ็ท
+Wind direction:|ทิศทางลม:
+Wind speed scale|หน่วยวัดความเร็วลม
+Wind speed:|ความเร็วลม:
+Wind:|ลม
+Work|ที่ทำงาน
+World Time|เวลาทั่วโลก
+Wrong serial number. Please check it again.|หมายเลขผลิตภัณฑ์ไม่ถูกต้อง กรุณาตรวจสอบอีกครั้ง
+Yandex.Search|Yandex.Search
+Yellow|สีเหลือง
+Yes|ใช่
+Yesterday|เมื่อวาน
+You save|ประหยัด
+Your video system isn't compatible with Shell 3D.|ระบบวิดีโอของคุณ ใช้งานร่วมกับ Shell 3D ไม่ได้

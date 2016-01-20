@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+
+<Layouts>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layers>
+      <Layer/>
+  </Layers>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Rules>
+    <!-- tablettoss specification -->
+    <PlatformCondition Platform="tablets">
+      <ScreenCondition Orientation="landscape">
+        <UseLayout Name="landscape_tablet"/>
+      </ScreenCondition>
+      <ScreenCondition Orientation="portrait">
+        <UseLayout Name="portrait_tablet"/>
+      </ScreenCondition>
+    </PlatformCondition>
+
+    <ScreenCondition Orientation="landscape">
+      <UseLayout Name="landscape"/>
+    </ScreenCondition>
+
+    <Default>
+      <UseLayout Name="portrait"/>
+    </Default>
+  </Rules>
+
+  <!-- **************************************************************************************************************** -->
+
+  <General>
+      <Skin Skin="wgt_worldtime"/>
+      <DefaultFont Face="Droid Sans" HeightPxl="11" Bold="n" Color="FFFFFF"/>
+  </General>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="Default">
+      <Plugins LayoutType="frame">          
+	  <LayoutSize Width="fill" Height="fill"/>
+
+          <Plugin Name="3DPlugin" Class="Spb.LSP.WorldTimePlugin" ID="0" AutoSkin="wgt_worldtime">
+              <LayoutSize Width="fill" Height="fill"/>
+          </Plugin>
+      </Plugins>
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="portrait">
+      <General>
+          <!-- **************************** -->
+          <Int   Name="CityCount" Value="3"/>
+          <Point Name="PanelSize" X="145" Y="20"/>
+          <Point Name="EarthSize" X="85"  Y="85"/>
+          <!-- **************************** -->
+      </General>
+      <Plugins Extends="Default"/>
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="landscape">
+      <General>
+          <!-- **************************** -->
+          <Int   Name="CityCount" Value="3"/>
+          <Point Name="PanelSize" X="120" Y="16"/>
+          <Point Name="EarthSize" X="70"  Y="70"/>
+          <!-- **************************** -->
+      </General>
+      <Plugins Extends="Default"/>
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="portrait_tablet">
+      <General>
+          <!-- **************************** -->
+          <Int   Name="CityCount" Value="3"/>
+          <Point Name="PanelSize" X="140" Y="18"/>
+          <Point Name="EarthSize" X="120"  Y="120"/>
+          <!-- **************************** -->
+      </General>
+      <Plugins Extends="Default"/>
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="landscape_tablet">
+      <General>
+          <!-- **************************** -->
+          <Int   Name="CityCount" Value="3"/>
+          <Point Name="PanelSize" X="140" Y="18"/>
+          <Point Name="EarthSize" X="100"  Y="100"/>
+          <!-- **************************** -->
+      </General>
+      <Plugins Extends="Default"/>
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+</Layouts>

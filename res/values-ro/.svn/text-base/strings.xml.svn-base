@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SPB Shell 3D</string>
+    <string name="weather_city_title">Tastaţi 3 litere pentru auto-completare:</string>
+    <string name="weather_enter_city_name">Nume oraş</string>
+    <string name="weather_more_cities">Mai mult...</string>
+    <string name="weather_locate_nearest_city">Caută cele mai apropiate oraşe...</string>
+    <string name="weather_current_location">Locaţia curentă</string>
+    <string name="searching_city_title">Poziţionare</string>
+    <string name="searching_city_progress">Căutare pentru cele mai apropiate oraşe...</string>
+    <string name="city_location_failed">Eşuare căutare cel mai apropiat oraş</string>
+    <string name="dialog_shell_loading">SPB Shell 3D se încarcă...</string>
+    <string name="gadget_error_text">Problemă la încărcare widget</string>
+    <string name="dialog_select_shortcut">Selectează scurtătură</string>
+    <string name="dialog_choose_widget">Alege widget</string>
+    <string name="chooser_wallpaper">Selectează tapet de la</string>
+    <string name="wallpaper_instructions">Setează tapet</string>
+    <string name="pick_wallpaper">Tapete</string>
+    <string name="wallpapers_spb">Tapete SPB</string>
+    <string name="yes">Da</string>
+    <string name="no">Nu</string>
+    <string name="wait">Aşteptaţi.</string>
+    <string name="home_widget_error">Widget-ul este prea mare pentru a fi adăugat.</string>
+    <string name="cancel">Anulare</string>
+    <string name="error">error</string>
+    <string name="infinity">infinity</string>
+    <string name="dialog_unsupported_devices_title">Eroare</string>
+    <string name="dialog_unsupported_devices_message">OpenGl 2.0 este necesar pentru a rula SPB Shell 3D</string>
+    <string name="license_fail">Din păcate, nu am putut localiza achiziţia dvs. în Android Market. Vă rugăm să dezinstalaţi această copie înainte de a instala una nouă.</string>
+    <string name="purchase">Cumpără</string>
+    <string name="exit">Ieşire</string>
+    <string name="legal_notices_title">Note legale</string>
+    <string name="license_fail_handango">Din păcate nu am putut găsi achiziţia dvs.. Vă rugăm să dezinstalaţi această copie înainte de a instala una nouă.</string>
+    <string name="safe_mode_title">Mod sigur</string>
+    <string name="safe_mode_text">Lansarea anterioară a SPB Shell 3D nu a avut succes. Vă rugăm să apăsaţi \"Reîncercaţi\" pentru a o reporni sau \"Acasă\" pentru a activa un alt ecran Acasă.</string>
+    <string name="safe_mode_retry">Reîncearcă</string>
+    <string name="safe_mode_home">Acasă</string>
+    <string name="sd_install_title">Eroare</string>
+    <string name="sd_install_text">Installation to a storage card is not supported. Please install SPB Shell 3D to the main memory</string>
+    <string name="contacts_failed_pick">Failed to load the selected contact. Try to link the contact to Google account or save it to phone.</string>
+</resources>

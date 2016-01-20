@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Layouts>
+
+  <Layers>
+    <Layer Name="Background" Dialog="ModernDecorations"/>
+    <Layer Name="ScrollBar"  Dialog="ScrollBar"/>
+    <Layer/>
+  </Layers>
+
+  <Rules>
+    <Default>
+      <UseLayout Name="Default"/>
+    </Default>
+  </Rules>
+
+  <General>
+    <ScrollY Value="Auto"/>
+    <Skin AutoSkin="misc"/>
+	<String Name="Caption" Value="Select Skin"/>
+  </General>
+
+  <Layout Name="Default">
+    <Column Name="Panels" Width="fill" Height="auto">
+	
+      <Row Name="Thumbs" Dynamic="1" ID="1000" StretchFactor="0"  Width="auto" Height="auto" Margins="10 3 3 0" Align="center_horz">
+        <Int Name="LineBreak" Value="1"/>
+
+        <Column Width="auto" Height="auto" StretchFactor="0">
+          <Plugin Name="pic" ID="1" Width="111" Height="111" Margins="0 3 3 0"/>
+          <Plugin Name="lbl" ID="2" Width="111" Height="16" Margins="0 3 3 5">
+            <Font Name="Default"  Face="Droid Sans" HeightPxl="12" Bold="n" Color="FFFFFFFF"/>
+          </Plugin>
+        </Column>
+      </Row>
+
+    </Column>
+  </Layout>
+
+</Layouts>

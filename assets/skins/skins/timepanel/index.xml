@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<skin Name="Time Panel" Type="panel">
+  <items>
+    <item>
+      <File Name="Script" File="timescript.lua"/>
+    </item>
+  </items>
+</skin>

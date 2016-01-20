@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<int name="city-0" value="1" />
+<string name="cities">0 1 2 </string>
+<int name="city-1" value="2" />
+<int name="city-2" value="20" />
+</map>

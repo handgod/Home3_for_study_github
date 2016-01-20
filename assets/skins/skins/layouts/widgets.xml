@@ -1,0 +1,1188 @@
+<?xml version="1.0"?>
+
+<Layouts>
+
+  <Rules>
+    <PlatformCondition Platform="tablets">
+      <ScreenCondition Width="1024" Height="600">
+        <UseLayout Name="tablets_land_small"/>
+      </ScreenCondition>
+
+      <ScreenCondition Width="600" Height="1024">
+        <UseLayout Name="tablets_port_small"/>
+      </ScreenCondition>
+
+<!-- special case for Android 3.0 Galaxy Tab -->
+      <ScreenCondition Width="1024" Height="552">
+        <UseLayout Name="tablets_land_small"/>
+      </ScreenCondition>
+      <ScreenCondition Width="600" Height="976">
+        <UseLayout Name="tablets_port_small"/>
+      </ScreenCondition>
+<!-- -->
+
+      <ScreenCondition Width="800" Height="480">
+        <UseLayout Name="tablets_land_small"/>
+      </ScreenCondition>
+
+      <ScreenCondition Width="480" Height="800">
+        <UseLayout Name="tablets_port_small"/>
+      </ScreenCondition>
+
+      <ScreenCondition Width="800" Height="600">
+        <UseLayout Name="tablets_land_small"/>
+      </ScreenCondition>
+
+      <ScreenCondition Width="600" Height="800">
+        <UseLayout Name="tablets_port_small"/>
+      </ScreenCondition>
+
+      <ScreenCondition Orientation="landscape">
+        <UseLayout Name="tablets_land"/>
+      </ScreenCondition>
+      <Default>
+        <UseLayout Name="tablets_port"/>
+      </Default>
+    </PlatformCondition>
+    
+    <ScreenCondition Width="240" Height="320">
+      <UseLayout Name="240x320"/>
+    </ScreenCondition>
+
+    <ScreenCondition Width="320" Height="240">
+      <UseLayout Name="320x240"/>
+    </ScreenCondition>
+
+    <ScreenCondition Width="360" Height="640">
+      <UseLayout Name="360x640"/>
+    </ScreenCondition>
+
+    <ScreenCondition Width="320" Height="480">
+      <UseLayout Name="320x480"/>
+    </ScreenCondition>
+
+    <ScreenCondition Width="480" Height="320">
+      <UseLayout Name="480x320"/>
+    </ScreenCondition>
+
+    <ScreenCondition Width="400" Height="240">
+      <UseLayout Name="400x240"/>
+    </ScreenCondition>
+
+
+    <Default>
+      <ScreenCondition Orientation="landscape">
+        <UseLayout Name="400x240"/>
+      </ScreenCondition>
+      <Default>
+        <UseLayout Name="240x400"/>
+      </Default>
+    </Default>
+  </Rules>
+
+  <General>
+    <DefaultFont Face="Droid Sans" HeightPxl="8" Bold="n" Color="FFFFFFFF"/>
+  </General>
+
+  <!-- 
+	1x1 - 52x70
+	2x1 - 112x70
+	2x2 - 112x150
+	4x1 - 232x70
+	4x2 - 232x150
+-->
+
+  <Layout Name="Default">
+    <Plugins>
+      <Plugin Name="BaseFolder" Class="Spb.LSP.Folder2" AutoSkin="wgt_folder">
+        <Int Name="InFolder" Value="1"/>
+        <Rect Name="TitleRect" X="9" Y="-1" Width="160" Height="15"/>
+      </Plugin>
+
+      <Plugin Name="Folder" Extends="BaseFolder" Class="Spb.LSP.Folder2">
+        <String Name="Stylesheet" Value="l_FolderW4x1" />
+        <BoundRect X="0" Y="0" Width="240" Height="58"/>
+		<Point Name="MaxSize" X="0" Y="0"/>
+		
+	    <AbsoluteSize Name="BlockSize" X="4" Y="1"/>
+		<AbsoluteSize Name="MaxBlockSize" X="4" Y="2"/>
+		<!--Int Name="ResizeMode" Value="2"/-->
+      </Plugin>
+
+      <Plugin Name="Folder.Small" Extends="BaseFolder">
+		<AbsoluteSize Name="BlockSize" X="1" Y="1"/>
+        <BoundRect X="0" Y="0" Width="52" Height="58"/>
+        <Int Name="SmallView" Value="1"/>
+      </Plugin>
+		
+      <Plugin Name="Folder.Large" Extends="Folder" Class="Spb.LSP.Folder2">
+        <String Name="Stylesheet" Value="l_FolderW4x2" />
+        <BoundRect X="0" Y="0" Width="240" Height="100"/>
+	    <AbsoluteSize Name="BlockSize" X="4" Y="2"/>
+      </Plugin>
+
+      <Plugin Name="Shortcut" Class="Spb.LSP.Shortcut" AutoSkin="wgt_icon">
+        <BoundRect X="0" Y="0" Width="52" Height="70"/>
+      </Plugin>
+
+      <Plugin Name="ShortcutWithBadge" Extends="Shortcut" Class="Spb.LSP.ShortcutWithBadge">
+      </Plugin>
+
+      <Plugin Name="FolderProxy" Class="Spb.LSP.FolderProxy">
+        <!-- iconic widget showing icon and text of its base (from Ctx) -->
+        <BoundRect X="0" Y="0" Width="52" Height="70"/>
+      </Plugin>
+
+      <Plugin Name="ShortcutIcon" Class="Spb.LSP.ShortcutIcon">
+        <!-- iconic widget showing icon and text of its base (from Ctx) -->
+        <BoundRect X="0" Y="0" Width="52" Height="70"/>
+      </Plugin>
+
+      <Plugin Name="TrayShot" Class="Spb.LSP.TrayShot">
+        <BoundRect X="0" Y="0" Width="32" Height="32"/>
+      </Plugin>
+
+      <Plugin Name="ExtShortcut" Class="Spb.LSP.ExtShortcut" AutoSkin="misc">
+        <!--<Rect Name="ShortcutBoundRect"  X="0" Y="0"  Width="52" Height="70"/>-->
+      </Plugin>
+
+      <Plugin Name="Media" Class="Spb.LSP.Media" AutoSkin="wgt_mediaplayer">
+        <BoundRect X="0" Y="0" Width="232" Height="70"/>
+        <Font Name="DefaultFont" Face="Droid Sans" HeightPxl="10" Bold="n" Color="FFFFFFFF"/>
+        <Int Name="Iconic" Value="0"/>
+        <!-- experimental lua support in common widgets -->
+        <String Name="LuaModule" Value="Script"/>
+        <String Name="LuaClass"  Value="MediaScript"/>
+      </Plugin>
+
+      <Plugin Name="Media.Iconic" Class="Spb.LSP.Media" AutoSkin="wgt_mediaplayer">
+        <BoundRect X="0" Y="0" Width="52" Height="70"/>
+        <Font Name="DefaultFont" Face="Droid Sans" HeightPxl="10" Bold="n" Color="FFFFFFFF"/>
+        <Int Name="Iconic" Value="1"/>
+        <!-- experimental lua support in common widgets -->
+        <String Name="LuaModule" Value="Script"/>
+        <String Name="LuaClass"  Value="MediaScript"/>
+      </Plugin>
+
+      <Plugin Name="Gallery" Class="Spb.LSP.Gallery" AutoSkin="wgt_gallery"/>
+
+      <Plugin Name="WorldTime" Class="Spb.LSP.WorldTime" AutoSkin="wgt_worldtime"/>
+
+      <Plugin Name="WorldTimeIcon" Class="Spb.LSP.WorldTime" AutoSkin="wgt_worldtime">
+        <BoundRect X="0" Y="0" Width="52" Height="70"/>
+        <Int Name="Icon" Value="1"/>
+
+        <Rect Name="rect_globe"  X="0"   Y="2"  Width="60"  Height="60" />
+        <Rect Name="rect_city1"  X="70"  Y="2"  Width="145" Height="20" />
+        <Rect Name="rect_city2"  X="70"  Y="22" Width="145" Height="20" />
+        <Rect Name="rect_city3"  X="70"  Y="42" Width="145" Height="20" />
+      </Plugin>
+
+      <Plugin Name="Demo.1" Class="Spb.LSP.Demo" AutoSkin="wgt_demo">
+        <BoundRect X="0" Y="0" Width="52" Height="70"/>
+        <String Name="Pictures" Value="1_1 1_2 1_3 1_4 1_5 1_6"/>
+      </Plugin>
+
+      <Plugin Name="Demo.2" Class="Spb.LSP.Demo" AutoSkin="wgt_demo">
+        <BoundRect X="0" Y="0" Width="112" Height="70"/>
+        <String Name="Pictures" Value="2_1 2_2 2_3 2_4 2_5 2_6"/>
+      </Plugin>
+
+      <Plugin Name="Demo.3" Class="Spb.LSP.Demo" AutoSkin="wgt_demo">
+        <BoundRect X="0" Y="0" Width="112" Height="150"/>
+        <String Name="Pictures" Value="3_1 3_2 3_3 3_4 3_5 3_6"/>
+      </Plugin>
+
+      <Plugin Name="Demo.4" Class="Spb.LSP.Demo" AutoSkin="wgt_demo">
+        <BoundRect X="0" Y="0" Width="232" Height="70"/>
+        <String Name="Pictures" Value="4_1 4_2 4_3 4_4 4_5 4_6"/>
+      </Plugin>
+
+      <Plugin Name="Demo.5" Class="Spb.LSP.Demo" AutoSkin="wgt_demo">
+        <BoundRect X="0" Y="0" Width="232" Height="150"/>
+        <String Name="Pictures" Value="5_1 5_2 5_3 5_4 5_5 5_6"/>
+      </Plugin>
+
+      <Plugin Name="Demo.6" Class="Spb.LSP.Demo" AutoSkin="wgt_demo">
+        <BoundRect X="0" Y="0" Width="232" Height="320"/>
+        <String Name="Pictures" Value="6_1 6_2 6_3 6_4 6_5 6_6"/>
+      </Plugin>
+
+      <Plugin Name="Contact"  Class="Spb.LSP.Contact" AutoSkin = "res_contact">
+        <BoundRect X="0" Y="0" Width="32" Height="32"/>
+        <Point Name="MaxSize" X="54" Y="52"/>
+        <Rect Name="UserPic"   X="0"  Y="0" Width="44"  Height="44"/>
+        
+        <Int Name="DrawReflection" Value="0"/>
+        <!-- 1 to draw reflection for contact picture -->
+      </Plugin>
+
+      <Plugin Name="Contact.Icon"  Extends="Contact" AutoSkin="res_contact">
+        <Rect Name="UserPic"   X="11"  Y="11" Width="30"  Height="30"/>
+        <Int Name="Iconic" Value="1"/>
+      </Plugin>
+
+      <Plugin Name="Contact.Action" Extends="Contact">
+        <Rect Name="ActionIconRect"   X="32"  Y="33" Width="16"  Height="16"/>
+      </Plugin>
+
+      <Plugin Name="Contact.ActionText" Extends="Contact.Action">
+        <!-- we draw text on the same place as iconic widgets -->
+        <BoundRect X="0" Y="0" Width="40" Height="30"/>
+        <Point Name="MaxSize" X="52" Y="70"/>
+   
+        <String Name="contact_bord" Value="contact_bord_2"/>
+        <String Name="contact_mask" Value="contact_mask_2"/>
+
+        <Int Name="AutoSize" Value="1"/>
+        
+        <Int Name="FadeText" Value="1"/>
+        <Int Name="DrawReflection" Value="0"/>
+        <String Name="BkgFrameImageName" Value="wgt_contact_bkg"/>
+
+        <Font Name="DefaultFont" Face="Droid Sans" HeightPxl="10" Bold="n" Color="FFFFFFFF"/>
+      </Plugin>
+
+      <Plugin Name="Contact.Panel.Base" Class="Spb.LSP.Contact" AutoSkin = "res_contact">
+        <Point Name="MaxSize" X="0" Y="0"/>
+        <Rect Name="ActionIconRect"   X="32"  Y="33" Width="16"  Height="16"/>
+        
+        <String Name="contact_bord" Value="contact_bord_2"/>
+        <String Name="contact_mask" Value="contact_mask_2"/>
+      </Plugin>
+
+      <Plugin Name="Contact.Panel.Small" Extends="Contact.Panel.Base">
+        <AbsoluteSize Name="BlockSize" X="3" Y="3"/>
+        <Point Name="WidgetMargins" X="0" Y="0"/>
+        <String Name="Stylesheet" Value="wgt_contact_panel" />
+      </Plugin>
+
+       <Plugin Name="Contact.Panel.Middle" Extends="Contact.Panel.Base">
+        <AbsoluteSize Name="BlockSize" X="4" Y="4"/>
+        <Point Name="MaxSize" X="0" Y="0"/>
+        <Point Name="WidgetMargins" X="0" Y="0"/>
+        <String Name="Stylesheet" Value="wgt_contact_panel" />
+      </Plugin>
+    
+      <Plugin Name="Contact.Panel.Large" Extends="Contact.Panel.Base">
+        <AbsoluteSize Name="BlockSize" X="6" Y="6"/>
+        <Point Name="MaxSize" X="0" Y="0"/>
+        <Point Name="WidgetMargins" X="0" Y="0"/>
+        <String Name="Stylesheet" Value="wgt_contact_panel" />
+      </Plugin>
+
+      <Plugin Name="Contact.Medium" Extends="Contact">
+        <Point Name="MaxSize" X="0" Y="0"/>
+      </Plugin>
+      
+      <Plugin Name="Plus"  Class="Spb.LSP.Plus" AutoSkin="wgt_plus">
+        <BoundRect X="0" Y="0" Width="36" Height="36"/>
+        <Point Name="MaxSize" X="0" Y="0"/>
+		<Point Name="WidgetMargins" X="0" Y="0"/>
+      </Plugin>
+
+      <Plugin Name="Birthdays" Class="Spb.LSP.Birthdays" AutoSkin="res_contact"/>
+
+      <Plugin Name="Birthdays.Icon" Class="Spb.LSP.Birthdays" AutoSkin="wgt_birthdays">
+        <BoundRect X="0" Y="0" Width="52" Height="70"/>
+        <Int Name="Iconic" Value="1"/>
+      </Plugin>
+
+      <Plugin Name="Bookmark" Class="Spb.LSP.Bookmark" AutoSkin="wgt_bookmark">
+        <BoundRect X="0" Y="0" Width="52" Height="54"/>
+      </Plugin>
+
+      <Plugin Name="Album" Class="Spb.LSP.Album" AutoSkin="wgt_album">
+        <BoundRect X="0" Y="0" Width="52" Height="70"/>
+        <Point Name="Frame"  X="-1"  Y="0"/>
+      </Plugin>
+
+      <Plugin Name="Profile" Class="Spb.LSP.Profile" AutoSkin="wgt_profile">
+        <BoundRect X="0" Y="0" Width="52" Height="70"/>
+        <Rect Name="Vol"   X="2"  Y="27" Width="30"  Height="10"/>
+      </Plugin>
+
+      <Plugin Name="Profile.Settings" Extends="Profile">
+        <BoundRect X="0" Y="0" Width="112" Height="70"/>
+        <Rect Name="Sep" X="55"  Y="7" Width="1"   Height="56"/>
+        <Rect Name="Cfg" X="56"  Y="0" Width="54"  Height="70"/>
+        <Int Name="Frame" Value="1"/>
+      </Plugin>
+
+      <Plugin Name="Profile.Wide" Extends="Profile">
+        <BoundRect X="0" Y="0" Width="232" Height="70"/>
+        <Rect Name="Sep" X="59" Y="7" Width="1"   Height="56"/>
+        <Rect Name="Cfg" X="0"  Y="0" Width="58"  Height="70"/>
+        <Rect Name="All" X="59" Y="0" Width="172" Height="70"/>
+        <Int Name="Frame" Value="1"/>
+      </Plugin>
+
+      <Plugin Name="LastCall"  Class="Spb.LSP.LastCall" AutoSkin="res_contact"/>
+
+      <Plugin Name="LastCall.Icon"   Class="Spb.LSP.LastCall" AutoSkin="res_contact">
+        <BoundRect X="0" Y="0" Width="52" Height="70"/>
+        <Int Name="Iconic" Value="1"/>
+      </Plugin>
+
+      <Plugin Name="SymbianWRTWidget.Icon" Class="Spb.LSP.SymbianWRTWidget">
+        <Int Name="Iconic" Value="1"/>
+      </Plugin>
+
+      <Plugin Name="SymbianWRTWidget.Wide" Class="Spb.LSP.SymbianWRTWidget">
+        <BoundRect X="0" Y="0" Width="232" Height="70"/>
+      </Plugin>
+
+      <Plugin Name="Wireless" Class="Spb.LSP.Wireless" AutoSkin="wgt_wireless">
+        <BoundRect X="0" Y="0" Width="52" Height="70"/>
+        <Int Name="Iconic" Value="1"/>
+      </Plugin>
+
+      <Plugin Name="Battery" Class="Spb.LSP.Battery" AutoSkin="wgt_battery">
+        <BoundRect X="0" Y="0" Width="52" Height="70"/>
+        <Int Name="Iconic" Value="1"/>
+      </Plugin>
+
+      <Plugin Name="Operator" Class="Spb.LSP.Operator" AutoSkin="wgt_operator">
+        <BoundRect X="0" Y="0" Width="52" Height="70"/>
+        <Int Name="Iconic" Value="1"/>
+      </Plugin>
+
+      <Plugin Name="Operator.Large" Class="Spb.LSP.Operator" AutoSkin="wgt_operator">
+        <Int Name="Iconic" Value="0"/>
+        <String Name="LuaModule" Value="Script"/>
+        <String Name="LuaClass"  Value="OperatorScript"/>
+      </Plugin>
+
+      <Plugin Name="Wireless.Ext" Extends="ExtShortcut" Class="Spb.LSP.Wireless" AutoSkin="wgt_wireless">
+        <Int Name="Iconic" Value="0"/>
+      </Plugin>
+
+      <Plugin Name="SocNet.Icon" Class="Spb.LSP.SocNet" AutoSkin="wgt_socnet">
+        <BoundRect X="0" Y="0" Width="52" Height="70"/>
+
+        <Int Name="Iconic" Value="1"/>
+      </Plugin>
+      <Plugin Name="SocNet.Normal" Class="Spb.LSP.SocNet" AutoSkin="wgt_socnet">
+        <BoundRect X="0" Y="0" Width="232" Height="70"/>
+        <String Name="BackgroundImage" Value="background_normal"/>
+        <Int Name="MaxDisplayedUpdates" Value="1" />
+
+        <Rect Name="SeparatorRect"      X="50" Y="7" Width="1" Height="56"/>
+
+        <Rect Name="RunAppRect" X="0" Y="0" Width="50" Height="70"/>
+
+        <!-- Updates area -->
+        <Int Name="UpdateItemHeigt" Value="60"/>
+        <Rect Name="UpdatesListRect" X="50" Y="0" Width="182" Height="70" />
+        <Rect Name="UpdatesSeparatorRect" X="0" Y="0" Width="0" Height="0" />
+        <Rect Name="UpdatesUserPhoto" X="6" Y="10" Width="30" Height="30" />
+        <Rect Name="UpdatesMessageRect" X="38" Y="9" Width="136" Height="50" />
+        <Rect Name="UpdatesMessageRect2" X="0" Y="0" Width="0" Height="0" />
+        <Rect Name="UpdatesInfoRect" X="5" Y="52" Width="167" Height="10" />
+
+      </Plugin>
+
+      <Plugin Name="SocNet.Large" Class="Spb.LSP.SocNet" AutoSkin="wgt_socnet">
+        <BoundRect X="0" Y="0" Width="232" Height="150"/>
+        <String Name="BackgroundImage" Value="background_large"/>
+        <Int Name="MaxDisplayedUpdates" Value="100" />
+
+        <Rect Name="RunAppRect" X="0" Y="0" Width="207" Height="23"/>
+        <Rect Name="HeaderLogoRect" X="74" Y="5" Width="21" Height="21"/>
+        <Rect Name="HeaderLabelRect" X="99" Y="4" Width="60" Height="22"/>
+
+        <Rect Name="UpdateButtonRect" X="210" Y="9" Width="10" Height="9" />
+
+        <Rect Name="HeaderSeparatorRect" X="8" Y="24" Width="216" Height="1"/>
+        <Rect Name="FooterSeparatorRect" X="0" Y="0" Width="0" Height="0"/>
+
+        <!-- Updates area -->
+        <Int Name="UpdateItemHeigt" Value="66"/>
+        <Rect Name="UpdatesListRect" X="0" Y="25" Width="232" Height="131" />
+        <Rect Name="UpdatesSeparatorRect" X="10" Y="0" Width="221" Height="1" />
+        <Rect Name="UpdatesUserPhoto" X="11" Y="5" Width="30" Height="30" />
+        <Rect Name="UpdatesMessageRect" X="50" Y="4" Width="174" Height="44" />
+        <Rect Name="UpdatesMessageRect2" X="0" Y="0" Width="0" Height="0" />
+        <Rect Name="UpdatesInfoRect" X="12" Y="49" Width="176" Height="10" />
+
+        <!-- Bottom bar (skin specific) 
+        <Rect Name="LeftArrowRect" X="0" Y="0" Width="0" Height="0" />
+        <Rect Name="RightArrowRect" X="0" Y="0" Width="0" Height="0" />-->
+      </Plugin>
+
+      <Plugin Name="CalendarWidget" Extends="CalendarBase" Class="Spb.LSP.CalendarWidget" AutoSkin="calendar">
+	  	<!--Int Name="ResizeMode" Value="1"/-->
+		<AbsoluteSize Name="MinBlockSize" X="2" Y="1"/>
+		<AbsoluteSize Name="MaxBlockSize" X="4" Y="1"/>
+	  </Plugin>
+
+      <Plugin Name="Calendar.Iconic" Class="Spb.LSP.CalendarIconWidget" AutoSkin="calendar">
+      </Plugin>
+
+      <Plugin Name="SmsMms" Class="Spb.LSP.SmsMms" AutoSkin="wgt_smsmms">
+        <BoundRect X="0" Y="0" Width="232" Height="70"/>
+        <Rect Name="UnreadRect" X="16" Y="4" Width="15" Height="11"/>
+        <Font Name="UnreadFont" Face="Droid Sans" HeightPxl="9" Bold="y" Color="FFFFFFFF"/>
+        <Rect Name="SenderRect" X="89" Y="8" Width="135" Height="12"/>
+        <Font Name="SenderFont" Face="Droid Sans" HeightPxl="10" Bold="y" Color="FF000000"/>
+        <Rect Name="DateRect" X="89" Y="8" Width="135" Height="12"/>
+        <Font Name="DateFont" Face="Droid Sans" HeightPxl="10" Bold="n" Color="FF4D4D4D"/>
+        <Rect Name="TextRect" X="89" Y="21" Width="135" Height="42"/>
+        <Font Name="TextFont" Face="Droid Sans" HeightPxl="8" Bold="n" Color="FF000000"/>
+        <!-- <Rect Name="VertLineRect" X="50" Y="5" Width="1" Height="60"/> -->
+        <Rect Name="NoMessagesRect" X="89" Y="8" Width="135" Height="12"/>
+        <Font Name="NoMessagesFont" Face="Droid Sans" HeightPxl="10" Bold="y" Color="FFFFFFFF"/>
+        <Rect Name="TextBubbleRect" X="60" Y="0" Width="172" Height="70"/>
+        <Rect Name="ContactSelectPadding" Left="3" Right="3" Top="3" Bottom="3"/>
+        <Rect Name="SmsSelectRect" X="78" Y="0" Width="154" Height="70"/>
+      </Plugin>
+<!--
+      <Plugin Name="SmsMms.Iconic" Extends="SmsMms"/>
+-->
+      <Plugin Name="SmsMms.Iconic" Extends="SmsMms">
+        <BoundRect X="0" Y="0" Width="52" Height="70"/>
+        <Rect Name="UnreadRect" X="16" Y="4" Width="15" Height="11"/>
+        <Font Name="UnreadFont" Face="Droid Sans" HeightPxl="9" Bold="y" Color="FFFFFFFF"/>
+        <Int Name="Iconic" Value="1"/>
+      </Plugin>
+
+      <Plugin Name="Backlight.Small" Class="Spb.LSP.Backlight" AutoSkin="wgt_backlight">
+        <BoundRect X="0" Y="0" Width="52" Height="70"/>
+        <Int Name="Iconic" Value="1"/>
+      </Plugin>
+
+      <Plugin Name="Backlight.Large" Class="Spb.LSP.Backlight" AutoSkin="wgt_backlight">
+        <BoundRect X="0" Y="0" Width="232" Height="70"/>
+        <Int Name="Iconic" Value="0"/>
+      </Plugin>
+
+      <Plugin Name="News.Icon" Class="Spb.LSP.News" AutoSkin="wgt_rss">
+        <BoundRect X="0" Y="0" Width="52" Height="70"/>
+        <Int Name="Iconic" Value="1"/>
+      </Plugin>
+
+      <Plugin Name="News.Normal" Class="Spb.LSP.News" AutoSkin="wgt_rss">
+        <AbsoluteSize Name="BlockSize" X="4" Y="1"/>
+        <Rect Name="SeparatorRect"      X="50" Y="7" Width="1" Height="56"/>
+        <Rect Name="NewsItemRect" X="52" Y="2" Width="180" Height="56" />
+        <Rect Name="NewsItemTitleRect" X="56" Y="7" Width="170" Height="12" />
+        <Rect Name="NewsItemTextRect"  X="56" Y="32" Width="170" Height="32" />
+        <Rect Name="NewsItemInfoRect"  X="56" Y="18" Width="170" Height="11" />
+      </Plugin>
+
+      <Plugin Name="LaunchContacts.Icon" Class="Spb.LSP.LaunchContacts" AutoSkin="misc">
+        <BoundRect X="0" Y="0" Width="52" Height="70"/>
+      </Plugin>
+
+      <Plugin Name="_Empty" Class="Spb.LSP.Empty">
+        <BoundRect X="0" Y="0" Width="50" Height="50"/>
+      </Plugin>
+
+      <Plugin Name="AndroidWidget"   Class="Spb.LSP.AndroidWidget">
+      </Plugin>
+
+      <Plugin Name="AndroidShortcut" Class="Spb.LSP.AndroidShortcut">
+        <BoundRect X="0" Y="0" Width="52" Height="70"/>
+      </Plugin>
+
+      <!-- We'll use LuaWidget for operator customization -->
+      <Plugin Name="Lua" Class="Spb.LSP.Lua" Skin="wgt_lua_test">
+        <BoundRect X="0" Y="0" Width="112" Height="70"/>
+
+        <String Name="LuaModule" Value="Script"/>
+        <String Name="LuaClass"  Value="OperatorScript"/>
+      </Plugin>
+
+
+      <Plugin Name="Clock.Compact"  Class="Spb.LSP.Clock"/>
+      <Plugin Name="Clock.Wide"  Class="Spb.LSP.Clock"/>
+      <Plugin Name="Clock.Analog"  Class="Spb.LSP.Clock">
+        <BoundRect X="0" Y="0" Width="103" Height="103"/>
+      </Plugin>
+
+      <Plugin Name="Weather.Icon" Class="Spb.LSP.Weather"/>
+      <Plugin Name="Weather.Today" Class="Spb.LSP.Weather"/>
+      <Plugin Name="Weather.Multi" Class="Spb.LSP.Weather"/>
+      <Plugin Name="Weather" Class="Spb.LSP.Weather"/>
+      <Plugin Name="Weather.Graph" Class="Spb.LSP.Weather"/>
+
+      <Plugin Name="YaSearch" Class="Spb.LSP.YaSearch">
+ 	<!--Int Name="ResizeMode" Value="1"/-->
+	<AbsoluteSize Name="MinBlockSize" X="3" Y="1"/>
+	<AbsoluteSize Name="MaxBlockSize" X="8" Y="1"/>
+        <AbsoluteSize Name="BlockSize" X="4" Y="1"/>
+      </Plugin>
+    </Plugins>
+  </Layout>
+
+
+  <!-- Define the widgets which have the layouts -->
+  <Layout Name="WidgetLayout">
+    <Plugins Extends="Default">
+
+      <Plugin Name="WorldTime">
+        <String Name="Stylesheet" Value="wgt_worldtime" />
+      </Plugin>
+
+      <Plugin Name="Gallery">
+        <String Name="Stylesheet" Value="wgt_gallery" />
+      </Plugin>
+
+      <Plugin Name="Birthdays">
+        <String Name="Stylesheet" Value="wgt_birthday"/>
+      </Plugin>
+
+      <Plugin Name="SmsMms" ID="500">
+        <!--<BoundRect X="0" Y="0" Width="206" Height="70"/>-->
+        <String Name="Stylesheet" Value="wgt_smsmms"/>
+      </Plugin>
+
+      <Plugin Name="Clock.Compact">
+        <String Name="Stylesheet" Value="wgt_clock.compact"/>
+      </Plugin>
+
+      <Plugin Name="Clock.Wide">
+        <String Name="Stylesheet" Value="wgt_clock.wide"/>
+      </Plugin>
+
+      <Plugin Name="Clock.Analog">
+        <String Name="Stylesheet" Value="wgt_clock.analog"/>
+      </Plugin>
+
+      <Plugin Name="Weather.Icon">
+        <String Name="Stylesheet" Value="wgt_weather.icon"/>
+      </Plugin>
+
+      <Plugin Name="Weather.Today">
+        <String Name="Stylesheet" Value="wgt_weather.today"/>
+      </Plugin>
+
+      <Plugin Name="Weather.Multi">
+        <String Name="Stylesheet" Value="wgt_weather.multi"/>
+      </Plugin>
+
+      <Plugin Name="Weather">
+        <String Name="Stylesheet" Value="wgt_weather.full"/>
+      </Plugin>
+
+      <Plugin Name="Weather.Graph">
+        <String Name="Stylesheet" Value="wgt_weather.graph"/>
+      </Plugin>
+
+      <Plugin Name="Backlight.Large">
+        <String Name="Stylesheet" Value="wgt_backlight"/>
+      </Plugin>
+
+      <Plugin Name="News.Normal">
+        <String Name="Stylesheet" Value="wgt_rss"/>
+      </Plugin>
+
+      <Plugin Name="LastCall">
+        <String Name="Stylesheet" Value="wgt_lastcall"/>
+      </Plugin>
+
+      <Plugin Name="CalendarWidget" >
+        <String Name="Stylesheet" Value="wgt_calendar"/>
+      </Plugin>
+
+      <Plugin Name="Contact.Medium">
+        <String Name="Stylesheet" Value="wgt_contact_m"/>
+      </Plugin>
+
+      <Plugin Name="Operator.Large">
+        <String Name="Stylesheet" Value="wgt_operator"/>
+      </Plugin>
+
+      <Plugin Name="YaSearch">
+        <String Name="Stylesheet" Value="wgt_yasearch" />
+      </Plugin>
+    </Plugins>
+  </Layout>
+
+  <!-- Phone specific attributes -->
+  <Layout Name="phone">
+    <Plugins Extends="WidgetLayout">
+      <Plugin Name="WorldTime">
+        <AbsoluteSize Name="BlockSize" X="4" Y="1"/>
+      </Plugin>
+      <Plugin Name="Gallery">
+        <AbsoluteSize Name="BlockSize" X="4" Y="1"/>
+      </Plugin>
+      <Plugin Name="Birthdays">
+        <AbsoluteSize Name="BlockSize" X="2" Y="1"/>
+      </Plugin>
+      <Plugin Name="Clock.Compact">
+        <AbsoluteSize Name="BlockSize" X="2" Y="1"/>
+      </Plugin>
+      <Plugin Name="Clock.Wide">
+        <AbsoluteSize Name="BlockSize" X="4" Y="1"/>
+      </Plugin>
+      <Plugin Name="Clock.Analog">
+        <!--<AbsoluteSize Name="BlockSize" X="2" Y="2"/>-->
+      </Plugin>
+      <Plugin Name="Weather.Icon">
+        <AbsoluteSize Name="BlockSize" X="1" Y="1"/>
+      </Plugin>
+      <Plugin Name="Weather.Today">
+        <AbsoluteSize Name="BlockSize" X="2" Y="1"/>
+      </Plugin>
+      <Plugin Name="Weather.Multi">
+        <AbsoluteSize Name="BlockSize" X="4" Y="1"/>
+      </Plugin>
+      <Plugin Name="Weather">
+        <AbsoluteSize Name="BlockSize" X="4" Y="1"/>
+      </Plugin>
+      <Plugin Name="Weather.Graph">
+        <AbsoluteSize Name="BlockSize" X="4" Y="1"/>
+      </Plugin>
+      <Plugin Name="Backlight.Large">
+        <AbsoluteSize Name="BlockSize" X="4" Y="1"/>
+      </Plugin>
+      <Plugin Name="LastCall">
+        <AbsoluteSize Name="BlockSize" X="4" Y="1"/>
+      </Plugin>
+      <Plugin Name="CalendarWidget" >
+        <AbsoluteSize Name="BlockSize" X="4" Y="1"/>
+      </Plugin>
+      <Plugin Name="Contact.Medium">
+        <AbsoluteSize Name="BlockSize" X="2" Y="1"/>
+      </Plugin>
+      <Plugin Name="SmsMms">
+        <AbsoluteSize Name="BlockSize" X="4" Y="1"/>
+      </Plugin>
+      <Plugin Name="Operator">
+        <AbsoluteSize Name="BlockSize" X="1" Y="1"/>
+      </Plugin>
+      <Plugin Name="Operator.Large">
+        <AbsoluteSize Name="BlockSize" X="2" Y="1"/>
+      </Plugin>
+    </Plugins>
+  </Layout>
+
+  <!-- Tablets XOOM specific attributes -->
+  <Layout Name="tablets">
+    <Plugins Extends="WidgetLayout">
+
+      <!-- Tablets use special skin for icon-->
+      <Plugin Name="Shortcut" AutoSkin="wgt_icon_tablets"/>
+
+      <Plugin Name="Contact.ActionText">
+        <Int Name="Iconic" Value="1"/>
+        <String Name="BkgFrameImageName" Value=""/>
+      </Plugin>
+
+      <Plugin Name="News.Normal">
+        <AbsoluteSize Name="BlockSize" X="4" Y="2"/>
+      </Plugin>
+      <Plugin Name="WorldTime">
+        <AbsoluteSize Name="BlockSize" X="4" Y="2"/>
+      </Plugin>
+      <Plugin Name="Gallery">
+        <AbsoluteSize Name="BlockSize" X="4" Y="2"/>
+      </Plugin>
+      <Plugin Name="Birthdays">
+        <AbsoluteSize Name="BlockSize" X="2" Y="2"/>
+      </Plugin>
+      <Plugin Name="Clock.Compact">
+        <AbsoluteSize Name="BlockSize" X="2" Y="1"/>
+      </Plugin>
+      <Plugin Name="Clock.Wide">
+        <AbsoluteSize Name="BlockSize" X="4" Y="1"/>
+      </Plugin>
+      <Plugin Name="Clock.Analog">
+        <!--<AbsoluteSize Name="BlockSize" X="2" Y="2"/>-->
+      </Plugin>
+      <Plugin Name="Weather.Icon">
+        <AbsoluteSize Name="BlockSize" X="1" Y="1"/>
+      </Plugin>
+      <Plugin Name="Weather.Today">
+        <AbsoluteSize Name="BlockSize" X="2" Y="2"/>
+      </Plugin>
+      <Plugin Name="Weather.Multi">
+        <AbsoluteSize Name="BlockSize" X="4" Y="2"/>
+      </Plugin>
+      <Plugin Name="Weather">
+        <AbsoluteSize Name="BlockSize" X="4" Y="2"/>
+      </Plugin>
+      <Plugin Name="Weather.Graph">
+        <AbsoluteSize Name="BlockSize" X="4" Y="2"/>
+      </Plugin>
+      <Plugin Name="Backlight.Large">
+        <AbsoluteSize Name="BlockSize" X="4" Y="2"/>
+      </Plugin>
+      <Plugin Name="LastCall">
+        <AbsoluteSize Name="BlockSize" X="4" Y="2"/>
+      </Plugin>
+      <Plugin Name="CalendarWidget" >
+        <AbsoluteSize Name="BlockSize" X="4" Y="2"/>
+      </Plugin>
+      <Plugin Name="Contact.Medium">
+        <AbsoluteSize Name="BlockSize" X="2" Y="2"/>
+      </Plugin>
+      <Plugin Name="SmsMms">
+        <AbsoluteSize Name="BlockSize" X="4" Y="2"/>
+      </Plugin>
+      <Plugin Name="Operator">
+        <AbsoluteSize Name="BlockSize" X="1" Y="1"/>
+      </Plugin>
+      <Plugin Name="Operator.Large">
+        <AbsoluteSize Name="BlockSize" X="2" Y="1"/>
+      </Plugin>
+
+      <Plugin Name="Folder">
+        <AbsoluteSize Name="BlockSize" X="4" Y="2"/>
+      </Plugin>
+		
+      <Plugin Name="Folder.Large">
+		<AbsoluteSize Name="BlockSize" X="4" Y="3"/>
+      </Plugin>
+
+      <Plugin Name="Contact.Panel.Small">
+        <AbsoluteSize Name="BlockSize" X="2" Y="2"/>
+      </Plugin>
+
+      <Plugin Name="Contact.Panel.Middle">
+        <AbsoluteSize Name="BlockSize" X="3" Y="3"/>
+      </Plugin>
+
+      <Plugin Name="Contact.Panel.Large">
+        <AbsoluteSize Name="BlockSize" X="4" Y="4"/>
+      </Plugin>
+
+
+      <Plugin Name="YaSearch" Class="Spb.LSP.YaSearch">
+	<AbsoluteSize Name="MinBlockSize" X="4" Y="1"/>
+        <AbsoluteSize Name="BlockSize" X="5" Y="1"/>
+      </Plugin>
+    </Plugins>
+  </Layout>
+
+  <!-- Tablets small specific attributes -->
+  <Layout Name="tablets_small">
+    <Plugins Extends="tablets">
+      <Plugin Name="WorldTime">
+        <AbsoluteSize Name="BlockSize" X="3" Y="2"/>
+      </Plugin>
+      <Plugin Name="Gallery">
+        <AbsoluteSize Name="BlockSize" X="3" Y="2"/>
+      </Plugin>
+      <Plugin Name="Birthdays">
+        <AbsoluteSize Name="BlockSize" X="2" Y="2"/>
+      </Plugin>
+      <Plugin Name="Clock.Compact">
+        <AbsoluteSize Name="BlockSize" X="2" Y="1"/>
+      </Plugin>
+      <Plugin Name="Clock.Wide">
+        <AbsoluteSize Name="BlockSize" X="3" Y="1"/>
+      </Plugin>
+      <Plugin Name="Clock.Analog">
+        <!--<AbsoluteSize Name="BlockSize" X="2" Y="2"/>-->
+      </Plugin>
+      <Plugin Name="Weather.Icon">
+        <AbsoluteSize Name="BlockSize" X="1" Y="1"/>
+      </Plugin>
+      <Plugin Name="Weather.Today">
+        <AbsoluteSize Name="BlockSize" X="2" Y="2"/>
+      </Plugin>
+      <Plugin Name="Weather.Multi">
+        <AbsoluteSize Name="BlockSize" X="3" Y="2"/>
+      </Plugin>
+      <Plugin Name="Weather">
+        <AbsoluteSize Name="BlockSize" X="3" Y="2"/>
+      </Plugin>
+      <Plugin Name="Weather.Graph">
+        <AbsoluteSize Name="BlockSize" X="3" Y="2"/>
+      </Plugin>
+      <Plugin Name="Backlight.Large">
+        <AbsoluteSize Name="BlockSize" X="3" Y="2"/>
+      </Plugin>
+      <Plugin Name="LastCall">
+        <AbsoluteSize Name="BlockSize" X="3" Y="2"/>
+      </Plugin>
+      <Plugin Name="CalendarWidget" >
+        <AbsoluteSize Name="BlockSize" X="3" Y="2"/>
+      </Plugin>
+      <Plugin Name="Contact.Medium">
+        <AbsoluteSize Name="BlockSize" X="2" Y="2"/>
+      </Plugin>
+      <Plugin Name="SmsMms">
+        <AbsoluteSize Name="BlockSize" X="3" Y="2"/>
+      </Plugin>
+
+      <Plugin Name="Folder">
+        <AbsoluteSize Name="BlockSize" X="3" Y="1"/>
+      </Plugin>
+      
+      <Plugin Name="Folder.Large">
+        <AbsoluteSize Name="BlockSize" X="3" Y="2"/>
+      </Plugin>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="tablets_port_small">
+    <General>
+      <Point Name="WidgetMargins" X="0" Y="14"/>
+    </General>
+    <Plugins Extends="tablets_small">
+
+      <Plugin Name="Wireless.Ext">
+        <Point Name="WidgetMargins" X="0" Y="15"/>
+      </Plugin>
+	  
+      <Plugin Name="Contact.Panel.Small">
+        <Point Name="WidgetMargins" X="0" Y="0"/>
+      </Plugin>
+
+      <Plugin Name="Contact.Panel.Middle">
+        <Point Name="WidgetMargins" X="0" Y="0"/>
+      </Plugin>
+
+      <Plugin Name="Contact.Panel.Large">
+        <Point Name="WidgetMargins" X="0" Y="0"/>
+      </Plugin>
+
+      <Plugin Name="Contact.Medium">
+         <Point Name="MaxSize" X="110" Y="140"/>
+      </Plugin>      
+    </Plugins>
+  </Layout>
+
+  <Layout Name="tablets_land_small">
+    <General>
+      <Point Name="WidgetMargins" X="0" Y="2"/>
+    </General>
+    <Plugins Extends="tablets_small">
+
+      <Plugin Name="Contact.Panel.Small">
+        <Point Name="WidgetMargins" X="0" Y="0"/>
+      </Plugin>
+
+      <Plugin Name="Contact.Panel.Middle">
+        <Point Name="WidgetMargins" X="0" Y="0"/>
+      </Plugin>
+
+      <Plugin Name="Contact.Panel.Large">
+        <Point Name="WidgetMargins" X="0" Y="0"/>
+      </Plugin>
+
+      <Plugin Name="Contact.Medium">
+        <Point Name="MaxSize" X="130" Y="110"/>
+      </Plugin>
+    </Plugins>
+  </Layout>
+
+  <!-- Tablets Portrait specific attributes -->
+  <Layout Name="tablets_port">
+    <General>
+      <Point Name="WidgetMargins" X="0" Y="14"/>
+    </General>
+    <Plugins Extends="tablets">
+
+      <Plugin Name="Folder.Small">
+      </Plugin>
+      <Plugin Name="Folder">
+        <AbsoluteSize Name="BlockSize" X="4" Y="1"/>
+      </Plugin>
+      <Plugin Name="Folder.Large">
+        <AbsoluteSize Name="BlockSize" X="4" Y="2"/>
+      </Plugin>
+
+
+      <Plugin Name="Wireless.Ext">
+        <Point Name="WidgetMargins" X="0" Y="15"/>
+      </Plugin>
+
+      <Plugin Name="Contact.Panel.Small">
+        <Point Name="WidgetMargins" X="0" Y="0"/>
+      </Plugin>
+
+      <Plugin Name="Contact.Panel.Middle">
+        <Point Name="WidgetMargins" X="0" Y="0"/>
+      </Plugin>
+
+      <Plugin Name="Contact.Panel.Large">
+        <Point Name="WidgetMargins" X="0" Y="0"/>
+      </Plugin>
+    </Plugins>
+  </Layout>
+
+  <!-- Tablets Landscape specific attributes -->
+  <Layout Name="tablets_land">
+    <General>
+      <Point Name="WidgetMargins" X="0" Y="2"/>
+    </General>
+    <Plugins Extends="tablets">
+      <Plugin Name="Contact.Panel.Small">
+        <Point Name="WidgetMargins" X="0" Y="0"/>
+      </Plugin>
+
+      <Plugin Name="Contact.Panel.Middle">
+        <Point Name="WidgetMargins" X="0" Y="0"/>
+      </Plugin>
+
+      <Plugin Name="Contact.Panel.Large">
+        <Point Name="WidgetMargins" X="0" Y="0"/>
+      </Plugin>
+    </Plugins>
+  </Layout>
+
+  <!-- Phone WVGA/WQVGA Portrait specific attributes -->
+  <Layout Name="240x400">
+    <General>
+      <Point Name="WidgetMargins" X="2" Y="4"/>
+    </General>
+    <Plugins Extends="phone">
+      <!-- Force to dpi192 currently for 240x400 and 480x800-->
+      <Plugin Name="SmsMms" ForceSkin="wgt_smsmms/dpi192"/>
+      <!--<Plugin Name="Wireless.Ext">
+        <Point Name="WidgetMargins" X="10" Y="14"/>
+      </Plugin>-->
+    <Plugin Name="Contact.Panel.Small">
+      <Point Name="WidgetMargins" X="0" Y="0"/>
+    </Plugin>
+
+      <Plugin Name="Contact.Panel.Middle">
+        <Point Name="WidgetMargins" X="0" Y="0"/>
+      </Plugin>
+
+      <Plugin Name="Contact.Panel.Large">
+      <Point Name="WidgetMargins" X="0" Y="0"/>
+    </Plugin>
+
+    </Plugins>
+</Layout>
+
+  <!-- Phone WVGA/WQVGA Landscape specific attributes -->
+  <Layout Name="400x240">
+    <General>
+      <Point Name="WidgetMargins" X="4" Y="1"/>
+    </General>
+    <Plugins Extends="240x400">
+      <Plugin Name="Contact.Panel.Small">
+        <Point Name="WidgetMargins" X="0" Y="0"/>
+      </Plugin>
+
+      <Plugin Name="Contact.Panel.Middle">
+        <Point Name="WidgetMargins" X="0" Y="0"/>
+      </Plugin>
+
+      <Plugin Name="Contact.Panel.Large">
+        <Point Name="WidgetMargins" X="0" Y="0"/>
+      </Plugin>
+      
+    </Plugins>
+  </Layout>
+
+  <!-- Phone QVGA Portrait specific attributes -->
+  <Layout Name="240x320">
+    <General>
+      <Point Name="WidgetMargins" X="2" Y="2"/>
+    </General>
+
+    <Plugins Extends="phone">
+      <Plugin Name="SmsMms">
+        <Rect Name="PhotoFrameRect" X="5" Y="3" Width="64" Height="64"/>
+        <Rect Name="TextBubbleRect" X="58" Y="0" Width="172" Height="70"/>
+      </Plugin>
+    </Plugins>
+  </Layout>
+
+  <!-- Phone QVGA Landscape specific attributes -->
+  <Layout Name="320x240">
+    <General>
+      <Point Name="WidgetMargins" X="2" Y="3"/>
+    </General>
+    <Plugins Extends="phone">
+    </Plugins>
+  </Layout>
+
+  <!-- Phone HVGA Portrait specific attributes -->
+  <Layout Name="320x480">
+    <General>
+      <Point Name="WidgetMargins" X="4" Y="3"/>
+    </General>
+    <Plugins Extends="phone">
+
+      <Plugin Name="Contact.Panel.Small">
+        <Point Name="WidgetMargins" X="0" Y="0"/>
+      </Plugin>
+
+      <Plugin Name="Contact.Panel.Middle">
+        <Point Name="WidgetMargins" X="0" Y="0"/>
+      </Plugin>
+
+      <Plugin Name="Contact.Panel.Large">
+        <Point Name="WidgetMargins" X="0" Y="0"/>
+      </Plugin>      
+    </Plugins>
+  </Layout>
+
+  <Layout Name="480x320" DontScale="1">
+    <General>
+      <Point Name="WidgetMargins" X="3" Y="2"/>
+    </General>
+    <Plugins Extends="phone">
+
+      <Plugin Name="Contact.Panel.Small">
+        <Point Name="WidgetMargins" X="0" Y="0"/>
+      </Plugin>
+
+      <Plugin Name="Contact.Panel.Middle">
+        <Point Name="WidgetMargins" X="0" Y="0"/>
+      </Plugin>
+
+      <Plugin Name="Contact.Panel.Large">
+        <Point Name="WidgetMargins" X="0" Y="0"/>
+      </Plugin>      
+    </Plugins>
+  </Layout>
+  
+  <!-- Symbian specific attributes -->
+  <Layout Name="360x640">
+    <Plugins Extends="phone">
+
+      <Plugin Name="SmsMms" Class="Spb.LSP.SmsMms" Skin="wgt_smsmms/dpi144">
+        <Rect Name="UnreadRect" X="22" Y="4" Width="15" Height="11"/>
+      </Plugin>
+
+      <Plugin Name="SmsMms.Iconic" Class="Spb.LSP.SmsMms" Skin="wgt_smsmms/dpi144">
+        <Rect Name="UnreadRect" X="22" Y="4" Width="15" Height="11"/>
+      </Plugin>
+
+      <Plugin Name="Wireless" Class="Spb.LSP.Wireless" Skin="wgt_wireless/dpi144">
+      </Plugin>
+
+      <Plugin Name="Profile" Class="Spb.LSP.Profile" Skin="wgt_profile/dpi144">
+        <BoundRect X="0" Y="0" Width="52" Height="70"/>
+        <Rect Name="Vol"   X="0"  Y="25" Width="10"  Height="5"/>
+      </Plugin>
+
+      <Plugin Name="Weather" Extends="Weather" Skin="wgt_weather/dpi144">
+        <Rect Name="Icon"  X="95"  Y="0" Width="48" Height="48"/>
+        <Rect Name="FCastD0" X="24"  Y="47" Width="39" Height="10"/>
+        <Rect Name="FCastD1" X="80" Y="47" Width="39" Height="12"/>
+        <Rect Name="FCastD2" X="136" Y="47" Width="39" Height="12"/>
+        <Rect Name="FCastD3" X="192" Y="47" Width="39" Height="12"/>
+
+        <Rect Name="FCast0"  X="24"  Y="57" Width="42" Height="12"/>
+        <Rect Name="FCast1"  X="80"  Y="57" Width="42" Height="12"/>
+        <Rect Name="FCast2"  X="136" Y="57" Width="42" Height="12"/>
+        <Rect Name="FCast3"  X="192" Y="57" Width="42" Height="12"/>
+      </Plugin>
+
+      <Plugin Name="Weather.Multi" Class="Spb.LSP.Weather" Skin="wgt_weather/dpi144">
+        <String Name="CurrCName" Value="054"/>
+        <String Name="FCastName" Value="054"/>
+      </Plugin>
+
+      <Plugin Name="Weather.Today" Class="Spb.LSP.Weather" Skin="wgt_weather/dpi144">
+        <Rect Name="Icon"  X="15"  Y="25" Width="54" Height="54"/>
+      </Plugin>
+
+      <Plugin Name="Weather.Icon" Class="Spb.LSP.Weather" Skin="wgt_weather/dpi144">
+
+      </Plugin>
+
+      <Plugin Name="Weather.Icon" Class="Spb.LSP.Weather" Skin="wgt_weather/dpi144">
+        <BoundRect X="0" Y="0" Width="52" Height="70"/>
+        <String Name="CurrCName" Value="054"/>
+        <Int Name="Iconic" Value="1"/>
+      </Plugin>
+
+      <Plugin Name="SocNet.Icon" Class="Spb.LSP.SocNet"  Extends="SocNet.Icon"
+              Skin="wgt_socnet/dpi144">
+      </Plugin>
+
+      <Plugin Name="SocNet.Normal" Class="Spb.LSP.SocNet" Extends="SocNet.Normal"
+            Skin="wgt_socnet/dpi144">
+      </Plugin>
+
+      <Plugin Name="SocNet.Large" Class="Spb.LSP.SocNet" Extends="SocNet.Large"
+            Skin="wgt_socnet/dpi144">
+
+        <BoundRect X="0" Y="0" Width="232" Height="160"/>
+        <String Name="BackgroundImage" Value="background_large"/>
+        <Int Name="MaxDisplayedUpdates" Value="100" />
+
+        <Rect Name="RunAppRect" X="0" Y="0" Width="210" Height="23"/>
+        <Rect Name="HeaderLogoRect" X="74" Y="5" Width="28" Height="28"/>
+        <Rect Name="HeaderLabelRect" X="99" Y="9" Width="60" Height="22"/>
+
+        <Rect Name="UpdateButtonRect" X="210" Y="9" Width="10" Height="9" />
+
+        <Rect Name="HeaderSeparatorRect" X="8" Y="34" Width="216" Height="1"/>
+        <Rect Name="FooterSeparatorRect" X="0" Y="0" Width="0" Height="0"/>
+
+        <!-- Updates area -->
+        <Int Name="UpdateItemHeigt" Value="62"/>
+        <Rect Name="UpdatesListRect" X="0" Y="37" Width="232" Height="124" />
+        <Rect Name="UpdatesSeparatorRect" X="10" Y="0" Width="221" Height="1" />
+        <Rect Name="UpdatesUserPhoto" X="9" Y="5" Width="40" Height="40" />
+        <Rect Name="UpdatesMessageRect" X="55" Y="4" Width="170" Height="44" />
+        <Rect Name="UpdatesMessageRect2" X="0" Y="0" Width="0" Height="0" />
+        <Rect Name="UpdatesInfoRect" X="12" Y="49" Width="176" Height="10" />
+      </Plugin>
+
+      <Plugin Name="WorldTime" Class="Spb.LSP.WorldTime" Skin="wgt_worldtime/dpi144">
+        <Font Name="DefaultFont" Face="Droid Sans" HeightPxl="10" Bold="n" Color="FFFFFFFF"/>
+      </Plugin>
+
+      <Plugin Name="Birthdays" Class="Spb.LSP.Birthdays" Skin="res_contact/dpi144"/>
+
+      <Plugin Name="Backlight.Small" Extends="Backlight.Small" Skin="wgt_backlight/dpi144">
+      </Plugin>
+
+      <Plugin Name="Backlight.Large" Extends="Backlight.Large" Skin="wgt_backlight/dpi144">
+      </Plugin>
+
+      <Plugin Name="LaunchContacts.Icon" Class="Spb.LSP.LaunchContacts" Skin="misc/dpi144">
+        <BoundRect X="0" Y="0" Width="52" Height="70"/>
+      </Plugin>
+
+      <Plugin Name="CalendarIconic" Class="Spb.LSP.CalendarWidget" Skin="misc/dpi144">
+        <BoundRect X="0" Y="0" Width="52" Height="70"/>
+        <Int Name="Iconic" Value="1"/>
+      </Plugin>
+
+      <Plugin Name="News.Normal" Class="Spb.LSP.News" Skin="wgt_rss/dpi144">
+        <BoundRect X="0" Y="0" Width="232" Height="70"/>
+        <Rect Name="SeparatorRect"      X="50" Y="7" Width="1" Height="56"/>
+        <Rect Name="NewsItemRect" X="52" Y="2" Width="180" Height="56" />
+        <Rect Name="NewsItemTitleRect" X="56" Y="7" Width="170" Height="12" />
+        <Rect Name="NewsItemTextRect"  X="56" Y="32" Width="170" Height="32" />
+        <Rect Name="NewsItemInfoRect"  X="56" Y="18" Width="170" Height="11" />
+      </Plugin>
+
+      <Plugin Name="LastCall"  Class="Spb.LSP.LastCall" Skin="res_contact/dpi144">
+        <BoundRect X="0" Y="0" Width="232" Height="70"/>
+
+        <Rect Name="Separator"      X="50" Y="7" Width="1" Height="56"/>
+
+        <Rect Name="Contact"   X="58" Y="13" Width="40"  Height="40"/>
+
+        <Rect Name="CallName"  X="108" Y="12" Width="110" Height="10"/>
+        <Font Name="CallNameF" Face="Droid Sans" HeightPxl="10" Bold="y" Color="FFFFFFFF"/>
+
+        <Rect Name="CallIco"   X="108" Y="25" Width="13"  Height="13"/>
+        <Rect Name="CallSrc"   X="121" Y="26" Width="110" Height="10"/>
+        <Font Name="CallSrcF"  Face="Droid Sans" HeightPxl="10"  Bold="n" Color="FFFFFFFF"/>
+        <Rect Name="CallTime"  X="108" Y="43" Width="110" Height="16"/>
+        <Font Name="CallTimeF" Face="Droid Sans" HeightPxl="9"  Bold="n" Color="FFFFFFFF"/>
+
+        <Rect Name="CLogSel"   X="3"   Y="3"  Width="46"  Height="64"/>
+        <Rect Name="UserSel"   X="54"  Y="3"  Width="52"  Height="64"/>
+        <Rect Name="CallSel"   X="106" Y="3"  Width="120" Height="64"/>
+      </Plugin>
+
+      <Plugin Name="LastCall.Icon"   Class="Spb.LSP.LastCall" Skin="res_contact/dpi144">
+        <BoundRect X="0" Y="0" Width="52" Height="70"/>
+        <Int Name="Iconic" Value="1"/>
+
+        <Rect Name="CallCnt"   X="22" Y="4" Width="14"  Height="10"/>
+        <Font Name="CallCntF"  Face="Droid Sans" HeightPxl="9" Bold="y" Color="FFFFFFFF"/>
+      </Plugin>
+
+    </Plugins>
+  </Layout>
+
+</Layouts>

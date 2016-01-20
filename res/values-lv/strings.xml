@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SPB Shell 3D</string>
+    <string name="dialog_shell_loading">Notiek SPB Shell 3D ielāde...</string>
+    <string name="gadget_error_text">Ielādējot logrīku, radās problēma</string>
+    <string name="dialog_select_shortcut">Izvēlēties saīsni</string>
+    <string name="dialog_choose_widget">Izvēlēties logrīku</string>
+    <string name="chooser_wallpaper">Izvēlēties fona tapeti no</string>
+    <string name="wallpaper_instructions">Iestatīt fona tapeti</string>
+    <string name="pick_wallpaper">Fona tapetes</string>
+    <string name="wallpapers_spb">SPB fona tapetes</string>
+    <string name="yes">Jā</string>
+    <string name="no">Nav</string>
+    <string name="wait">Lūdzu, uzgaidiet...</string>
+    <string name="home_widget_error">Logrīks ir pārāk apjomīgs, lai to varētu pievienot.</string>
+    <string name="cancel">Atcelt</string>
+    <string name="error">error</string>
+    <string name="infinity">infinity</string>
+    <string name="dialog_unsupported_devices_title">Kļūda</string>
+    <string name="dialog_unsupported_devices_message">Lai palaistu SPB Shell 3D, ir nepieciešams OpenGL 2.0</string>
+    <string name="license_fail">Diemžēl mēs nevarējām atrast jūsu pirkumu Android Market. Lūdzu, atinstalējiet šo kopiju pirms instalējat jaunu.</string>
+    <string name="purchase">Pirkums</string>
+    <string name="exit">Iziet</string>
+    <string name="legal_notices_title">Juridiskā informācija</string>
+    <string name="license_fail_handango">Diemžēl mēs nevarējām atrast jūsu pirkumu. Lūdzu, atinstalējiet šo kopiju pirms instalējat jaunu.</string>
+    <string name="safe_mode_title">Drošais režīms</string>
+    <string name="safe_mode_text">Iepriekšējā SPB Shell 3D palaišana bija neveiksmīga. Lūdzu, pieskarieties \"Mēģināt vēlreiz\", lai to atkārtoti palaistu, vai \"Sākums\", lai aktivizētu citu sākuma ekrānu.</string>
+    <string name="safe_mode_retry">Mēģināt vēlreiz</string>
+    <string name="safe_mode_home">Sākums</string>
+    <string name="sd_install_title">Kļūda</string>
+    <string name="sd_install_text">Installation to a storage card is not supported. Please install SPB Shell 3D to the main memory</string>
+    <string name="contacts_failed_pick">Failed to load the selected contact. Try to link the contact to Google account or save it to phone.</string>
+</resources>

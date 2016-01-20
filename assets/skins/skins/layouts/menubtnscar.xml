@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Layouts>
+
+  <Rules>
+    <PlatformCondition Platform="tablets">
+      <UseLayout Name="Portrait"/>
+    </PlatformCondition>
+    <ScreenCondition Orientation="landscape">
+      <UseLayout Name="Landscape"/>
+    </ScreenCondition>
+    <Default>
+      <UseLayout Name="Portrait"/>
+    </Default>
+  </Rules>
+
+  <General>
+    <DialogObject Value="Spb.Data.MenuBar"/>
+    <Int Name="ReflectionOpacity" Value="50"/>
+    <Point Name="ReflectionOffset" X="0" Y="3"/>
+    <Point Name="ReflectionSize" X="0" Y="8"/>
+    <Skin Name="IconSkin" AutoSkin="menubar"/>
+  </General>
+
+  <Layout Name="Default">
+    <Plugins>
+      <Plugin Name="back" Class="Spb.LSP.MenuBar" ID="0">
+        <String Name="Action" Value="Done"/>
+        <String Name="Icon" Value="BackIcon"/>
+      </Plugin>
+      <Plugin Name="empty" StretchFactor="1" Align="center"/>
+      <Plugin Name="edit" Class="Spb.LSP.MenuBar" ID="1">
+        <String Name="Action" Value="EditPanels"/>
+        <String Name="Icon" Value="EditPanelsIcon"/>
+      </Plugin>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="Portrait">
+    <General>
+      <Rect Name="IconRect" X="9" Y="1" Width="26" Height="26"/>
+      <Rect Name="SelRect" X="0" Y="0" Width="44" Height="32"/>
+      <LayerAlign Value="Bottom" Clip="0"/>
+    </General>
+    <Row Extends="Default" Width="fill" Height="32">
+      <Plugin Name="back" Width="44" Height="fill"/>
+      <Plugin Name="empty" Width="0" Height="fill"/>
+      <Plugin Name="edit" Width="44" Height="fill"/>
+    </Row>
+  </Layout>
+
+  <Layout Name="Landscape">
+    <General>
+      <Rect Name="IconRect" X="1" Y="9" Width="26" Height="26"/>
+      <Rect Name="SelRect" X="0" Y="0" Width="32" Height="44"/>
+      <LayerAlign Value="Right" Clip="0"/>
+    </General>
+    <Column Extends="Default" ReverseBase="1" Width="32" Height="fill">
+      <Plugin Name="edit" Width="fill" Height="44"/>
+      <Plugin Name="empty" Width="fill" Height="0"/>
+      <Plugin Name="back" Width="fill" Height="44"/>
+    </Column>
+  </Layout>
+
+</Layouts>

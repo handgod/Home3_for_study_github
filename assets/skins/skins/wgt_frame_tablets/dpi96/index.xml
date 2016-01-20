@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skin Name="Widget Frame">
+  <items>
+    <item>
+      <Image Name="Frame" File="frame.png"/>
+      <Image Name="FrameSmall" File="frame_small.png"/>
+      <Image Name="Header" File="header.png"/>
+    </item>
+  </items>
+</skin>

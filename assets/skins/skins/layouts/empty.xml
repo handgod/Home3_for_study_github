@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+<Layouts>
+
+  <Rules>
+    <Default>
+      <UseLayout Name="Default"/>
+    </Default>
+  </Rules>
+
+  <Layout Name="Default">
+    <Plugins/>
+  </Layout>
+
+</Layouts>

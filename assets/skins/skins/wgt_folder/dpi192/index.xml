@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skin Name="Folder" Type="widget">
+  <items>
+    <item>
+      <Image Name="Icon" File="dummyico.png"/>
+      <Image Name="bg.window" File="folder_window.png"/>
+      <Image Name="contacts.window" File="contacts_window.png"/>
+      <Image Name="bg.small" File="small_folder.png"/>
+      <Image Name="bg.small.land" File="small_folder_land.png"/>
+      <Image Name="bg.closed" File="folder_closed.png"/>
+      <Image Name="bg.closed.small" File="folder_closed_small.png"/>
+      <Image Name="edit_title" File="edit_title.png"/>
+      
+      <Image Name="contcs" File="ico_contcs.png"/>
+      <Image Name="bookmk" File="ico_bookmk.png"/>
+      <Image Name="albums" File="ico_albums.png"/>
+      <Image Name="games" File="ico_games.png"/>
+
+      <Point Name="ThumbSize" X="9" Y="9" />
+      <Point Name="ThumbMargin" X="1" Y="1" />
+      <AbsoluteSize Name="ThumbBlocks" X="3" Y="3"/>
+      <AbsoluteSize Name="ThumbBlocksLand" X="3" Y="2"/>
+    </item>
+
+    <item BaseDpi="192">
+      <Image Name="folder" File="folder.png"/>
+      <Rect Name="BgRect" X="0" Y="0" Width="256" Height="96"/>
+      <Rect Name="BgStretchRect" X="116" Y="72" Width="1" Height="1"/>
+      <Rect Name="edit_title_indent" X="-10" Y="1" Width="40" Height="-2"/>
+    </item>
+  </items>
+</skin>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SPB Shell 3D</string>
+    <string name="weather_city_title">Type 3 letters to start auto-completion:</string>
+    <string name="weather_enter_city_name">Enter city name</string>
+    <string name="weather_more_cities">More...</string>
+    <string name="weather_locate_nearest_city">Search the nearest city</string>
+    <string name="weather_current_location">Current location</string>
+    <string name="searching_city_title">Positioning</string>
+    <string name="searching_city_progress">Searching for nearest cities...</string>
+    <string name="city_location_failed">Failed to locate nearest city</string>
+    <string name="dialog_shell_loading">SPB Shell 3D is loading...</string>
+    <string name="gadget_error_text">Problem loading widget</string>
+    <string name="dialog_select_shortcut">Select shortcut</string>
+    <string name="dialog_choose_widget">Choose widget</string>
+    <string name="chooser_wallpaper">Select wallpaper from</string>
+    <string name="wallpaper_instructions">Set wallpaper</string>
+    <string name="pick_wallpaper">Wallpapers</string>
+    <string name="wallpapers_spb">SPB Wallpapers</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="wait">Please wait...</string>
+    <string name="home_widget_error">Widget is too big to be added.</string>
+    <string name="cancel">Cancel</string>
+    <string name="error">error</string>
+    <string name="infinity">infinity</string>
+    <string name="dialog_unsupported_devices_title">Error</string>
+    <string name="dialog_unsupported_devices_message">OpenGL 2.0 is required to run SPB Shell 3D</string>
+    <string name="license_fail">Unfortunately, we could not locate your purchase in Android Market. Please uninstall this copy before installing a new one.</string>
+    <string name="purchase">Purchase</string>
+    <string name="exit">Exit</string>
+    <string name="legal_notices_title">Legal notices</string>
+    <string name="license_fail_handango">Unfortunately, we could not locate your purchase. Please uninstall this copy before installing a new one.</string>
+    <string name="safe_mode_title">Safe mode</string>
+    <string name="safe_mode_text">The previous launch of SPB Shell 3D was unsuccessful. Please tap Retry to launch it again or Home to activate a different Home screen.</string>
+    <string name="safe_mode_retry">Retry</string>
+    <string name="safe_mode_home">Home</string>
+    <string name="sd_install_title">Error</string>
+    <string name="sd_install_text">Installation to a storage card is not supported. Please install SPB Shell 3D to the main memory</string>
+    <string name="contacts_failed_pick">Failed to load the selected contact. Try to link the contact to Google account or save it to phone.</string>
+</resources>

@@ -1,0 +1,19 @@
+HKEY_CURRENT_USER
+{
+  NoRemove Software
+  {
+    NoRemove 'Spb Software'
+    {
+      NoRemove 'SPB Shell 3D'
+      {
+        val InstallDir = s '%INSTALLDIR%'
+
+        NoRemove 'Gl'
+        {
+          val 'ShowFPS' = d '1'
+          val 'StereoMode' = d '0'
+        }
+      }
+    }
+  }
+}

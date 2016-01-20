@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skin>
+  <items>
+    <item DontScale="1"> <!-- will be scaled according to android system dpi -->
+      <Point Name="CellSize" X="80" Y="100"/> <!--taken from Launcher2/res/value-xxx/dimens.xml -->
+    </item>
+  </items>
+</skin>

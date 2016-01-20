@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SPB Shell 3D</string>
+    <string name="weather_city_title">Commencez à tapez pour activer la complétion automatique</string>
+    <string name="weather_enter_city_name">"Tapez le nom d'une ville"</string>
+    <string name="weather_more_cities">Plus...</string>
+    <string name="weather_locate_nearest_city">Trouver ville la plus proche</string>
+    <string name="weather_current_location">Emplacement actuelle</string>
+    <string name="searching_city_title">Positionement</string>
+    <string name="searching_city_progress">Recherche des villes à proximité...</string>
+    <string name="city_location_failed">Échoué à trouver une ville à proximité</string>
+    <string name="dialog_shell_loading">SPB Shell 3D est en cours de chargement...</string>
+    <string name="gadget_error_text">Problème en chageant le gadget</string>
+    <string name="dialog_select_shortcut">Sélectionner raccourci</string>
+    <string name="dialog_choose_widget">Choisir Gadget</string>
+    <string name="chooser_wallpaper">"Sélectionner fond d'écran depuis"</string>
+    <string name="wallpaper_instructions">"Définir fond d'écran"</string>
+    <string name="pick_wallpaper">"Fonds d'écran"</string>
+    <string name="wallpapers_spb">SPB Wallpapers</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="wait">Patientez.</string>
+    <string name="home_widget_error">Le gadget est trop grand pour être ajouté.</string>
+    <string name="cancel">Annuler</string>
+    <string name="error">error</string>
+    <string name="infinity">infinity</string>
+    <string name="dialog_unsupported_devices_title">Erreur</string>
+    <string name="dialog_unsupported_devices_message">OpenGl 2.0 est nécessaire pour exécuter SPB Shell 3D</string>
+    <string name="license_fail">"Malheureusement, nous ne pouvons pas trouver votre achat dans l'Android Marketing. Désinstallez cette copie avant d'en installer une nouvelle."</string>
+    <string name="purchase">Acheter</string>
+    <string name="exit">Quitter</string>
+    <string name="legal_notices_title">Notes légales</string>
+    <string name="license_fail_handango">"Malheureusement, nous ne trouvons pas votre achat. Désinstallez cette copy avant d'en installer une nouvelle."</string>
+    <string name="safe_mode_title">Mode sans échec</string>
+    <string name="safe_mode_text">"Le premier lancement de SPB Shell 3D n'a pas réussi. Tapez sur \"Réessayer\" pour le lancer à nouveau ou sur \"Accueil\" pour activer un écran d'accueil différent."</string>
+    <string name="safe_mode_retry">Réessayer</string>
+    <string name="safe_mode_home">Accueil</string>
+    <string name="sd_install_title">Erreur</string>
+    <string name="sd_install_text">Installation to a storage card is not supported. Please install SPB Shell 3D to the main memory</string>
+    <string name="contacts_failed_pick">"Impossible de charger le contact sélectionné. Essayez d'associer le contact avec compte Google ou l'enregistrer sur le téléphone."</string>
+</resources>

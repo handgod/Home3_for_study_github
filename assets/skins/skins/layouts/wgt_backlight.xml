@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+
+<Layouts Name="Backlight Widget" Type="widget">
+
+<!-- **************************************************************************************************** -->
+
+  <Rules>
+    <PlatformCondition Platform="tablets">
+      <ScreenCondition Orientation="portrait">
+        <UseLayout Name="TP"/>
+      </ScreenCondition>
+	    <Default>
+	      <UseLayout Name="TL"/>
+	    </Default>
+    </PlatformCondition>
+    <PlatformCondition Platform="smartphone">
+      <ScreenCondition Orientation="portrait">
+        <UseLayout Name="SP"/>
+      </ScreenCondition>
+	    <Default>
+	      <UseLayout Name="SL"/>
+	    </Default>
+    </PlatformCondition>
+    <Default>
+      <UseLayout Name="SP"/>
+    </Default>
+  </Rules>
+
+<!-- **************************************************************************************************** -->
+
+<General>
+  <Skin AutoSkin="wgt_backlight"/>
+</General>
+
+<!-- **************************************************************************************************** -->
+
+<Layout Name="SP">
+  <General>
+    <Int Name="level_images_count" Value="4" />
+  </General>
+	 	<Frame Width="fill" Height="fill">
+			<Plugin Width="fill" Height="fill" Name="wgt_frame" Class="Spb.LSP.StdFrame"/>
+			<Col Width="fill" Height="fill" Name="col">
+				<Col Name="header" Width="fill" Height="auto"/>
+		    <Row Dynamic="1" ID="100" Width="fill" Height="fill" Margins="3" StretchFactor="1">
+		      <Plugin Name="icon" ID="0" Width="fill" Height="fill" StretchFactor="1"/>
+		    </Row>
+			</Col>
+		</Frame>
+</Layout>
+
+<!-- **************************************************************************************************** -->
+
+<Layout Name="SL">
+  <General>
+  </General>
+  <Plugins Extends="SP"/>
+</Layout>
+
+<Layout Name="TL">
+	<Plugins Extends="SP">
+		<Col Name="col">
+			<Col Name="header">
+				<Fix Name="header_backgrd" Width="fill" Height="24">
+			    <Plugins Extends="common:WidgetHeader"/>
+					<Plugin Name="Caption" Class="Spb.LSP.Text"
+					        Width="fill" Height="auto" Align="center">
+	    			<DefaultFont Face="Droid Sans" HeightPxl="12" Bold="n" Color="FFFFFFFF"/>   
+						<Int Name="DialogData" Value="0"/>
+    				<String Name="Text" Value="Backlight"/>
+					</Plugin>
+			  </Fix>
+			</Col>
+		</Col>
+	</Plugins>
+</Layout>
+
+<Layout Name="TP">
+  <General>
+  </General>
+  <Plugins Extends="SP"/>
+</Layout>
+
+<!-- **************************************************************************************************** -->
+
+</Layouts>

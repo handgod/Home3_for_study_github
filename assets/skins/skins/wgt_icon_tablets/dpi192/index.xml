@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<skin Name="Iconic View (tablets)">
+  <items>
+    <item>
+      <Font Name="Text" Face="Droid Sans" HeightPxl="8" Bold="n" Color="FFFFFFFF"/>
+	  
+      <Point Name="MinSize"    X="40" Y="30"/>
+      <Point Name="NormalSize" X="52" Y="66"/>
+      <Rect Name="IconRect"    X="8" Y="8"  Width="36" Height="36"/>
+      <Rect Name="TextRect"    X="4" Y="48" Width="44" Height="10"/>
+      <Rect Name="TextRectMultiline"    X="4" Y="48" Width="44" Height="24"/>
+      <Rect Name="ShadeRect"   X="2" Y="48" Width="48" Height="10"/>
+
+      <Point Name="HMinSize"    X="50" Y="36"/>
+      <Point Name="HNormalSize" X="100" Y="70"/>
+      <Rect  Name="HIconRect"   X="4" Y="17"  Width="36" Height="36"/>
+      <Rect  Name="HTextRect"   X="40" Y="43" Width="56" Height="10"/>
+      <Rect  Name="HTextRectMultiline"    X="40" Y="43" Width="56" Height="10"/>
+      <Rect  Name="HShadeRect"  X="40" Y="43" Width="60" Height="10"/>
+	  
+      <Image Name="badge.bg" File="badge_bg.png" />
+      <Font Name="badge.font" Face="Droid Sans" HeightPxl="10" Bold="n" Color="FFFFFFFF"/>
+      <Point Name="badge.bigsize" X="10" Y="16"/>
+      <Point Name="badge.smallsize" X="8" Y="14"/>
+      
+      <Image Name="Selector"   File="selector.png" />
+    </item>                 
+    <item DontScale="1">
+      <Point Name="badge.corner" X="7" Y="7"/>
+      <Image Name="Corners" File="corners.png" X="0" Y="0" Width="12" Height="29" />
+    </item>
+  </items>
+</skin>

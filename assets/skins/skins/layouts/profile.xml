@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+
+<Layouts Name="Profile Widget" Type="widget">
+
+  <Layers>
+    <Layer Name="Frame" Dialog="BackgrdFrame"/>
+    <Layer/>
+  </Layers>
+  <Rules>
+    <Default>
+      <UseLayout Name="240x400"/>
+    </Default>
+  </Rules>
+
+  <General>
+    <Font Name="Default" Face="Droid Sans" HeightPxl="12" Bold="y" Color="FFFFFFFF"/>
+    <Skin AutoSkin="wgt_profile"/>
+  </General>
+
+  <Layout Name="240x400">
+    <Col  Width="auto" Height="auto">
+      <Plugin Name="Profile" Class="Spb.LSP.Profile" Width="195" Height="70">
+        <Rect Name="All" X="0" Y="0"  Width="195" Height="70"/>
+        <Rect Name="Vol" X="2" Y="27" Width="30"  Height="10"/>
+      </Plugin>
+      <Plugin Name="DashLine" Class="Spb.LSP.DashLine" Width="195" Height="1">
+      </Plugin>
+      <Frame Width="fill" Height="auto">
+        <Plugin Name="Button" ID="1" Class="Spb.LSP.Image" Width="147" Height="36" Margins="3" Align="center_vert|center">
+          <Int Name="DialogData" Value="0"/>
+          <String Name="ImageName" Value="button"/>
+        </Plugin>
+        <Plugin Name="SettingsText" ID="2" Class="Spb.LSP.Text" Width="auto" Height="auto" Align="center_vert|center">
+          <Int Name="DialogData" Value="1"/>
+          <DefaultFont Face="Droid Sans" HeightPxl="14" Bold="n" Color="FFFFFFFF"/>
+        </Plugin>
+      </Frame>
+    </Col>
+  </Layout>
+
+</Layouts>

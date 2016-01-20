@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skin name="Time Panel" Type="panel">
+	<items>
+		<item DontScale="1">
+      <Image Name="index" File="index.png"/>
+		</item>
+		<item id="Clock" class="CLOCK" BaseDpi="192">
+			<Point Name="ACFaceCenter" X="160" Y="159"/>
+			<Point Name="ACHourCenter" X="11" Y="11"/>
+			<Point Name="ACMinuteCenter" X="11" Y="32"/>
+		</item>
+
+		<item id="Clock" class="CLOCK" DontScale="1">
+			<Rect Name="ACHour" X="0" Y="0" Width="93" Height="21"/>
+			<Rect Name="ACMinute" X="0" Y="21" Width="136" Height="21"/>
+			<Bitmap Name="ACHands" Image="hands.png"/>
+			<Bitmap Name="ACFace" Image="clock.png"/>
+		</item>
+	</items>
+</skin>

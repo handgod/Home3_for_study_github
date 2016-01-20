@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skin Name="Navigation Bar">
+  <items>
+    <item DontScale="1">
+      <Image Name="SliderBtn" File="slider-btn.png"/>
+      <Image Name="SliderBtnTapped" File="slider-btn-tapped.png"/>
+      <Image Name="Background" File="toolbar.png"/>
+      <Rect  Name="Background_9Patch" X="0" Y="0" Width="100" Height="16"/>
+    </item>
+  </items>
+</skin>

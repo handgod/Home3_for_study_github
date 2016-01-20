@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Layouts>
+
+  <Layers>
+    <Layer Name="Background" Dialog="PopupBackgrd"/>
+    <Layer Name="Frame" Dialog="BackgrdFrame"/>
+    <Layer/>
+  </Layers>
+
+  <Rules>
+    <UseLayout Name="Portrait"/>
+  </Rules>
+
+  <General>
+    <Int Name="LineSize" Value="3"/>
+    <Skin AutoSkin="wallpapers/default"/>
+    <ScrollY Value="Auto"/>
+  </General>
+
+  <Layout Name="Default">
+    <Plugins>
+
+      <Group Name="Vert" ID="10">
+        <Plugins>
+          <Group Name="Horz" ID="11">
+            <Int Name="ByHorz" Value="1"/>
+            <Int Name="MaxSize" Value="3"/>
+            <Plugins>
+              <Plugin Name="Item" ID="12" AutoSkin="misc">
+                <DefaultFont Face="Droid Sans" HeightPxl="11" Bold="y" Color="FFFFFFFF"/>
+              </Plugin>
+            </Plugins>
+          </Group>
+        </Plugins>
+      </Group>
+
+      <Plugin Name="Empty" Class="Spb.LSP.Generic" ID="1000"/>
+
+    </Plugins>
+  </Layout>
+
+  <Layout Name="Portrait">
+    <Plugins Extends="Default">
+
+      <Group Name="Vert">
+        <BoundRect X="0" Y="5" Width="0" Height="0"/>
+        <Plugins>
+          <Group Name="Horz">
+            <Plugins>
+              <Plugin Name="Item">
+                <BoundRect X="0" Y="0" Width="72" Height="70"/>
+                <Rect Name="IconRect" X="19" Y="7" Width="34" Height="38"/>
+                <Rect Name="MarkRect" X="19" Y="5" Width="34" Height="38"/>
+                <Rect Name="TextRect" X="3" Y="47" Width="66" Height="20"/>
+              </Plugin>
+            </Plugins>
+          </Group>
+        </Plugins>
+      </Group>
+
+      <Plugin Name="Empty">
+        <BoundRect X="0" Y="5" Width="0" Height="5"/>
+      </Plugin>
+
+    </Plugins>
+  </Layout>
+
+</Layouts>

@@ -1,0 +1,513 @@
+<?xml version="1.0"?>
+
+<Layouts Name="Weather Widget" Type="widget">
+
+  <Rules>
+    <PlatformCondition Platform="tablets">
+      <ScreenCondition Orientation="portrait">
+        <UseLayout Name="TP"/>
+      </ScreenCondition>
+	    <Default>
+	      <UseLayout Name="TL"/>
+	    </Default>
+    </PlatformCondition>
+    <PlatformCondition Platform="smartphone">
+	    <ScreenCondition Width="320" Height="480">
+	      <UseLayout Name="SP_HVGA"/>
+	    </ScreenCondition>
+	    <ScreenCondition Width="480" Height="320">
+	      <UseLayout Name="SL_HVGA"/>
+	    </ScreenCondition>
+      <ScreenCondition Orientation="portrait">
+        <UseLayout Name="SP"/>
+      </ScreenCondition>
+	    <Default>
+	      <UseLayout Name="SL"/>
+	    </Default>
+    </PlatformCondition>
+    <Default>
+      <UseLayout Name="SP"/>
+    </Default>
+  </Rules>
+
+  <General>
+    <Skin AutoSkin="wgt_weather"/>
+    <DefaultFont Face="Droid Sans" HeightPxl="10" Bold="n" Color="FFFFFFFF"/>    
+    <Int Name="DialogData" Value="1"/>
+    
+    <String Name="CurrCName" Value="096"/>
+    <String Name="FCastName" Value="032"/>
+  </General>
+
+
+
+  <Layout Name="TP">
+    <General>
+      <String Name="CurrCName" Value="096"/>
+      <String Name="FCastName" Value="096"/>
+    </General>
+
+    <Fix Width="fill" Height="fill">
+      <Plugin Name="wgt_frame" Class="Spb.LSP.StdFrame" Width="fill" Height="fill"/>
+      <Col Width="fill" Height="fill" Margins="5">
+        <Row Width="fill" Height="0" Factor="2" Margins="0 3 3 0">
+
+          <Col Width="auto" Height="auto" Factor="1" Margins="0 2 0 0">
+            <Plugin Name="TempCur" Class="Spb.LSP.Text" ID="6"
+                    Width="auto" Height="auto" Align="left" Margins="2">
+              <DefaultFont Face="Droid Sans" HeightPxl="18" Bold="y" Color="FFFFFFFF"/>
+            </Plugin>
+            <Plugin Name="TempSpan" Class="Spb.LSP.Text" ID="7"
+                    Width="auto" Height="auto" Align="left" Margins="2">
+              <DefaultFont Face="Droid Sans" HeightPxl="11" Bold="n" Color="FFFFFFFF"/>
+            </Plugin>
+          </Col>
+
+          <Plugin Name="IconNow" ID="5" Class="Spb.LSP.Image"
+                  Width="auto" Height="auto" Factor="2" Align="center_horz"/>
+
+          <Col Width="auto" Height="fill" Factor="2">
+            <Plugin Name="CurCity" Class="Spb.LSP.Text" ID="8"
+                    Width="fill" Height="auto" Factor="1" Margins="2">
+								<Int Name="Align" Value="6"/> <!-- DT_RIGHT|DT_VCENTER -->
+						</Plugin>
+            <Plugin Name="UpdDate" Class="Spb.LSP.Text" ID="30"
+                    Width="auto" Height="auto" Factor="1" Margins="2" Align="right"/>
+          </Col>
+        </Row>
+
+        <Plugin Name="Separat" Class="Spb.LSP.Separator" Width="fill" Height="1" Margins="0 0 0 4">
+          <Int Name="Side" Value="3"/>
+        </Plugin>
+
+        <Row Width="fill" Height="0" Factor="3">
+          <Col Width="fill" Height="fill" Align="horz_center" Factor="1">
+            <Plugin Name="WDayFC0" Class="Spb.LSP.Text" ID="20"
+                    Width="fill" Height="auto"/>
+            <Plugin Name="IconFC0" ID="0" Class="Spb.LSP.Image"
+                    Width="fill" Height="auto"/>
+            <Plugin Name="TempFC0" Class="Spb.LSP.Text" ID="10"
+                    Width="fill" Height="auto"/>
+          </Col>
+
+          <Col Width="fill" Height="fill" Align="horz_center" Factor="1">
+            <Plugin Name="WDayFC1" Class="Spb.LSP.Text" ID="21"
+                    Width="fill" Height="auto"/>
+            <Plugin Name="IconFC1" ID="1" Class="Spb.LSP.Image"
+                    Width="fill" Height="auto"/>
+            <Plugin Name="TempFC1" Class="Spb.LSP.Text" ID="11"
+                    Width="fill" Height="auto"/>
+          </Col>
+
+          <Col Width="fill" Height="fill" Align="horz_center" Factor="1">
+            <Plugin Name="WDayFC2" Class="Spb.LSP.Text" ID="22"
+                    Width="fill" Height="auto"/>
+            <Plugin Name="IconFC2" ID="2" Class="Spb.LSP.Image"
+                    Width="fill" Height="auto"/>
+            <Plugin Name="TempFC2" Class="Spb.LSP.Text" ID="12"
+                    Width="fill" Height="auto"/>
+          </Col>
+        </Row>
+      </Col>
+    </Fix>
+  </Layout>
+
+  <Layout Name="TL">
+    <General>
+      <String Name="CurrCName" Value="096"/>
+      <String Name="FCastName" Value="032"/>
+    </General>
+
+    <Fix Width="fill" Height="fill">
+      <Plugin Name="wgt_frame" Class="Spb.LSP.StdFrame" Width="fill" Height="fill"/>
+      <Col Width="fill" Height="fill" Margins="5">        
+        <Row Width="fill" Height="0" Factor="1" Margins="0 9 6 2">
+
+          <Col Width="auto" Height="fill" Factor="2" Margins="3 0 0 0">
+            <Plugin Name="TempCur" Class="Spb.LSP.Text" ID="6"
+                    Width="auto" Height="auto" Margins="2" Align="left">
+              <DefaultFont Face="Droid Sans" HeightPxl="20" Bold="n" Color="FFFFFFFF"/>
+            </Plugin>
+            <Plugin Name="TempSpan" Class="Spb.LSP.Text" ID="7"
+                    Width="auto" Height="auto" Margins="2" Align="left">
+              <DefaultFont Face="Droid Sans" HeightPxl="11" Bold="n" Color="FFA9A9A9"/>
+            </Plugin>
+          </Col>
+          
+          <Plugin Name="IconNow" ID="5" Class="Spb.LSP.Image"
+                  Width="auto" Height="auto" Factor="1" Margins=" 0 0 0 3"/>
+
+          <Col Width="auto" Height="auto" Factor="2" Margins="3 0 0 0">
+            <Plugin Name="UpdDate" Class="Spb.LSP.Text" ID="30"
+                    Width="auto" Height="auto" Margins="1" Align="right"/>
+            <Plugin Name="CurCity" Class="Spb.LSP.Text" ID="8"
+                    Width="fill" Height="auto" Margins="1" Align="right">
+								<Int Name="Align" Value="6"/> <!-- DT_RIGHT|DT_VCENTER -->
+						</Plugin>
+            <Plugin Name="UpdTime" Class="Spb.LSP.Text" ID="31"
+                    Width="auto" Height="auto" Margins="1" Align="right">
+              <DefaultFont Face="Droid Sans" HeightPxl="10" Bold="n" Color="FFA9A9A9"/>
+            </Plugin>
+          </Col>
+        </Row>
+        
+        <Plugin Name="Separat" Class="Spb.LSP.Separator" Width="fill" Height="1" Margins="3 0 0 0">
+          <Int Name="Side" Value="3"/>
+        </Plugin>
+
+        <Row Width="fill" Height="0" Factor="1" Margins="2 0 0 0">
+				 <Row Width="fill" Height="auto" Align="center_vert">
+          <Plugin Name="IconFC0" ID="0" Class="Spb.LSP.Image"
+                  Width="auto" Height="auto" Margins="3 0 1 3"/>
+          <Col Width="auto" Height="fill" Align="horz_center">
+            <Plugin Name="WDayFC0" Class="Spb.LSP.Text" ID="20"
+                    Width="auto" Height="auto"/>
+            <Plugin Name="TempFC0" Class="Spb.LSP.Text" ID="10"
+                    Width="auto" Height="auto"/>
+          </Col>
+				 </Row>	
+
+				 <Row Width="fill" Height="auto" Align="center_vert">
+          <Plugin Name="IconFC1" ID="1" Class="Spb.LSP.Image"
+                  Width="auto" Height="auto" Margins="3 0 1 3"/>
+          <Col Width="auto" Height="fill" Align="horz_center">
+            <Plugin Name="WDayFC1" Class="Spb.LSP.Text" ID="21"
+                    Width="auto" Height="auto"/>
+            <Plugin Name="TempFC1" Class="Spb.LSP.Text" ID="11"
+                    Width="auto" Height="auto"/>
+          </Col>
+				 </Row>	
+
+				 <Row Width="fill" Height="auto" Align="center_vert">
+          <Plugin Name="IconFC2" ID="2" Class="Spb.LSP.Image"
+                  Width="auto" Height="auto" Margins="3 0 1 3"/>
+          <Col Width="auto" Height="fill" Align="horz_center">
+            <Plugin Name="WDayFC2" Class="Spb.LSP.Text" ID="22"
+                    Width="auto" Height="auto"/>
+            <Plugin Name="TempFC2" Class="Spb.LSP.Text" ID="12"
+                    Width="auto" Height="auto"/>
+          </Col>
+				 </Row>	
+
+				 <Row Width="fill" Height="auto" Align="center_vert">
+          <Plugin Name="IconFC3" ID="3" Class="Spb.LSP.Image"
+                  Width="auto" Height="auto" Margins="3 0 1 3"/>
+          <Col Width="auto" Height="fill" Align="horz_center">
+            <Plugin Name="WDayFC3" Class="Spb.LSP.Text" ID="23"
+                    Width="auto" Height="auto"/>
+            <Plugin Name="TempFC3" Class="Spb.LSP.Text" ID="13"
+                    Width="auto" Height="auto"/>
+          </Col>
+				 </Row>	
+        </Row>
+      </Col>
+    </Fix>
+  </Layout>
+
+  <Layout Name="SP">
+    <General>
+      <String Name="CurrCName" Value="096"/>
+      <String Name="FCastName" Value="032"/>
+    </General>
+
+    <Fix Width="fill" Height="fill">
+      <Plugin Name="wgt_frame" Class="Spb.LSP.StdFrame" Width="fill" Height="fill"/>
+      <Col Width="fill" Height="fill" Margins="0 0 0 3">        
+        <Row Width="fill" Height="auto" Margins="2 6 4 0" Factor="1">
+
+          <Col Width="auto" Height="fill" Factor="2" Margins="1">
+            <Plugin Name="TempCur" Class="Spb.LSP.Text" ID="6"
+                    Width="auto" Height="auto" Margins="2" Align="left">
+              <DefaultFont Face="Droid Sans" HeightPxl="18" Bold="n" Color="FFFFFFFF"/>
+            </Plugin>
+            <Plugin Name="TempSpan" Class="Spb.LSP.Text" ID="7"
+                    Width="auto" Height="auto" Margins="2" Align="left">
+              <DefaultFont Face="Droid Sans" HeightPxl="11" Bold="n" Color="FFA9A9A9"/>
+            </Plugin>
+          </Col>
+          
+          <Plugin Name="IconNow" ID="5" Class="Spb.LSP.Image"
+                  Width="auto" Height="fill" Factor="1"/>
+
+          <Col Width="auto" Height="auto" Factor="2" Margins="1">
+            <Plugin Name="UpdDate" Class="Spb.LSP.Text" ID="30"
+                    Width="auto" Height="14" Margins="0 1 1 0" Align="right"/>
+            <Plugin Name="CurCity" Class="Spb.LSP.Text" ID="8"
+                    Width="fill" Height="14" Margins="0 1 1 0" Align="right">
+								<Int Name="Align" Value="6"/> <!-- DT_RIGHT|DT_VCENTER -->
+						</Plugin>
+            <Plugin Name="UpdTime" Class="Spb.LSP.Text" ID="31"
+                    Width="auto" Height="14" Margins="0 1 1 0" Align="right">
+              <DefaultFont Face="Droid Sans" HeightPxl="10" Bold="n" Color="FFA9A9A9"/>
+            </Plugin>
+          </Col>
+        </Row>
+        
+        <Plugin Name="Separat" Class="Spb.LSP.Separator" Width="fill" Height="1">
+          <Int Name="Side" Value="3"/>
+        </Plugin>
+
+        <Row Width="fill" Height="auto" Margins="1 5 5 1">
+					<Row Width="0" Height="auto" Factor="1">
+	          <Plugin Name="IconFC0" ID="0" Class="Spb.LSP.Image" Margins="0"
+	                  Width="auto" Height="auto" Align="center_vert"/>
+						<Col Width="fill" Height="auto">
+	            <Plugin Name="WDayFC0" Class="Spb.LSP.Text" ID="20"
+	                    Width="auto" Height="auto"/>
+	            <Plugin Name="TempFC0" Class="Spb.LSP.Text" ID="10"
+	                    Width="fill" Height="auto">
+								<Int Name="Align" Value="4"/> <!-- DT_LEFT|DT_VCENTER -->
+							</Plugin>
+						</Col>
+					</Row>
+
+					<Row Width="0" Height="auto" Factor="1">
+	          <Plugin Name="IconFC1" ID="1" Class="Spb.LSP.Image" Margins="0"
+	                  Width="auto" Height="auto" Align="center_vert"/>
+						<Col Width="fill" Height="auto">
+	            <Plugin Name="WDayFC1" Class="Spb.LSP.Text" ID="21"
+	                    Width="auto" Height="auto"/>
+	            <Plugin Name="TempFC1" Class="Spb.LSP.Text" ID="11"
+	                    Width="fill" Height="auto">
+								<Int Name="Align" Value="4"/> <!-- DT_LEFT|DT_VCENTER -->
+							</Plugin>
+						</Col>
+					</Row>
+
+					<Row Width="0" Height="auto" Factor="1">
+	          <Plugin Name="IconFC2" ID="2" Class="Spb.LSP.Image" Margins="0"
+	                  Width="auto" Height="auto" Align="center_vert"/>
+						<Col Width="fill" Height="auto">
+	            <Plugin Name="WDayFC2" Class="Spb.LSP.Text" ID="22"
+	                    Width="auto" Height="auto"/>
+	            <Plugin Name="TempFC2" Class="Spb.LSP.Text" ID="12"
+	                    Width="fill" Height="auto">
+								<Int Name="Align" Value="4"/> <!-- DT_LEFT|DT_VCENTER -->
+							</Plugin>
+						</Col>
+					</Row>
+
+					<Row Width="0" Height="auto" Factor="1">
+	          <Plugin Name="IconFC3" ID="3" Class="Spb.LSP.Image" Margins="0"
+	                  Width="auto" Height="auto" Align="center_vert"/>
+						<Col Width="fill" Height="auto">
+	            <Plugin Name="WDayFC3" Class="Spb.LSP.Text" ID="23"
+	                    Width="auto" Height="auto"/>
+	            <Plugin Name="TempFC3" Class="Spb.LSP.Text" ID="13"
+	                    Width="fill" Height="auto">
+								<Int Name="Align" Value="4"/> <!-- DT_LEFT|DT_VCENTER -->
+							</Plugin>
+						</Col>
+					</Row>
+
+        </Row>
+      </Col>
+    </Fix>
+  </Layout>
+	
+	<Layout Name="SP_HVGA">
+    <General>
+      <String Name="CurrCName" Value="072"/>
+      <String Name="FCastName" Value="032"/>
+    </General>
+		
+    <Fix Width="fill" Height="fill">
+      <Plugin Name="wgt_frame" Class="Spb.LSP.StdFrame" Width="fill" Height="fill"/>
+      <Col Width="fill" Height="fill" Margins="0 0 0 3">        
+        <Row Width="fill" Height="auto" Margins="0 6 4 0" Factor="1">
+
+          <Col Width="auto" Height="fill" Factor="2" Margins="0 1 1 0">
+            <Plugin Name="TempCur" Class="Spb.LSP.Text" ID="6"
+                    Width="auto" Height="auto" Margins="1" Align="left">
+              <DefaultFont Face="Droid Sans" HeightPxl="18" Bold="n" Color="FFFFFFFF"/>
+            </Plugin>
+            <Plugin Name="TempSpan" Class="Spb.LSP.Text" ID="7"
+                    Width="auto" Height="auto" Align="left">
+              <DefaultFont Face="Droid Sans" HeightPxl="11" Bold="n" Color="FFA9A9A9"/>
+            </Plugin>
+          </Col>
+          
+          <Plugin Name="IconNow" ID="5" Class="Spb.LSP.Image"
+                  Width="auto" Height="fill" Factor="1"/>
+
+          <Col Width="auto" Height="auto" Factor="2" Margins="0 1 1 0">
+            <Plugin Name="UpdDate" Class="Spb.LSP.Text" ID="30"
+                    Width="auto" Height="auto" Align="right"/>
+            <Plugin Name="CurCity" Class="Spb.LSP.Text" ID="8"
+                    Width="fill" Height="auto" Margins="1 0 0 1" Align="right">
+								<Int Name="Align" Value="6"/> <!-- DT_RIGHT|DT_VCENTER -->
+						</Plugin>
+            <Plugin Name="UpdTime" Class="Spb.LSP.Text" ID="31"
+                    Width="auto" Height="auto" Align="right">
+              <DefaultFont Face="Droid Sans" HeightPxl="10" Bold="n" Color="FFA9A9A9"/>
+            </Plugin>
+          </Col>
+        </Row>
+        
+        <Plugin Name="Separat" Class="Spb.LSP.Separator" Width="fill" Height="1">
+          <Int Name="Side" Value="3"/>
+        </Plugin>
+
+        <Row Width="fill" Height="auto" Margins="0 4 4 0">
+					<Row Width="0" Height="auto" Factor="1">
+	          <Plugin Name="IconFC0" ID="0" Class="Spb.LSP.Image" Margins="2"
+	                  Width="auto" Height="auto" Align="center_vert"/>
+						<Col Width="fill" Height="auto">
+	            <Plugin Name="WDayFC0" Class="Spb.LSP.Text" ID="20"
+	                    Width="auto" Height="auto"/>
+	            <Plugin Name="TempFC0" Class="Spb.LSP.Text" ID="10"
+	                    Width="fill" Height="auto"/>
+						</Col>
+					</Row>
+
+					<Row Width="0" Height="auto" Factor="1">
+	          <Plugin Name="IconFC1" ID="1" Class="Spb.LSP.Image" Margins="2"
+	                  Width="auto" Height="auto" Align="center_vert"/>
+						<Col Width="fill" Height="auto">
+	            <Plugin Name="WDayFC1" Class="Spb.LSP.Text" ID="21"
+	                    Width="auto" Height="auto"/>
+	            <Plugin Name="TempFC1" Class="Spb.LSP.Text" ID="11"
+	                    Width="fill" Height="auto"/>
+						</Col>
+					</Row>
+
+					<Row Width="0" Height="auto" Factor="1">
+	          <Plugin Name="IconFC2" ID="2" Class="Spb.LSP.Image" Margins="2"
+	                  Width="auto" Height="auto" Align="center_vert"/>
+						<Col Width="fill" Height="auto">
+	            <Plugin Name="WDayFC2" Class="Spb.LSP.Text" ID="22"
+	                    Width="auto" Height="auto"/>
+	            <Plugin Name="TempFC2" Class="Spb.LSP.Text" ID="12"
+	                    Width="fill" Height="auto"/>
+						</Col>
+					</Row>
+
+					<Row Width="0" Height="auto" Factor="1">
+	          <Plugin Name="IconFC3" ID="3" Class="Spb.LSP.Image" Margins="2"
+	                  Width="auto" Height="auto" Align="center_vert"/>
+						<Col Width="fill" Height="auto">
+	            <Plugin Name="WDayFC3" Class="Spb.LSP.Text" ID="23"
+	                    Width="auto" Height="auto"/>
+	            <Plugin Name="TempFC3" Class="Spb.LSP.Text" ID="13"
+	                    Width="fill" Height="auto"/>
+						</Col>
+					</Row>
+
+        </Row>
+      </Col>
+    </Fix>
+	</Layout>
+
+  <Layout Name="SL">
+    <General>
+      <String Name="CurrCName" Value="096"/>
+      <String Name="FCastName" Value="032"/>
+    </General>
+
+    <Fix Width="fill" Height="fill">
+      <Plugin Name="wgt_frame" Class="Spb.LSP.StdFrame" Width="fill" Height="fill"/>
+      <Row Width="fill" Height="fill" Margins="2 6 4 0">
+			
+				<Row Width="0" Height="auto" Factor="6">
+	        <Col Width="0" Height="auto" Align="center_vert" Factor="2" Margins="1">
+	          <Plugin Name="TempCur" Class="Spb.LSP.Text" ID="6"
+	                  Width="auto" Height="auto" Margins="2" Align="left">
+	            <DefaultFont Face="Droid Sans" HeightPxl="18" Bold="n" Color="FFFFFFFF"/>
+	          </Plugin>
+	          <Plugin Name="TempSpan" Class="Spb.LSP.Text" ID="7"
+	                  Width="auto" Height="auto" Margins="2" Align="left">
+	            <DefaultFont Face="Droid Sans" HeightPxl="11" Bold="n" Color="FFA9A9A9"/>
+	          </Plugin>
+	        </Col>
+	        
+	        <Plugin Name="IconNow" ID="5" Class="Spb.LSP.Image"
+	                Width="auto" Height="auto" Align="center_vert" Factor="1"/>
+
+	        <Col Width="0" Height="auto" Align="center_vert" Factor="4" Margins="1">
+	          <Plugin Name="UpdDate" Class="Spb.LSP.Text" ID="30"
+	                  Width="auto" Height="auto" Margins="1" Align="right"/>
+	          <Plugin Name="CurCity" Class="Spb.LSP.Text" ID="8"
+	                  Width="fill" Height="auto" Margins="1" Align="right">
+								<Int Name="Align" Value="6"/> <!-- DT_RIGHT|DT_VCENTER -->
+						</Plugin>
+	          <Plugin Name="UpdTime" Class="Spb.LSP.Text" ID="31"
+	                  Width="auto" Height="auto" Margins="1" Align="right">
+	            <DefaultFont Face="Droid Sans" HeightPxl="10" Bold="n" Color="FFA9A9A9"/>
+	          </Plugin>
+	        </Col>
+				</Row>
+				
+        <Plugin Name="Separat" Class="Spb.LSP.Separator" Width="1" Height="fill" Margins="0 3 3 0">
+          <Int Name="Side" Value="1"/>
+        </Plugin>
+			
+			  <Col Width="0" Height="fill" Factor="3">
+          <Row Width="fill" Height="0" Align="center_horz" Factor="1">
+              <Plugin Name="IconFC1" ID="1" Class="Spb.LSP.Image"
+                      Width="auto" Height="auto" Margins="3" Align="center_horz"/>
+              <Plugin Name="WDayFC1" Class="Spb.LSP.Text" ID="21"
+                      Width="auto" Height="auto" Align="center_vert"/>
+              <Plugin Name="Comma" Class="Spb.LSP.Text"
+                      Width="auto" Height="auto" Align="center_vert">
+    						<Int Name="DialogData" Value="0"/>
+    						<String Name="Text" Value=",  "/>
+							</Plugin>
+              <Plugin Name="TempFC1" Class="Spb.LSP.Text" ID="11"
+                      Width="fill" Height="auto" Align="center_vert"/>
+          </Row>
+          <Row Width="fill" Height="0" Align="center_horz" Factor="1">
+              <Plugin Name="IconFC3" ID="3" Class="Spb.LSP.Image"
+                      Width="auto" Height="auto" Margins="3" Align="center_horz"/>
+              <Plugin Name="WDayFC3" Class="Spb.LSP.Text" ID="23"
+                      Width="auto" Height="auto" Align="center_vert"/>
+              <Plugin Name="Comma" Class="Spb.LSP.Text"
+                      Width="auto" Height="auto" Align="center_vert">
+    						<Int Name="DialogData" Value="0"/>
+    						<String Name="Text" Value=",  "/>
+							</Plugin>
+              <Plugin Name="TempFC3" Class="Spb.LSP.Text" ID="13"
+                      Width="fill" Height="auto" Align="center_vert"/>
+          </Row>
+        </Col>
+        <Col Width="0" Height="fill" Factor="3">
+          <Row Width="fill" Height="0" Align="center_horz" Factor="1">
+              <Plugin Name="IconFC2" ID="2" Class="Spb.LSP.Image"
+                      Width="auto" Height="auto" Margins="3" Align="center_horz"/>
+              <Plugin Name="WDayFC2" Class="Spb.LSP.Text" ID="22"
+                      Width="auto" Height="auto" Align="center_vert"/>
+              <Plugin Name="Comma" Class="Spb.LSP.Text"
+                      Width="auto" Height="auto" Align="center_vert">
+    						<Int Name="DialogData" Value="0"/>
+    						<String Name="Text" Value=",  "/>
+							</Plugin>
+              <Plugin Name="TempFC2" Class="Spb.LSP.Text" ID="12"
+                      Width="fill" Height="auto" Align="center_vert"/>
+          </Row>
+          <Row Width="fill" Height="0" Align="center_horz" Factor="1">
+              <Plugin Name="IconFC4" ID="4" Class="Spb.LSP.Image"
+                      Width="auto" Height="auto" Margins="3" Align="center_horz"/>
+              <Plugin Name="WDayFC4" Class="Spb.LSP.Text" ID="24"
+                      Width="auto" Height="auto" Align="center_vert"/>
+              <Plugin Name="Comma" Class="Spb.LSP.Text"
+                      Width="auto" Height="auto" Align="center_vert">
+    						<Int Name="DialogData" Value="0"/>
+    						<String Name="Text" Value=",  "/>
+							</Plugin>
+              <Plugin Name="TempFC4" Class="Spb.LSP.Text" ID="14"
+                      Width="fill" Height="auto" Align="center_vert"/>
+          </Row>
+        </Col>
+			</Row>
+    </Fix>
+  </Layout>
+	
+  <Layout Name="SL_HVGA">
+    <General>
+      <String Name="CurrCName" Value="072"/>
+      <String Name="FCastName" Value="032"/>
+    </General>
+
+    <Plugins Extends="SL"/>
+	</Layout>
+
+</Layouts>

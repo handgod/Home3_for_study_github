@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SPB Shell 3D</string>
+    <string name="dialog_shell_loading">Sedang muat SPB Shell 3D...</string>
+    <string name="gadget_error_text">Masalah memuat perkakas</string>
+    <string name="dialog_select_shortcut">Pilih pintasan</string>
+    <string name="dialog_choose_widget">Pilih Perkakas</string>
+    <string name="chooser_wallpaper">Pilih kertas dinding dari</string>
+    <string name="wallpaper_instructions">Atur Kertas Dinding</string>
+    <string name="pick_wallpaper">Kertas Dinding</string>
+    <string name="wallpapers_spb">Kertas Dinding SPB</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="wait">Mohon ditunggu...</string>
+    <string name="home_widget_error">Perkakas terlalu besar untuk ditambah</string>
+    <string name="cancel">Batal</string>
+    <string name="error">error</string>
+    <string name="infinity">infinity</string>
+    <string name="dialog_unsupported_devices_title">Kesalahan</string>
+    <string name="dialog_unsupported_devices_message">OpenGL 2.0 diperlukan untuk menjalankan SPB Shell 3D</string>
+    <string name="license_fail">Maaf, kami tidak dapat menemukan pembelian Anda di Pasar Android, mohon hapus salinan ini sebelum instal yang baru.</string>
+    <string name="purchase">Pembelian</string>
+    <string name="exit">Keluar</string>
+    <string name="legal_notices_title">Pemberitahuan resmi</string>
+    <string name="license_fail_handango">Maaf, kami tidak dapat menemukan pembelian Anda di Pasar Android, mohon hapus salinan ini sebelum instal yang baru.</string>
+    <string name="safe_mode_title">Moda Aman</string>
+    <string name="safe_mode_text">Peluncuran SPB Shell 3D sebelumnya gagal, mohon pilih \"Coba lagi\" untuk peluncuran kembali atau \"Beranda\" untuk mengaktifkan layar beranda lain.</string>
+    <string name="safe_mode_retry">Coba Lagi</string>
+    <string name="safe_mode_home">Beranda</string>
+    <string name="sd_install_title">Kesalahan</string>
+    <string name="sd_install_text">Installation to a storage card is not supported. Please install SPB Shell 3D to the main memory</string>
+    <string name="contacts_failed_pick">Failed to load the selected contact. Try to link the contact to Google account or save it to phone.</string>
+</resources>

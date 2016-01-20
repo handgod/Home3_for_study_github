@@ -1,0 +1,250 @@
+<?xml version="1.0"?>
+
+<Layouts Name="Birthday Widget" Type="widget">
+
+  <!-- **************************************************************************************************** -->
+
+  <Rules>
+    <PlatformCondition Platform="tablets">
+      <ScreenCondition Orientation="landscape">
+        <UseLayout Name="Tablets_Land"/>
+      </ScreenCondition>
+      <Default>
+        <UseLayout Name="Tablets_Port"/>
+      </Default>
+    </PlatformCondition>
+    <ScreenCondition Orientation="landscape">
+      <UseLayout Name="Landscape"/>
+    </ScreenCondition>
+    <Default>
+      <UseLayout Name="Portrait"/>
+    </Default>
+  </Rules>
+
+  <!-- **************************************************************************************************** -->
+
+  <General>
+    <Skin AutoSkin="res_contact"/>
+    <DefaultFont Face="Droid Sans" HeightPxl="11" Bold="n" Color="FFFFFFFF"/>
+  </General>
+
+  <!-- **************************************************************************************************** -->
+
+  <Layout Name="Portrait">
+
+    <Plugins LayoutType="frame">
+      <LayoutSize Width="fill" Height="fill"/>
+      <Plugin Name="wgt_frame" Class="Spb.LSP.StdFrame">
+        <LayoutSize Width="fill" Height="fill"/>
+      </Plugin>
+
+      <Plugins Name="header_backgrd"/>
+
+        <!-- Header (Event name + separator + Event image)-->
+      <Plugins Name="header" LayoutType="linear" Orientation="horizontal">
+        <LayoutSize Width="fill" Height="15"/>
+        <LayoutMargins Left="4" Top="2"/>
+
+        <Plugins Name="text" LayoutType="linear" Orientation="vertical" StretchFactor="1">
+          <LayoutSize Width="0" Height="fill"/>
+
+          <Plugin Name="EvtName" Class="Spb.LSP.Text" StretchFactor="1" ID="2">
+            <LayoutSize Width="fill" Height="14"/>
+            <Int Name="DialogData" Value="1"/>
+
+            <DefaultFont Face="Droid Sans" HeightPxl="10" Bold="n" Color="FFFFFFFF"/>
+          </Plugin>
+
+          <Plugin Name="sep" Class="Spb.LSP.Separator" ID="7">
+            <LayoutSize Width="fill" Height="1"/>
+            <Int Name="Side" Value="3"/>
+          </Plugin>
+
+        </Plugins>
+
+        <Plugin Name="EvtPic" Class="Spb.LSP.Image" Align="center_vert" ID="5">
+          <LayoutSize Width="auto" Height="auto"/>
+          <LayoutMargins Right="3"/>
+
+          <Int Name="DialogData" Value="1"/>
+        </Plugin>
+      </Plugins>
+
+
+      <!-- User picture (pile + plugin)-->
+      <Plugins LayoutType="frame" Name="UserPicture" StretchFactor="1" Align="center_vert">
+        <LayoutSize Width="auto" Height="auto"/>
+        <LayoutMargins Left="7" Top="15"/>
+
+        <Plugin Name="UserPile" Class="Spb.LSP.Image" ID="8">
+          <LayoutMargins Left="4"/>
+          <LayoutSize Width="35" Height="40"/>
+          <String Name="ImageName" Value="pile" />
+        </Plugin>
+
+        <Plugin Name="UserPic" Class="Spb.LSP.Generic" ID="1">
+          <LayoutMargins Top="4"/>
+          <LayoutSize Width="34" Height="34"/>
+        </Plugin>
+      </Plugins>
+
+      <!-- User info (Name + event date)-->
+      <Plugins Name="UserInfo" LayoutType="linear" Orientation="vertical" StretchFactor="1">
+        <LayoutSize Width="fill" Height="fill"/>
+        <!--<LayoutMargins Left="52" Top="24" Right ="7" Bottom="10"/>-->
+        <LayoutMargins Left="52" Top="18" Right ="7" Bottom="4"/>
+
+        <Plugin Name="UserName" Class="Spb.LSP.Text" ID="3" StretchFactor="1" Align="bottom">
+          <LayoutSize Width="fill" Height="22"/>
+          <Int Name="DialogData" Value="1"/>
+          <Int Name="Align" Value="32788"/>
+          <!-- DT_WORDBREAK | DT_END_ELLIPSIS | DT_VCENTER-->
+
+          <DefaultFont Face="Droid Sans" HeightPxl="9" Bold="y" Color="FFFFFFFF"/>
+        </Plugin>
+
+        <Plugin Name="DaysCnt" Class="Spb.LSP.Text" ID="4" StretchFactor="1" Align="top">
+          <LayoutSize Width="fill" Height="14"/>
+          <Int Name="DialogData" Value="1"/>
+
+          <Int Name="Align" Value="32804"/>
+          <!-- DT_END_ELLIPSIS | DT_SINGLELINE | DT_VCENTER -->
+          <DefaultFont Face="Droid Sans" HeightPxl="9" Bold="n" Color="FFFFFFFF"/>
+        </Plugin>
+
+      </Plugins>
+
+      <!-- "No birthdays" Plugin -->
+      <Plugin Name="NoBirtdays" Class="Spb.LSP.Text" ID="6">
+        <LayoutSize Width="fill" Height="fill"/>
+        <LayoutMargins All="4"/>
+
+        <String Name="Text" Value="No birthdays"/>
+        <DefaultFont Face="Droid Sans" HeightPxl="9" Bold="y" Color="FFFFFFFF"/>
+      </Plugin>
+
+    </Plugins>
+  </Layout>
+
+  <Layout Name="Tablet_Event">
+    <Row Width="fill" Height="auto" Margins="0 8 8 0">
+      <Plugin Name="Photo" Class="Spb.LSP.Generic" ID="10" Align="left|center_vert">
+        <LayoutSize Width="22" Height="22"/>
+      </Plugin>
+
+      <Col Width="fill" Height="auto" Margins="0 6 0 1" Align="left|center_vert">
+        <Plugin Name="Name" Class="Spb.LSP.Text" ID="20">
+          <LayoutSize Width="fill" Height="auto"/>
+          <DefaultFont Face="Droid Sans" HeightPxl="9" Bold="n" Color="FFFFFFFF"/>
+          <Int Name="DialogData" Value="1"/>
+          <Int Name="Align" Value="0"/>
+          <Int Name="WordWrap" Value="1"/>
+        </Plugin>
+        <Row Width="fill" Height="auto">
+          <Plugin Name="Icon" Class="Spb.LSP.Image" ID="30">
+            <LayoutSize Width="auto" Height="auto"/>
+            <Int Name="DialogData" Value="1"/>
+          </Plugin>
+          <Plugin Name="DaysIn" Class="Spb.LSP.Text" ID="40">
+            <LayoutSize Width="fill" Height="auto"/>
+            <LayoutMargins Left="2" Right="0" Top="0" Bottom="0"/>
+            <DefaultFont Face="Droid Sans" HeightPxl="9" Bold="n" Color="FFA0A0A0"/>
+            <Int Name="DialogData" Value="1"/>
+            <Int Name="Align" Value="0"/>
+            <Int Name="WordWrap" Value="0"/>
+          </Plugin>
+        </Row>
+      </Col>
+    </Row>
+  </Layout>
+
+  <Layout Name="Tablets_Base">
+    <Frame Width="fill" Height="fill">
+      <Plugin Name="wgt_frame" Class="Spb.LSP.StdFrame">
+        <LayoutSize Width="fill" Height="fill"/>
+      </Plugin>
+
+      <Frame Name="header_backgrd" Width="fill" Height="25">
+        <Plugins Extends="common:WidgetHeader"/>
+      </Frame>
+      
+      <Col Width="fill" Height="fill">
+        <Plugin Name="EvtName" Class="Spb.LSP.Text" ID="2">
+          <LayoutSize Width="fill" Height="23"/>
+          <LayoutMargins Left="5" Right="5" Top="2" Bottom="0"/>
+          <DefaultFont Face="Droid Sans" HeightPxl="10" Bold="y" Color="FFFFFFFF"/>
+          <Int Name="DialogData" Value="1"/>
+          <Int Name="Align" Value="32805"/> <!-- DT_END_ELLIPSIS | DT_SINGLELINE | DT_VCENTER | DT_CENTER -->
+        </Plugin>
+
+        <Frame Width="fill" Height="fill" Margins="0 0 0 4">
+          <Group LayoutType="linear" Orientation="vertical" Align="center_vert">
+            <LayoutSize Width="fill" Height="fill"/>
+            <Int Name="Size" Value="2"/>
+            <!-- Dummy plugins `1` and `2` are for vertical centering around dash line -->
+            <Plugin Name="1" Class="Spb.LSP.Generic" StretchFactor="1">
+              <LayoutSize Width="fill" Height="0"/>
+            </Plugin>
+            <Plugins Extends="Tablet_Event"/>
+            <Plugin Name="2" Class="Spb.LSP.Generic" StretchFactor="1">
+              <LayoutSize Width="fill" Height="0"/>
+            </Plugin>
+          </Group>
+          <Plugin Name="Dash" Width="fill" Height="1" Class="Spb.LSP.DashLine" Align="center_vert">
+            <LayoutMargins Left="8" Right="8" Top="1" Bottom="0"/>
+          </Plugin>
+        </Frame>
+      </Col>
+    </Frame>
+  </Layout>
+
+  <Layout Name="Tablets_Land">
+    <Plugins Extends="Tablets_Base">
+      <LayoutSize Width="fill" Height="fill"/>
+    </Plugins>
+  </Layout>
+
+
+  <Layout Name="Tablets_Port">
+    <Plugins Extends="Tablets_Base">
+      <LayoutSize Width="fill" Height="fill"/>
+    </Plugins>
+  </Layout>
+
+  <!-- **************************************************************************************************** -->
+  <Layout Name="Landscape">
+    <Plugins Extends="Portrait">
+
+      <Plugins Name="header">
+        <LayoutSize Width="fill" Height="18"/>
+        <LayoutMargins Top="2" Left="45"/>
+      </Plugins>
+
+      <Plugins Name="UserPicture">
+        <LayoutMargins Left="7" Top="0"/>
+      </Plugins>
+
+      <Plugins Name="UserInfo">
+        <LayoutSize Width="fill" Height="fill"/>
+        <LayoutMargins Left="48" Top="22" Right ="32" Bottom="4"/>
+
+        <Plugin Name="UserName" Align="center_vert">
+          <LayoutSize Width="fill" Height="12"/>
+          <Int Name="Align" Value="32769"/>
+          <!-- DT_END_ELLIPSIS | DT_CENTER-->
+        </Plugin>
+
+        <Plugin Name="DaysCnt" Align="center_vert">
+          <LayoutSize Width="fill" Height="12"/>
+          <Int Name="Align" Value="32769"/>
+          <!-- DT_END_ELLIPSIS | DT_CENTER-->
+        </Plugin>
+
+      </Plugins>
+      
+    </Plugins>
+  </Layout>
+
+</Layouts>
+
+

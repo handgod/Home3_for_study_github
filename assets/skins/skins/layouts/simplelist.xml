@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Layouts>
+
+  <Layers>
+    <Layer/>
+    <Layer Name="ScrollBar" Dialog="ScrollBar"/>
+  </Layers>
+
+  <Rules>
+    <ScreenCondition Width="240" Height="320">
+      <UseLayout Name="240x320"/>
+    </ScreenCondition>
+    <Default>
+      <UseLayout Name="240x320"/>
+    </Default>
+  </Rules>
+
+  <General>
+    <ScrollY Value="Auto"/>
+  </General>
+
+  <Layout Name="Default">
+    <Plugins>
+      <Group Name="Group" ID="0">
+        <Plugins>
+          <Plugin Class="Spb.LSP.Generic" Name="ListItem" ID="0">
+            <DefaultFont Face="Droid Sans" HeightPxl="14" Bold="y" Color="FFFFFFFF"/>
+            <Point Name="TextOffset" X="20" Y="0"/>
+          </Plugin>
+        </Plugins>
+      </Group>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="240x320">
+    <Plugins Extends="Default">
+      <Group Name="Group">
+        <Plugins>
+          <Plugin Name="ListItem">
+            <BoundRect X="0" Y="0" Width="240" Height="47"/>
+          </Plugin>
+        </Plugins>
+      </Group>
+    </Plugins>
+  </Layout>
+
+</Layouts>

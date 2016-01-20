@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SPB Shell 3D</string>
+    <string name="dialog_shell_loading">SPB Shell 3D се вчитува...</string>
+    <string name="gadget_error_text">Проблем во вчитувањето графичка контрола</string>
+    <string name="dialog_select_shortcut">Одбери кратенка</string>
+    <string name="dialog_choose_widget">Одбери графичка контрола</string>
+    <string name="chooser_wallpaper">Одбери тапет од</string>
+    <string name="wallpaper_instructions">Постави тапет</string>
+    <string name="pick_wallpaper">Тапети</string>
+    <string name="wallpapers_spb">SPB тапети</string>
+    <string name="yes">Да</string>
+    <string name="no">Нема</string>
+    <string name="wait">Почекајте...</string>
+    <string name="home_widget_error">Графичката контрола е преголема да се додаде.</string>
+    <string name="cancel">Откажи</string>
+    <string name="error">error</string>
+    <string name="infinity">infinity</string>
+    <string name="dialog_unsupported_devices_title">Грешка</string>
+    <string name="dialog_unsupported_devices_message">За да работи SPB Shell 3D потребно е OpenGL 2.0</string>
+    <string name="license_fail">За жал, не можевме да ја пронајдеме вашата нарачка во Андроид пазар. Прво деинсталирајте ја оваа копија пред да инсталирате нова.</string>
+    <string name="purchase">Нарачка</string>
+    <string name="exit">Излези</string>
+    <string name="legal_notices_title">Правни напомени</string>
+    <string name="license_fail_handango">За жал, не можевме да ја пронајдеме вашата нарачка. Прво деинсталирајте ја оваа копија пред да инсталирате нова.</string>
+    <string name="safe_mode_title">Режим за безбедност</string>
+    <string name="safe_mode_text">Претходното стартување на SPB Shell 3D беше неуспешно. Потчукнете \"Обидете се повторно\" за повторно да ја стартувате или \"Дома\" за да активирате друг почетен екран.</string>
+    <string name="safe_mode_retry">Обидете се повторно</string>
+    <string name="safe_mode_home">Дома</string>
+    <string name="sd_install_title">Грешка</string>
+    <string name="sd_install_text">Installation to a storage card is not supported. Please install SPB Shell 3D to the main memory</string>
+    <string name="contacts_failed_pick">Failed to load the selected contact. Try to link the contact to Google account or save it to phone.</string>
+</resources>

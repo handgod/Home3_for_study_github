@@ -1,0 +1,446 @@
+ a few seconds| noen sekunder
+ day| dag
+ days| dager
+ hour| time
+ hours| timer
+ hr| t
+ hrs| tim
+ lunar day|månedag
+ min| min
+ mins| min
+ minute| minutt
+ minutes| minutter
+%d bought|%d kjøpt
+%d days|om %d dager
+%d minutes|%d minutter
+%i more today|%i fler i dag
+%i more...|%i flere...
+%i%% of Full|%i%% av full
+%s 2007—2011 Yandex|%s 2007—2011 Yandex
+(<1 min)|(<1 min)
+(in|(om
+(in seconds)|(om sekunder)
+(No title)|(Ingen tittel)
+[ Loading images... ]|[ aster bilder... ]
+[ Tap here for images load ]|[ Trykk her for å laste bilder ]
+About|Om
+About SPB Shell 3D|Om SPB Shell 3D
+Activate|Aktiver
+Activation|Aktivering
+Activation failed. Check your Internet connection.|Aktivering mislykket. Sjekk internett tilkoblingen.
+Add|Legg til
+Add channel|Legg til kanal
+Add city|Legg til sted
+Add new city|Legg til nytt sted
+Add Panel|Legg til panel
+Add to Home screen|Legg til startside
+Airplane|Fly
+Airplane Mode|Flymodus
+All day|Hele dagen
+All pictures|Alle bildene
+Android Shortcut|Android snarvei
+Android Widget|Android widget
+Anniversary|Merkedag
+Appearance|Utseende
+Application|Program
+April|April
+Aqua|Aqua
+as of %s|på %s
+at %s|på %s
+atm|atm
+Atmospheres|Atmosfærer
+Atmospheric pressure scale|Atmosfærisk trykk skala
+August|August
+Auto|Auto
+Auto (keyboard only)|Auto (bare tastatur)
+Auto arrange widgets|arranger widgeter automatisk
+Automatic|Automatisk
+Automatic naming|Sett navn automatisk
+Backlight|Bakgrunnslys
+Battery|Batteri
+Birthday|Fødselsdag
+Birthdays|Bursdager
+Black|Svart
+Blue|Blå
+Bluetooth|Bluetooth
+Bookmarks|Bokmerker
+Bookmarks Folder|Mappe for bokmerker
+Business|Forretninger
+Buy!|Kjøp!
+Calendar|Kalender
+Calendar Panel|Kalender panel
+Calendar Panel Settings|Innstillinger for kalender panel
+Call|Ring
+Call Log|Anropslogg
+Cancel|Avbryt
+Celsius (#short)|Celsius
+Change|Endre
+Change City|Endre by
+Change profile|Endre profil
+Choose Color|Velg farge
+Choose Program|Velg program
+Choose SPB Widget|Velg SPB widget
+Choose widget|Velg widget
+Clear|Skyfritt
+Clock|Klokke
+Cloudy|Overskyet
+Cloudy, hail|Overskyet, hagl
+Cloudy, heavy rain|Overskyet, kraftig regn
+Cloudy, heavy snow|Overskyet, mye snø
+Cloudy, rain|Overskyet, regn
+Cloudy, rain with snow|Overskyet, sludd
+Cloudy, snow|Overskyet, snø
+Cloudy, thunder|Overskyet, torden
+Color anaglyph (red/cyan)|Farge anaglyph (red/cyan)
+Communication|Kommuniksasjon
+Contact|Kontakt
+Contacts|Kontakter
+Contacts Folder|Kontakt mappe
+Copyright %s 2007-2011\nSPB Software|Opphavsrett %s 2007-2011\nSPB Software
+Copyright %s 2007-2012\nSPB Software|Opphavsrett %s 2007-2012\nSPB Software
+Create Folder|Lag mappe|
+Current|Aktiv
+Current city|Gjeldende sted
+Current conditions|Nåværende forhold
+Current Conditions|Nåværende forhold
+Current skin|Gjeldende utseende
+Day|Dag
+Deal of the Day|Dagens tilbud
+Deal of the Day Panel Settings|Innstillinger for dagens tilbud
+Deals|Tilbud
+December|Desember
+Default|Standard
+Default Action|Standardhandling
+Dew point:|Duggpunkt
+Diagnostic tools|Diagnostisk verktøy
+Disabled|Inakitv
+Discoverable|Synlig
+Done|Ferdig
+Download Original|Last ned orginal
+Downloading images|Laster ned bilder
+E|Ø
+east|øst
+Edit Contact|Endre kontakt
+Edit panels|Endre paneler
+Emergency only|Bare i nødsfall
+Empty Panel|Tomt panel
+Enable live wallpapers|Aktiver levende bakgrunn
+Enabled|Aktivert
+Entertainment|Underholdning
+Error|Feil
+Evening|Kveld
+Every 2 hours|Hver 2. time
+Every 24 hours|Hver 24. time
+Every 30 Minutes|Hvert 30. minutt
+Every 30 minutes|Hvert 30. minutt
+Every 4 hours|Hver 4. time
+Every hour|Hver time
+Exit|Avslutt
+Experimental|Eksperimentell
+Experimental Settings|Eksperimentelle innstillinger
+Experimental settings|Eksperimentelle innstillinger
+Fahrenheit (#short)|Fahrenheit
+Favorite Contacts|Favorittkontakter
+Favorite contacts|Favorittkontakter
+Favorites|Favoritter
+February|Februar
+Filter|Filter
+First day of the week|Ukens første dag
+First Quarter|Første kvartal
+Flight|Flyging
+Folder|Mappe
+Folder Name|Mappe navn
+Forecast|Værvarsel
+from forecast|fra værvarsel
+Full Moon|Fullmåne
+Gallery|Galleri
+Games|Spill
+Grayscale anaglyph (red/cyan)|Gråtone anaglyph (red/cyan)
+Green|Grønn
+Hectopascals|Hectopascal
+Hide Duplicates|Skjul duplikater
+Hide SIM Contacts|Skjul SIM kontakter
+Home|Hjem
+Home Settings|Innstillinger for startside
+Home settings|Innstillinger for startside
+hpa|hPa
+Humidity:|Fuktighet:
+in %u days|om %u dager
+inch|tomme
+Inches|Tommer
+Increase Counter|Øk teller
+Interface mode|Interface modus
+Invisible|Usynlig
+January|Januar
+July|Juli
+June|Juni
+Kilometers per hour|Kilometer i timen
+Knots|Knop
+knots|knop
+kph|kmt
+kts|knp
+Landscape|Landskap
+Large|Stor
+Last Call|Siste anrop
+Last Message|Siste melding
+Last Quarter|Siste kvartal
+Last updated|Sist oppdatert
+Legal information|Juridisk Informasjon
+Legal notices|Juridisk Informasjon
+Lifestyle|Livsstil
+Live wallpapers can cause performance degradation of your 3D home screen. Switching between live and static wallpapers can take up to a minute. Static wallpapers are recommended for the best experience.|Levende bakgrunn kan forårsake feil på 3D visning av hjemmeside. Bytte mellom levende og statisk visning kan ta opp til ett minutt. Statisk visning er anbefalt for best resultat.
+Loading failed|Henting mislykket
+Loading image for wallpaper|Laster bakgrunnsbilder
+Loading skin failed!|Lasting av utseende mislykket!
+Loading skins catalog failed!|Lasting av bakgrunnskatalog mislykket!
+Loading...|Laster...
+Logging In...|Logger på...
+Lunar Calendar|Månekalender
+Manage apps|Håndter program
+Manage Apps|Håndter program
+Manage panels|Håndter paneler
+Manage Panels|Håndter paneler
+March|Mars
+May|Mai
+Medium|Medium
+Messaging|Meldinger
+Meters per second|Meter pr sekund
+Miles per hour|Miles per hour
+Millimetres|Millimeter
+Misc|Div
+Miscellaneous|Div
+mm|mm
+Mobile|Mobil
+Mode|Modus
+Monday|Mandag
+Moon|Måne
+Moon Calendar|Månekalender
+Morning|Morgen
+mph|mph
+mps|mps
+Multimedia|Multimedia
+Music|Musikk
+Music albums|Musikkalbum
+N|N
+N/A|I/T
+nd|ende
+NE|NE
+Network Status|Nettverksstatus
+Never|Aldri
+New|Ny
+New Contact|Ny kontakt
+New Folder|Ny mappe
+New Moon|Nymåne
+News|Nyheter
+next|Neste
+Next Alarm|Neste alarm
+Night|Natt
+No|Nei
+no|Nei
+No Alarms|Ingen alarmer
+No birthdays|Ingen fødselsdager
+No calls|Ingen oppringninger
+No Cities|Ingen byer
+No conditions|Ingen betingelser
+No Contacts.|Ingen kontakter
+No Countries|Ingen land
+No deals loaded|Ingen tilbud lastet
+No Images|Ingen bilder
+No messages|Ingen meldinger
+No news|Ingen nyheter
+No SIM|SIM mangler
+No text messages|Ingen tekst
+No title|Ingen tittel
+No upcoming events|Ingen kommende hendelser
+No upcoming events in a week|Ingen kommende hendelser første uke
+No updates|Ingen oppdateringer
+No weather forecast|Ingen værmelding
+Normal|Normal
+north|nord
+north east|nordøst
+north west|nordvest
+Not available|Ikke tilgjengelig
+Not connected|Ikke tilkoblet
+Notes|Notater
+November|November
+NW|NW
+October|Oktober
+Off|Av
+Offer|Tilbud
+On|På
+One Touch Share|One Touch Share
+Only on free connections|Kun ved gratis tilkoblinger
+Open Contact|Åpne kontakt
+Open in Browser|Åpne i browser
+OpenGL 2.0 is required to run SPB Shell 3D|OpenGL 2.0 er nødvendig for å kjøre SPB Shell 3D
+Optimized anaglyph (red/cyan)|Optimalisert anaglyph (red/cyan)
+Other (assistant)|Annen (assistent)
+Page|Side
+Panel Name|Panel navn
+Panels|Paneler
+Parsing skins catalog failed!|Analysering av utseende katalogen mislykkes
+Partly cloudy|Delvis overskyet
+Partly cloudy, rain|Delvis skyet og regn
+Partly cloudy, snow|Delvis skyet og snø
+Partly cloudy, thunder|Delvis skyet og torden
+People|Folk
+Performance Warning|Ytelse varsel
+Performance Warning dialog|Ytelse varsel dialog
+Personal|Personlig
+Phone|Telefon
+Photo folder for gallery widgets|Bildemappe for galleri widget
+Picture Gallery|Bilde galleri
+Picture of the Day|Dagens bilde
+Picture Panel Settings|Innstilling for bildepanel
+Pictures|Bilder
+Pictures Of The Day|Dagens bilde
+Pictures Panel|Bildepanel
+Pictures Settings|Innstillinger for bilder
+Please Log In|Logg på
+Please wait...|Vennligst vent...
+Portrait|Portrett
+Pressure:|Trykk:
+Problem loading widget|Problemer med lasting av widgeter
+Productivity|Produktivitet
+Program|Program
+Pulkovo|Pulkovo
+Purchase|Kjøp
+Purple|Lilla
+Radio off|Radio avslått
+rd_loc|.
+Reading appointments...|Leser avtaler...
+Recycle Bin|Bossbøtte
+Red|Rød
+Reload skin list|Last utseende liste på nytt
+Remove All|Fjern alle
+Rename|Endre navn
+Rename Panel|Endre panelnavn
+Requesting images|Ber om bilder
+Retry|Prøv igjen
+RSS Feed|RSS Feed
+RSS Panel Settings|Innstillinger for RSS panel
+S|S
+Safe mode|Sikkerhetsmodus
+Saint-Petersburg|Saint-Petersburg
+Save as New|Lagre som ny
+Save to Existing|Lagre på eksisterende
+Screen orientation|Skjermorientering
+SE|SØ
+Searching|Leter
+Select cities|Velg steder
+Select e-mail address|Velg epostadresse
+Select phone number:|Velg telefonnummer
+Select shortcut|Velg snarvei
+Select Skin|Velg utseende
+Select wallpaper from|Velg bakgrunnsbilde
+Selected cities|Velg steder
+Selected City|Valgt sted
+Selected city|Valgt sted
+Send Email|Send epost
+Send E-mail|Send epost
+Send E-Mail|Send epost
+Send Message|Send melding
+Send MMS|Send MMS
+Send SMS|Send SMS
+September|September
+Serial number:|Serienummer:
+Set as Home|Velg som hjemsted
+Set as Wallpaper|Velg som bakgrunnsbilde
+Set wallpaper|Velg bakgrunnsbilde
+Settings|Innstillinger
+Show all|Vis alle
+Show all day events|Vis heldagshendelser
+Show all day events in calendar widgets|Vis heldagshendelser i kalender widget
+Silent|Stille
+Skin loading|Laster skin
+Small|Små
+Smartphone|Smartphone
+Smog|Tåke
+Social|Sosial
+Sound Profile|Lyd profil
+south|sør
+south east|sørøst
+south west|sørvest
+SPB Shell 3D is loading...|SPB Shell 3D lastes...
+SPB Wallpapers|SPB bakgrunner
+SPB Widget|SPB Widget
+st|.
+Standard Edition [Beta]|Standard Edition [Beta]
+Stereoscopic 3D mode|Stereoskopisk 3D modus
+Stereoscopic 3D Settings|Innstillinger for stereoskopisk 3D modus
+Sunday|Søndag
+SW|SV
+Switching the interface mode can take up to a minute. Screen orientation will be changed to '%s'.|Skifte av interface modus kan ta opp til ett minutt. Skjermorientering vil bli endret til '%s'.
+System|System
+Tablet|Tablet
+Temperatur scale|Temperaturskala
+Temperature scale|Temperaturskala
+Test Battery|Test batteri
+th|.
+Thank you for your support. Your copy is now registered.|Takk for din støtte. Din kopi er registrert.
+The experimental features below are not ready to be shipped in the core of SPB Shell 3D. They may contain severe defects and cause system instability. Use them at your own risk.|De eksperimentelle funksjonene nedenfor er ikke klare for å bli inkludert i kjernen av SPB Shell 3D. De kan inneholde alvorlige feil som kan gjøre systemet ustabilt. Bruk dem på egen risiko.
+The maximum number of panels is reached|Det maksimale antall paneler er nådd
+The name cannot be changed.|Navnet kan ikke endres.
+The previous launch of SPB Shell 3D was unsuccessful. Please tap "Retry" to launch it again or "Home" to activate a different Home screen.|Forrige lasting av SPB Shell 3D mislyktes. Trykk "Prøv igjen" for å laste det på nytt eller "Hjem" for å aktivere et annet panel.
+Time|Tid
+Time Panel|Tid panel
+Time Panel Settings|Innstillinger for tid panel
+Today|I dag
+Toggle|Bytt
+Tomorrow|I morgen
+Tools|Verktøy
+Travel|Reise
+Unfortunately, we could not locate your purchase in Android Market. Please uninstall this copy before installing a new one.|Dessverre kunne vi ikke finne ditt kjøp i Android marked. Avinstaller dette programmet før du installerer på nytt.
+Unfortunately, we could not locate your purchase. Please uninstall this copy before installing a new one.|Dessverre kunne vi ikke finne ditt kjøp. Avinstaller dette programmet før du installerer på nytt.
+Uninstall|Avinstaller
+Uninstall apps|Fjern program
+Unknown|Ukjent
+Unknown location|Ukjent sted
+Upcoming events|Kommende hendelser
+Update|Oppdater
+Update deals list automatically|Oppdater tilbudsliste automatisk
+Update Now|Oppdater nå
+Update pictures page automatically|Oppdater bildeside automatisk
+Update weather forecasts automatically|Oppdater værvarsel automatisk
+Updated|Oppdatert
+Updated:|Oppdatert:
+Updating image|Oppdaterer bilde
+Updating...|oppdaterer...
+Use 3D in application list|Bruk 3D-visning på programliste
+Use 3D in edit mode|Bruk 3D-visning i endremodus
+Use cellular connection for updating deals list|Bruk mobilnett for å oppdatere tilbudsliste
+Use cellular connection for updating pictures automatically|Bruk mobilnett for å oppdatere bilder automatisk
+Value|Verdi
+variable|variabel
+Version %s, Build %s|Versjon %s, Build %s
+Vibro|Vibrer
+Video Call|Videoanrop
+View Duplicates|Vis duplikater
+View SIM Contacts|Vis SIM-kontakter
+W|V
+Wallpaper|Bakgrunn
+Wallpapers|Bakgrunner
+Waning Crescent|Minkende halvmåne
+Waning Gibbous|Minkende fullmåne
+Waxing Crescent|Voksende halvmåne
+Waxing Gibbous|Voksende fullmåne
+Weather|Vær
+Weather Forecast|Værvarsel
+Weather Settings|Innstillinger for været
+west|vest
+Widget is too big to be added.|Widgeten er for stor
+Widgets|Widgeter
+Widgets Settings|Innstillinger for widgeter
+Wind direction:|Vindretning:
+Wind speed scale|Vindhastighetsskala
+Wind speed:|Vindhastighet:
+Wind:|Vind:
+Work|Arbeid
+World Time|Verdensur
+Wrong serial number. Please check it again.|Feil serienummer. Kontroller og prøv igjen.
+Yandex.Search|Yandex.Search
+Yellow|Gul
+Yes|Ja
+Yesterday|I går
+You save|Du sparer
+Your video system isn't compatible with Shell 3D.|Ditt grafikk system er ikke kompatibelt med Shell 3D.

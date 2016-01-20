@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<skin Name="Profile Widget">
+  <items>
+    <item DontScale="1">
+      <Image Name="separator" File="sep_v41.png"/>
+
+      <Image Name="mode0" File="mode.png" X="0" Y="0"     Width="64" Height="64" />
+      <Image Name="mode1" File="mode.png" X="0" Y="64"    Width="64" Height="64" />
+      <Image Name="mode2" File="mode.png" X="0" Y="128"   Width="64" Height="64" />
+<!--
+      <Image Name="not_selected_mode0" File="mode.png" X="64" Y="0"     Width="64" Height="64" />
+      <Image Name="not_selected_mode1" File="mode.png" X="64" Y="64"    Width="64" Height="64" />
+      <Image Name="not_selected_mode2" File="mode.png" X="64" Y="128"   Width="64" Height="64" />
+-->
+      <Image Name="cfg"   File="cfg.png"/>
+      <Image Name="vol0"  File="vol.png"   X="0" Y="0"    Width="60" Height="20" />
+      <Image Name="vol1"  File="vol.png"   X="0" Y="21"   Width="60" Height="20" />
+      <Image Name="vol2"  File="vol.png"   X="0" Y="41"   Width="60" Height="20" />
+      <Image Name="vol3"  File="vol.png"   X="0" Y="61"   Width="60" Height="20" />
+      <Image Name="vol4"  File="vol.png"   X="0" Y="81"   Width="60" Height="20" />
+      <Image Name="vol5"  File="vol.png"   X="0" Y="101"  Width="60" Height="19" />
+      <Image Name="button"   File="button.png"/>
+    </item>
+  </items>
+</skin>

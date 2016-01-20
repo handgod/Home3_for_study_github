@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+
+<Layouts>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layers>
+      <Layer/>
+  </Layers>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Rules>
+    <PlatformCondition Platform="tablets">
+      <UseLayout Name="tablet"/>
+    </PlatformCondition>
+    <PlatformCondition Platform="smartphone">
+      <UseLayout Name="smartphone"/>
+    </PlatformCondition>
+  </Rules>
+
+  <!-- **************************************************************************************************************** -->
+
+  <General>
+  </General>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="Default">
+      <Plugins LayoutType="frame">          
+	      <LayoutSize Width="fill" Height="fill"/>
+
+        <Plugin Name="3DPlugin" Class="Spb.LSP.MoonPlugin" ID="0">
+          <LayoutSize Width="fill" Height="fill"/>
+        </Plugin>
+      </Plugins>
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="smartphone">
+    <General>
+      <!-- sizes are in percentage of screen -->
+      <Int Name="MoonSize"   Value="30"/>
+      <Int Name="MarkSize"   Value="13"/>
+      <Int Name="ZodiacSize" Value="90"/>
+      <!-- ********************************* -->
+      <Font Name="ftMark" Face="Droid Sans" HeightPxl="9" Bold="n" Color="FFFFFFFF"/>
+      <!-- ********************************* -->
+    </General>
+    <Plugins Extends="Default"/>
+  </Layout>
+
+  <Layout Name="tablet">
+    <General>
+      <!-- sizes are in percentage of screen -->
+      <Int Name="MoonSize"   Value="24"/>
+      <Int Name="MarkSize"   Value="10"/>
+      <Int Name="ZodiacSize" Value="70"/>
+      <!-- ********************************* -->
+      <Font Name="ftMark" Face="Droid Sans" HeightPxl="9" Bold="n" Color="FFFFFFFF"/>
+      <!-- ********************************* -->
+    </General>
+    <Plugins Extends="Default"/>
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+</Layouts>

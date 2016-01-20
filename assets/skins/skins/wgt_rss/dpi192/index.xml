@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<skin Name="News Widget"  Type="widget">
+  <items>
+    <item>
+      <Image Name="Icon"  File="news_icon.png"/>
+      <Image Name="Photo" File="photo.png"/>
+    </item>
+    <item DontScale="1">
+      <Image Name="Front" File="Front.png" />
+
+      <Rect Name="rectHead" X="8"   Y="56" Width="284" Height="44" />
+      <Rect Name="rectDate" X="270" Y="8"  Width="20"  Height="40" />
+      <Font Name="fontNews" Face="Droid Sans" HeightPxl="16" Bold="n" Color="FF0A0A0A" />
+
+      <Image Name="pict0" File="pict0.png" />
+      <Image Name="pict1" File="pict1.png" />
+      <Image Name="pict2" File="pict2.png" />
+
+      <Rect Name="rect0" X="148" Y="232" Width="140" Height="140" />
+      <Rect Name="rect1" X="148" Y="132" Width="140" Height="140" />
+      <Rect Name="rect2" X="10"  Y="136" Width="140" Height="140" />
+      <Rect Name="rect3" X="10"  Y="228" Width="140" Height="140" />
+    </item>
+  </items>
+</skin>

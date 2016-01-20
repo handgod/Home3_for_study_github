@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skin Name="Wallpaper">
+  <items>
+    <item>
+      <Image Name="PanelSmall" File="panel_small.png"/>
+      <Image Name="PanelSmallBlack" File="panel_small_black.png"/>
+      <Image Name="PanelIcon" File="panel_icon.png"/>
+      <Image Name="PanelIconBlack" File="panel_icon_black.png"/>
+      <Image Name="PanelIconAuto" File="panel_icon_auto.png"/>
+    </item>
+  </items>
+</skin>

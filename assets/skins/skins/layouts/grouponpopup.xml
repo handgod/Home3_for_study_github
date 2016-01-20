@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+
+<Layouts>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layers>
+      <Layer/>
+  </Layers>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Rules>
+    <ScreenCondition Orientation="landscape">
+      <UseLayout Name="landscape"/>
+    </ScreenCondition>
+
+    <Default>
+      <UseLayout Name="portrait"/>
+    </Default>
+  </Rules>
+
+  <!-- **************************************************************************************************************** -->
+
+  <General>
+      <Skin Skin="grouponpanel"/>
+      <DefaultFont Face="Droid Sans" HeightPxl="11" Bold="n" Color="FFFFFFFF"/>
+  </General>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="Default">
+      <General>
+          <!-- **************************** -->
+          <Point Name="thumbsize"  X="68"  Y="42"/>
+          <Point Name="labelsize"  X="220" Y="64"/>
+          <Point Name="thumboff"   X="-65" Y="00"/>
+          <Rect  Name="titlerect"  X="86"  Y="07" Width="110" Height="50"/>
+          <!-- **************************** -->
+          <Font Name="ftTitle"  Face="Droid Sans" HeightPxl="10" Bold="n" Color="FF000000"/>
+          <!-- **************************** -->
+      </General>
+      <Plugins LayoutType="frame">          
+          <LayoutSize Width="fill" Height="fill"/>
+          <Plugin Name="3DPlugin" Class="Spb.LSP.GrouponPlugin" ID="0" AutoSkin="grouponpanel">
+              <LayoutSize Width="fill" Height="fill"/>
+          </Plugin>
+      </Plugins>
+  </Layout>
+
+  <Layout Name="portrait">
+      <General>
+          <!-- **************************** -->
+          <Int Name="poscount"  Value="5"  />
+          <Int Name="posfront"  Value="2"  />
+          <Int Name="dealcount" Value="16" />
+          <Int Name="dealmagic" Value="5"  />
+          <!-- **************************** -->
+          <String Name="tr" Value="04 32 -40   00 17 00   -04 00 40   00 -17 00   04 -32 -40   10 -42 -60   10 42 60" />
+          <String Name="lg" Value="10   00   00   00   10  100  100" />
+          <String Name="sc" Value="85  100  100  100   85   80   80" />
+          <!-- **************************** -->
+      </General>
+      <Plugins Extends="Default" />
+  </Layout>
+
+  <Layout Name="landscape">
+      <General>
+          <!-- **************************** -->
+          <Int Name="poscount"  Value="5"  />
+          <Int Name="posfront"  Value="0"  />
+          <Int Name="dealcount" Value="16" />
+          <Int Name="dealmagic" Value="5"  />
+          <!-- **************************** -->
+          <String Name="tr" Value="0 -24 0   -06 -04 -20   -06 14 -40   00 30 -60  06 40 -80  10 60 -100   20 -50 20" />
+          <String Name="lg" Value="00   00   00   00  50  100  100" />
+          <String Name="sc" Value="100  90   80   70  60   50  130" />
+          <!-- **************************** -->
+      </General>
+      <Plugins Extends="Default" />
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+</Layouts>

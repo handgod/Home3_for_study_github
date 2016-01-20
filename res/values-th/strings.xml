@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SPB Shell 3D</string>
+    <string name="weather_city_title">ป้อน 3 ตัวอักษรเพื่อทำคำให้สมบูรณ์อัตโนมัติ:</string>
+    <string name="weather_enter_city_name">ป้อนชื่อเมือง</string>
+    <string name="weather_more_cities">เพิ่มเติม...</string>
+    <string name="weather_locate_nearest_city">ค้นหาเมืองใกล้เคียง</string>
+    <string name="weather_current_location">ตำแหน่งปัจจุบัน</string>
+    <string name="searching_city_title">กำลังวางตำแหน่ง</string>
+    <string name="searching_city_progress">กำลังค้นหาเมืองใกล้เคียง...</string>
+    <string name="city_location_failed">ตำแหน่งเมืองใกล้เคียงล้มเหลว</string>
+    <string name="dialog_shell_loading">กำลังโหลด SPB Shell 3D...</string>
+    <string name="gadget_error_text">เกิดปัญหาในการโหลดวิดเจ็ท</string>
+    <string name="dialog_select_shortcut">เลือกทางลัด</string>
+    <string name="dialog_choose_widget">เลือกวิดเจ็ท</string>
+    <string name="chooser_wallpaper">เลือกภาพพื้นหลังจาก</string>
+    <string name="wallpaper_instructions">กำหนดภาพพื้นหลัง</string>
+    <string name="pick_wallpaper">ภาพพื้นหลัง</string>
+    <string name="wallpapers_spb">SPB Wallpapers</string>
+    <string name="yes">ใช่</string>
+    <string name="no">ไม่ใช่</string>
+    <string name="wait">กรุณารอสักครู่...</string>
+    <string name="home_widget_error">เพิ่มวิดเจ็ทไม่ได้ เนื่องจากขนาดใหญ่เกินไป</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="error">error</string>
+    <string name="infinity">infinity</string>
+    <string name="dialog_unsupported_devices_title">ผิดพลาด</string>
+    <string name="dialog_unsupported_devices_message">OpenGl 2.0 จำเป็นต้องเรียกใ้ช้งาน SPB Shell 3D</string>
+    <string name="license_fail">ขออภัย เรายังไม่เปิดให้บริการการสั่งซื้อในส่วนของ Android Market โปรดถอนการติดตั้งโปรแกรมเวอร์ชั่นนี้ ก่อนทำการติดตั้งเวอร์ชั่นใหม่</string>
+    <string name="purchase">ซื้อ</string>
+    <string name="exit">ออกจากโปรแกรม</string>
+    <string name="legal_notices_title">คำชี้แจงทางกฎหมาย</string>
+    <string name="license_fail_handango">ขออภัย เรายังไม่เปิดให้บริการการสั่งซื้อในส่วนนี้ของคุณ โปรดถอนการติดตั้งโปรแกรมเวอร์ชั่นนี้ ก่อนทำการติดตั้งเวอร์ชั่นใหม่</string>
+    <string name="safe_mode_title">เซฟโหมด</string>
+    <string name="safe_mode_text">การเรียกใช้ SPB Shell 3D ก่อนหน้านี้ไม่สำเร็จ โปรดแตะที่ \"ลองอีกครั้ง\" เพื่อเรียกใช้งานใหม่ หรือแตะที่ \"โฮม\" เพื่อเรียกใช้งานโฮมสกรีนอีกทางหนึ่ง</string>
+    <string name="safe_mode_retry">ลองอีกครั้ง</string>
+    <string name="safe_mode_home">โฮม</string>
+    <string name="sd_install_title">ผิดพลาด</string>
+    <string name="sd_install_text">Installation to a storage card is not supported. Please install SPB Shell 3D to the main memory</string>
+    <string name="contacts_failed_pick">การโหลดรายชื่อติดต่อล้มเหลว กรุณาลองเชื่อมต่อรายชื่อเข้ากับบัญชีกูเกิ้ล หรือบันทึกลงในมือถือ</string>
+</resources>

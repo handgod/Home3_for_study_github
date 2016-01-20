@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SPB Shell 3D</string>
+    <string name="weather_city_title">הכנס 3 אותיות להתחלת השלמה אוטומטית</string>
+    <string name="weather_enter_city_name">הכנס שם עיר</string>
+    <string name="weather_more_cities">עוד...</string>
+    <string name="weather_locate_nearest_city">חפש את העיר הקרובה ביותר</string>
+    <string name="weather_current_location">מיקום נוכחי</string>
+    <string name="searching_city_title">מיקום</string>
+    <string name="searching_city_progress">מחפש ערים קרובות</string>
+    <string name="city_location_failed">איתור עיר קרובה ביותר נכשל</string>
+    <string name="dialog_shell_loading">טוען את SPB Shell 3D</string>
+    <string name="gadget_error_text">"בעיה בטעינת ווידג'ט"</string>
+    <string name="dialog_select_shortcut">בחר קיצור דרך</string>
+    <string name="dialog_choose_widget">"בחר ווידג'ט"</string>
+    <string name="chooser_wallpaper">בחר טפט מ</string>
+    <string name="wallpaper_instructions">הגדר טפט</string>
+    <string name="pick_wallpaper">טפטים</string>
+    <string name="wallpapers_spb">טפטי SPB</string>
+    <string name="yes">כן</string>
+    <string name="no">לא</string>
+    <string name="wait">אנא המתן...</string>
+    <string name="home_widget_error">"הווידג'ט גדול מידי להוספה."</string>
+    <string name="cancel">ביטול</string>
+    <string name="error">error</string>
+    <string name="infinity">infinity</string>
+    <string name="dialog_unsupported_devices_title">שגיאה</string>
+    <string name="dialog_unsupported_devices_message">OpenGL 2.0 נדרש כדי להריץ את SPB Shell 3D</string>
+    <string name="license_fail">לצערנו, לא הצלחנו לאתר את הרכישה שלך באנדרואיד מרקט. אנא הסר את העותק הזה לפני שתתקין אחד חדש.</string>
+    <string name="purchase">רכוש</string>
+    <string name="exit">יציאה</string>
+    <string name="legal_notices_title">הודעה משפטית</string>
+    <string name="license_fail_handango">לצערנו, לא הצלחנו לאתר את הרכישה שלך. אנא הסר את העותק הזה לפני שתתקין אחד חדש</string>
+    <string name="safe_mode_title">מצב בטוח</string>
+    <string name="safe_mode_text">הטעינה הקודמת של SPB Shell 3D לא הצליחה. הקש על \"נסה שנית\" לטעינה חוזרת או על \"בית\" להפעלת מסך בית אחר.</string>
+    <string name="safe_mode_retry">נסה שנית</string>
+    <string name="safe_mode_home">בית</string>
+    <string name="sd_install_title">שגיאה</string>
+    <string name="sd_install_text">Installation to a storage card is not supported. Please install SPB Shell 3D to the main memory</string>
+    <string name="contacts_failed_pick">Failed to load the selected contact. Try to link the contact to Google account or save it to phone.</string>
+</resources>

@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<Layouts Name="Folder" Type="widget">
+  <Rules>
+    <PlatformCondition Platform="tablets">
+      <ScreenCondition Orientation="portrait">
+        <UseLayout Name="TabletsPortrait"/>
+      </ScreenCondition>
+      <Default>
+        <UseLayout Name="TabletsLandscape"/>
+      </Default>
+    </PlatformCondition>
+	  
+    <ScreenCondition Orientation="landscape">
+      <UseLayout Name="Landscape"/>
+    </ScreenCondition>
+
+    <Default>
+      <UseLayout Name="Default"/>
+    </Default>
+  </Rules>
+
+  <General>
+    <Int Name="InFolder" Value="1"/>
+    <AbsoluteSize Name="PageDim"  X="4"  Y="1"/>
+  </General>
+
+  <Layout Name="Default">
+    <Frame Width="fill" Height="fill">
+      <Plugin Name="Background" ID="997" Width="fill" Height="fill" Margins="0 0 0 0">
+      </Plugin>
+      
+      <Plugins Name="_titlecontainer">
+        <Plugin Name="Title" ID="998">
+          <BoundRect X="14" Y="2" Width="140" Height="14"/>
+          <DefaultFont Face="Droid Sans" HeightPxl="9" Bold="n" Color="FFFFFFFF"/>
+        </Plugin>
+      </Plugins>
+	  
+      <Row Name="ExtenderRow" Width="fill" Height="fill" Margins="19 5 5 4">
+        <Plugin Name="_pad1" Width="fill" StretchFactor="3"/>
+        <Frame Width="fill" StretchFactor="1" Height="fill">
+          <Plugin Name="Extender" ID="999" Width="fill" StretchFactor="1" Height="fill" Margins="0 2 2 0"/>
+        </Frame>
+      </Row>
+	  
+      <Plugins Name="WidgetsGroup" Width="fill" Height="fill" Margins="19 6 6 4">
+        <!-- Here home widgets go -->
+      </Plugins>
+    </Frame>
+  </Layout>
+
+  <Layout Name="Landscape">
+    <Plugins Extends="Default">
+      <Plugins Name="_titlecontainer">
+        <Plugin Name="Title">
+          <BoundRect X="14" Y="2" Width="220" Height="14"/>
+        </Plugin>
+      </Plugins>
+    </Plugins>
+  </Layout>
+  
+  <Layout Name="TabletsPortrait">
+    <General>
+      <AbsoluteSize Name="PageDim"  X="3"  Y="1"/>
+    </General>
+    <Plugins Extends="Default">
+      <Plugins Name="_titlecontainer">
+        <Plugin Name="Title" ID="998">
+          <BoundRect X="14" Y="2" Width="100" Height="14"/>
+        </Plugin>
+      </Plugins>
+	  
+      <Plugins Name="ExtenderRow">
+        <Plugin Name="_pad1" Width="fill" StretchFactor="2"/>
+      </Plugins>
+    </Plugins>
+  </Layout>
+	
+  <Layout Name="TabletsLandscape">
+    <Plugins Extends="Default">
+      <Plugins Name="_titlecontainer">
+        <Plugin Name="Title">
+          <BoundRect X="14" Y="2" Width="145" Height="14"/>
+        </Plugin>
+      </Plugins>
+    </Plugins>
+  </Layout>
+
+</Layouts>

@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+
+<Layouts Name="World Time Widget" Type="widget">
+
+  <!-- **************************************************************************************************** -->
+
+  <Rules>
+    <PlatformCondition Platform="tablets">
+      <ScreenCondition Orientation="landscape">
+        <UseLayout Name="Tablets_Land"/>
+      </ScreenCondition>
+      <Default>
+        <UseLayout Name="Tablets_Port"/>
+      </Default>
+    </PlatformCondition>  
+    <ScreenCondition Orientation="landscape">
+      <UseLayout Name="Landscape"/>
+    </ScreenCondition>
+    <Default>
+      <UseLayout Name="Portrait"/>
+    </Default>
+  </Rules>
+
+  <!-- **************************************************************************************************** -->
+
+  <General>
+    <Skin AutoSkin="wgt_worldtime"/>
+  </General>
+
+  <!-- **************************************************************************************************** -->
+
+  <Layout Name="Portrait">
+
+    <General>
+      <Int Name="CityCount" Value="3"/>
+    </General>
+
+    <Plugins LayoutType="frame">
+      <LayoutSize Width="fill" Height="fill"/>
+      
+      <Plugin Name="wgt_frame" Class="Spb.LSP.StdFrame">
+        <LayoutSize Width="fill" Height="fill"/>
+      </Plugin>
+
+      <Plugins LayoutType="linear" Orientation="horizontal" Margins="3">
+        <LayoutSize Width="fill" Height="fill"/>
+        
+        <Plugin Name="globe" Class="Spb.LSP.Image" ID="1" Margins="1" Align="center_vert">
+          <LayoutSize Width="58" Height="58"/>
+          <String Name="ImageName" Value="globe"/>
+        </Plugin>
+
+        <Col Width="0" Height="auto" Dynamic="1" Name="cities" 
+							Factor="1" Margins="3 0 3 3" Align="center_vert">
+
+					<Plugin Name="Dash" Class="Spb.LSP.DashLine" Margins="0">
+            <Int Name="SkipGroupIndex" Value="0"/>
+            <LayoutSize Width="fill" Height="1"/>
+          </Plugin>
+
+          <Plugin Name="city" Class="Spb.LSP.Generic" ID="2" Factor="1">
+            <LayoutSize Width="fill" Height="20"/>
+          </Plugin>
+        </Col>
+
+      </Plugins>
+    </Plugins>
+  </Layout>
+
+  <!-- **************************************************************************************************** -->
+  <Layout Name="Landscape">
+
+    <!--<General>
+      <Int Name="CityCount" Value="3"/>
+    </General>-->
+
+    <Plugins Extends="Portrait">
+      <Plugins>
+			
+	       <Plugin Name="globe" Align="center" Width="50" Height="50" Margins="0 20 17 0">
+	          <Int Name="Stretch" Value="1"/>
+	        </Plugin>
+
+        <Group Name="cities" Factor="1">
+          <LayoutSize Width="50" Height="fill"/>
+          <LayoutMargins Right="6" Top="2" Bottom="2"/>         
+          <Plugin Name="city">
+            <LayoutSize Width="fill" Height="10"/>
+          </Plugin>
+        </Group>
+
+      </Plugins>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="Tablets_Land">
+    <Plugins Extends="Portrait">
+      <Plugins>
+        <LayoutMargins Top="6" Bottom="6"/>
+        
+        <Plugin Name="globe">
+          <String Name="ImageName" Value="globe_big"/>
+          <LayoutSize Width="auto" Height="auto"/>
+          <LayoutMargins Left="6" Top="1" Bottom="1" Right="4"/>
+        </Plugin>
+
+        <Group Name="cities">
+          <LayoutMargins Left="0" Top="3" Bottom="3" Right="7"/>
+				</Group>
+
+      </Plugins>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="Tablets_Port">
+    <Plugins Extends="Portrait">
+      <Plugins Orientation="vertical">
+        <LayoutMargins Top="3" Bottom="3"/>
+
+        <Plugin Name="globe" Align="center_horz">
+          <LayoutMargins/>
+          <LayoutSize Width="auto" Height="auto"/>
+          <String Name="ImageName" Value="globe_big"/>          
+        </Plugin>
+
+        <Group Name="cities" Align="none">
+          <LayoutMargins Right="9" Left="9"/>
+          <LayoutSize Width="fill" Height="40"/>
+
+          <Plugin Name="city">
+            <LayoutSize Width="fill" Height="10"/>
+          </Plugin>
+        </Group>
+
+      </Plugins>
+    </Plugins>
+  </Layout>
+
+</Layouts>
+
+

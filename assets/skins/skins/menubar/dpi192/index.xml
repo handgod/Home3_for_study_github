@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skin Name="Navigation Bar">
+  <items>
+    <item DontScale="1">
+      <Image Name="MenuIcons" File="menu_icons.png"/>
+
+      <Image Name="Rotate"  File="rotate.png"/>
+      <Image Name="Weather" File="weather.png"/>
+      <Image Name="CallLog" File="calllog.png"/>
+      
+      <Image Name="BarNor"  File="menubarnor.png"/>
+      <Image Name="BarSel"  File="menubarsel.png"/>
+      <Image Name="BarBtns" File="menubarbtns.png"/>
+      
+      <!-- define exact menu buttons for menuicons -->
+      <Image Name="WeatherCondition" File="weather.png" X="0" Y="78" Width="72" Height="62"/>
+      <Image Name="WeatherForecast" File="weather.png" X="0" Y="6" Width="72" Height="62"/>
+      <Image Name="Close" File="menu_icons.png" X="0" Y="162" Width="54" Height="54"/>
+      <Image Name="Menu" File="menu_icons.png" X="0" Y="0" Width="54" Height="54"/>
+
+      <Image Name="LauncherIcon" File="ico-launcher.png"/>
+      <Image Name="BackIcon" File="ico-back.png"/>
+      <Image Name="EditPanelsIcon" File="ico-editpanels.png"/>
+      <Image Name="MenuIcon" File="ico-menu.png"/>
+      <Image Name="Dot" File="selector-dot.png" X="28" Y="0" Width="28" Height="28"/>
+      <Image Name="Dot_Active" File="selector-dot.png" X="0" Y="0" Width="28" Height="28"/>
+      <Image Name="Home" File="selector-home.png" X="28" Y="0" Width="28" Height="28"/>
+      <Image Name="Home_Active" File="selector-home.png" X="0" Y="0" Width="28" Height="28"/>
+    </item>
+  </items>
+</skin>

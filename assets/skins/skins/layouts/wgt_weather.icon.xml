@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+
+<Layouts Name="Weather Widget" Type="widget">
+
+  <Rules>
+    <Default>
+      <UseLayout Name="Default"/>
+    </Default>
+  </Rules>
+
+  <General>
+    <Skin AutoSkin="wgt_weather"/>
+    <DefaultFont Face="Droid Sans" HeightPxl="10" Bold="n" Color="FFFFFFFF"/>    
+    <Int Name="DialogData" Value="1"/>
+
+    <String Name="CurrCName" Value="072"/>
+  </General>
+
+
+  <Layout Name="Default">
+    <Row Width="fill" Height="fill">
+      <Plugin Name="IconicV" ID="9" Width="fill" Height="fill"/>
+    </Row>
+  </Layout>
+
+</Layouts>
+
+

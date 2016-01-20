@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Layouts>
+
+  <Layers>
+    <Layer Name="Frame" Dialog="BackgrdFrame"/>
+    <Layer/>
+  </Layers>
+  
+  <Rules>
+    <UseLayout Name="Default"/>
+  </Rules>
+
+  <Layout Name="Default">
+    <General>
+      <Point Name="ContentSize" X="224" Y="224"/>
+      <String Name="Caption" Value="Add"/>
+    </General>
+    <Plugins Extends="l_Folder:Default"/>
+  </Layout>
+</Layouts>

@@ -1,0 +1,357 @@
+<?xml version="1.0"?>
+
+<Layouts Name="Last Call Widget" Type="widget">
+
+  <!-- **************************************************************************************************** -->
+
+  <Rules>
+    <PlatformCondition Platform="tablets">
+      <ScreenCondition Orientation="landscape">
+        <UseLayout Name="Tablets_Land"/>
+      </ScreenCondition>
+      <Default>
+        <UseLayout Name="Tablets_Port"/>
+      </Default>
+    </PlatformCondition>
+    <ScreenCondition Orientation="landscape">
+      <UseLayout Name="Landscape"/>
+    </ScreenCondition>
+    <Default>
+      <UseLayout Name="Portrait"/>
+    </Default>
+  </Rules>
+
+  <!-- **************************************************************************************************** -->
+
+  <General>
+    <Skin AutoSkin="res_contact"/>
+    <Int Name="DialogData" Value="1"/>
+    <Int Name="CallsCount" Value="2"/>
+
+    <!-- All children will be cropped by their parent-->
+    <Int Name="ParentCrop" Value="1"/>
+  </General>
+
+  <!-- **************************************************************************************************** -->
+
+  <!-- Frame with call list and no calls text -->
+  <Layout Name="CallsFrame">
+    <Plugins LayoutType="frame" StretchFactor="1">
+      <LayoutSize Width="50" Height="fill"/>
+
+      <!-- "NoCalls" text -->
+      <Plugin Name="NoCalls" Class="Spb.LSP.Text" ID="8">
+        <LayoutSize Width="fill" Height="fill"/>
+        <DefaultFont Face="Droid Sans" HeightPxl="10" Bold="n" Color="FFFFFFFF"/>
+      </Plugin>
+
+      <Group Name="CallsList" ID="100" LayoutType="linear" Orientation="vertical">
+        <LayoutSize Width="fill" Height="fill"/>
+
+        <!-- Dashline separator -->
+        <Plugin Name="Dash" Class="Spb.LSP.DashLine">
+          <Int Name="SkipGroupIndex" Value="0"/>
+          <LayoutMargins Left="5" Right="6"/>
+          <!-- Skip separator for the first elem -->
+          <!--<LayoutMargins Bottom="1"/>-->
+          <LayoutSize Width="fill" Height="1"/>
+        </Plugin>
+
+        <Plugins Name="Call" LayoutType="linear" Orientation="horizontal" StretchFactor="1">
+          <LayoutSize Width="fill" Height="40"/>
+
+          <!-- Frame with contact and selection-->
+          <Plugins Name="ContactFrame" LayoutType="frame">
+            <LayoutSize Width="50" Height="fill"/>
+
+            <Plugin Name="ContactSel" ID="9">
+              <LayoutSize Width="fill" Height="fill"/>
+            </Plugin>
+
+            <Plugin Name="ContactPile" Class="Spb.LSP.Image" Align="center_vert">
+              <LayoutMargins Top="5" Left="7"/>
+              <LayoutSize Width="40" Height="54"/>
+              <String Name="ImageName" Value="pile"/>
+              <Int Name="DialogData" Value="0"/>
+              <Int Name="Stretch" Value="1"/>
+            </Plugin>
+
+            <Plugin Name="Contact" ID="2" Align="center_vert">
+              <LayoutSize Width="40" Height="40"/>
+              <LayoutMargins Top="3" Left="1"/>
+            </Plugin>
+          </Plugins>
+
+          <!-- Frame with Call information, selection and "NoCalls" text -->
+          <Plugins LayoutType="frame" Factor="1" Margins="3 1 3 3">
+            <LayoutSize Width="0" Height="fill"/>
+
+            <!-- Selectable Plugin for selection-->
+            <Plugin Name="CallSel" ID="7">
+              <LayoutSize Width="fill" Height="fill"/>
+            </Plugin>
+
+            <!-- Call information -->
+            <Plugins LayoutType="linear" Orientation="vertical">
+              <LayoutSize Width="fill" Height="fill"/>
+              <LayoutMargins Top="2"/>
+
+              <Plugin Name="CallName" Class="Spb.LSP.Text" ID="3" Align="bottom|left" StretchFactor="1">
+                <LayoutSize Width="auto" Height="12"/>
+                <DefaultFont Face="Droid Sans" HeightPxl="10" Bold="y" Color="FFFFFFFF"/>
+              </Plugin>
+
+              <!-- Call icon and phone -->
+              <Plugins LayoutType="linear" Orientation="horizontal" StretchFactor="1">
+                <LayoutSize Width="fill" Height="12"/>
+                <LayoutMargins Bottom="2"/>
+
+                <Plugin Name="CallIco" Class="Spb.LSP.Image" ID="4" Align="center_vert">
+                  <LayoutSize Width="9" Height="10"/>
+                  <LayoutMargins Right="2"/>
+                </Plugin>
+
+                <Plugin Name="CallSrc" Class="Spb.LSP.Text" ID="5" Align="center_vert|left">
+                  <LayoutSize Width="auto" Height="auto"/>
+                  <DefaultFont Face="Droid Sans" HeightPxl="10"  Bold="n" Color="FFFFFFFF"/>
+                </Plugin>
+
+              </Plugins>
+
+              <Plugin Name="CallTime" Class="Spb.LSP.Text" ID="6" Align="top|left" StretchFactor="2">
+                <LayoutSize Width="auto" Height="12"/>
+                <DefaultFont Face="Droid Sans" HeightPxl="9"  Bold="n" Color="FFFFFFFF"/>
+              </Plugin>
+
+            </Plugins>
+          </Plugins>
+
+        </Plugins>
+      </Group>
+
+    </Plugins>
+  </Layout>
+
+  <Layout Name="Default">
+
+    <Plugins LayoutType="frame">
+      <LayoutSize Width="fill" Height="fill"/>
+
+      <Plugin Name="wgt_frame" Class="Spb.LSP.StdFrame">
+        <LayoutSize Width="fill" Height="fill"/>
+      </Plugin>
+
+      <Plugins Name="main" LayoutType="linear" Orientation="horizontal">
+        <LayoutSize Width="fill" Height="fill"/>
+        <LayoutMargins All="3"/>
+
+        <!-- Frame with shortcut and selection-->
+        <Plugins Name="ShortcutFrame" LayoutType="frame">
+          <LayoutSize Width="0" Height="fill"/>
+
+          <Plugin Name="ShortcutSel" ID="10">
+            <LayoutSize Width="fill" Height="fill"/>
+          </Plugin>
+
+          <Plugin Name="Shortcut" ID="1">
+            <LayoutMargins Top="4"/>
+            <LayoutSize Width="fill" Height="fill"/>
+          </Plugin>
+        </Plugins>
+				
+        <!-- Frame with call list and no calls text -->
+        <Plugins Name="CallsFrame" Extends="CallsFrame" StretchFactor="1">
+          <LayoutSize Width="0" Height="fill"/>
+        </Plugins>
+        
+      </Plugins>
+    </Plugins>
+  </Layout>
+
+
+  <Layout Name="Portrait">
+    <General>
+      <Int Name="CallsCount" Value="1"/>
+    </General>
+
+    <Plugins Extends="Default">
+      <Plugins Name="main">
+        <Plugins Name="ShortcutFrame" Margins="1">
+          <LayoutSize Width="60" Height="fill"/>
+        </Plugins>
+      </Plugins>
+    </Plugins>
+  </Layout>
+  
+
+  <Layout Name="Tablets_Land">
+    <General>
+      <Int Name="CallsCount" Value="2"/>
+    </General>
+
+    <Plugins Extends="Default">
+      <!-- Override picture size inside call -->
+      <Plugins Name="main">
+        <Plugins Name="CallsFrame" Margins="0 5 0 0">
+          <Group Name="CallsList">
+           <!--Dynamic list of Calls--> 
+          <Plugins Name="Call">
+            <Plugins Name="ContactFrame">
+              <LayoutMargins Bottom="2"/>
+              <LayoutSize Width="54" Height="fill"/>
+
+              <Plugin Name="ContactPile">
+                <LayoutMargins Top="5" Left="7"/>
+                <LayoutSize Width="30" Height="42"/>
+              </Plugin>
+
+              <Plugin Name="Contact">
+                <LayoutSize Width="30" Height="30"/>
+              </Plugin>
+            </Plugins>
+          </Plugins>
+        </Group>
+
+        </Plugins>
+      </Plugins>
+    </Plugins>
+  </Layout>
+
+  <!-- separate layout for tablets portrait -->
+  <Layout Name="Tablets_Port">
+    <General>
+      <Int Name="CallsCount" Value="2"/>
+    </General>
+
+    <Plugins LayoutType="frame">
+      <LayoutSize Width="fill" Height="fill"/>
+
+      <Plugin Name="wgt_frame" Class="Spb.LSP.StdFrame">
+        <LayoutSize Width="fill" Height="fill"/>
+      </Plugin>
+
+      <Plugins Name="main" LayoutType="linear" Orientation="vertical">
+        <LayoutSize Width="fill" Height="fill"/>
+        <LayoutMargins All="3"/>
+
+        <!-- header with shortcut and program name -->
+        <Plugins Name="header" LayoutType="frame" Orientation="horizontal">
+          <LayoutSize Width="fill" Height="40"/>
+
+          <Plugin Name="ShortcutSel" ID="10">
+            <LayoutSize Width="fill" Height="fill"/>
+          </Plugin>
+
+          <Plugin Name="Shortcut" ID="1">
+            <LayoutSize Width="54" Height="fill"/>
+            <LayoutMargins Top="1"/>
+            <Int Name="DrawName" Value="0"/>
+          </Plugin>
+
+          <Plugin Name="ProgramName" Class="Spb.LSP.Text" Align="left|bottom">
+            <LayoutSize Width="auto" Height="auto"/>
+            <DefaultFont Face="Droid Sans" HeightPxl="10" Bold="n" Color="FFFFFFFF"/>
+            <LayoutMargins Left="46" Bottom="6"/>
+
+            <Int Name="FadeText" Value="1"/>
+            <Int Name="DialogData" Value="0"/>
+            <String Name="Text" Value="Call Log"/>
+          </Plugin>
+        </Plugins>
+
+        <Plugin Name="Separator" Class="Spb.LSP.Separator">
+          <LayoutSize Width="fill" Height="1"/>
+
+          <Int Name="Side" Value="2"/>
+        </Plugin>
+
+        <Plugins Name="CallsFrame" Extends="CallsFrame" Margins="3 7 0 0" StretchFactor="1">
+          <LayoutSize Width="fill" Height="80"/>
+
+          <Group Name="CallsList">
+            <Plugins Name="Call">
+              <LayoutSize Width="fill" Height="40"/>
+
+              <Plugins Name="ContactFrame">
+                <LayoutMargins Bottom="2"/>
+                <LayoutSize Width="54" Height="fill"/>
+
+                <Plugin Name="ContactPile">
+                  <LayoutMargins Top="5" Left="8"/>
+                  <LayoutSize Width="30" Height="45"/>
+                </Plugin>
+
+                <Plugin Name="Contact">
+                  <LayoutSize Width="32" Height="32"/>
+                </Plugin>
+              </Plugins>
+            </Plugins>
+          </Group>
+
+        </Plugins>
+      </Plugins>
+    </Plugins>
+  </Layout>
+
+
+  <Layout Name="Landscape">
+    <General>
+      <Int Name="CallsCount" Value="1"/>
+    </General>
+    
+    <Plugins LayoutType="frame">
+      <LayoutSize Width="fill" Height="fill"/>
+
+      <Plugin Name="wgt_frame" Class="Spb.LSP.StdFrame">
+        <LayoutSize Width="fill" Height="fill"/>
+      </Plugin>
+
+      <Plugins Name="main" LayoutType="linear" Orientation="horizontal">
+        <LayoutSize Width="fill" Height="fill"/>
+        <LayoutMargins All="3"/>
+
+        <!-- Frame with shortcut and selection-->
+        <Plugins Name="ShortcutFrame" LayoutType="frame">
+          <LayoutSize Width="84" Height="fill"/>
+
+          <Plugin Name="ShortcutSel" ID="10">
+            <LayoutSize Width="fill" Height="fill"/>
+          </Plugin>
+
+          <Plugin Name="Shortcut" ID="1" Align="center">
+            <LayoutMargins Top="4"/>
+            <LayoutSize Width="44" Height="26"/>
+            <Int Name="DrawName" Value="0"/>
+          </Plugin>      
+        </Plugins>
+
+        <!-- Frame with call list and no calls text -->
+        <Plugins Name="CallsFrame" Extends="CallsFrame" StretchFactor="1">
+          <LayoutSize Width="0" Height="fill"/>
+
+          <Group Name="CallsList">
+            <Plugins Name="Call">
+              <LayoutSize Width="fill" Height="40"/>
+
+              <Plugins Name="ContactFrame">
+                <LayoutMargins Bottom="2"/>
+                <LayoutSize Width="46" Height="fill"/>
+
+                <Plugin Name="ContactPile" Margins="5 8 0 0" Align="left|center_vert">
+                  <LayoutSize Width="32" Height="45"/>
+                </Plugin>
+
+                <Plugin Name="Contact" Margins="3" Align="left|center_vert">
+                  <LayoutSize Width="32" Height="32"/>
+                </Plugin>
+              </Plugins>
+            </Plugins>
+          </Group>
+          
+        </Plugins>
+
+      </Plugins>
+    </Plugins>
+  </Layout>
+  
+</Layouts>

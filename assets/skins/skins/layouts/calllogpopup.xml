@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+
+<Layouts>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layers>
+      <Layer/>
+  </Layers>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Rules>
+    <PlatformCondition Platform="tablets">
+      <UseLayout Name="landscape_tablet"/>
+    </PlatformCondition>
+
+    <ScreenCondition Orientation="landscape">
+      <UseLayout Name="landscape"/>
+    </ScreenCondition>
+
+    <Default>
+      <UseLayout Name="portrait"/>
+    </Default>
+  </Rules>
+
+  <!-- **************************************************************************************************************** -->
+
+  <General>
+      <Skin Skin="wgt_birthdays"/>
+      <DefaultFont Face="Droid Sans" HeightPxl="11" Bold="n" Color="FFFFFFFF"/>
+  </General>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="Default">
+      <General>
+          <!-- **************************** -->
+          <Point Name="contactsize" X="60"   Y="60"/>
+          <Point Name="bubblesize"  X="200"  Y="80"/>
+          <Point Name="iconsize"    X="30"   Y="30"/>
+          <Point Name="contactoff"  X="-60"  Y="00"/>
+          <Point Name="iconoff"     X="-94"  Y="00"/>
+          <!-- **************************** -->
+          <Font Name="ftName"  Face="Droid Sans" HeightPxl="11" Bold="y" Color="FF000000"/>
+          <Font Name="ftDate"  Face="Droid Sans" HeightPxl="10" Bold="n" Color="FF000000"/>
+          <!-- **************************** -->
+      </General>
+      <Plugins LayoutType="frame">          
+	        <LayoutSize Width="fill" Height="fill"/>
+          <Plugin Name="3DPlugin" Class="Spb.LSP.CalllogPlugin" ID="0" AutoSkin="wgt_lastcall">
+              <LayoutSize Width="fill" Height="fill"/>
+          </Plugin>
+      </Plugins>
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="portrait">
+      <General>
+          <!-- **************************** -->
+          <Int Name="poscount"  Value="7"  />
+          <Int Name="posfront"  Value="0"  />
+          <Int Name="callcount" Value="16" />
+          <Int Name="callmagic" Value="6"  />
+          <!-- **************************** -->
+          <String Name="tr" Value="-4 -24 40  -1 -7 20   4 9 0   11 22 -20   18 31 -40   24 38 -60   27 40 -80   27 80 -80   -4 -50 60" />
+          <String Name="rx" Value="00    00   00   00   00   00   00   00   00" />
+          <String Name="ry" Value="-10  -10  -10  -10  -10  -10  -10  -10  -10" />
+          <String Name="lg" Value="00    00   00   00   00   50  100  100  100" />
+          <String Name="sc" Value="100   95   90   80   70   60   60   60  110" />
+          <!-- **************************** -->
+      </General>
+      <Plugins Extends="Default" />
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="landscape">
+      <General>
+          <!-- **************************** -->
+          <Int Name="poscount"  Value="6"  />
+          <Int Name="posfront"  Value="0"  />
+          <Int Name="callcount" Value="16" />
+          <Int Name="callmagic" Value="5"  />
+          <!-- **************************** -->
+          <String Name="tr" Value="-9 -24 40  -3 -7 20   5 9 0   15 22 -20   25 31 -40   39 40 -80   39 80 -80  -15 -60 60" />
+          <String Name="rx" Value="00    00   00   00   00   00   00   00" />
+          <String Name="ry" Value="-10  -10  -10  -10  -10  -10  -10  -10" />
+          <String Name="lg" Value="00    00   00   00   00  100  100  100" />
+          <String Name="sc" Value="100   95   90   80   70   60   60  110" />
+          <!-- **************************** -->
+      </General>
+      <Plugins Extends="Default" />
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="landscape_tablet">
+      <General>
+          <!-- **************************** -->
+          <Point Name="bubblesize"  X="300"  Y="120"/>
+          <Point Name="contactsize" X="90"   Y="90"/>
+          <Point Name="iconsize"    X="46"   Y="46"/>
+          <Point Name="contactoff"  X="-90"  Y="00"/>
+          <Point Name="iconoff"     X="-138" Y="00"/>
+          <!-- **************************** -->
+          <Font Name="ftName"  Face="Droid Sans" HeightPxl="16" Bold="y" Color="FF000000"/>
+          <Font Name="ftDate"  Face="Droid Sans" HeightPxl="13" Bold="n" Color="FF000000"/>
+          <!-- **************************** -->
+          <Int Name="poscount"  Value="7"  />
+          <Int Name="posfront"  Value="0"  />
+          <Int Name="callcount" Value="16" />
+          <Int Name="callmagic" Value="6"  />
+          <!-- **************************** -->
+          <String Name="tr" Value="-5 -24 40  -2 -7 20   3 8 0   10 22 -20   17 31 -40   23 38 -60   26 40 -80   26 80 -80   -5 -50 60" />
+          <String Name="rx" Value="00    00   00   00   00   00   00   00   00" />
+          <String Name="ry" Value="-10  -10  -10  -10  -10  -10  -10  -10  -10" />
+          <String Name="lg" Value="00    00   00   00   00   50  100  100  100" />
+          <String Name="sc" Value="100   95   90   80   70   60   60   60  110" />
+          <!-- **************************** -->
+      </General>
+      <Plugins Extends="Default" />
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+</Layouts>

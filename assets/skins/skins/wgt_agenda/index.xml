@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<skin Name="Agenda Widget" Type="widget">
+  <items>
+
+    <item DontScale = "1">
+      <Rect Name="rectList"    X="0"  Y="32"  Width="128"  Height="90"  />
+      <Rect Name="rectBubSubj" X="20" Y="20"  Width="216"  Height="160" />
+      <Rect Name="rectBubDate" X="20" Y="180" Width="216"  Height="60"  />
+
+      <Font Name="fontDay"     Face="Droid Sans" HeightPxl="64" Bold="y" Color="FF000000" />
+      <Font Name="fontNam"     Face="Droid Sans" HeightPxl="16" Bold="y" Color="FF000000" />
+      <Font Name="fontBubSubj" Face="Droid Sans" HeightPxl="22" Bold="y" Color="FF000000" />
+      <Font Name="fontBubDate" Face="Droid Sans" HeightPxl="20" Bold="n" Color="FF363636" />
+    </item>
+
+    <item>
+      <Image Name="BubbleTex"  File="BubbleTex.png"/>
+      <Image Name="ListTex"    File="ListTex.png"/>
+      <Image Name="RingTex"    File="RingTex.png"/>
+
+      <Rect Name="BadgeRect" X="0" Y="0" Width="35" Height="40"/>
+      <Font Name="BadgeFont" Face="Droid Sans" HeightPxl="16" Bold="y" Color="FF000000"/>
+    </item>
+
+  </items>
+</skin>
+  

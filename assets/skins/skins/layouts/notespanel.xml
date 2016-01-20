@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+
+<Layouts Name="Notes Panel" Type="panel">
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layers>
+    <Layer Name="PanelFrame" Dialog="PanelFrame"/>
+    <Layer/>
+  </Layers>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Rules>
+    <!-- tablets specification -->
+    <PlatformCondition Platform="tablets">
+      <ScreenCondition Orientation="landscape"> <UseLayout Name="Landscape_Tablet"/> </ScreenCondition>
+      <ScreenCondition Orientation="portrait">  <UseLayout Name="Portrait_Tablet"/>  </ScreenCondition>
+    </PlatformCondition>
+
+    <!-- phones specification -->
+    <PlatformCondition Platform="smartphone">
+      <ScreenCondition Orientation="landscape"> <UseLayout Name="Landscape"/> </ScreenCondition>
+      <ScreenCondition Orientation="portrait">  <UseLayout Name="Portrait"/>  </ScreenCondition>
+    </PlatformCondition>
+  </Rules>
+
+  <!-- **************************************************************************************************************** -->
+
+  <General>
+    <Skin AutoSkin="notespanel"/>
+    <DialogObject Value="Spb.Data.NotesPanel"/>
+
+    <Point Name="szNote"  X="100" Y="100"/>
+    <Point Name="szText"  X="85"  Y="85"/>
+    <Point Name="ptText"  X="10"  Y="05"/>
+
+    <Font  Name="ftCats"  Face="Droid Sans" HeightPxl="12" Bold="y" Color="FFFFFFFF"/>
+    <Font  Name="ftAdd"   Face="Droid Sans" HeightPxl="11" Bold="y" Color="FFFFFFFF"/>
+
+    <Font  Name="ftSmall"  Face="Droid Sans" HeightPxl="08" Bold="y" Color="FF303030"/>
+    <Font  Name="ftNormal" Face="Droid Sans" HeightPxl="10" Bold="y" Color="FF303030"/>
+    <Font  Name="ftLarge"  Face="Droid Sans" HeightPxl="12" Bold="y" Color="FF303030"/>
+  </General>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="NotesHeader">
+    <Row Width="fill" Height="25">
+      <Plugin Width="30" Height="fill" Name="PrevCat"  ID="200" AutoSkin="misc"/>
+      <Plugin Width="00" Height="fill" Name="CurCat"   ID="202" StretchFactor="1"/>
+      <Plugin Width="30" Height="fill" Name="NextCat"  ID="201" AutoSkin="misc"/>
+      <Plugin Width="01" Height="fill" Name="LastSep"  Class="Spb.LSP.Separator">
+        <Int Name="Falloff" Value="40"/>
+        <Int Name="Opacity" Value="150"/>
+      </Plugin>
+    </Row>
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="Portrait">
+    <Frame Width="fill" Height="fill">
+      <Plugins Extends="common:PanelSettings"/>
+      
+      <Col Name="MainFrame" Width="fill" Height="fill" Margins="14 6 6 54">
+        <Plugins Extends="NotesHeader" Margins="0 0 34 0"/>
+        <Frame Width="fill" Height="fill" Margins="8 0 0 8">
+          <Plugin Width="fill" Height="fill" Margins="0 5 5 0"     Name="CorkBorder" ID="101"/>
+          <Plugin Width="fill" Height="fill" Margins="2 7 7 2"     Name="CorkBoard"  ID="102"/>
+          <Plugin Width="fill" Height="fill" Margins="0 0 100 100" Name="DropArea"   ID="100"/>
+          <Plugin Width="fill" Height="5"    Margins="6 7 7 4"     Name="CatDots"    ID="301"/>
+        </Frame>
+      </Col>
+    </Frame>
+  </Layout>
+
+  <Layout Name="Landscape">
+    <Frame Width="fill" Height="fill">
+      <Plugins Extends="common:PanelSettings_L"/>
+
+      <Col Name="MainFrame" Width="fill" Height="fill" Margins="14 7 50 10">
+        <Plugins Extends="NotesHeader" Margins="0 0 34 0"/>
+        <Frame Width="fill" Height="fill" Margins="8 0 0 8">
+          <Plugin Width="fill" Height="fill" Margins="0 5 5 0"     Name="CorkBorder" ID="101"/>
+          <Plugin Width="fill" Height="fill" Margins="2 7 7 2"     Name="CorkBoard"  ID="102"/>
+          <Plugin Width="fill" Height="fill" Margins="0 0 100 100" Name="DropArea"   ID="100"/>
+          <Plugin Width="fill" Height="5"    Margins="6 7 7 4"     Name="CatDots"    ID="301"/>
+        </Frame>
+      </Col>
+    </Frame>
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="Tablet_Base">
+    <General>
+      <Skin AutoSkin="notespanel"/>
+      <DialogObject Value="Spb.Data.NotesPanel"/>
+
+      <Point Name="szNote"  X="120" Y="120"/>
+      <Point Name="szText"  X="105" Y="105"/>
+      <Point Name="ptText"  X="10"  Y="05"/>
+
+      <Font  Name="ftCats"  Face="Droid Sans" HeightPxl="12" Bold="y" Color="FFFFFFFF"/>
+      <Font  Name="ftAdd"   Face="Droid Sans" HeightPxl="11" Bold="y" Color="FFFFFFFF"/>
+
+      <Font  Name="ftSmall"  Face="Droid Sans" HeightPxl="09" Bold="y" Color="FF303030"/>
+      <Font  Name="ftNormal" Face="Droid Sans" HeightPxl="11" Bold="y" Color="FF303030"/>
+      <Font  Name="ftLarge"  Face="Droid Sans" HeightPxl="12" Bold="y" Color="FF303030"/>
+    </General>
+    <Plugins/>
+  </Layout>
+
+  <Layout Name="Portrait_Tablet" Extends="Tablet_Base">
+    <Frame Width="fill" Height="fill">
+      <Plugins Extends="common:PanelSettings_Tablet"/>
+
+      <Col Name="MainFrame" Width="fill" Height="fill">
+        <Plugins Extends="NotesHeader" Margins="0 0 28 0"/>
+        <Frame Width="fill" Height="fill" Margins="8 0 0 0">
+          <Plugin Width="fill" Height="fill" Margins="0 0 0 0"     Name="CorkBorder" ID="101"/>
+          <Plugin Width="fill" Height="fill" Margins="2 2 2 2"     Name="CorkBoard"  ID="102"/>
+          <Plugin Width="fill" Height="fill" Margins="0 0 120 120" Name="DropArea"   ID="100"/>
+          <Plugin Width="fill" Height="5"    Margins="6 2 2 4"     Name="CatDots"    ID="301"/>
+        </Frame>
+      </Col>
+    </Frame>
+  </Layout>
+
+  <Layout Name="Landscape_Tablet" Extends="Tablet_Base">
+    <Frame Width="fill" Height="fill">
+      <Plugins Extends="common:PanelSettings_Tablet"/>
+
+      <Col Name="MainFrame" Width="fill" Height="fill">
+        <Plugins Extends="NotesHeader" Margins="0 0 28 0"/>
+        <Frame Width="fill" Height="fill" Margins="8 0 0 0">
+          <Plugin Width="fill" Height="fill" Margins="0 0 0 0"     Name="CorkBorder" ID="101"/>
+          <Plugin Width="fill" Height="fill" Margins="2 2 2 2"     Name="CorkBoard"  ID="102"/>
+          <Plugin Width="fill" Height="fill" Margins="0 0 120 120" Name="DropArea"   ID="100"/>
+          <Plugin Width="fill" Height="5"    Margins="6 2 2 4"     Name="CatDots"    ID="301"/>
+        </Frame>
+      </Col>
+    </Frame>
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+</Layouts>

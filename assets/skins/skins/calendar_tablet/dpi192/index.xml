@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<skin>
+  <items>
+    <item>
+      <Image Name="Today" File="today.png"/>
+      <Image Name="Blank" File="blank.png"/>
+      <Image Name="Month" File="month.png"/>
+      <Image Name="Tabs0" File="tabs-0.png"/>
+      <Image Name="Tabs1" File="tabs-1.png"/>
+      <Image Name="DateIcon" File="date-icon.png"/>
+      <Image Name="Recurring" File="recurring.png"/>
+      <Image Name="NoTabs" File="no-tabs.png"/>
+    </item>
+  </items>
+</skin>

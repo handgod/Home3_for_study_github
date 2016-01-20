@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+
+<Layouts Name="RSS Panel" Type="panel">
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layers>
+    <Layer Name="PanelFrame" Dialog="PanelFrame"/> 
+    <Layer/>
+  </Layers>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Rules>
+    <PlatformCondition Platform="tablets">
+      <ScreenCondition Orientation="landscape"> <UseLayout Name="Tablet"/> </ScreenCondition>
+      <ScreenCondition Orientation="portrait">  <UseLayout Name="Tablet"/> </ScreenCondition>
+    </PlatformCondition>
+
+    <PlatformCondition Platform="smartphone">
+      <ScreenCondition Orientation="landscape"> <UseLayout Name="Landscape"/> </ScreenCondition>
+      <ScreenCondition Orientation="portrait">  <UseLayout Name="Portrait"/>  </ScreenCondition>
+    </PlatformCondition>
+
+    <Default>
+      <UseLayout Name="Portrait"/>
+    </Default>
+  </Rules>
+
+  <!-- **************************************************************************************************************** -->
+
+  <General>
+    <Skin AutoSkin="rsspanel"/>
+    <DialogObject Value="Spb.Data.RssPanel"/>
+
+    <!-- fonts -->
+    <Font Name="ftTitle"  Face="Droid Sans" HeightPxl="12" Bold="y" Color="FFFFFFFF"/>
+    <Font Name="ftHeader" Face="Droid Sans" HeightPxl="10" Bold="y" Color="FFFFFFFF"/>
+    <Font Name="ftStatus" Face="Droid Sans" HeightPxl="8"  Bold="n" Color="FF000000"/>
+    <Font Name="ftNoNews" Face="Droid Sans" HeightPxl="14" Bold="n" Color="FFA0A0A0"/>
+  </General>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="RssHeader">
+    <Row Width="fill" Height="25">
+      <Plugin Width="30" Height="fill" Name="PrevChan" ID="200" AutoSkin="misc"/>
+      <Plugin Width="00" Height="fill" Margins="0 4 4 0" Name="CurChan"  ID="202" StretchFactor="1"/>
+      <Plugin Width="30" Height="fill" Name="NextChan" ID="201" AutoSkin="misc"/>
+      <Plugin Width="01" Height="fill" Name="LastSep"  Class="Spb.LSP.Separator">
+        <Int Name="Falloff" Value="40"/>
+        <Int Name="Opacity" Value="150"/>
+      </Plugin>
+    </Row>
+  </Layout>
+
+  <Layout Name="RssItemList">
+    <Frame Width="fill" Height="fill">
+      <Plugin Width="fill" Height="fill" Name="RssItemList" ID="500" Class="Spb.LSP.Form">
+        <String Name="Stylesheet" Value="RssItemList"/>
+      </Plugin>
+
+      <Plugin Width="fill" Height="fill" Name="NoNews" ID="30" />
+    </Frame>
+  </Layout>
+
+  <Layout Name="RssChanList">
+    <Frame Width="fill" Height="fill">
+      <Plugin Width="fill" Height="fill" Name="RssChanList" ID="600" Class="Spb.LSP.Form">
+        <String Name="Stylesheet" Value="RssChanList"/>
+      </Plugin>
+    </Frame>
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="Portrait">
+    <Frame Width="fill" Height="fill">
+      <Plugins Extends="common:PanelSettings"/>
+      <Col Width="fill" Height="fill" Margins="14 6 6 54">
+        <Plugins Extends="RssHeader" Margins="0 0 34 0"/>
+        
+        <Frame Width="fill" Height="fill" Margins="7 5 5 5">
+          <Plugin Width="fill" Height="fill" Name="Shadow" ID="10" AutoSkin="misc"/>
+          <Plugins Extends="RssItemList" Margins="4"/>
+        </Frame>
+      </Col>
+    </Frame>
+  </Layout>
+
+  <Layout Name="Landscape">
+    <Frame Width="fill" Height="fill">
+      <Plugins Extends="common:PanelSettings_L"/>
+      <Col Width="fill" Height="fill" Margins="14 7 50 10">
+        <Plugins Extends="RssHeader" Margins="0 0 34 0"/>
+        
+        <Frame Width="fill" Height="fill" Margins="7 5 5 5">
+          <Plugin Width="fill" Height="fill" Name="Shadow" ID="10" AutoSkin="misc"/>
+          <Plugins Extends="RssItemList" Margins="4"/>
+        </Frame>
+      </Col>
+    </Frame>
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="Tablet">
+    <Frame Width="fill" Height="fill">
+      <Plugins Extends="common:PanelSettings_Tablet"/>
+
+      <Col Width="fill" Height="fill">
+        <Plugin Width="fill" Height="25" Margins="0 25 25 0" Name="CurChan"  ID="202"/>
+
+        <Frame Width="fill" Height="fill" Margins="6 0 0 0">
+          <Plugin Width="fill" Height="fill" Name="Shadow" ID="10" AutoSkin="misc"/>
+
+          <Row Width="fill" Height="fill" Margins="4">
+            <Col Width="fill" Height="fill" StretchFactor="2">
+              <Plugin Width="fill" Height="20" Name="HeadChan" ID="300"/>
+              <Plugins Extends="RssChanList"/>
+            </Col>
+
+            <Plugin Width="3" Height="fill" Margins="0 0 4 0" Name="Separator" Class="Spb.LSP.Line"> 
+            </Plugin>
+
+            <Plugins Extends="RssItemList" StretchFactor="3"/>
+          </Row>
+        </Frame>
+      </Col>
+    </Frame>
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+</Layouts>

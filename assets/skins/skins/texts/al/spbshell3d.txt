@@ -1,0 +1,518 @@
+ a few seconds| pak sekonda
+ day| ditë
+ days| ditë
+ hour| orë
+ hours| orë
+ hr| orë
+ hrs| orë
+ lunar day| ditë hënore
+ min| min
+ mins| minuta
+ minute| minutë
+ minutes| minuta
+%d bought|%d të blera
+%d day|%d ditë
+%d days|%d ditë
+%d hour|%d hour
+%d hours|%d hours
+%d minute|%d minute
+%d minutes|%d minutes
+%d more...|%d more...
+%i active channel|%i kanal aktiv
+%i active channels|%i kanale aktive
+%i image|%i imazh
+%i images|%i imazhe
+%i more today|%i më shumë sot
+%i more...|%i më shumë...
+%i page|%i faqe
+%i pages|%i faqe
+%i%% of Full|%i%% e Hënës së plotë
+%s 2007—2011 Yandex|%s 2007—2011 Yandex
+(<1 min)|(<1 min)
+(in|(në
+(in seconds)|(në sekonda)
+(No title)|(Pa titull)
+[ Loading images... ]|[ Duke ngarkuar imazhet... ]
+[ Tap here for images load ]|[ Trokit këtu për ngarkimin e imazheve ]
+A few minutes ago|Pak minuta më parë
+About|Rreth
+Above horizon|Above horizon
+Activate|Aktivizo
+Activation|Aktivizimi
+Activation failed. Check your Internet connection.|Aktivizimi dështoi. Kontrollo lidhjen e internetit.
+Active Channels|Kanalet aktive
+Active channels|Active channels
+Add|Shto
+Add category|Add category
+Add city|Shto qytet
+Add custom channel|Shto kanal të personalizuar
+Add new city|Shto qytet të ri
+Add note|Shto shënim
+Add Panel|Shto panel
+Add to Home screen|Shto në ekranin Kryesor
+Airplane|Avion
+Airplane Mode|Modaliteti Avion
+All day|Gjithë ditën
+All pictures|Të gjitha fotot
+Allow resizing of all Android widgets|Allow resizing all android widgets
+An hour ago|Një orë më parë
+Android Shortcut|Shkurtore për Android
+Android Widget|Miniaplikacion për Android
+Anniversary|Përvjetor
+Appearance|Paraqitja
+Application|Aplikacion
+April|Prill
+Aqua|Aqua
+Aquarius|Ujori
+Aries|Dashi
+as of %s|e datës %s
+at %s|në %s
+atm|atm
+Atmospheres|Atmosferë
+Atmospheric pressure scale|Shkalla e presionit atmosferik
+August|Gusht
+Auto|Automatike
+Auto (keyboard only)|Auto (vetëm tastierë)
+Auto arrange widgets|Risistemo automatikisht miniaplikacionet
+Automatic|Automatike
+Automatic naming|Emërtim automatik
+Backlight|Drita e sfondit
+Battery|Bateria
+Below horizon|Below horizon
+Birthday|Ditëlindje
+Birthdays|Ditëlindjet
+Black|E zezë
+Blue|Blu
+Bluetooth|Bluetooth
+Bookmarks|Faqeshënues
+Bookmarks Folder|Dosje e faqeshënuesve
+Business|Biznes
+Buy!|Bli!
+Cache size|Madhësia e kashesë
+Calculator|Kalkulatori
+Calendar|Kalendar
+Calendar Panel|Paneli i Kalendarit
+Calendar Panel Settings|Cilësimet e panelit Kalendar
+Call|Telefono
+Call Log|Regjistri i telefonatave
+Cancel|Anulo
+Cancer|Gaforrja
+Capricorn|Bricjapi
+Categories|Kategoritë
+Category Name|Emri i kategorisë
+Celsius (#short)|Celsius
+Change|Ndrysho
+Change City|Ndrysho qytet
+Change profile|Ndrysho profilin
+Channels list|Lista e kanaleve
+Choose Color|Zgjidh ngjyrën
+Choose Program|Zgjidh program
+Choose SPB Widget|Zgjidh Miniaplikacion SPB
+Choose widget|Zgjidh miniaplikacionin
+Clear|I kthjellët
+Clear cache|Pastro kashenë
+Clock|Orë
+Cloudy|Me re
+Cloudy, hail|Me re, breshër
+Cloudy, heavy rain|Me re, shi i dendur
+Cloudy, heavy snow|Me re, borë e dendur
+Cloudy, rain|Me re, shi
+Cloudy, rain with snow|Me re, shi me borë
+Cloudy, snow|Me re, borë
+Cloudy, thunder|Me re, vetëtima
+Color anaglyph (red/cyan)|Anaglif me ngjyra (e kuqe/e kaltër)
+Communication|Komunikimi
+Contact|Kontakt
+Contacts|Kontaktet
+Contacts Folder|Dosja e kontakteve
+Copyright %s 2007-2011\nSPB Software|Të drejtat e autorit %s 2007-2011\nSPB Software
+Copyright %s 2007-2012\nSPB Software|Të drejtat e autorit %s 2007-2012\nSPB Software
+Create Folder|Duke krijuar dosje
+Current|Aktuale
+Current city|Qyteti aktual
+Current conditions|Kushtet aktuale
+Current Conditions|Kushtet aktuale
+Current skin|Veshja aktuale
+Day|Ditë
+Deal of the Day|Oferta e ditës
+Deal of the Day Panel|Paneli Oferta e ditës
+Deal of the Day Panel Settings|Cilësimet e panelit Oferta e ditës
+Deals|Ofertat
+December|Dhjetor
+Default|Parazgjedhja
+Delete note|Fshi shënimin
+Dew point:|Pika e vesës:
+Diagnostic tools|Mjetet diagnostikuese
+Disabled|Çaktivizuar
+Discoverable|I zbulueshëm
+Done|U krye
+Download Original|Shkarko origjinalin
+Downloading images|Duke shkarkuar imazhe
+E|L
+east|lindje
+Edit channel|Edit channel
+Edit note|Redakto shënimin
+Edit panels|Edito panelet
+Emergency only|Vetëm thirrje emergjence
+Empty Panel|Panel bosh
+Enable live wallpapers|Mundëso sfondet e lëvizshme
+Enabled|Aktivizuar
+Enter RSS feed title|Vendos titullin e RSS Feed
+Enter RSS feed URL|Vendos URL-në e RSS Feed
+Entertainment|Argëtim
+Error|Gabim
+Evening|Mbrëmje
+Every 2 hours|Çdo 2 orë
+Every 24 hours|Çdo 24 orë
+Every 30 Minutes|Çdo 30 minuta
+Every 30 minutes|Çdo 30 minuta
+Every 4 hours|Çdo 4 orë
+Every hour|Çdo orë
+Exit|Dil
+Experimental|Eksperimentale
+Experimental Settings|Cilësimet e Eksperimentale
+Experimental settings|Cilësimet e Eksperimentale
+Fahrenheit (#short)|Fahrenheit
+Failed to load RSS|Failed to load RSS
+Favorite Contacts|Kontaktet e preferuara
+Favorite contacts|Kontaktet e preferuara
+February|Shkurt
+Filter|Filtro
+First day of the week|Dita e parë e javës
+First Quarter|Çereku i parë
+Flight|Fluturim
+Folder|Dosje
+Folder Name|Emri i dosjes
+Forecast|Parashikimi
+from forecast|nga parashikimi
+Full Moon|Hënë e plotë
+Gallery|Galeria
+Games|Lojëra
+Gemini|Binjakët
+Grayscale anaglyph (red/cyan)|Anaglif në shkallë gri (e kuqe/e kaltër)
+Green|E gjelbër
+G-Sensor|G-Sensor
+Half an hour ago|Gjysmë ore më parë
+Hectopascals|Hektopaskalë
+Hide Duplicates|Fshih dublikatat
+Hide SIM Contacts|Fshih kontaktet e SIM-it
+Home|Kryesor
+Home Settings|Cilësimet e ekranit Kryesor
+Home settings|Cilësimet e ekranit Kryesor
+hpa|hpa
+Humidity:|Lagështia:
+in %u days|në %u ditë
+in Home Settings|në cilësimet e ekranit Kryesor
+inch|inç
+Inches|Inç
+Increase Counter|Increase Counter
+Interface mode|Modaliteti i ndërfaqes
+Invisible|I padukshëm
+January|Janar
+July|Korrik
+June|Qershor
+Kilometers per hour|Kilometra në orë
+Knots|nyje
+knots|nyje
+kph|km/orë
+kts|kts
+Landscape|Peizazh
+Landscape orientation required to enable left-to-right stereo mode|Landscape orientation required to enable left-to-right stereo mode
+Large|Large
+Last Call|Telefonata e fundit
+Last Message|Mesazhi i fundit
+Last Quarter|Çereku i fundit
+Last updated|Përditësimi i fundit
+Left-to-right (HTC EVO 3D)|Nga e majta në të djathtë (HTC EVO 3D)
+Legal information|Informacion ligjor
+Legal notices|Njoftime ligjore
+Leo|Luani
+Libra|Peshorja
+Lifestyle|Stil jetese
+Live wallpapers can cause performance degradation of your 3D home screen. Switching between live and static wallpapers can take up to a minute. Static wallpapers are recommended for the best experience.|Sfondet e gjalla mund të shkaktojnë rënie të performancës së ekranit kryesor 3D. Kalimi nga sfonde të lëvizshme në të palëvizshme mund të kërkojë deri në një minutë. Sfondet e palëvizshme rekomandohen për eksperiencën më të mirë.
+Loading failed|Ngarkimi dështoi
+Loading image for wallpaper|Duke ngarkuar imazh për sfond
+Loading RSS feed %s...|Loading RSS feed %s...
+Loading skin failed!|Ngarkimi i veshjes dështoi!
+Loading skins catalog failed!|Ngarkimi i katalogut të veshjeve dështoi!
+Loading...|Duke ngarkuar...
+Logging In...|Duke hyrë në llogari...
+Lunar Calendar|Kalendari hënor
+Lunar day %d|Ditë hënore %d
+Manage apps|Menaxho aplikacionet
+Manage Apps|Menaxho aplikacionet
+Manage panels|Menaxho panelet
+Manage Panels|Menaxho panelet
+March|Mars
+May|Maj
+Messaging|Mesazhimi
+Meters per second|Metra në sekondë
+Miles per hour|Milje në orë
+Millimetres|Milimetra
+Misc|Të ndryshme
+Miscellaneous|Të ndryshme
+mm|mm
+Mobile|Celular
+Mode|Modaliteti
+Monday|E hënë
+Moon|Hëna
+Moon Calendar|Kalendari hënor
+Moon in %s,|Hëna në %s,
+Morning|Mëngjes
+mph|milje/orë
+mps|milje/s
+Multimedia|Multimedia
+Music|Muzikë
+Music albums|Albume muzikore
+N|V
+N/A|N/A
+nd|-të
+NE|VL
+Network Status|Statusi i rrjetit
+Never|Asnjëherë
+New Channel|New Channel
+New channel|New Channel
+New Contact|Kontakt i ri
+New Folder|Dosje e re
+New Moon|Hënë e re
+News|Lajme
+News Panel|Paneli i Lajmeve
+News Panel Settings|Cilësimet e panelit të Lajmeve
+next|tjetër
+Next Alarm|Alarmi i radhës
+Night|Natë
+No|Jo
+no|no
+No Alarms|Asnjë alarm
+No birthdays|Nuk ka ditëlindje
+No calls|Asnjë thirrje
+No Cities|Asnjë qytet
+No conditions|Nuk ka kushte
+No Contacts.|Asnjë kontakt
+No Countries|Asnjë shtet
+No deals loaded|Nuk janë ngarkuar oferta
+No Images|Nuk ka imazhe
+No messages|Nuk ka mesazhe
+No news|Asnjë lajm
+No rise/set info|No rise/set info
+No RSS feed found at|Nuk u gjetën RSS feed në
+No rss loaded|No rss loaded
+No SIM|Asnjë SIM
+No text messages|Nuk ka mesazhe teksti
+No title|Pa titull
+No upcoming events|Nuk ka ngjarje të ardhshme
+No upcoming events in a week|Nuk ka ngjarje të ardhshme për një javë
+No updates|Nuk ka përditësime
+No weather forecast|Nuk ka parashikim moti
+Normal|Normal
+north|veri
+north east|verilindje
+north west|veriperëndim
+Not available|E padisponueshme
+Not connected|Nuk është lidhur
+Notes|Shënime
+Note's default color|Note's default color
+Note's font|Note's font
+Notes Panel|Paneli i Shënimeve
+Notes Panel Settings|Cilësimet e panelit të Shënimeve
+November|Nëntor
+NW|VP
+October|Tetor
+Off|Fikur
+Offer|Oferta
+On|On
+One Touch Share|One Touch Share
+Only on free connections|Vetëm në lidhjet falas
+Open Contact|Hap kontakt
+Open in Browser|Hap në shfletues
+OpenGL 2.0 is required to run SPB Shell 3D|Për të ekzekutuar SPB Shell 3D kërkohet OpenGL 2.0
+Optimized anaglyph (red/cyan)|Anaglif i optimizuar (e kuqe/e kaltër)
+Other (assistant)|Tjetër (ndihmëse)
+Page|Faqja
+Pages: %d, images: %d|Pages: %d, images: %d
+Panel Name|Emri i panelit
+Parsing skins catalog failed!|Analizimi i katalogut të veshjeve dështoi!
+Partly cloudy|Pjesërisht me re
+Partly cloudy, rain|Pjesërisht me re, shi
+Partly cloudy, snow|Pjesërisht me re, borë
+Partly cloudy, thunder|Pjesërisht me re, vetëtima
+People|Njerëzit
+Performance Warning|Paralajmërimi i performancës
+Performance Warning dialog|Dialogu i paralajmërimit të performancës
+Personal|Personale
+Phone|Telefon
+Photo folder for gallery widgets|Dosja e fotove për miniaplikacionet e galerisë
+Picture Gallery|Galeria e fotove
+Picture of the Day|Fotografia e ditës
+Picture Panel Settings|Cilësimet e panelit Fotot
+Pictures|Fotot
+Pictures Of The Day|Fotografitë e ditës
+Pictures Panel|Paneli i Fotografive
+Pictures Panel Settings|Cilësimet e panelit Fotot
+Pictures Settings|Cilësimet e Fotografive
+Pisces|Peshqit
+Please Log In|Hyr në llogari
+Please wait...|Lutemi prisni...
+Portrait|Portret
+Pressure:|Presioni:
+Problem loading widget|Problem me ngarkimin e miniaplikacionit
+Productivity|Produktiviteti
+Program|Programi
+Pulkovo|Pulkovo
+Purchase|Blerje
+Purple|E purpurt
+Radio off|Radioja fikur
+rd_loc|.
+Reading appointments...|Duke lexuar takimet...
+Recycle Bin|Koshi i mbeturinave
+Red|E kuqe
+Reduced|Reduced
+Reload skin list|Ringarko listën e veshjeve
+Remove All|Hiq të gjitha
+Rename|Riemërto
+Rename Panel|Riemërto panelin
+Requesting images|Duke kërkuar imazhe
+Retry|Provo sërish
+Rise: %s|Rise: %s
+RSS Feed|RSS Feed
+RSS Panel|Paneli RSS
+RSS Panel Settings|Cilësimet e panelit RSS
+S|J
+Safe mode|Modaliteti i sigurt
+Sagittarius|Shigjetari
+Saint-Petersburg|Shën Pjetërburg
+Save as New|Ruaj si të re
+Save to Existing|Ruaj në ekzistuese
+Scorpio|Akrepi
+Screen orientation|Orientimi i ekranit
+SE|JL
+Searching|Duke kërkuar
+Select Channel|Zgjidh kanalin
+Select cities|Zgjidh qytetet
+Select e-mail address|Zgjidh adresë emaili
+Select phone number:|Zgjidh numër telefoni:
+Select shortcut|Zgjidh shkurtoren
+Select Skin|Zgjidh veshjen
+Select wallpaper from|Zgjidh sfond nga
+Selected cities|Qytetet e zgjedhura
+Selected City|Qyteti i zgjedhur
+Selected city|Qyteti i zgjedhur
+Send E-mail|Dërgo email
+Send E-Mail|Dërgo email
+Send Message|Dërgo mesazh
+Send MMS|Dërgo MMS
+Send SMS|Dërgo SMS
+September|Shtator
+Serial number:|Numri i serisë:
+Set as Home|Vendos si Kryesor
+Set as Wallpaper|Vendos si sfond
+Set wallpaper|Vendos sfond
+Set: %s|Set: %s
+Settings|Cilësimet
+Show all|Trego të gjitha
+Show all day events|Trego të gjitha ngjarjet e ditës
+Show all day events in calendar widgets|Trego të gjitha ngjarjet e ditës në miniaplikacionet e kalendarit
+Show full news|Trego lajmet e plota
+Show images in news|Trego imazhet në lajme
+Silent|Pa zhurmë
+Skin loading|Veshja po ngarkohet
+Small|Small
+Smartphone|Smartphone
+Smog|Smog
+Social|Sociale
+Sound Profile|Profili i zërit
+south|jug
+south east|juglindje
+south west|jugperëndim
+SPB Shell 3D is loading...|Po ngarkohet SPB Shell 3D...
+SPB Wallpapers|Sfondet SPB
+SPB Widget|Miniaplikacion SPB
+st|-rë
+Standard Edition [Beta]|Edicion standard [Beta]
+Stereoscopic 3D mode|Modalitet 3D stereoskopik
+Stereoscopic 3D mode will be disabled|Stereoscopic 3D mode will be disabled
+Stereoscopic 3D Settings|Cilësimet e modalitetit 3D stereoskopik
+Sun in %s,|Dielli në %s,
+Sunday|E diel
+SW|JP
+Switching the interface mode can take up to a minute. Screen orientation will be changed to '%s'.|Ndërrimi i modalitetit të ndërfaqes mund të kërkojë deri në një minutë. Orientimi i ekranit do të bëhet '%s'.
+System|System
+Tablet|Tablet
+Taurus|Demi
+Temperatur scale|Shkalla e temperaturës
+Temperature scale|Shkalla e temperaturës
+Test Battery|Testo baterinë
+th|-të
+Thank you for your support. Your copy is now registered.|Faleminderit për mbështetjen. Kopja tani është e regjistruar.
+The experimental features below are not ready to be shipped in the core of SPB Shell 3D. They may contain severe defects and cause system instability. Use them at your own risk.|Veçoritë eksperimentale të mëposhtme nuk janë gati për t'u dërguar në kujtesën qendrore të SPB Shell 3D. Ato mund të përmbajnë një numër defektesh dhe mund të shkaktojnë paqëndrueshmëri të sistemit. Të përdoren duke marrë parasysh rrezikun individualisht.
+The maximum number of panels is reached|Është arritur numri maksimal i paneleve
+The name cannot be changed.|Emri nuk mund të ndryshohet.
+The previous launch of SPB Shell 3D was unsuccessful. Please tap "Retry" to launch it again or "Home" to activate a different Home screen.|Nisja e mëparshme e SPB Shell 3D ishte e pasuksesshme. Trokit mbi "Provo sërish" për ta nisur sërish, ose "Kryesor" për të aktivizuar një ekran tjetër Kryesor.
+Time|Ora
+Time Panel|Paneli i Kohës
+Time Panel Settings|Cilësimet e Panelit të Kohës
+Today|Sot
+Toggle|Ndrysho
+Tomorrow|Nesër
+Tools|Veglat
+Travel|Udhëtim
+Unfortunately, we could not locate your purchase in Android Market. Please uninstall this copy before installing a new one.|Fatkeqësisht, nuk mundëm ta lokalizojmë blerjen në Android Market. Çinstalo këtë kopje përpara se të instalosh një të re.
+Unfortunately, we could not locate your purchase. Please uninstall this copy before installing a new one.|Fatkeqësisht, nuk mundëm ta lokalizojmë blerjen. Çinstalo këtë kopje përpara se të instalosh një të re.
+Uninstall|Çinstalo
+Uninstall apps|Çinstalo aplikacionet
+Unknown|E panjohur
+Unknown location|Vendndodhje e panjohur
+Upcoming events|Ngjarje të ardhshme
+Update|Përditëso
+Update deals list automatically|Përditëso automatikisht listën e ofertave
+Update Now|Përditëso tani
+Update pictures page automatically|Përditëso automatikisht faqet e fotove
+Update weather forecasts automatically|Përditëso automatikisht parashikimet e motit
+Updated|Përditësuar
+Updated:|Përditësuar:
+Updating image|Duke përditësuar imazhin
+Updating...|Duke përditësuar...
+Use 3D in application list|Përdor 3D në listën e aplikacioneve
+Use 3D in edit mode|Përdor 3D në modalitetin e redaktimit
+Use cellular connection for updating deals list|Përdor lidhjen celulare për përditësimin e listës së ofertave
+Use cellular connection for updating deals list automatically|Use cellular connection for updating deals list automatically
+Use cellular connection for updating pictures automatically|Përdor lidhjen celulare për përditësimin automatik të fotove
+Use cellular connection for updating weather automatically|Use cellular connection for updating weather automatically
+Use new color every time|Use new color every time
+Use previous note's color|Use previous note's color
+Value|Vlera
+variable|e ndryshueshme
+Version %s, Build %s|Version %s, Build %s
+Vibro|Dridhje
+Video Call|Video telefonatë
+View Duplicates|Shiko dublikatat
+View SIM Contacts|Shih kontaktet e SIM-it
+Virgo|Virgjëresha
+W|P
+Wallpaper|Sfond
+Wallpapers|Sfondet
+Waning Crescent|Gjysmëhënë e ngrënë
+Waning Gibbous|Treçerekëshe e ngrënë
+Waxing Crescent|Gjysmëhënë në mbushje
+Waxing Gibbous|Treçerekëshe në mbushje
+Weather|Moti
+Weather and Clock|Weather and Clock
+Weather Forecast|Parashikimi i motit
+Weather Settings|Cilësimet e Motit
+Welcome to notes panel|Welcome to notes panel
+west|perëndim
+Widget is too big to be added.|Miniaplikacioni është tepër i madh për t'u shtuar
+Widgets|Miniaplikacionet
+Widgets Settings|Cilësimet e Miniaplikacioneve
+Wind direction:|Drejtimi i erës:
+Wind speed scale|Shkalla e shpejtësisë së erës
+Wind speed:|Shpejtësia e erës:
+Work|Punë
+World Time|Ora botërore
+Wrong serial number. Please check it again.|Numër i gabuar serie. Kontrolloje sërish.
+Yandex.Search|Yandex.Search
+Yellow|E verdhë
+Yes|Po
+Yesterday|Dje
+You save|Kursen
+Your video system isn't compatible with Shell 3D.|Sistemi video nuk është kompatibël me Shell 3D.

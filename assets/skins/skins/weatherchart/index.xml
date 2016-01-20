@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<skin>
+  <items>
+    <item>
+      <File  Name="bar"   File="bar.xaml"/>
+      <Image Name="floor" File="floor.png"/>
+      <Image Name="back"  File="back.png"/>
+      <Image Name="left"  File="left.png"/>
+    </item>
+  </items>
+</skin>
+  

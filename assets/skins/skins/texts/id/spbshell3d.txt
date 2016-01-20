@@ -1,0 +1,518 @@
+ a few seconds|Beberapa detik
+ day|hari
+ days|berhari-hari
+ hour|jam
+ hours|berjam-jam
+ hr|hr
+ hrs|jam
+ lunar day|hari bulan
+ min|mnt
+ mins|menit
+ minute|menit
+ minutes|bermenit-menit
+%d bought|%d Dibeli
+%d day|%d hari
+%d days|%d hari-hari
+%d hour|%d jam
+%d hours|%d jam-jam
+%d minute|%d menit
+%d minutes|%d menit-menit
+%d more...|%d lagi...
+%i active channel|%i saluran aktif
+%i active channels|%i saluran aktif
+%i image|%i gambar
+%i images|%i gambar-gambar
+%i more today|%i lagi hari ini
+%i more...|%i lagi...
+%i page|%i laman
+%i pages|%i laman-laman
+%i%% of Full|%i%% penuh
+%s 2007—2011 Yandex|%s 2007—2011 Yandex
+(<1 min)|(<1 menit)
+(in|(dalam
+(in seconds)|(dalam detik)
+(No title)|(Tidak ada judul)
+[ Loading images... ]|[ Muat gambar... ]
+[ Tap here for images load ]|[ Tekan di sini untuk muat gambar ]
+A few minutes ago|Satu menit yang lalu
+About|Tentang
+Above horizon|Di atas kaki langit
+Activate|Aktifkan
+Activation|Aktivasi
+Activation failed. Check your Internet connection.|Aktivasi gagal. Periksa koneksi internet Anda.
+Active Channels|Saluran Aktif
+Active channels|Saluran aktif
+Add|Tambah
+Add category|Tambah kategori
+Add city|Tambah kota
+Add custom channel|Tambah saluran suai
+Add new city|Tambah kota baru
+Add note|Tambah Catatan
+Add Panel|Tambah Panel
+Add to Home screen|Tambah ke layar Beranda
+Airplane|Pesawat Terbang
+Airplane Mode|Moda Pesawat Terbang
+All day|Sepanjang Hari
+All pictures|Semua Gambar
+Allow resizing of all Android widgets|Memungkinkan penyesuaian ukuran semua perangkat android
+An hour ago|Satu jam yang lalu
+Android Shortcut|Pintasan Android
+Android Widget|Perkakas Android
+Anniversary|Hari Jadi
+Appearance|Penampilan
+Application|Aplikasi
+April|April
+Aqua|Aqua
+Aquarius|Aquarius
+Aries|Aries
+as of %s|mulai dari %s
+at %s|pada %s
+atm|atm
+Atmospheres|Atmosfer
+Atmospheric pressure scale|Skala tekanan udara
+August|Agustus
+Auto|Auto
+Auto (keyboard only)|Auto (Keyboard saja)
+Auto arrange widgets|Mengatur sendiri perkakas
+Automatic|Otomatis
+Automatic naming|Penamaan Otomatis
+Backlight|Lampu Latar
+Battery|Baterai
+Below horizon|Di bawah kaki langit
+Birthday|Hari Ulang Tahun
+Birthdays|Hari Ulang Tahun
+Black|Hitam
+Blue|Biru
+Bluetooth|Bluetooth
+Bookmarks|Bookmark
+Bookmarks Folder|Folder Bookmark
+Business|Bisnis
+Buy!|Beli!
+Cache size|Ukuran tembolok
+Calculator|Kalkulator
+Calendar|Kalender
+Calendar Panel|Panel Kalender
+Calendar Panel Settings|Pengaturan Panel Kalender
+Call|Panggil
+Call Log|Log Panggilan
+Cancel|Batal
+Cancer|Cancer
+Capricorn|Capricorn
+Categories|Kategori
+Category Name|Nama Kategori
+Celsius (#short)|Celsius
+Change|Ubah
+Change City|Ubah Kota
+Change profile|Ganti Profil
+Channels list|Daftar saluran
+Choose Color|Pilih Warna
+Choose Program|Pilih program
+Choose SPB Widget|Pilih Perkakas SPB
+Choose widget|Pilih Perkakas
+Clear|Bersih
+Clear cache|Bersihkan tembolok
+Clock|Jam
+Cloudy|Mendung
+Cloudy, hail|Mendung, hujan es
+Cloudy, heavy rain|Mendung, hujan lebat
+Cloudy, heavy snow|Mendung, salju lebat
+Cloudy, rain|Mendung, hujan
+Cloudy, rain with snow|Mendung, hujan dengan salju
+Cloudy, snow|Mendung, salju
+Cloudy, thunder|Mendung, gemuruh
+Color anaglyph (red/cyan)|Anaglif warna (merah/sian)
+Communication|Komunikasi
+Contact|Kontak
+Contacts|Kontak
+Contacts Folder|Folder Kontak
+Copyright %s 2007-2011\nSPB Software|Hak Cipta %s 2007-2011\nSPB Perangkat Lunak
+Copyright %s 2007-2012\nSPB Software|Hak Cipta %s 2007-2012\nSPB Perangkat Lunak
+Create Folder|Buat Folder
+Current|Sekarang
+Current city|Kota saat ini
+Current conditions|Kondisi Saat ini
+Current Conditions|Kondisi Saat ini
+Current skin|Tampilan sekarang
+Day|Hari
+Deal of the Day|Transaksi Hari itu
+Deal of the Day Panel|Transaksi Panel Hari itu
+Deal of the Day Panel Settings|Transaksi Pengaturan Panel Hari itu
+Deals|Transaksi
+December|Desember
+Default|Asal
+Delete note|Hapus Catatan
+Dew point:|Titik embun:
+Diagnostic tools|Alat Diagnostik
+Disabled|Tidak Aktif
+Discoverable|Dapat Ditemukan
+Done|Selesai
+Download Original|Unduh Semula
+Downloading images|Unduh Gambar
+E|E (timur)
+east|timur
+Edit channel|Edit saluran
+Edit note|Edit catatan
+Edit panels|Edit panel
+Emergency only|Darurat saja
+Empty Panel|Panel Kosong
+Enable live wallpapers|Memungkinkan kertas dinding aktif
+Enabled|Aktif
+Enter RSS feed title|Masukkan judul umpan RSS
+Enter RSS feed URL|Masukkan URL pengumpan RSS
+Entertainment|Hiburan
+Error|Kesalahan
+Evening|Sore
+Every 2 hours|Setiap 2 Jam
+Every 24 hours|Setiap 24 jam
+Every 30 Minutes|Setiap 30 menit
+Every 30 minutes|Setiap 30 menit
+Every 4 hours|Setiap 4 jam
+Every hour|Setiap jam
+Exit|Keluar
+Experimental|Eksperimental
+Experimental Settings|Pengaturan eksperimental
+Experimental settings|Pengaturan eksperimental
+Fahrenheit (#short)|Fahrenheit
+Failed to load RSS|Gagal memuat RSS
+Favorite Contacts|Kontak favorit
+Favorite contacts|Kontak favorit
+February|Februari
+Filter|Saring
+First day of the week|Hari pertama minggu ini
+First Quarter|Kuartal Pertama
+Flight|Terbang
+Folder|Folder
+Folder Name|Nama Folder
+Forecast|Ramalan
+from forecast|dari ramalan
+Full Moon|Bulan Purnama
+Gallery|Galeri
+Games|Permainan
+Gemini|Gemini
+Grayscale anaglyph (red/cyan)|Anaglif abu-abu (merah/sian)
+Green|Hijau
+G-Sensor|Sensor-G
+Half an hour ago|Setengah jam yang lalu
+Hectopascals|Hektopaskal
+Hide Duplicates|Sembunyikan Duplikat
+Hide SIM Contacts|Sembunyikan kontak SIM
+Home|Beranda
+Home Settings|Pengaturan Beranda
+Home settings|Pengaturan Beranda
+hpa|hpa
+Humidity:|Kelembapan:
+in %u days|dalam %u hari
+in Home Settings|di Pengaturan Beranda
+inch|Inci
+Inches|Inci
+Increase Counter|Meningkatkan Konter
+Interface mode|Modus Antarmuka
+Invisible|Tidak tampak
+January|Januari
+July|Juli
+June|Juni
+Kilometers per hour|Kilometer per jam
+Knots|knot
+knots|knot
+kph|kph
+kts|kts
+Landscape|Pemandangan
+Landscape orientation required to enable left-to-right stereo mode|Orientasi Lanskap yang diperlukan untuk memudahkan mode stereo kiri ke kanan
+Large|Besar
+Last Call|Panggilan Terakhir
+Last Message|Pesan Terakhir
+Last Quarter|Kuartal Terakhir
+Last updated|Diperbarui terakhir
+Left-to-right (HTC EVO 3D)|Kiri ke kanan (HTC EVO 3D)
+Legal information|Informasi resmi
+Legal notices|Pemberitahuan resmi
+Leo|Leo
+Libra|Libra
+Lifestyle|Gaya Hidup
+Live wallpapers can cause performance degradation of your 3D home screen. Switching between live and static wallpapers can take up to a minute. Static wallpapers are recommended for the best experience.|Kertas dinding hidup dapat menyebabkan penurunan kinerja dari layar beranda 3D Anda. Mengalihkan antara kertas dinding aktif dengan statis dapat memakan waktu hingga 1 menit. Kertas dinding statis direkomendasikan untuk pengalaman terbaik.
+Loading failed|Gagal Memuat
+Loading image for wallpaper|Muat gambar untuk kertas dinding
+Loading RSS feed %s...|Sedang memuat pengumpan RSS %s...
+Loading skin failed!|Gagal muat tampilan!
+Loading skins catalog failed!|Gagal muat katalog tampilan!
+Loading...|Memuat..
+Logging In...|Sedang Log Masuk...
+Lunar Calendar|Kalender Bulan
+Lunar day %d|Hari bulan %d
+Manage apps|Kelola Apps
+Manage Apps|Kelola Apps
+Manage panels|Kelola panel
+Manage Panels|Kelola panel
+March|Maret
+May|Mei
+Messaging|Pesan
+Meters per second|Meter per detik
+Miles per hour|Mil per jam
+Millimetres|Milimeter
+Misc|Lain-Lain
+Miscellaneous|Lain-Lain
+mm|mm
+Mobile|Ponsel
+Mode|Moda
+Monday|Senin
+Moon|Bulan
+Moon Calendar|Kalender Bulan
+Moon in %s,|Bulan di %s,
+Morning|Pagi
+mph|mph
+mps|mps
+Multimedia|Multimedia
+Music|Musik
+Music albums|Album musik
+N|N (utara)
+N/A|N/A
+nd|kedua
+NE|NE (timur laut)
+Network Status|Status Jaringan
+Never|Tidak Pernah
+New Channel|Saluran Baru
+New channel|Saluran Baru
+New Contact|Kontak Baru
+New Folder|Folder Baru
+New Moon|Bulan Baru
+News|Berita
+News Panel|Panel Berita
+News Panel Settings|Pengaturan Panel Berita
+next|berikutnya
+Next Alarm|Alarm Berikutnya
+Night|Malam
+No|Tidak
+no|tidak
+No Alarms|Tidak Ada Alarm
+No birthdays|Tidak ada hari ulang tahun
+No calls|Tidak ada panggilan
+No Cities|Tidak Ada Kota
+No conditions|Tidak ada kondisi
+No Contacts.|Tidak ada kontak
+No Countries|Tidak Ada Negara
+No deals loaded|Tidak ada transaksi yang dimuat
+No Images|Tidak ada gambar
+No messages|Tidak ada Pesan
+No news|Tidak ada berita
+No rise/set info|Tidak ada informasi terbit/terbenam
+No RSS feed found at|Tidak ditemukan umpan RSS di
+No rss loaded|Tidak ada rss yang dimuat
+No SIM|Tidak ada SIM
+No text messages|Tidak ada pesan teks
+No title|Tidak ada judul
+No upcoming events|Tidak ada acara yang akan datang
+No upcoming events in a week|Tidak ada acara yang akan datang selama seminggu
+No updates|Tidak ada pembaruan
+No weather forecast|Tidak ada ramalan cuaca
+Normal|Normal
+north|utara
+north east|timur laut
+north west|barat laut
+Not available|Tidak tersedia
+Not connected|Tidak Terhubung
+Notes|Catatan
+Note's default color|Warna asal catatan
+Note's font|Huruf catatan
+Notes Panel|Panel Catatan
+Notes Panel Settings|Pengaturan Panel Catatan
+November|November
+NW|NW (barat laut)
+October|Oktober
+Off|Mati
+Offer|Penawaran
+On|On (Hidup)
+One Touch Share|One Touch Share
+Only on free connections|Hanya untuk bebas koneksi
+Open Contact|Buka Kontak
+Open in Browser|Buka di Peramban
+OpenGL 2.0 is required to run SPB Shell 3D|OpenGL 2.0 diperlukan untuk menjalankan SPB Shell 3D
+Optimized anaglyph (red/cyan)|Anaglif optimal (merah/sian)
+Other (assistant)|Lainnya (asisten)
+Page|Halaman
+Pages: %d, images: %d|Laman: %d, gambar: %d
+Panel Name|Nama Panel
+Parsing skins catalog failed!|Gagal mengurai katalog tampilan!
+Partly cloudy|Sebagian mendung
+Partly cloudy, rain|Sebagian mendung, hujan
+Partly cloudy, snow|Sebagian hujan, salju
+Partly cloudy, thunder|Sebagian mendung, gemuruh
+People|Orang
+Performance Warning|Peringatan Kinerja
+Performance Warning dialog|Dialog Peringatan Kinerja
+Personal|Pribadi
+Phone|Telepon
+Photo folder for gallery widgets|Folder foto untuk galeri perkakas
+Picture Gallery|Galeri Gambar
+Picture of the Day|Gambar Hari Ini
+Picture Panel Settings|Pengaturan Gambar Panel
+Pictures|Gambar
+Pictures Of The Day|Gambar Hari Ini
+Pictures Panel|Panel Gambar
+Pictures Panel Settings|Pengaturan Panel Gambar
+Pictures Settings|Pengaturan Gambar
+Pisces|Pisces
+Please Log In|Silakan Log Masuk
+Please wait...|Mohon ditunggu...
+Portrait|Potret
+Pressure:|Tekanan:
+Problem loading widget|Masalah memuat perkakas
+Productivity|Produktivitas
+Program|Program
+Pulkovo|Pulkovo
+Purchase|Pembelian
+Purple|Ungu
+Radio off|Radio Mati
+rd_loc|.
+Reading appointments...|Membaca janji...
+Recycle Bin|Tempat Sampah
+Red|Merah
+Reduced|Berkurang
+Reload skin list|Muat ulang daftar tampilan
+Remove All|Hapus Semua
+Rename|Ganti nama
+Rename Panel|Ganti Nama Panel
+Requesting images|Meminta Gambar
+Retry|Coba Lagi
+Rise: %s|Terbit: %s
+RSS Feed|Umpan RSS
+RSS Panel|Panel RSS
+RSS Panel Settings|RSS Pengaturan Panel
+S|S (selatan)
+Safe mode|Moda Aman
+Sagittarius|Sagitarius
+Saint-Petersburg|Saint-Petersburg
+Save as New|Simpan sebagai Baru
+Save to Existing|Simpan dengan yang Ada
+Scorpio|Scorpio
+Screen orientation|Orientasi layar
+SE|SE (tenggara)
+Searching|Mencari
+Select Channel|Pilih saluran
+Select cities|Kota-kota terpilih
+Select e-mail address|Pilih alamat e-mail
+Select phone number:|Pilih nomor telepon:
+Select shortcut|Pilih pintasan
+Select Skin|Pilih Tampilan
+Select wallpaper from|Pilih kertas dinding dari
+Selected cities|Kota-kota terpilih
+Selected City|Kota Terpilih
+Selected city|Kota Terpilih
+Send E-mail|Kirim E-mail
+Send E-Mail|Kirim E-mail
+Send Message|Kirim Pesan
+Send MMS|Kirim MMS
+Send SMS|Kirim SMS
+September|September
+Serial number:|Nomor seri:
+Set as Home|Atur sebagai Beranda
+Set as Wallpaper|Atur sebagai Kertas Dinding
+Set wallpaper|Atur Kertas Dinding
+Set: %s|Terbenam: %s
+Settings|Pengaturan
+Show all|Tampilkan semua
+Show all day events|Tampilkan semua acara hari ini
+Show all day events in calendar widgets|Tampilkan semua acara hari ini pada perkakas kalender
+Show full news|Tampilkan berita penuh
+Show images in news|Tampilkan gambar dalam berita
+Silent|Diam
+Skin loading|Muatan tampilan
+Small|Kecil
+Smartphone|Smartphone
+Smog|Berkabut
+Social|Sosial
+Sound Profile|Profil Suara
+south|selatan
+south east|tenggara
+south west|barat daya
+SPB Shell 3D is loading...|Sedang muat SPB Shell 3D...
+SPB Wallpapers|Kertas Dinding SPB
+SPB Widget|Perkakas SPB
+st|kesatu
+Standard Edition [Beta]|Edisi Standar [Beta]
+Stereoscopic 3D mode|Moda 3D stereoskopis
+Stereoscopic 3D mode will be disabled|Model 3D stereoskopik akan dinonaktifkan
+Stereoscopic 3D Settings|Pengaturan 3D stereoskopis
+Sun in %s,|Matahari di %s,
+Sunday|Minggu
+SW|SW (barat daya)
+Switching the interface mode can take up to a minute. Screen orientation will be changed to '%s'.|Pengalihan modus antarmuka berlangsung hingga 1 menit. Orientasi layar akan dirubah menjadi '%s'.
+System|Sistem
+Tablet|Tablet
+Taurus|Taurus
+Temperatur scale|Skala suhu
+Temperature scale|Skala suhu
+Test Battery|Tes Baterai
+th|ke-
+Thank you for your support. Your copy is now registered.|Terimakasih atas dukungan anda.Salinan Anda kini terdaftar
+The experimental features below are not ready to be shipped in the core of SPB Shell 3D. They may contain severe defects and cause system instability. Use them at your own risk.|Fitur eksperimental di bawah ini tidak dapat dikirim ke inti dari SPB Shell 3D. Mereka mungkin mengandung cacat yang parah dan menyebabkan ketidakstabilan sistem. Gunakan atas risiko Anda sendiri.
+The maximum number of panels is reached|Jumlah panel maksimum tercapai
+The name cannot be changed.|Nama tidak dapat diganti
+The previous launch of SPB Shell 3D was unsuccessful. Please tap "Retry" to launch it again or "Home" to activate a different Home screen.|Peluncuran SPB Shell 3D sebelumnya gagal, mohon pilih "Coba lagi" untuk peluncuran kembali atau "Beranda" untuk mengaktifkan layar beranda lain.
+Time|Waktu
+Time Panel|Panel Waktu
+Time Panel Settings|Pengaturan Panel Waktu
+Today|Hari Ini
+Toggle|Dwiarah
+Tomorrow|Besok
+Tools|Alat
+Travel|Perjalanan
+Unfortunately, we could not locate your purchase in Android Market. Please uninstall this copy before installing a new one.|Maaf, kami tidak dapat menemukan pembelian Anda di Pasar Android, mohon hapus salinan ini sebelum instal yang baru.
+Unfortunately, we could not locate your purchase. Please uninstall this copy before installing a new one.|Maaf, kami tidak dapat menemukan pembelian Anda di Pasar Android, mohon hapus salinan ini sebelum instal yang baru.
+Uninstall|Hapus
+Uninstall apps|Hapus apps (aplikasi)
+Unknown|Tidak dikenal
+Unknown location|Lokasi tidak dikenal
+Upcoming events|Acara yang akan datang
+Update|Perbarui
+Update deals list automatically|Perbarui daftar transaksi secara otomatis
+Update Now|Perbarui sekarang
+Update pictures page automatically|Perbarui laman gambar secara otomatis
+Update weather forecasts automatically|Perbarui ramalan cuaca secara otomatis
+Updated|Diperbarui
+Updated:|Diperbarui:
+Updating image|Perbarui Gambar
+Updating...|Sedang Memperbarui...
+Use 3D in application list|Gunakan 3D dalam daftar aplikasi
+Use 3D in edit mode|Gunakan 3D dalam moda edit
+Use cellular connection for updating deals list|Gunakan koneksi ponsel untuk perbarui daftar transaksi.
+Use cellular connection for updating deals list automatically|Gunakan koneksi selular untuk memperbarui daftar transaksi secara otomatis
+Use cellular connection for updating pictures automatically|Gunakan koneksi selular untuk perbarui gambar secara otomatis
+Use cellular connection for updating weather automatically|Gunakan koneksi selular untuk memperbarui cuaca secara otomatis
+Use new color every time|Gunakan warna baru setiap saat
+Use previous note's color|Gunakan warna catatan sebelumnya
+Value|Nilai
+variable|berubah-ubah
+Version %s, Build %s|Versi %s, Buat %s
+Vibro|Vibra
+Video Call|Panggilan Video
+View Duplicates|Lihat Duplikat
+View SIM Contacts|Lihat kontak SIM
+Virgo|Virgo
+W|W (barat)
+Wallpaper|Kertas dinding
+Wallpapers|Kertas Dinding
+Waning Crescent|Bulan Sabit Terbenam
+Waning Gibbous|Bulan Terbenam
+Waxing Crescent|Bulan Sabit Terbit
+Waxing Gibbous|Bulan Terbenam
+Weather|Cuaca
+Weather and Clock|Cuaca dan Jam
+Weather Forecast|Ramalan cuaca
+Weather Settings|Pengaturan cuaca
+Welcome to notes panel|Selamat datang di panel catatan
+west|barat
+Widget is too big to be added.|Perkakas terlalu besar untuk ditambah
+Widgets|Perkakas
+Widgets Settings|Pengaturan Perkakas
+Wind direction:|Arah angin:
+Wind speed scale|Skala kecepatan angin
+Wind speed:|Kecepatan angin:
+Work|Kerja
+World Time|Waktu Dunia
+Wrong serial number. Please check it again.|Nomor seri salah. Mohon periksa kembali
+Yandex.Search|Yandex.Search
+Yellow|Kuning
+Yes|Ya
+Yesterday|Kemarin
+You save|Anda Simpan
+Your video system isn't compatible with Shell 3D.|Sistem video Anda tidak sesuai dengan Shell 3D

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<skin Name="Widget Icons">
+  <items>
+    <item>
+      <Image Name="backlight" File="backlight.png"/> 
+      <Image Name="battery" File="battery.png"/> 
+      <Image Name="birthdays" File="birthdays.png"/> 
+      <Image Name="bluetooth" File="bluetooth.png"/> 
+      <Image Name="calendar" File="calendar.png"/> 
+      <Image Name="contact" File="contact.png"/> 
+      <Image Name="calllog" File="calllog.png"/> 
+      <Image Name="clock" File="clock.png"/> 
+      <Image Name="flight" File="flight.png"/> 
+      <Image Name="gallery" File="gallery.png"/> 
+      <Image Name="messages" File="messages.png"/> 
+      <Image Name="network" File="network.png"/> 
+      <Image Name="preview" File="preview.png"/> 
+      <Image Name="profile" File="profile.png"/> 
+      <Image Name="weather" File="weather.png"/> 
+      <Image Name="wifi" File="wifi.png"/> 
+      <Image Name="worldtime" File="worldtime.png"/>
+      <Image Name="notes" File="notes.png"/>
+      <Image Name="deals" File="deals.png"/>
+      <Image Name="news" File="news.png"/>
+      <Image Name="yasearch" File="yasearch.png"/>
+    </item>
+  </items>
+</skin>

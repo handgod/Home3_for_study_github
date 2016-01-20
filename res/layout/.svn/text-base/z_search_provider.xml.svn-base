@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:background="@drawable/items_bg" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="50.0dip" android:layout_height="fill_parent">
+        <RelativeLayout android:id="@id/categoryButton" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <View android:id="@id/top_shadow" android:background="@drawable/provider_shadow_hor" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="5.0dip" android:layout_alignParentTop="true" />
+            <ImageView android:id="@id/providerIcon" android:paddingTop="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true" />
+            <TextView android:textSize="10.0sp" android:textColor="@color/secondary_text_color" android:gravity="center" android:id="@id/countTextView" android:paddingTop="0.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="2" android:layout_below="@id/providerIcon" />
+            <View android:background="@drawable/line" android:layout_width="1.0dip" android:layout_height="fill_parent" android:layout_alignParentRight="true" />
+            <View android:background="@drawable/bold_line" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_alignParentBottom="true" />
+            <View android:id="@id/right_shadow" android:background="@drawable/provider_shadow_ver" android:visibility="invisible" android:layout_width="5.0dip" android:layout_height="fill_parent" android:layout_alignParentRight="true" />
+        </RelativeLayout>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <ListView android:id="@id/providerFullList" android:background="@drawable/items_bg" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:cacheColorHint="#00000000" />
+        <LinearLayout android:orientation="vertical" android:id="@id/providerList" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <View android:id="@id/fullListBottomLine" android:background="@drawable/bold_line" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_alignParentBottom="true" />
+    </LinearLayout>
+</LinearLayout>

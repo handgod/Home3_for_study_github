@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+
+<Layouts Name="Operator Widget" Type="widget">
+
+  <!-- **************************************************************************************************** -->
+
+  <Rules>
+    <PlatformCondition Platform="tablets">
+      <ScreenCondition Orientation="landscape">
+        <UseLayout Name="Landscape"/>
+      </ScreenCondition>
+      <Default>
+        <UseLayout Name="Portrait"/>
+      </Default>
+    </PlatformCondition>
+    <ScreenCondition Orientation="landscape">
+      <UseLayout Name="Landscape"/>
+    </ScreenCondition>
+    <Default>
+      <UseLayout Name="Portrait"/>
+    </Default>
+  </Rules>
+
+  <!-- **************************************************************************************************** -->
+
+  <General>
+    <Skin AutoSkin="wgt_operator"/>
+    <DefaultFont Face="Droid Sans" HeightPxl="11" Bold="n" Color="FFFFFFFF"/>
+
+    <!--status for wich we'll show operator's logo-->
+    <String Name="DefaultStatus" Value="Mobistar"/>
+  </General>
+
+  <!-- **************************************************************************************************** -->
+
+  <Layout Name="Portrait">
+
+    <Fix Width="fill" Height="fill">
+
+      <Plugin Name="SimImage" Class="Spb.LSP.Image" Width="auto" Height="auto" Align="center_horz|center_vert">
+        <Int Name="DialogData" Value="0"/>
+        <String Name="ImageName" Value="Sim" />
+      </Plugin>
+
+      <Fix Width="auto" Height="auto" Margins="0 0 24 30" Align="right|bottom">
+        <Group Name="OperatorLogoGroup" Orientation="vertical" LayoutType="linear" ID="300">
+          <LayoutSize Width="auto" Height="auto"/>
+          <Plugin Name="SignalImage" Class="Spb.LSP.Image" Margins="0 0 0 0" Width="auto" Height="auto" Align="right|top">
+            <Int Name="DialogData" Value="0"/>
+            <String Name="ImageName" Value="Signal" />
+          </Plugin>
+        </Group>
+      </Fix>
+
+      <Fix Width="auto" Height="auto" Margins="8 24 0 5" Align="left|center_vert">
+        <Group Name="OperatorLogoGroup" LayoutType="frame" ID="100">
+        <LayoutSize Width="auto" Height="auto"/>
+          <Plugin Name="LogoImage" Class="Spb.LSP.Image" Width="auto" Height="auto">
+            <Int Name="DialogData" Value="0"/>
+            <String Name="ImageName" Value="Logo" />
+          </Plugin>
+        </Group>
+
+        <Group Name="NoOperatorLogoGroup" LayoutType="frame" ID="200">
+        <LayoutSize Width="auto" Height="auto"/>
+          <Fix Width="auto" Height="auto">
+            <Plugin Name="ChipImage" Class="Spb.LSP.Image" Width="auto" Height="auto" Align="top|center_horz">
+              <Int Name="DialogData" Value="0"/>
+              <String Name="ImageName" Value="Chip" />
+            </Plugin>
+            <Plugin Name="OperatorLabel" Class="Spb.LSP.Text" Width="auto" Height="auto" Align="bottom|center_horz" ID="1">
+              <Int Name="DialogData" Value="1"/>
+              <DefaultFont Face="Droid Sans" HeightPxl="10" Bold="n" Color="FFFFFFFF"/>
+            </Plugin>
+          </Fix>
+        </Group>
+      </Fix>
+
+    </Fix>
+
+  </Layout>
+
+  <Layout Name="Landscape">
+    <Plugins Extends="Portrait">
+
+    </Plugins>
+  </Layout>
+
+</Layouts>

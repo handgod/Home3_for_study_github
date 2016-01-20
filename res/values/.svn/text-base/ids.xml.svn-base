@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="weather_menu_add_city" />
+    <item type="id" name="weather_menu_remove_city" />
+    <item type="id" name="weather_menu_refresh" />
+    <item type="id" name="weather_menu_preferences" />
+    <item type="id" name="weather_menu_change_city" />
+    <item type="id" name="voiceTitle">false</item>
+    <item type="id" name="voiceImage">false</item>
+    <item type="id" name="voiceProgress">false</item>
+    <item type="id" name="audio_search_button">false</item>
+    <item type="id" name="voiceList">false</item>
+    <item type="id" name="voiceItemText">false</item>
+    <item type="id" name="voiceItemButton">false</item>
+    <item type="id" name="item_divider">false</item>
+    <item type="id" name="dialog_box_prompt">false</item>
+    <item type="id" name="dialog_box_input">false</item>
+    <item type="id" name="dialog_box_checkbox01">false</item>
+    <item type="id" name="dialog_box_checkbox02">false</item>
+    <item type="id" name="dialog_box_checkbox03">false</item>
+    <item type="id" name="dialog_box_checkbox04">false</item>
+    <item type="id" name="header_text1">false</item>
+    <item type="id" name="header_text2">false</item>
+    <item type="id" name="options_list">false</item>
+    <item type="id" name="button_done">false</item>
+    <item type="id" name="button_revert">false</item>
+    <item type="id" name="plus">false</item>
+    <item type="id" name="input_tag">false</item>
+    <item type="id" name="input_file">false</item>
+    <item type="id" name="minus">false</item>
+    <item type="id" name="widg">false</item>
+    <item type="id" name="gl_surface_view">false</item>
+    <item type="id" name="icon">false</item>
+    <item type="id" name="wallpaper">false</item>
+    <item type="id" name="gallery">false</item>
+    <item type="id" name="set">false</item>
+    <item type="id" name="weather_city_dropdown_item_name">false</item>
+    <item type="id" name="weather_city_dropdown_item_country">false</item>
+    <item type="id" name="weather_city_name_input">false</item>
+    <item type="id" name="voiceButton">false</item>
+    <item type="id" name="widget">false</item>
+    <item type="id" name="logo">false</item>
+    <item type="id" name="alwaysCheckBox">false</item>
+    <item type="id" name="image">false</item>
+    <item type="id" name="text">false</item>
+    <item type="id" name="comment">false</item>
+    <item type="id" name="button">false</item>
+    <item type="id" name="servicesPane">false</item>
+    <item type="id" name="servicesContainer">false</item>
+    <item type="id" name="yButton">false</item>
+    <item type="id" name="search_field">false</item>
+    <item type="id" name="clearButton">false</item>
+    <item type="id" name="micButton">false</item>
+    <item type="id" name="bSearch">false</item>
+    <item type="id" name="scroll">false</item>
+    <item type="id" name="providersList">false</item>
+    <item type="id" name="withoutScrollLayout">false</item>
+    <item type="id" name="categoryButton">false</item>
+    <item type="id" name="top_shadow">false</item>
+    <item type="id" name="providerIcon">false</item>
+    <item type="id" name="countTextView">false</item>
+    <item type="id" name="right_shadow">false</item>
+    <item type="id" name="providerFullList">false</item>
+    <item type="id" name="providerList">false</item>
+    <item type="id" name="fullListBottomLine">false</item>
+    <item type="id" name="serviceImage">false</item>
+    <item type="id" name="serviceTitle">false</item>
+    <item type="id" name="serviceTitleAlone">false</item>
+    <item type="id" name="layoutsLinearLayout">false</item>
+    <item type="id" name="sourcesLinearLayout">false</item>
+    <item type="id" name="skin">false</item>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SPB Shell 3D</string>
+    <string name="weather_city_title">请输入三个字母来激活自动完成</string>
+    <string name="weather_enter_city_name">输入城市名称</string>
+    <string name="weather_more_cities">更多...</string>
+    <string name="weather_locate_nearest_city">搜索最近的城市</string>
+    <string name="weather_current_location">当前位置</string>
+    <string name="searching_city_title">正在定位</string>
+    <string name="searching_city_progress">正在搜索最近得城市</string>
+    <string name="city_location_failed">定位最近的城市失败</string>
+    <string name="dialog_shell_loading">正在加载 SPB Shell 3D</string>
+    <string name="gadget_error_text">加载挂件时发生错误</string>
+    <string name="dialog_select_shortcut">选择快捷方式</string>
+    <string name="dialog_choose_widget">选取小挂件</string>
+    <string name="chooser_wallpaper">选择墙纸</string>
+    <string name="wallpaper_instructions">设为壁纸</string>
+    <string name="pick_wallpaper">壁纸</string>
+    <string name="wallpapers_spb">SPB壁纸</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="wait">请稍候</string>
+    <string name="home_widget_error">挂件占用空间太大</string>
+    <string name="cancel">取消</string>
+    <string name="error">error</string>
+    <string name="infinity">infinity</string>
+    <string name="dialog_unsupported_devices_title">错误</string>
+    <string name="dialog_unsupported_devices_message">运行SPB Shell 3D 需要 OpenGl 2.0 的支持</string>
+    <string name="license_fail">十分抱歉，我们未能找到你在安卓市场中的购买记录，请在安装新版本以前卸载本软件。</string>
+    <string name="purchase">购买</string>
+    <string name="exit">退出</string>
+    <string name="legal_notices_title">法律信息</string>
+    <string name="license_fail_handango">抱歉，未能找到您的购买记录。请在安装新版本前，卸载当前版本。</string>
+    <string name="safe_mode_title">安全模式</string>
+    <string name="safe_mode_text">先前SPB Shell 3D 的加载曾经失败。请点击“重试”尝试重新加载，或点击“首页”来把首页更改未另外一个不同的页面。</string>
+    <string name="safe_mode_retry">重试</string>
+    <string name="safe_mode_home">主页</string>
+    <string name="sd_install_title">错误</string>
+    <string name="sd_install_text">Installation to a storage card is not supported. Please install SPB Shell 3D to the main memory</string>
+    <string name="contacts_failed_pick">读取选定联系人失败。请把该账号存储在手机或Google账号中后再试。</string>
+</resources>

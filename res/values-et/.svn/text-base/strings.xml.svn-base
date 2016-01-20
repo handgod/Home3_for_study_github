@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SPB Shell 3D</string>
+    <string name="dialog_shell_loading">SPB Shell 3D laadib..</string>
+    <string name="gadget_error_text">Probleem vidina laadimisega</string>
+    <string name="dialog_select_shortcut">Vali kiirnupp</string>
+    <string name="dialog_choose_widget">Vali vidin</string>
+    <string name="chooser_wallpaper">Vali taustapilt</string>
+    <string name="wallpaper_instructions">Määra taustapilt</string>
+    <string name="pick_wallpaper">Taustapildid</string>
+    <string name="wallpapers_spb">SPB taustapildid</string>
+    <string name="yes">Jah</string>
+    <string name="no">Nr</string>
+    <string name="wait">Palun oota...</string>
+    <string name="home_widget_error">Vidin on lisamiseks liiga suur.</string>
+    <string name="cancel">Tühista</string>
+    <string name="error">error</string>
+    <string name="infinity">infinity</string>
+    <string name="dialog_unsupported_devices_title">Viga</string>
+    <string name="dialog_unsupported_devices_message">OpenGL 2.0 on vajalik, et käivitada SPB Shell 3D</string>
+    <string name="license_fail">Kahjuks ei õnnestunud meil teie ostu Android Marketist tuvastada. Palun eemaldage see koopia enne uue installeerimist.</string>
+    <string name="purchase">Osta</string>
+    <string name="exit">Välju</string>
+    <string name="legal_notices_title">Õiguslik teatis</string>
+    <string name="license_fail_handango">Kahjuks ei õnnestunud meil teie ostu tuvastada. Palun eemaldage see koopia enne uue installeerimist.</string>
+    <string name="safe_mode_title">Ohutu režiim</string>
+    <string name="safe_mode_text">Eelnev SPB Shell 3D käivitamine ebaõnnestus. Palun koputage nupule \"Proovi uuesti\", et käivitada uuesti, või nupule \"Kodu\", et aktiveerida muu koduekraan.</string>
+    <string name="safe_mode_retry">Proovi uuesti</string>
+    <string name="safe_mode_home">Kodu</string>
+    <string name="sd_install_title">Viga</string>
+    <string name="sd_install_text">Installation to a storage card is not supported. Please install SPB Shell 3D to the main memory</string>
+    <string name="contacts_failed_pick">Failed to load the selected contact. Try to link the contact to Google account or save it to phone.</string>
+</resources>

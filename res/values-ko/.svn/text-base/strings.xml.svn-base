@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SPB Shell 3D</string>
+    <string name="weather_city_title">자동 완성을 시작하려면 3 글자를 입력:</string>
+    <string name="weather_enter_city_name">도시 이름 입력</string>
+    <string name="weather_more_cities">기타...</string>
+    <string name="weather_locate_nearest_city">가장 가까운 도시 검색</string>
+    <string name="weather_current_location">현재 위치</string>
+    <string name="searching_city_title">위치 중</string>
+    <string name="searching_city_progress">가장 가까운 도시 검색 중...</string>
+    <string name="city_location_failed">가까운 도시 찾기 실패</string>
+    <string name="dialog_shell_loading">SPB Shell 3D 불러오는 중...</string>
+    <string name="gadget_error_text">위젯 불러오는 중 문제</string>
+    <string name="dialog_select_shortcut">바로 가기 선택</string>
+    <string name="dialog_choose_widget">위젯 선택</string>
+    <string name="chooser_wallpaper">배경화면 선택:</string>
+    <string name="wallpaper_instructions">배경화면 설정</string>
+    <string name="pick_wallpaper">배경화면</string>
+    <string name="wallpapers_spb">SPB 배경화면</string>
+    <string name="yes">예</string>
+    <string name="no">아니오</string>
+    <string name="wait">기다려 주세요.</string>
+    <string name="home_widget_error">위젯이 너무 큽니다.</string>
+    <string name="cancel">취소</string>
+    <string name="error">error</string>
+    <string name="infinity">infinity</string>
+    <string name="dialog_unsupported_devices_title">오류</string>
+    <string name="dialog_unsupported_devices_message">SPB Shell 3D을 실행하려면 OpenGl 2.0이 필요합니다.</string>
+    <string name="license_fail">안타깝게도, 안드로이드 마켓에서 구매 내역을 찾을 수 없습니다. 새 어플을 설치하기 전에 이 어플을 지워주세요.</string>
+    <string name="purchase">구매</string>
+    <string name="exit">끝내기</string>
+    <string name="legal_notices_title">법적 공지</string>
+    <string name="license_fail_handango">안타깝게도, 구매 내역을 찾을 수 없습니다. 새 어플을 설치하기 전에 이 어플을 지워주세요.</string>
+    <string name="safe_mode_title">안전 모드</string>
+    <string name="safe_mode_text">이전의 SPB Shell 3D 실행이 성공적이지 않았습니다. \"다시 시도\"를 눌러서 다시 실행하거나 \"초기 화면\"을 눌러 다른 기본 화면을 실행하세요.</string>
+    <string name="safe_mode_retry">다시 시도</string>
+    <string name="safe_mode_home">초기 화면</string>
+    <string name="sd_install_title">오류</string>
+    <string name="sd_install_text">Installation to a storage card is not supported. Please install SPB Shell 3D to the main memory</string>
+    <string name="contacts_failed_pick">선택한 연락처를 불러올 수 없습니다. 해당 연락처를 Google 계정에 연결하거나 휴대폰 자체에 저장하세요.</string>
+</resources>

@@ -1,0 +1,545 @@
+ a few seconds|幾秒鐘
+ day|天
+ days|天
+ hour|小時
+ hours|小時
+ hr| 小時
+ hrs|時
+ lunar day|農曆
+ min|分
+ mins|分
+ minute|分鐘
+ minutes|分鐘
+%d bought|已買的
+%d day|%d 天
+%d days|%d 天
+%d hour|%d 小時
+%d hours|%d 小時
+%d minute|%d 分鐘
+%d minutes|%d 分鐘
+%d more...|%d 分鐘
+%i active channel|%i 訂閱頻道
+%i active channels|%i 訂閱頻道
+%i image|%i 圖片
+%i images|%i 圖片
+%i more today|%i天後
+%i more...|%i 更多...
+%i page|%i 頁面
+%i pages|%i 頁面
+%i%% of Full|%i%%的滿月
+%s 2007—2011 Yandex|%s 2007—2011 Yandex
+(<1 min)|(<1分鐘)
+(in|(在
+(in seconds)|秒)
+(No title)|(無標題)
+[ Loading images... ]|[ 載入圖片中... ]
+[ Tap here for images load ]|[ 點擊這裡載入圖片 ]
+A few minutes ago|幾分鐘前
+About|關於
+About SPB Shell 3D|關於 SPB Shell 3D
+Above horizon|以上水平
+Accelerometer|加速器
+Activate|啟動
+Activation|開通
+Activation failed. Check your Internet connection.|開通失敗. 請檢查你的網路連線.
+Active Channels|訂閱的頻道
+Active channels|訂閱的頻道
+Add|新增
+Add category|新增分類
+Add channel|新增頻道
+Add city|增加城市
+Add custom channel|新增自定頻道
+Add new city|新增新的城市
+Add note|新增記事
+Add Panel|加入面板
+Add to Home screen|加入主桌面
+Airplane|飛機
+Airplane Mode|飛航模式
+Alcatel Widget|Alcatel Widget
+All day|整天
+All pictures|所有圖片
+Allow resizing of all Android widgets|允許所有的Android Widget調整尺寸
+An hour ago|一小時前
+Android Shortcut|Android捷徑
+Android Widget|Android Widget
+Anniversary|紀念日
+Appearance|外觀
+Application|應用程式
+April|四月
+Aqua|水族
+Aquarius|水瓶座
+Aries|牡羊座
+as of %s|在 %s
+at %s|於 %s
+atm|氣壓
+Atmospheres|大氣壓力
+Atmospheric pressure scale|大氣壓力刻度
+August|八月
+Auto|自動
+Auto (keyboard only)|自動(只有鍵盤)
+Auto arrange widgets|自動調整widgets
+Automatic|自動
+Automatic naming|自動命名
+Backlight|背光
+Battery|電池
+Below horizon|以下水平
+Birthday|生日
+Birthdays|生日
+Black|黑色
+Blue|藍色
+Bluetooth|藍牙
+Bookmarks|書籤
+Bookmarks Folder|網路書籤資料夾
+Business|商務
+Buy!|買了!
+Cache size|暫存空間
+Calculator|計算機
+Calendar|行事曆
+Calendar Panel|日曆頁面
+Calendar Panel Settings|日曆面板設定
+Call|撥電話
+Call Log|通話記錄
+Cancel|取消
+Cancer|巨蟹座
+Capricorn|山羊座
+Categories|類別
+Category Name|分類名稱
+Celsius (#short)|攝氏
+Change|更改
+Change City|變更城市
+Change profile|更改設定檔
+Channels list|頻道列表
+Choose Alcatel Widget|選擇Alcatel小工具
+Choose Color|選擇顏色
+Choose Program|選擇程式
+Choose SPB Widget|選擇SPB Widget
+Choose widget|選擇 Widget
+Clear|晴朗
+Clear cache|清空暫存檔
+Clock|時鐘
+Cloudy|多雲
+Cloudy, hail|多雲, 下冰雹
+Cloudy, heavy rain|多雲, 大雨
+Cloudy, heavy snow|多雲, 大雪
+Cloudy, rain|多雲, 下雨
+Cloudy, rain with snow|多雲, 下雨與下雪
+Cloudy, snow|多雲, 下雪
+Cloudy, thunder|多雲, 打雷
+Color anaglyph (red/cyan)|彩色極譜彩色立體圖
+Communication|通訊
+Contact|聯絡人
+Contact Settings|設定聯絡人
+Contact Size|聯絡人大小
+Contacts|連絡人
+Contacts Folder|常用聯絡人
+Copyright %s 2007-2011\nSPB Software|Copyright %s 2007-2011\nSPB Software
+Copyright %s 2007-2012\nSPB Software|Copyright %s 2007-2012\nSPB Software
+Create Folder|新增資料夾
+Current|目前
+Current city|目前城市
+Current conditions|目前的狀況
+Current Conditions|目前的狀況
+Current skin|目前外觀
+Custom channel|自定頻道
+Day|日
+Deal of the Day|今日特賣
+Deal of the Day Panel|每日精選面板
+Deal of the Day Panel Settings|設定本日特賣頁面
+Deals|特賣商品
+December|十二月
+Default|預設值
+Default Action|預設動作
+Delete note|刪除便條
+Dew point:|露點
+Diagnostic tools|診斷工具
+Disabled|關閉
+Discoverable|可被搜尋的
+Done|完成
+Download Original|下載原始版本
+Downloading images|下載圖片
+E|東
+east|東方
+Edit channel|編輯面板
+Edit Contact|編輯聯絡人
+Edit note|編輯備註
+Edit panels|編輯面板
+Emergency only|只能撥打緊急電話
+Empty Panel|新增空白面板
+Enable live wallpapers|啟用動態桌布
+Enabled|啟用
+Enter RSS feed title|輸入RSS來源標題
+Enter RSS feed URL|輸入RSS來源URL
+Entertainment|娛樂
+Error|錯誤
+Evening|傍晚
+Every 2 hours|每2個小時
+Every 24 hours|每24小時
+Every 30 Minutes|每30分鐘
+Every 30 minutes|每30分鐘
+Every 4 hours|每4小時
+Every hour|每小時
+Exit|離開
+Experimental|實驗性
+Experimental Settings|實驗階段選項
+Experimental settings|實驗階段選項
+Fahrenheit (#short)|華氏
+Failed to add contact|無法新增聯絡人
+Failed to load RSS|無法讀取RSS
+Failed to load the selected contact. Try to link the contact to Google account or save it to phone.|無法讀取已設定的聯絡人。請試試看從您的Google帳戶中連結或者將聯繫人儲存在手機中
+Favorite Contacts|最愛的連絡人
+Favorite contacts|最愛的連絡人
+Favorites|我的最愛
+February|二月
+Filter|過濾
+First day of the week|每星期的第一天
+First Quarter|上弦月
+Flight|航班
+Folder|資料夾
+Folder Name|資料夾名稱
+Forecast|預報
+from forecast|預測來源
+Full Moon|滿月
+Gallery|範本集
+Games|遊戲
+Gemini|雙子座
+Gravity|重力
+Grayscale anaglyph (red/cyan)|灰色極譜彩色立體圖
+Green|綠色
+G-Sensor|重力感測器
+Half an hour ago|半小時前
+Hectopascals|百帕
+Hide Duplicates|隱藏重複
+Hide SIM Contacts|隱藏SIM卡連絡人
+Home|首頁
+Home Settings|桌面設定
+Home settings|桌面設定
+hpa|百帕
+Humidity:|濕度
+in %u days|在 %u 天
+in Home Settings|桌面設定
+inch|英吋
+Inches|英吋
+Increase Counter|增加計數器
+Interface mode|介面模式
+Invisible|隱藏
+January|一月
+July|七月
+June|六月
+Kilometers per hour|公里/時
+Knots|節
+knots|節
+kph|公里/時
+kts|kts
+Landscape|橫式
+Landscape orientation required to enable left-to-right stereo mode|橫向顯示需要先開啟從左至右的立體模式
+Large|大
+Last Call|上次撥號
+Last Message|上個訊息
+Last Quarter|下弦月
+Last updated|最近更新
+Left-to-right (HTC EVO 3D)|從左到右 (HTC EVO 3D)
+Legal information|法律資訊
+Legal notices|法律聲明
+Leo|獅子座
+Libra|天秤座
+Lifestyle|生活模式頁面
+Live wallpapers can cause performance degradation of your 3D home screen. Switching between live and static wallpapers can take up to a minute. Static wallpapers are recommended for the best experience.|動態桌布會造成3D桌面的效能低落. 動態與靜態桌布之間的轉換需要耗費1分鐘左右. 建議使用靜態桌布會有較佳的操作體驗.
+Loading failed|載入失敗
+Loading image for wallpaper|載入桌面圖片
+Loading RSS feed %s...|讀取RSS來源 %s...
+Loading skin failed!|載入外觀失敗!
+Loading skins catalog failed!|載入外觀清單失敗!
+Loading...|載入中...
+Logging In...|寫入日誌...
+Lunar Calendar|農曆
+Lunar day %d|農曆 %d
+Manage apps|管理程式
+Manage Apps|館理程式
+Manage panels|管理面板
+Manage Panels|管理面板
+March|三月
+May|五月
+Medium|中等
+Messaging|訊息
+Meters per second|公尺/秒
+Miles per hour|英哩/時
+Millimetres|公釐
+Misc|其他
+Miscellaneous|其他
+mm|公釐
+Mobile|行動
+Mode|模式
+Monday|星期一
+Moon|月亮
+Moon Calendar|月相圖
+Moon in %s,|月亮再 %s,
+Morning|早上
+mph|英哩/時
+mps|公尺/秒
+Multimedia|多媒體
+Music|音樂
+Music albums|音樂專輯
+N|北
+N/A|N/A
+nd|第二
+NE|東北
+Network Status|網路狀態
+Never|從不
+New|新建
+New Channel|新增頻道
+New channel|新增頻道
+New Contact|新增連絡人
+New Folder|新增資料夾
+New Moon|新月
+New update available|有新的更新
+News|新聞
+News Panel|新聞面板
+News Panel Settings|設定新聞面板
+next|下一步
+Next Alarm|下一鬧鈴
+Night|午夜
+No|否
+no|無
+No Alarms|無鬧鈴
+No birthdays|沒有生日
+No calls|無電話
+No Cities|無城市
+No conditions|無狀態
+No Contacts.|無連絡人
+No Countries|無國家
+No deals loaded|沒有特賣訊息
+No Images|無圖片
+No messages|無訊息
+No news|無新聞
+No rise/set info|無 升起/降落 訊息
+No RSS feed found at|無法找到RSS來源
+No rss loaded|無法讀取RSS
+No SIM|無SIM卡
+No text messages|無文字訊息
+No title|無標題
+No upcoming events|無事件
+No upcoming events in a week|一週內無事件
+No updates|無更新
+No weather forecast|無氣象預報
+Normal|一般
+north|北
+north east|東北
+north west|西北
+Not available|不適用
+Not connected|未連接
+Notes|備註
+Note's default color|便條預設顏色
+Note's font|便條字型
+Notes Panel|記事便條面板
+Notes Panel Settings|設定記事便條面板
+November|十一月
+NW|西北
+October|十月
+Off|關
+Offer|出價
+On|開啟
+One Touch Share|One Touch Share
+Only on free connections|只使用免費的連線
+Open Contact|開啟連絡人
+Open in Browser|在瀏覽器中開啟
+OpenGL 2.0 is required to run SPB Shell 3D|SPB Shell 3D需要OpenGl 2.0
+Optimized anaglyph (red/cyan)|優化彩色立體圖
+Other (assistant)|其他 (助理)
+Page|頁面
+Pages: %d, images: %d|頁面: %d, 圖片: %d
+Panel Name|面板名稱
+Panels|面板
+Panels Settings|面板設定
+Parsing skins catalog failed!|解析外觀目錄失敗!
+Partly cloudy|微雲
+Partly cloudy, rain|微雲, 下雨
+Partly cloudy, snow|微雲, 下雪
+Partly cloudy, thunder|微雲, 打雷
+People|人員
+Performance Warning|效能警示
+Performance Warning dialog|效能警示對話框
+Personal|個人的
+Phone|電話
+Photo folder for gallery widgets|相片藝廊Widget的相片資料夾
+Picture Gallery|相片藝廊
+Picture of the Day|本日照片
+Picture Panel Settings|照片面板設定
+Pictures|圖片
+Pictures Of The Day|本日照片
+Pictures Panel|相片頁面
+Pictures Panel Settings|設定圖片面板
+Pictures Settings|照片設定
+Pisces|雙魚座
+Please Log In|請登入
+Please wait...|請稍候.
+Portrait|直式
+Pressure:|壓力:
+Problem loading widget|載入問題widget
+Productivity|生産力
+Program|程式
+Pulkovo|Pulkovo
+Purchase|購買
+Purple|紫色
+Quick Setting|快速設定
+Radio off|關閉通訊
+rd_loc|第
+Reading appointments...|讀取約會中
+Recycle Bin|資源回收筒
+Red|紅色
+Reduced|縮小的
+Reload skin list|重新載入外觀清單
+Remove All|刪除全部
+Rename|重命名
+Rename Panel|重新命名面板名稱
+Requesting images|要求圖片
+Retry|重試
+Rise: %s|升起: %s
+RSS Feed|RSS Feed
+RSS Panel|RSS面板
+RSS Panel Settings|RSS面板設定
+S|南
+Safe mode|安全模式
+Sagittarius|射手座
+Saint-Petersburg|聖彼得堡
+Save as New|存成新檔
+Save to Existing|存到舊檔
+Scorpio|天蠍座
+Screen orientation|螢幕方向
+Screen orientation will be changed to Landscape|螢幕將轉為橫向
+SE|東南
+Searching|搜尋中
+Select Channel|選擇頻道
+Select cities|選擇城市
+Select Contact Action|設定該聯絡人之預設動作
+Select Contact Size|選擇聯絡人尺寸
+Select e-mail address|選擇e-mail adress
+Select phone number:|選擇電話號碼
+Select shortcut|選擇捷徑
+Select Skin|選擇外觀
+Select wallpaper from|桌布來源
+Selected cities|選定的城市
+Selected City|選擇的城市
+Selected city|選擇的城市
+Send Email|傳送電子郵件
+Send E-mail|傳送電子郵件
+Send E-Mail|傳送電子郵件
+Send Message|傳送訊息
+Send MMS|傳送 MMS
+Send SMS|傳送簡訊
+September|九月
+Serial number:|註冊碼:
+Set as Home|設成首頁
+Set as Wallpaper|設成桌布
+Set wallpaper|設定桌布
+Set: %s|落下: %s
+Settings|設定
+Show all|顯示全部
+Show all day events|顯示整天活動
+Show all day events in calendar widgets|顯示整天活動於日曆widgets
+Show full news|顯示完整新聞
+Show images in news|在新聞中顯示影像
+Silent|靜音
+Skin loading|載入外觀
+Small|小
+Smartphone|智慧型手機
+Smog|有霧
+Social|社群
+Social Network|社群網路
+Sound Profile|鈴聲設定
+south|南方
+south east|東南
+south west|西南
+SPB Shell 3D is loading...|SPB Shell 3D 正在載入中...
+SPB Wallpapers|SPB桌布
+SPB Widget|SPB Widget
+st|第一
+Standard Edition [Beta]|Standard Edition [Beta]
+Stereoscopic 3D mode|實體3D模式
+Stereoscopic 3D mode will be disabled|開啟實體3D模式
+Stereoscopic 3D Settings|實體3D模式設定
+Sun in %s,|太陽在 %s,
+Sunday|星期日
+SW|西南
+Switching the interface mode can take up to a minute. Screen orientation will be changed to '%s'.|切換介面模式
+System|系統
+Tablet|平板
+Taurus|金牛座
+Temperatur scale|溫度單位
+Temperature scale|溫度單位
+Test Battery|電池測試
+th|第
+Thank you for your support. Your copy is now registered.|註冊完成, 謝謝支持!
+The experimental features below are not ready to be shipped in the core of SPB Shell 3D. They may contain severe defects and cause system instability. Use them at your own risk.|底下實驗性的功能目前還沒有準備一並與SPB Shell 3D的核心一並釋出。他們有可能造成系統當機或者不穩定的情況，請您務必了解開啟之後的風險。
+The maximum number of panels is reached|已達最多面板數目
+The name cannot be changed.|名字無法被更改
+The previous launch of SPB Shell 3D was unsuccessful. Please tap "Retry" to launch it again or "Home" to activate a different Home screen.|前次開啟SPB Shell 3D沒有成功. 請點選"重試"來再次開啟或按"Home"鍵來回到主桌面.
+Time|時間
+Time Panel|時間頁面
+Time Panel Settings|時間面板設定
+Today|Today
+Toggle|按鍵
+Tomorrow|明天
+Tools|工具
+Travel|旅行
+Unfortunately, we could not locate your purchase in Android Market. Please uninstall this copy before installing a new one.|對不起, 我們無法確定您在Android Market上的購買. 請取消安裝後再重新安裝.
+Unfortunately, we could not locate your purchase. Please uninstall this copy before installing a new one.|不幸地, 我們無法得知你有購買本產品. 請將此版本解除安裝後再重新安裝新的版本.
+Uninstall|解除安裝
+Uninstall apps|解除安裝程式
+Unknown|未知
+Unknown location|未知的地點
+Upcoming events|即將到來的事件
+Update|更新
+Update deals list automatically|自動更新特賣商品列表
+Update Now|現在更新
+Update pictures page automatically|自動更新圖片頁面
+Update weather forecasts automatically|自動更新氣象資訊
+Updated|已更新
+Updated:|更新:
+Updating image|更新圖片
+Updating...|更新中...
+Use 3D in application list|軟體列表使用3D呈現
+Use 3D in edit mode|在編輯模式中使用3D
+Use cellular connection for updating deals list|使用手機網路更新特賣列表
+Use cellular connection for updating deals list automatically|使用手機網路時自動下載每日促銷資料
+Use cellular connection for updating pictures automatically|自動使用行動連線更新圖片
+Use cellular connection for updating weather automatically|使用手機網路時自動下載天氣資料
+Use new color every time|每次開啟不同顏色的便條
+Use previous note's color|使用前次便條的顏色
+Value|價值
+variable|變數
+Version %s, Build %s|版本 %s, Build %s
+Vibro|Vibro
+Video Call|影像電話
+View Duplicates|顯示重複
+View SIM Contacts|顯示SIM卡連絡人
+Virgo|處女座
+W|西
+Wallpaper|桌布
+Wallpapers|桌布
+Waning Crescent|殘月
+Waning Gibbous|虧凸月
+Waxing Crescent|眉月
+Waxing Gibbous|盈凸月
+Weather|天氣
+Weather and Clock|天氣和時間
+Weather Forecast|天氣預報
+Weather Panel Settings|天氣面板設定
+Weather Settings|天氣設定
+Welcome to notes panel|歡迎來到記事便條面板
+west|西方
+Widget is too big to be added.|Widget太大而無法加入.
+Widgets|桌面小工具
+Widgets Settings|Widgets設定
+Wind direction:|風向:
+Wind speed scale|風速單位
+Wind speed:|風速:
+Wind:|風:
+Work|公司
+World Time|全球時間
+Wrong serial number. Please check it again.|錯誤的註冊碼,請重新確認!
+Yandex.Search|Yandex.Search
+Yellow|黃色
+Yes|是
+Yesterday|昨天
+You save|你可以省下
+Your video system isn't compatible with Shell 3D.|你的系統無法支援Shell 3D.

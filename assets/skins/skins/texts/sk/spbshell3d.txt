@@ -1,0 +1,546 @@
+ a few seconds| niekoľko sekúnd
+ day|deň
+ days|dni
+ hour|hod.
+ hours|hod.
+ hr| hod
+ hrs|hod
+ lunar day| lunárny deň
+ min|min
+ mins| min
+ minute|min.
+ minutes|minúty
+%d bought|%d kúpené
+%d day|%d deň
+%d days|%d dní
+%d hour|%d hodina
+%d hours|%d hodín
+%d minute|%d minúta
+%d minutes|%d minút
+%d more...|%d viac...
+%i active channel|%i aktívny kanál
+%i active channels|%i aktívnych kanálov
+%i image|%i obrázok
+%i images|%i obrázkov
+%i more today|%i viac dnes
+%i more...|ešte %i ...
+%i page|%i strana
+%i pages|%i strán
+%i%% of Full|%i%% zo splnu
+%s 2007—2011 Yandex|%s 2007—2011 Yandex
+(<1 min)|(<1 min)
+(in|(za
+(in seconds)|(za niekoľko sekúnd)
+(No title)|(Bez názvu)
+[ Loading images... ]|[ Nahrávanie obrázkov... ]
+[ Tap here for images load ]|[ Tapnite sem pre načítanie obrázkov ]
+A few minutes ago|Pred pár minútami
+About|O programe
+About SPB Shell 3D|O SPB Shell 3D
+Above horizon|Nad horizontom
+Accelerometer|Akcelerometer
+Activate|Aktivovať
+Activation|Aktivácia
+Activation failed. Check your Internet connection.|Aktivácia zlyhala. Skontrolujte prosím vaše internetové pripojenie.
+Active Channels|Aktívne kanály
+Active channels|Aktívne kanály
+Add|Pridať
+Add category|Pridať kategóriu
+Add channel|Pridať kanál
+Add city|Pridať mesto
+Add custom channel|Pridať vlastný kanál
+Add new city|Pridať nové mesto
+Add note|Pridať poznámku
+Add Panel|Pridať panel
+Add to Home screen|Pridať na domácu obrazovku
+Airplane|Lietadlo
+Airplane Mode|Letecký režim
+Alcatel Widget|Alcatel Widget
+All day|Celý deň
+All pictures|Všetky obrázky
+Allow resizing of all Android widgets|Povoliť zmenu veľkosti všetkých android widgetov
+An hour ago|Pred hodinou
+Android Shortcut|Android odkaz
+Android Widget|Android Widget
+Anniversary|Výročie
+Appearance|Vzhľad
+Application|Aplikácia
+April|Apríl
+Aqua|Aqua
+Aquarius|Vodnár
+Aries|Baran
+as of %s|v čase %s
+at %s|na %s
+atm|atm
+Atmospheres|Atmosféry
+Atmospheric pressure scale|Stupnica atm. tlaku
+August|August
+Auto|Auto
+Auto (keyboard only)|Auto (len klávesnica)
+Auto arrange widgets|Automaticky usporiadať widgety
+Automatic|Automatické
+Automatic naming|Automatické nazývanie
+Backlight|Podsvietenie
+Battery|Batéria
+Below horizon|Pod horizontom
+Birthday|Narodeniny
+Birthdays|Narodeniny
+Black|Čierna
+Blue|Modrá
+Bluetooth|Bluetooth
+Bookmarks|Záložky
+Bookmarks Folder|Priečinok záložiek
+Business|Business
+Buy!|Kúpiť!
+Cache size|Veľkosť cache
+Calculator|Kalkulačka
+Calendar|Kalendár
+Calendar Panel|Panel Kalendár
+Calendar Panel Settings|Nastavenia panela Kalendár
+Call|Zavolať
+Call Log|História volaní
+Cancel|Zrušiť
+Cancer|Rak
+Capricorn|Kozorožec
+Categories|Kategórie
+Category Name|Názov kategórie
+Celsius (#short)|st. C
+Change|Zmeniť
+Change City|Zmeniť mesto
+Change profile|Zmeniť profil
+Channels list|Zoznam kanálov
+Choose Alcatel Widget|Vybrať Alcatel Widget
+Choose Color|Zvoliť farbu
+Choose Program|Zvoliť program
+Choose SPB Widget|Zvoliť SPB Widget
+Choose widget|Zvoliť widget
+Clear|Jasno
+Clear cache|Vyprázdniť cache
+Clock|Hodiny
+Cloudy|Oblačno
+Cloudy, hail|Oblačno, krúpy
+Cloudy, heavy rain|Oblačno, silný dážď
+Cloudy, heavy snow|Oblačno, silné sneženie
+Cloudy, rain|Oblačno, dážď
+Cloudy, rain with snow|Oblačno, dážď so snežením
+Cloudy, snow|Oblačno, sneženie
+Cloudy, thunder|Oblačno, búrka
+Color anaglyph (red/cyan)|Farebný anaglyf (červená/modrozelená)
+Communication|Komunikácia
+Contact|Kontakt
+Contact Settings|Nastavenia kontaktu
+Contact Size|Veľkosť kontaktu
+Contacts|Kontakty
+Contacts Folder|Priečinok Kontaktov
+Copyright %s 2007-2011\nSPB Software|Copyright %s 2007-2011\nSPB Software
+Copyright %s 2007-2012\nSPB Software|Copyright %s 2007-2012\nSPB Software
+Create Folder|Vytvoriť priečinok
+Current|Aktuálne
+Current city|Terajšie mesto
+Current conditions|Aktuálne podmienky
+Current Conditions|Aktuálne podmienky
+Current skin|Terajší skin
+Custom channel|Vlastný kanál
+Day|Deň
+Deal of the Day|Ponuka dňa
+Deal of the Day Panel|Panel ponuky dňa
+Deal of the Day Panel Settings|Nastavenia panela ponuky dňa
+Deals|Ponuky
+December|December
+Default|Predvolený
+Default Action|Predvolená činnosť
+Delete note|Odstrániť poznámku
+Dew point:|Rosný bod:
+Diagnostic tools|Diagnostické nástroje
+Disabled|Vypnuté
+Discoverable|Zistiteľný
+Done|Hotovo
+Download Original|Stiahnuť originál
+Downloading images|Sťahovanie obrázkov
+E|V
+east|východ
+Edit channel|Upraviť kanál
+Edit Contact|Upraviť kontakt
+Edit note|Upraviť poznámku
+Edit panels|Upraviť panely
+Emergency only|Len núdzové volania
+Empty Panel|Prázdny panel
+Enable live wallpapers|Povoliť animované pozadia
+Enabled|Zapnuté
+Enter RSS feed title|Zadajte názov RSS
+Enter RSS feed URL|Zadajte URL adresu RSS
+Entertainment|Zábava
+Error|Chyba
+Evening|Večer
+Every 2 hours|Každé 2 hodiny
+Every 24 hours|Každých 24 hodín
+Every 30 Minutes|Každých 30 minút
+Every 30 minutes|Každých 30 minút
+Every 4 hours|Každé 4 hodiny
+Every hour|Každú hodinu
+Exit|Ukončiť
+Experimental|Experimentálne
+Experimental Settings|Experimentálne nastavenia
+Experimental settings|Experimentálne nastavenia
+Fahrenheit (#short)|st. F
+Failed to add contact|Pridanie kontaktu zlyhalo
+Failed to load RSS|Načítanie RSS zlyhalo
+Failed to load the selected contact. Try to link the contact to Google account or save it to phone.|Nahranie zvoleného kontaktu zlyhalo. Skúste prepojiť telefón s účtom Google, alebo kontakt stiahnite do telefónu.
+Favorite Contacts|Obľúbené kontakty
+Favorite contacts|Obľúbené kontakty
+Favorites|Obľúbené
+February|Február
+Filter|Filter
+First day of the week|Prvý deň týždňa
+First Quarter|Prvá štvrť
+Flight|Let
+Folder|Priečinok
+Folder Name|Názov priečinka
+Forecast|Predpoveď
+from forecast|podľa predpovede
+Full Moon|Spln
+Gallery|Galéria
+Games|Hry
+Gemini|Blíženci
+Gravity|Gravitácia
+Grayscale anaglyph (red/cyan)|Anaglyf v stupňoch šedi (červená/modrozelená)
+Green|Zelená
+G-Sensor|G-Senzor
+Half an hour ago|Pred pol hodinou
+Hectopascals|HektoPascaly
+Hide Duplicates|Skryť duplikáty
+Hide SIM Contacts|Skryť SIM kontakty
+Home|Hlavná
+Home Settings|Nastavenia hlavnej obrazovky
+Home settings|Nastavenia hlavnej obrazovky
+hpa|hPa
+Humidity:|Vlhkosť:
+in %u days|za %u dní
+in Home Settings|v nastaveniach hlavného panela
+inch|palec
+Inches|Palce
+Increase Counter|Zvýšiť počítadlo
+Interface mode|Režim rozhrania
+Invisible|Neviditeľný
+January|Január
+July|Júl
+June|Jún
+Kilometers per hour|Kilometre za hodinu
+Knots|Uzly
+knots|uzly
+kph|km/h
+kts|uzl
+Landscape|Na šírku
+Landscape orientation required to enable left-to-right stereo mode|Na zapnutie stereoskopického režimu zprava doľava sa vyžaduje orientácia na šírku
+Large|Veľké
+Last Call|Posledný hovor
+Last Message|Posledná správa
+Last Quarter|Posledná štvrť
+Last updated|Posledná aktualizácia
+Left-to-right (HTC EVO 3D)|Zľava doprava (HTC EVO 3D)
+Legal information|Právne informácie
+Legal notices|Právne upozornenia
+Leo|Lev
+Libra|Váhy
+Lifestyle|Životný štýl
+Live wallpapers can cause performance degradation of your 3D home screen. Switching between live and static wallpapers can take up to a minute. Static wallpapers are recommended for the best experience.|Animované pozadia môžu spôsobiť zhoršenie výkonu vašej hlavnej 3D obrazovky. Prepínanie medzi animovaným a statickým pozadím môže trvať až jednu minútu. Pre najsvižnejšie fungovanie vášho telefónu odporúčame používať statické pozadie.
+Loading failed|Nahrávanie zlyhalo
+Loading image for wallpaper|Nahrávanie obrázka pozadia
+Loading RSS feed %s...|Narhávanie RSS %s...
+Loading skin failed!|Nahrávanie skinu zlyhalo!
+Loading skins catalog failed!|Nahrávanie katalógu skinov zlyhalo!
+Loading...|Nahrávanie...
+Logging In...|Prihlasovanie...
+Lunar Calendar|Lunárny kalendár
+Lunar day %d|Lunárny deň %d
+Manage apps|Spravovať aplikácie
+Manage Apps|Spravovať aplikácie
+Manage panels|Spravovať panely
+Manage Panels|Správa panelov
+March|Marec
+May|Máj
+Medium|Stredná
+Messaging|Správy
+Meters per second|Metre za sekundu
+Miles per hour|Míle za hodinu
+Millimetres|Milimetre
+Misc|Rôzne
+Miscellaneous|Rôzne
+mm|mm
+Mobile|Mobilné
+Mode|Režim
+Monday|Pondelok
+Moon|Mesiac
+Moon Calendar|Mesačný kalendár
+Moon in %s,|Mesiac v %s,
+Morning|Ráno
+mph|míľ/h
+mps|m/s
+Multimedia|Multimédiá
+Music|Hudba
+Music albums|Hudobné albumy
+N|S
+N/A|N/A
+nd|.
+NE|SV
+Network Status|Stav siete
+Never|Nikdy
+New|Nový
+New Channel|Nový kanál
+New channel|Nový kanál
+New Contact|Nový kontakt
+New Folder|Nový priečinok
+New Moon|Nov
+New update available|Je dostupná nová aktualizácia
+News|Noviny
+News Panel|Panel správy
+News Panel Settings|Nastavenia panela správ
+next|Ďalší
+Next Alarm|Ďalšie budenie
+Night|Noc
+No|Nie
+no|Nie
+No Alarms|Budenie nenastavené
+No birthdays|Žiadne narodeniny
+No calls|Žiadne volania
+No Cities|Žiadne mestá
+No conditions|Žiadne podmienky
+No Contacts.|Žiadne kontakty
+No Countries|Žiadne krajiny
+No deals loaded|Žiadne ponuky neboli stiahnuté
+No Images|Žiadne obrázky
+No messages|Žiadne správy
+No news|Žiadne novinky
+No rise/set info|Informácie o východe/západe nie sú k dispozícii
+No RSS feed found at|Žiadny RSS kanál nebol nájdený v
+No rss loaded|RSS neboli stiahnuté
+No SIM|SIM nenájdená
+No text messages|Žiadne textové správy
+No title|Bez názvu
+No upcoming events|Žiadne nadchádzajúce udalosti
+No upcoming events in a week|Žiadne udalosti počas nadchádzajúceho týždňa
+No updates|Žiadne aktualizácie
+No weather forecast|Žiadne predpovede počasia
+Normal|Normálny
+north|severný
+north east|severovýchodný
+north west|severozápadný
+Not available|Nedostupné
+Not connected|Nepripojené
+Notes|Poznámky
+Note's default color|Predvolená farba poznámky
+Note's font|Font poznámky
+Notes Panel|Panel poznámok
+Notes Panel Settings|Nastavenia panela poznámok
+November|November
+NW|SZ
+October|Október
+Off|Vypnutá
+Offer|Ponuka
+On|Zapnuté
+One Touch Share|One Touch Share
+Only on free connections|Len na bezplatných pripojeniach
+Open Contact|Otvoriť kontakt
+Open in Browser|Otvoriť v prehliadači
+OpenGL 2.0 is required to run SPB Shell 3D|SPB Shell 3D vyžaduje OpenGl 2.0.
+Optimized anaglyph (red/cyan)|Optimalizovaný anaglyf (červená/modrozelená)
+Other (assistant)|Ďaľšie (asistent)
+Page|Strana
+Pages: %d, images: %d|Stránky: %d, obrázky: %d
+Panel Name|Názov panelu
+Panels|Panely
+Panels Settings|Nastavenia panelov
+Parsing skins catalog failed!|Parsovanie katalógu skinov zlyhalo!
+Partly cloudy|Polooblačno
+Partly cloudy, rain|Polooblačno, dážď
+Partly cloudy, snow|Polooblačno, sneženie
+Partly cloudy, thunder|Polooblačno, búrka
+People|Ľudia
+Performance Warning|Upozornenie o dopade na výkon
+Performance Warning dialog|Dialóg upozornenia na dopad na výkon
+Personal|Osobné
+Phone|Telefón
+Photo folder for gallery widgets|Priečinok obrázkov pre widgety galérie
+Picture Gallery|Galéria obrázkov
+Picture of the Day|Obrázok dňa
+Picture Panel Settings|Nastavenia panela Obrázky
+Pictures|Obrázky
+Pictures Of The Day|Obrázky dňa
+Pictures Panel|Panel obrázkov
+Pictures Panel Settings|Nastavenia panela obrázkov
+Pictures Settings|Nastavenie obrázkov
+Pisces|Ryby
+Please Log In|Prosím, prihláste sa
+Please wait...|Čakajte prosím.
+Portrait|Na výšku
+Pressure:|Tlak:
+Problem loading widget|Problém pri nahrávaní widgetu
+Productivity|Produktivita
+Program|Program
+Pulkovo|Pulkovo
+Purchase|Kúpiť
+Purple|Purpurová
+Quick Setting|Rýchle nastavenia
+Radio off|Rádio vypnuté
+rd_loc|.
+Reading appointments...|Čítanie schôdzok...
+Recycle Bin|Kôš
+Red|Červená
+Reduced|Redukované
+Reload skin list|Obnoviť zoznam skinov
+Remove All|Odstrániť všetko
+Rename|Premenovať
+Rename Panel|Premenovať panel
+Requesting images|Žiadam o obrázky
+Retry|Skúsiť znova
+Rise: %s|Východ: %s
+RSS Feed|RSS kanál
+RSS Panel|Panel RSS
+RSS Panel Settings|Nastavenia RSS panela
+S|J
+Safe mode|Bezpečný režim
+Sagittarius|Strelec
+Saint-Petersburg|Petrohrad
+Save as New|Uložiť ako nový
+Save to Existing|Uložiť k existujúcim
+Scorpio|Škorpión
+Screen orientation|Orientácia obrazovky
+Screen orientation will be changed to Landscape|Orientácia obrazovky bude zmenená na orientáciu na šírku
+SE|JV
+Searching|Vyhľadávanie
+Select Channel|Zvoliť kanál
+Select cities|Zvoliť mestá
+Select Contact Action|Zvoliť akciu kontaktu
+Select Contact Size|Zvoliť veľkosť kontaktu
+Select e-mail address|Vyberte e-mailovú adresu:
+Select phone number:|Vyberte telefónne číslo:
+Select shortcut|Zvoliť odkaz
+Select Skin|Zvoliť skin
+Select wallpaper from|Zvoliť pozadie z
+Selected cities|Zvolené mestá
+Selected City|Vybrané mesto
+Selected city|Vybrané mesto
+Send Email|Poslať Email
+Send E-mail|Poslať e-mail
+Send E-Mail|Poslať e-mail
+Send Message|Poslať správu
+Send MMS|Poslať MMS
+Send SMS|Poslať SMS
+September|September
+Serial number:|Sériové číslo:
+Set as Home|Nastaviť ako domácu
+Set as Wallpaper|Nastaviť ako pozadie plochy
+Set wallpaper|Nastaviť ako pozadie
+Set: %s|Západ: %s
+Settings|Nastavenia
+Show all|Zobraziť všetko
+Show all day events|Zobraziť celodenné udalosti
+Show all day events in calendar widgets|Zobraziť celodenné udalosti v kalendárových widgetoch
+Show full news|Zobraziť celé správy
+Show images in news|Zobrazovať obrázky v správach
+Silent|Tichý
+Skin loading|Nahrávanie skinu
+Small|Malé
+Smartphone|Smartphone
+Smog|Smog
+Social|Sociálne
+Social Network|Sociálna sieť
+Sound Profile|Zvukový profil
+south|južný
+south east|juhovýchodný
+south west|juhozápadný
+SPB Shell 3D is loading...|SPB Shell 3D sa nahráva...
+SPB Wallpapers|Pozadia SPB
+SPB Widget|SPB Widget
+st|.
+Standard Edition [Beta]|Štandardná edícia [Beta]
+Stereoscopic 3D mode|Stereoskopický 3D režim
+Stereoscopic 3D mode will be disabled|Stereoskopický 3D režim bude vypnutý
+Stereoscopic 3D Settings|Nastavenia stereoskopického 3D
+Sun in %s,|Slnko v %s,
+Sunday|Nedeľa
+SW|JZ
+Switching the interface mode can take up to a minute. Screen orientation will be changed to '%s'.|Zmena režimu rozhrania môže trvať až jednu minútu. Orientácia obrazovky sa zmení na '%s'.
+System|Systém
+Tablet|Tablet
+Tap here to download|Pre stiahnutie tapnite sem
+Taurus|Býk
+Temperatur scale|Teplotná stupnica
+Temperature scale|Teplotná stupnica
+Test Battery|Test batérie
+th|.
+Thank you for your support. Your copy is now registered.|Ďakujeme za vašu podporu. Vaša kópia je teraz registrovaná.
+The experimental features below are not ready to be shipped in the core of SPB Shell 3D. They may contain severe defects and cause system instability. Use them at your own risk.|Experimentálne nastavenia nižšie nie sú pripravené k začleneniu do jadra SPB Shell 3D. Môžu obsahovať závažné chyby a spôsobiť nestabilitu systému. Používajte ich na vlastné riziko.
+The maximum number of panels is reached|Bol dosiahnutý maximálny počet panelov.
+The name cannot be changed.|Názov a nedá zmeniť.
+The previous launch of SPB Shell 3D was unsuccessful. Please tap "Retry" to launch it again or "Home" to activate a different Home screen.|Predchádzajúce spustenie  SPB Shell 3D bolo neúspešné. Prosím, tapnite na "Skúsiť znova" pre opakované spustenie, alebo na "Domáca" pre aktiváciu inej domácej obrazovky.
+Time|Čas
+Time Panel|Panel Čas
+Time Panel Settings|Nastavenie panela času
+Today|Dnes
+Toggle|Prepnúť
+Tomorrow|Zajtra
+Tools|Nástroje
+Travel|Cestovanie
+Unfortunately, we could not locate your purchase in Android Market. Please uninstall this copy before installing a new one.|Bohužiaľ sa nám nepodarilo lokalizovať váš nákup v službe Android Market. Prosím odinštalujte túto kópiu pred inštalovaním novej.
+Unfortunately, we could not locate your purchase. Please uninstall this copy before installing a new one.|Váš nákup sa nám bohužiaľ nepodarilo lokalizovať. Prosím, odinštalujte túto verziu Shell 3D pred inštaláciou novej.
+Uninstall|Odinštalovať
+Uninstall apps|Odinštalovať aplikácie
+Unknown|Neznámy
+Unknown location|Neznáma lokalita
+Upcoming events|Nadchádzajúce udalosti
+Update|Aktualizovať
+Update deals list automatically|Obnovovať zoznam ponúk automaticky
+Update Now|Aktualizovať teraz
+Update pictures page automatically|Automaticky aktualizovať stránku obrázkov
+Update weather forecasts automatically|Automaticky aktualizovať predpovede počasia
+Updated|Aktualizované
+Updated:|Aktualizované:
+Updating image|Aktualizácia obrázka
+Updating...|Aktualizácia...
+Use 3D in application list|Použiť 3D v zozname aplikácií
+Use 3D in edit mode|Použiť 3D v režime úprav
+Use cellular connection for updating deals list|Použiť mobilné pripojenie na automatické obnovovanie zoznamu ponúk
+Use cellular connection for updating deals list automatically|Použiť mobilné pripojenie pre automatické aktualizácie ponuky dňa
+Use cellular connection for updating pictures automatically|Použiť mobilné pripojenie na automatické aktualizovanie obrázkov
+Use cellular connection for updating weather automatically|Použiť mobilné pripojenie pre automatické aktualizácie počasia
+Use new color every time|Použiť vždy inú farbu
+Use previous note's color|Použiť farbu predchádzajúcej poznámky
+Value|Hodnota
+variable|premenlivý
+Version %s, Build %s|Verzia %s, Build %s
+Vibro|Vibrácie
+Video Call|Videohovor
+View Duplicates|Zobraziť duplikáty
+View SIM Contacts|Zobraziť SIM kontakty
+Virgo|Panna
+W|Z
+Wallpaper|Pozadie plochy
+Wallpapers|Pozadia
+Waning Crescent|Ubúdajúci kosáčik
+Waning Gibbous|Ubúdajúci mesiac
+Waxing Crescent|Rastúci kosáčik
+Waxing Gibbous|Dorastajúci mesiac
+Weather|Počasie
+Weather and Clock|Počasie a hodiny
+Weather Forecast|Predpoveď počasia
+Weather Panel Settings|Nastavenia panelu počasie
+Weather Settings|Nastavenia počasia
+Welcome to notes panel|Vitajte v paneli poznámok
+west|Západný
+Widget is too big to be added.|Widget sa nedá pridať, pretože je príliš veľký.
+Widgets|Widgety
+Widgets Settings|Nastavenia Widgetov
+Wind direction:|Smer vetra:
+Wind speed scale|Stupnica rýchlosti vetra
+Wind speed:|Rýchlosť vetra:
+Wind:|Vietor:
+Work|Práca
+World Time|Svetový čas
+Wrong serial number. Please check it again.|Zlé sériové číslo. Prosím, skontrolujte ho.
+Yandex.Search|Yandex.Search
+Yellow|Žltá
+Yes|Áno
+Yesterday|Včera
+You save|Ušetríte
+Your video system isn't compatible with Shell 3D.|Vaša grafická karta nie je kompatibilná so Shell 3D.

@@ -1,0 +1,169 @@
+<?xml version="1.0"?>
+
+<Layouts Name="Contact Panel Widget" Type="widget">
+
+  <!-- **************************************************************************************************** -->
+
+  <Rules>
+    <Condition Name="NewContact" Value="1">
+      <UseLayout Name="NewContact"/>
+    </Condition>
+    <Default>
+      <ScreenCondition Orientation="landscape">
+        <UseLayout Name="Landscape"/>
+      </ScreenCondition>
+
+      <Default>
+        <UseLayout Name="Portrait"/>
+      </Default>
+    </Default>
+  </Rules>
+
+  <!-- **************************************************************************************************** -->
+
+  <General>
+    <Skin AutoSkin="res_contact"/>
+    <Int Name="DialogData" Value="1"/>
+    <Int Name="SelectionType" Value="0"/>
+    <!-- no selection for all plugins -->
+  </General>
+
+  <!-- **************************************************************************************************** -->
+
+  <Layout Name="ActionIconFrame">
+    <Frame Width="auto" Height="auto" Align="bottom|right">
+      <Plugin Name="ActionBg" Class="Spb.LSP.Image" ID="12">
+        <LayoutSize Width="auto" Height="auto"/>
+        <Int Name="DialogData" Value="0"/>
+        <String Name="ImageName" Value="action_bg"/>
+      </Plugin>
+
+      <Plugin Name="ActionIcon" Class="Spb.LSP.Image" ID="11" Align="center">
+        <LayoutSize Width="auto" Height="auto"/>
+      </Plugin>
+    </Frame>
+  </Layout>
+
+  <Layout Name="Portrait">
+    <Plugins LayoutType="frame">
+      <LayoutSize Width="fill" Height="fill"/>
+
+      <Plugin Class="Spb.LSP.9Patch" Name="bg">
+        <LayoutMargins All="2"/>
+        <LayoutSize Width="fill" Height="fill"/>
+        <String Name="ImageName" Value="wgt_contact_bkg"/>
+      </Plugin>
+
+      <Plugins Name="main" LayoutType="linear" Orientation="vertical">
+        <LayoutSize Width="fill" Height="fill"/>
+        <LayoutMargins All="4"/>
+
+        <Frame Name="UserPicFrame" Width="fill" Height="auto">
+          <Plugin Name="UserPic" Class="Spb.LSP.GenericSquare" ID="10">
+            <LayoutSize Width="fill" Height="auto"/>
+          </Plugin>
+
+          <Frame Extends="ActionIconFrame"/>
+        </Frame>
+
+        <Plugin Name="UserName" Class="Spb.LSP.Text" ID="1" StretchFactor="1" Align="center_vert">
+          <LayoutSize Width="fill" Height="auto"/>
+          <LayoutMargins Left="2" Right="2"/>
+
+          <Int Name="FadeText" Value="1"/>
+          <DefaultFont Face="Droid Sans" HeightPxl="10" Bold="n" Color="FFFFFFFF"/>
+        </Plugin>
+
+      </Plugins>
+
+      <Plugin Name="MenuIndicator" ID="6" Class="Spb.LSP.Image" Align="top|right" AutoSkin="launcher">
+        <LayoutSize Width="auto" Height="auto"/>
+        <Int Name="DialogData" Value="0"/>
+        <String Name="ImageName" Value="menuaction"/>
+      </Plugin>
+
+    </Plugins>
+  </Layout>
+
+  <Layout Name="Landscape">
+    <Plugins LayoutType="frame">
+      <LayoutSize Width="fill" Height="fill"/>
+      <LayoutMargins All="2"/>
+
+      <Plugin Class="Spb.LSP.9Patch" Name="bg">
+        <LayoutSize Width="fill" Height="fill"/>
+        <String Name="ImageName" Value="wgt_contact_bkg"/>
+      </Plugin>
+
+      <Plugins Name="main" LayoutType="linear" Orientation="horizontal">
+        <LayoutSize Width="fill" Height="fill"/>
+        <LayoutMargins All="2"/>
+
+        <Frame Name="UserPicFrame" Width="auto" Height="fill">
+          <Plugin Name="UserPic" Class="Spb.LSP.GenericSquare" ID="10">
+            <LayoutSize Width="auto" Height="fill"/>
+          </Plugin>
+          <Frame Extends="ActionIconFrame"/>
+        </Frame>
+
+        <Plugins Name="UserName" LayoutType="linear" Orientation="vertical"  Align="center_vert">
+          <LayoutSize Width="fill" Height="auto"/>
+
+          <Plugin Name="FirstName" Class="Spb.LSP.Text" ID="7" StretchFactor="1">
+            <LayoutSize Width="fill" Height="auto"/>
+            <LayoutMargins Left="2" Right="2"/>
+            <Int Name="FadeText" Value="1"/>
+            <DefaultFont Face="Droid Sans" HeightPxl="10" Bold="n" Color="FFFFFFFF"/>
+          </Plugin>
+          <Plugin Name="LastName" Class="Spb.LSP.Text" ID="8" StretchFactor="1">
+            <LayoutSize Width="fill" Height="auto"/>
+            <LayoutMargins Left="2" Right="2"/>
+            <Int Name="FadeText" Value="1"/>
+            <DefaultFont Face="Droid Sans" HeightPxl="10" Bold="n" Color="FFFFFFFF"/>
+          </Plugin>
+
+        </Plugins>
+      </Plugins>
+
+      <Plugin Name="MenuIndicator" ID="6" Class="Spb.LSP.Image" Align="top|right" AutoSkin="launcher">
+        <LayoutSize Width="auto" Height="auto"/>
+        <Int Name="DialogData" Value="0"/>
+        <String Name="ImageName" Value="menuaction"/>
+      </Plugin>
+
+    </Plugins>
+  </Layout>
+
+  <Layout Name="NewContact">
+    <Plugins LayoutType="frame">
+      <LayoutSize Width="fill" Height="fill"/>
+
+      <Plugin Class="Spb.LSP.9Patch" Name="bg">
+        <LayoutMargins All="2"/>
+        <LayoutSize Width="fill" Height="fill"/>
+        <String Name="ImageName" Value="wgt_contact_bkg"/>
+      </Plugin>
+
+      <Plugin Class="Spb.LSP.9Patch" Name="frame">
+        <LayoutMargins All="2"/>
+        <LayoutSize Width="fill" Height="fill"/>
+        <String Name="ImageName" Value="wgt_newcontact_frame"/>
+      </Plugin>
+
+      <Plugin Class="Spb.LSP.Image" Name="Plus" Align="center">
+        <LayoutSize Width="auto" Height="auto"/>
+        <Int Name="DialogData" Value="0"/>
+        <String Name="ImageName" Value="addcontact"/>
+      </Plugin>
+
+      <Plugin Name="MenuIndicator" ID="6" Class="Spb.LSP.Image" Align="top|right" AutoSkin="launcher">
+        <LayoutSize Width="auto" Height="auto"/>
+        <Int Name="DialogData" Value="0"/>
+        <String Name="ImageName" Value="menuaction"/>
+      </Plugin>      
+    </Plugins>
+  </Layout>
+
+</Layouts>
+
+

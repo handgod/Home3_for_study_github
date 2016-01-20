@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<skin Name="Launcher">
+  <items>
+    <item>
+      <Image Name="deleteIcon" File="deleteicon.png"/>
+      <Image Name="switchSkin" File="switchskin.png"/>
+      <Point Name="buttonOffset" X="8" Y="8"/>
+      <Image Name="dragshadow" File="dragshadow.png"/>
+      
+      <Image Name="homeIcon" File="home_icon.png"/>
+      <Image Name="trashIcon" File="trash_bin_icon.png"/>
+      <Image Name="trashIconActive" File="trash_bin_icon_act.png"/>
+      <Image Name="menuaction" File="menuaction.png"/>
+    </item>
+  </items>
+</skin>

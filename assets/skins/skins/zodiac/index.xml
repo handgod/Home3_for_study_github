@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<skin Name="Zodiac">
+  <items>
+    <item>
+      <Image Name="Aquarius"    File="aquarius.png"/>
+      <Image Name="Pisces"      File="pisces.png"/>
+      <Image Name="Aries"       File="aries.png"/>
+      <Image Name="Taurus"      File="taurus.png"/>
+      <Image Name="Gemini"      File="gemini.png"/>
+      <Image Name="Cancer"      File="cancer.png"/>
+      <Image Name="Leo"         File="leo.png"/>
+      <Image Name="Virgo"       File="virgo.png"/>
+      <Image Name="Libra"       File="libra.png"/>
+      <Image Name="Scorpio"     File="scorpio.png"/>
+      <Image Name="Sagittarius" File="sagittarius.png"/>
+      <Image Name="Capricorn"   File="capricorn.png"/>
+    </item>
+  </items>
+</skin>
+  

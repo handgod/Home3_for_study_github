@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<skin Name="Clock Widget" Type="widget">
+  <items>
+    <item>
+      <Image Name="Icon"   File="icon.png"/>
+      <String Name="DefaultLabel" Value="Clock"/>
+      <Image Name="alarm"  File="alarm.png"/>
+
+      <Image Name="face-2x2-a"    File="face-2x2-a.png"/>
+      <Image Name="arrows-2x2-ah" File="arrows-2x2-ah.png"/>
+      <Image Name="arrows-2x2-am" File="arrows-2x2-am.png"/>
+
+      <Image Name="frame" File="frame.png"/>
+
+      <Image Name="column" File="column.png"/>
+      <Image Name="digits" File="digits.png"/>
+      
+      <Rect  Name="frame_9Patch" X="4" Y="0" Width="2" Height="36"/>
+
+	<Image Name="custom_background"  File="custom-background.png"/>
+      
+    </item>
+  </items>
+</skin>

@@ -1,0 +1,543 @@
+ a few seconds|一分钟以内
+ day|天
+ days|天
+ hour|小时
+ hours|小时
+ hr| 小时
+ hrs|小时
+ lunar day|农历日
+ min|分钟
+ mins|分钟
+ minute|分钟
+ minutes|分钟
+%d bought|已购买%d
+%d day|%d天
+%d days|%d天
+%d hour|%d小时
+%d hours|在%d小时内
+%d minute|%d分钟
+%d minutes|在%d分钟内
+%d more...|更多的%d个
+%i active channel|%i个频道
+%i active channels|%i个频道
+%i image|%i 图像
+%i images|%i 图像
+%i more today|还有%i天
+%i more...|还有%i...
+%i page|%i 页
+%i pages|%i 页
+%i%% of Full|全部的%i%%
+%s 2007—2011 Yandex|%s 2007—2011 Yandex
+(<1 min)|一分钟以内
+(in|(
+(in seconds)|(数秒内）
+(No title)|(无标题)
+[ Loading images... ]|[ 正在加载图片... ]
+[ Tap here for images load ]|[ 点击这里加载图片 ]
+A few minutes ago|几分钟以前
+About|关于
+About SPB Shell 3D|关于SPB Shell 3D
+Above horizon|地平线以上
+Accelerometer|加速度计
+Activate|激活
+Activation|激活
+Activation failed. Check your Internet connection.|激活失败请检查互联网连接。
+Active Channels|可用频道
+Active channels|可用频道
+Add|增加
+Add category|添加分类
+Add channel|添加频道
+Add city|添加城市
+Add custom channel|添加自定义频道
+Add new city|添加新城市
+Add note|添加记事
+Add Panel|添加面板
+Add to Home screen|添加到首页
+Airplane|飞机
+Airplane Mode|飞行模式
+Alcatel Widget|Alcatel 插件
+All day|全天
+All pictures|添加图片
+Allow resizing of all Android widgets|允许更改所有Android挂件的大小
+An hour ago|一小时以前
+Android Shortcut|Android快捷方式
+Android Widget|Android桌面插件
+Anniversary|周年纪念
+Appearance|外观
+Application|应用程序
+April|四月
+Aqua|Aqua
+Aquarius|水瓶座
+Aries|白羊座
+as of %s|更新于%s
+at %s|在%s
+atm|大气压
+Atmospheres|大气压
+Atmospheric pressure scale|大气压力单位
+August|八月
+Auto|自动
+Auto (keyboard only)|自动（仅适用于键盘）
+Auto arrange widgets|自动排列挂件
+Automatic|自动：
+Automatic naming|自动命名
+Backlight|背光
+Battery|电池
+Below horizon|地平线以下
+Birthday|生日
+Birthdays|生日
+Black|黑色
+Blue|蓝色
+Bluetooth|蓝牙
+Bookmarks|书签
+Bookmarks Folder|书签文件夹
+Business|商务
+Buy!|购买！
+Cache size|缓存大小
+Calculator|计算器
+Calendar|日历
+Calendar Panel|日历面板
+Calendar Panel Settings|日历面板设置
+Call|呼叫
+Call Log|呼叫记录
+Cancel|取消
+Cancer|巨蟹座
+Capricorn|摩羯座
+Categories|分类
+Category Name|分类名称
+Celsius (#short)|摄氏
+Change|更改
+Change City|改变城市
+Change profile|更换账户
+Channels list|频道列表
+Choose Alcatel Widget|选择Alcatel插件
+Choose Color|选择颜色
+Choose Program|选择程序
+Choose SPB Widget|请选择 SPB 小挂件
+Choose widget|选取小挂件
+Clear|晴朗
+Clear cache|清空缓存
+Clock|钟
+Cloudy|多云
+Cloudy, hail|多云转冰雹
+Cloudy, heavy rain|多云转大雨
+Cloudy, heavy snow|多云转大雪
+Cloudy, rain|多云转雨
+Cloudy, rain with snow|多云转雨夹雪
+Cloudy, snow|多云转雪
+Cloudy, thunder|多云且有响雷
+Color anaglyph (red/cyan)|彩色浮雕效果
+Communication|通讯
+Contact|联系人
+Contact Settings|联系人设置
+Contact Size|联系人数量
+Contacts|联系人
+Contacts Folder|常用联系人
+Copyright %s 2007-2011\nSPB Software|版权所有 %s 2007-2011\nSPB Software
+Copyright %s 2007-2012\nSPB Software|版权所有 %s 2007-2012\nSPB Software
+Create Folder|新建文件夹
+Current|当前
+Current city|当前城市
+Current conditions|当前状态
+Current Conditions|当前状态
+Current skin|当前皮肤
+Custom channel|自定义频道
+Day|白天
+Deal of the Day|今日之星
+Deal of the Day Panel|当天事宜
+Deal of the Day Panel Settings|今日事宜面板设置
+Deals|交易
+December|十二月
+Default|默认值
+Default Action|默认操作
+Delete note|删除记事
+Dew point:|露点温度：
+Diagnostic tools|诊断工具
+Disabled|已禁用
+Discoverable|可发现的
+Done|完成
+Download Original|下载原版
+Downloading images|正在下载图片
+E|东
+east|东
+Edit channel|编辑频道
+Edit Contact|编辑联系人
+Edit note|编辑记事
+Edit panels|编辑面板
+Emergency only|仅用于紧急情况
+Empty Panel|空白面板
+Enable live wallpapers|开启动画壁纸
+Enabled|已启用
+Enter RSS feed title|请输入RSS种子标题
+Enter RSS feed URL|请输入RSS种子URL
+Entertainment|娱乐
+Error|错误
+Evening|夜晚
+Every 2 hours|每2小时
+Every 24 hours|每隔24小时
+Every 30 Minutes|每隔30分钟
+Every 30 minutes|每隔30分钟
+Every 4 hours|每隔4小时
+Every hour|每小时
+Exit|退出
+Experimental|抢先体验
+Experimental Settings|实验性设置
+Experimental settings|实验性设置
+Fahrenheit (#short)|华氏
+Failed to add contact|添加联系人失败
+Failed to load RSS|加载RSS失败
+Failed to load the selected contact. Try to link the contact to Google account or save it to phone.|读取选定联系人失败。请把该账号存储在手机或Google账号中后再试。
+Favorite Contacts|常用联系人
+Favorite contacts|常用联系人
+Favorites|收藏夹
+February|二月
+Filter|过滤器
+First day of the week|每周第一天
+First Quarter|上弦月
+Flight|飞行模式
+Folder|文件夹
+Folder Name|文件夹名称
+Forecast|预报
+from forecast|源于天气预报
+Full Moon|全月
+Gallery|文件库
+Games|游戏
+Gemini|双子座
+Gravity|重力
+Grayscale anaglyph (red/cyan)|灰度浮雕效果
+Green|绿色
+G-Sensor|重力感应器
+Half an hour ago|半小时以前
+Hectopascals|百帕
+Hide Duplicates|隐藏重复项
+Hide SIM Contacts|隐藏SIM卡联系人
+Home|主页
+Home Settings|首选设置
+Home settings|首选设置
+hpa|百帕
+Humidity:|湿度：
+in %u days|%u天之后
+in Home Settings|主页设置
+inch|英寸
+Inches|英寸
+Increase Counter|增量计数器
+Interface mode|界面模式
+Invisible|不可见
+January|一月
+July|七月
+June|六月
+Kilometers per hour|公里/小时
+Knots|节
+knots|节
+kph|公里每小时
+kts|节
+Landscape|横屏
+Landscape orientation required to enable left-to-right stereo mode|横屏显示需要启用从左到右模式
+Large|大
+Last Call|最后一次呼叫
+Last Message|最后一条信息
+Last Quarter|下弦月
+Last updated|最后更新
+Left-to-right (HTC EVO 3D)|从左到右模式(HTC EVO 3D)
+Legal information|法律信息
+Legal notices|法律信息
+Leo|狮子座
+Libra|天秤座
+Lifestyle|个性
+Live wallpapers can cause performance degradation of your 3D home screen. Switching between live and static wallpapers can take up to a minute. Static wallpapers are recommended for the best experience.|使用动画壁纸可能会带来一定程度的性能下降，动态壁纸和静态壁纸之间的切换可能需要一分钟。为了更好的用户体验，我们建议使用静态壁纸。
+Loading failed|加载失败
+Loading image for wallpaper|正在加载背景图片
+Loading RSS feed %s...|正在加载RSS种子 %s...
+Loading skin failed!|加载皮肤失败！
+Loading skins catalog failed!|加载皮肤分类失败！
+Loading...|加载中...
+Logging In...|正在登录...
+Lunar Calendar|农历
+Lunar day %d|农历 %d
+Manage apps|管理应用程序
+Manage Apps|管理应用程序
+Manage panels|管理面板
+Manage Panels|管理面板
+March|三月
+May|五月
+Medium|中
+Messaging|信息
+Meters per second|米/秒
+Miles per hour|英里/小时
+Millimetres|毫米
+Misc|杂项
+Miscellaneous|杂项
+mm|毫米
+Mobile|移动
+Mode|模式
+Monday|周一
+Moon|月相
+Moon Calendar|月历
+Moon in %s,|%s 的月相
+Morning|早上
+mph|英里/小时
+mps|米/秒
+Multimedia|多媒体
+Music|音乐
+Music albums|音乐专辑
+N|北
+N/A|不可用
+NE|东北
+Network Status|网络状态
+Never|从未
+New|新建
+New Channel|新建频道
+New channel|新建频道
+New Contact|新建联系人
+New Folder|新建文件夹
+New Moon|新月
+New update available|检测到新的版本
+News|新闻
+News Panel|新闻面板
+News Panel Settings|新闻面板设置
+next|下一步
+Next Alarm|下一个闹钟
+Night|凌晨
+No|否
+no|无
+No Alarms|无闹铃
+No birthdays|未记录生日
+No calls|无呼叫
+No Cities|无城市
+No conditions|未指定条件
+No Contacts.|无联系人
+No Countries|无国家
+No deals loaded|未加载交易信息
+No Images|无图片
+No messages|无信息
+No news|无新闻
+No rise/set info|无日出日落或月出月落信息
+No RSS feed found at|未找到RSS种子在
+No rss loaded|未加载RSS
+No SIM|无SIM卡
+No text messages|未找到文字信息
+No title|无标题
+No upcoming events|无新近事件
+No upcoming events in a week|一周内无计划事件
+No updates|无更新
+No weather forecast|无天气预报信息
+Normal|普通
+north|北
+north east|东北
+north west|西北
+Not available|不可用
+Not connected|未连接
+Notes|记事
+Note's default color|记事默认颜色
+Note's font|记事默认字体
+Notes Panel|记事面板
+Notes Panel Settings|记事面板设定
+November|十一月
+NW|西北
+October|十月
+Off|关闭
+Offer|报价
+On|开启
+One Touch Share|一键分享
+Only on free connections|仅连接免费连接
+Open Contact|打开联系人
+Open in Browser|在浏览器中打开
+OpenGL 2.0 is required to run SPB Shell 3D|运行SPB Shell 3D 需要 OpenGl 2.0 的支持
+Optimized anaglyph (red/cyan)|优化浮雕效果
+Other (assistant)|其他(助理)
+Page|传呼
+Pages: %d, images: %d|页数： %d， 图片：%d
+Panel Name|面板名称
+Panels|面板
+Panels Settings|面板设置
+Parsing skins catalog failed!|查询皮肤分类失败！
+Partly cloudy|部分多云
+Partly cloudy, rain|部分多云转雨
+Partly cloudy, snow|部分多云转雪
+Partly cloudy, thunder|部分多云有响雷
+People|联系人
+Performance Warning|性能告警
+Performance Warning dialog|性能告警对话框
+Personal|个人
+Phone|电话
+Photo folder for gallery widgets|用于相册挂件的文件夹
+Picture Gallery|图片库
+Picture of the Day|今日图片
+Picture Panel Settings|图片面板设置
+Pictures|图片
+Pictures Of The Day|今日图片
+Pictures Panel|图片面板
+Pictures Panel Settings|图片面板设置
+Pictures Settings|图片设置
+Pisces|双鱼座
+Please Log In|请登录
+Please wait...|请稍候
+Portrait|竖屏
+Pressure:|气压：
+Problem loading widget|加载挂件时发生错误
+Productivity|效率
+Program|程序
+Pulkovo|普尔科夫
+Purchase|购买
+Purple|紫色
+Quick Setting|快速设置
+Radio off|关闭无线
+rd_loc|第
+Reading appointments...|正在加载约会条目...
+Recycle Bin|回收站
+Red|红色
+Reduced|降低
+Reload skin list|重新加载皮肤列表
+Remove All|全部删除
+Rename|重命名
+Rename Panel|重命名面板
+Requesting images|正在发送请求
+Retry|重试
+Rise: %s|升起:%s
+RSS Feed|RSS
+RSS Panel|RSS面板
+RSS Panel Settings|RSS面板设置
+S|南
+Safe mode|安全模式
+Sagittarius|射手座
+Saint-Petersburg|圣彼得堡
+Save as New|存为新联系人
+Save to Existing|存储至已有联系人
+Scorpio|天蝎座
+Screen orientation|屏幕方向
+Screen orientation will be changed to Landscape|屏幕将切换到横屏。
+SE|东南
+Searching|正在搜索
+Select Channel|选择频道
+Select cities|选择城市
+Select Contact Action|选择联系人操作
+Select Contact Size|选择联系人大小
+Select e-mail address|选择电子邮件地址
+Select phone number:|选择电话号码
+Select shortcut|选择快捷方式
+Select Skin|选择皮肤
+Select wallpaper from|选择墙纸
+Selected cities|选中的城市
+Selected City|选中的城市
+Selected city|选中的城市
+Send Email|发送邮件
+Send E-mail|发送电子邮件
+Send E-Mail|发送电子邮件
+Send Message|发送信息
+Send MMS|发送彩信
+Send SMS|发送短信
+September|九月
+Serial number:|序列号:
+Set as Home|设为首页
+Set as Wallpaper|设为墙纸
+Set wallpaper|设为壁纸
+Set: %s|落下：%s
+Settings|设置
+Show all|显示全部
+Show all day events|显示全天事件
+Show all day events in calendar widgets|在日历中显示全天事件
+Show full news|显示完整新闻
+Show images in news|新闻中显示图像
+Silent|静音
+Skin loading|正在加载皮肤
+Small|小
+Smartphone|智能手机
+Smog|烟雾
+Social|社会
+Social Network|社交网
+Sound Profile|声音情景模式
+south|南
+south east|东南
+south west|西南
+SPB Shell 3D is loading...|正在加载 SPB Shell 3D
+SPB Wallpapers|SPB壁纸
+SPB Widget|SPB 挂件
+Standard Edition [Beta]|标准版[试用]
+Stereoscopic 3D mode|三维立体模式
+Stereoscopic 3D mode will be disabled|3D模式将被禁用
+Stereoscopic 3D Settings|三维立体设置
+Sun in %s,|太阳在 %s,
+Sunday|周日
+SW|西南
+Switching the interface mode can take up to a minute. Screen orientation will be changed to '%s'.|正在进行界面模式切换。屏幕方向将更改为＇%s＇
+System|系统
+Tablet|平板电脑
+Taurus|金牛座
+Temperatur scale|温度制式
+Temperature scale|温度制式
+Test Battery|测试电池
+th|第
+Thank you for your support. Your copy is now registered.|注册完成，感谢您的支持！
+The experimental features below are not ready to be shipped in the core of SPB Shell 3D. They may contain severe defects and cause system instability. Use them at your own risk.|下列功能尚不十分完善，部分可能会带来系统稳定性方面的问题，因此未被包含在SPB Shell 3D的核心功能中。
+The maximum number of panels is reached|面板数量已到达上限
+The name cannot be changed.|名称无法改变
+The previous launch of SPB Shell 3D was unsuccessful. Please tap "Retry" to launch it again or "Home" to activate a different Home screen.|先前SPB Shell 3D 的加载曾经失败。请点击“重试”尝试重新加载，或点击“首页”来把首页更改未另外一个不同的页面。
+Time|时间
+Time Panel|时间面板
+Time Panel Settings|时间面板设置
+Today|今日
+Toggle|切换
+Tomorrow|明天
+Tools|工具
+Travel|旅行
+Unfortunately, we could not locate your purchase in Android Market. Please uninstall this copy before installing a new one.|十分抱歉，我们未能找到你在安卓市场中的购买记录，请在安装新版本以前卸载本软件。
+Unfortunately, we could not locate your purchase. Please uninstall this copy before installing a new one.|抱歉，未能找到您的购买记录。请在安装新版本前，卸载当前版本。
+Uninstall|卸载
+Uninstall apps|卸载应用程序
+Unknown|未知
+Unknown location|未知位置
+Upcoming events|计划事件
+Update|更新
+Update deals list automatically|自动更新交易列表
+Update Now|现在更新
+Update pictures page automatically|自动更新图片页
+Update weather forecasts automatically|自动更新天气状况
+Updated|已更新
+Updated:|更新于：
+Updating image|正在更新图片
+Updating...|正在更新...
+Use 3D in application list|在应用程序列表中使用三维效果
+Use 3D in edit mode|编辑模式中启用3D
+Use cellular connection for updating deals list|通过电话网络更新交易列表
+Use cellular connection for updating deals list automatically|使用移动连接自动更新事宜列表
+Use cellular connection for updating pictures automatically|通过手机网络自动更新图片
+Use cellular connection for updating weather automatically|使用移动连接自动更新天气信息
+Use new color every time|每次使用新的颜色
+Use previous note's color|使用先前的记事的颜色
+Value|价值
+variable|可变的
+Version %s, Build %s|Version %s, Build %s
+Vibro|震动
+Video Call|视频通话
+View Duplicates|显示重复项
+View SIM Contacts|显示SIM卡联系人
+Virgo|处女座
+W|西
+Wallpaper|墙纸
+Wallpapers|壁纸
+Waning Crescent|残月
+Waning Gibbous|亏凸月
+Waxing Crescent|娥眉月
+Waxing Gibbous|盈凸月
+Weather|天气
+Weather and Clock|天气和时间
+Weather Forecast|天气预报
+Weather Panel Settings|天气面板设置
+Weather Settings|天气设置
+Welcome to notes panel|欢迎来到记事面板
+west|西
+Widget is too big to be added.|挂件占用空间太大
+Widgets|桌面小部件
+Widgets Settings|挂件设置
+Wind direction:|风向：
+Wind speed scale|风速单位
+Wind speed:|风速：
+Wind:|风:
+Work|工作
+World Time|世界时间
+Wrong serial number. Please check it again.|错误的序列号。请确认输入正确！
+Yandex.Search|Yandex.Search
+Yellow|黄色
+Yes|是
+Yesterday|昨天
+You save|您节省了
+Your video system isn't compatible with Shell 3D.|你的图像系统不支持 Shell 3D

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<skin>
+  <items>
+    <item DontScale="1">
+      <Image Name="Image" File="frame.png"/>
+      <Rect Name="ImageInt" X="5" Y="22" Width="160" Height="227"/>
+    </item>
+  </items>
+</skin>

@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<Layouts Name="Folder" Type="widget">
+  <Rules>
+    <PlatformCondition Platform="tablets">
+      <ScreenCondition Orientation="portrait">
+        <UseLayout Name="TabletsPortrait"/>
+      </ScreenCondition>
+      <Default>
+        <UseLayout Name="TabletsLandscape"/>
+      </Default>
+    </PlatformCondition>
+	  
+    <ScreenCondition Orientation="landscape">
+      <UseLayout Name="Landscape"/>
+    </ScreenCondition>
+
+    <Default>
+      <UseLayout Name="Default"/>
+    </Default>
+  </Rules>
+
+  <General>
+  </General>
+
+  <Layout Name="Default">
+    <Plugins>
+      <Plugin ID="11" Name="FolderBorder">
+	    <BoundRect X="-8" Y="-18" Width="16" Height="36"/>
+      </Plugin>
+      <Plugin ID="12" Name="Title">
+        <BoundRect X="8" Y="-15" Width="140" Height="14"/>
+        <DefaultFont Name="Text" Face="Droid Sans" HeightPxl="9" Bold="n" Color="FFFFFFFF"/>
+      </Plugin>
+      <Plugin Name="Shade">
+        <BoundRect X="0" Y="0" Width="240" Height="400"/>
+      </Plugin>
+    </Plugins>
+  </Layout>
+	
+  <Layout Name="Landscape">
+    <Plugins Extends="Default">
+      <Plugin ID="12" Name="Title">
+        <BoundRect X="8" Y="-15" Width="220" Height="14"/>
+      </Plugin>
+    </Plugins>
+  </Layout>
+	
+  <Layout Name="TabletsLandscape">
+    <Plugins Extends="Default">
+      <Plugin Name="Title">
+        <BoundRect X="8" Y="-15" Width="145" Height="14"/>
+      </Plugin>
+    </Plugins>
+  </Layout>
+	
+  <Layout Name="TabletsPortrait">
+    <Plugins Extends="Default">
+      <Plugin Name="Title">
+        <BoundRect X="8" Y="-15" Width="100" Height="14"/>
+      </Plugin>
+    </Plugins>
+  </Layout>
+
+</Layouts>

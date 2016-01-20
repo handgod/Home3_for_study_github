@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skin name="settings">
+	<items>
+		<item DontScale="1">
+			<Image Name="appearance" File="appearance.png"/>
+			<Image Name="experimental" File="experimental.png"/>
+			<Image Name="widgets" File="widgets.png"/>
+			<Image Name="panels" File="panels.png"/>
+		</item>
+	</items>
+</skin>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Layouts>
+
+  <Layers>
+    <Layer Name="Background" Dialog="PopupBackgrd"/>
+    <Layer Name="Frame" Dialog="BackgrdFrame"/>
+    <Layer/>
+  </Layers>
+
+  <Rules>
+    <ScreenCondition Width="320" Height="240">
+      <UseLayout Name="320x240"/>
+    </ScreenCondition>
+    <ScreenCondition Width="400" Height="240">
+      <UseLayout Name="320x240"/>
+    </ScreenCondition>
+    <ScreenCondition Width="240" Height="240">
+      <UseLayout Name="240x320"/>
+    </ScreenCondition>
+    <Default>
+      <UseLayout Name="240x320"/>
+    </Default>
+  </Rules>
+
+  <General>
+    <Int Name="LineSize" Value="2"/>
+  </General>
+
+  <Layout Name="Default">
+    <Plugins>
+
+      <Group Name="Vert" ID="10">
+        <Plugins>
+          <Group Name="Horz" ID="11">
+            <Int Name="ByHorz" Value="1"/>
+            <Int Name="MaxSize" Value="2"/>
+            <Plugins>
+              <Plugin Name="Item" Class="Spb.LSP.Generic" ID="12" AutoSkin="misc">
+                <DefaultFont Face="Droid Sans" HeightPxl="11" Bold="y" Color="FFFFFFFF"/>
+              </Plugin>
+            </Plugins>
+          </Group>
+        </Plugins>
+      </Group>
+
+      <Plugin Name="Empty" Class="Spb.LSP.Generic" ID="1000"/>
+
+    </Plugins>
+  </Layout>
+
+  <Layout Name="240x320">
+    <Plugins Extends="Default">
+
+      <Group Name="Vert">
+        <BoundRect X="0" Y="5" Width="0" Height="0"/>
+        <Plugins>
+          <Group Name="Horz">
+            <Plugins>
+              <Plugin Name="Item">
+                <BoundRect X="0" Y="0" Width="78" Height="78"/>
+                <Rect Name="IconRect" X="9" Y="5" Width="60" Height="32"/>
+                <Rect Name="TextRect" X="6" Y="42" Width="66" Height="28"/>
+              </Plugin>
+            </Plugins>
+          </Group>
+        </Plugins>
+      </Group>
+
+      <Plugin Name="Empty">
+        <BoundRect X="0" Y="5" Width="0" Height="5"/>
+      </Plugin>
+
+    </Plugins>
+  </Layout>
+
+  <Layout Name="320x240">
+    <Plugins Extends="Default">
+
+      <Group Name="Vert">
+        <BoundRect X="0" Y="5" Width="0" Height="0"/>
+        <Plugins>
+          <Group Name="Horz">
+            <Plugins>
+              <Plugin Name="Item">
+                <BoundRect X="0" Y="0" Width="70" Height="70"/>
+                <Rect Name="IconRect" X="5" Y="5" Width="60" Height="32"/>
+                <Rect Name="TextRect" X="2" Y="37" Width="66" Height="28"/>
+              </Plugin>
+            </Plugins>
+          </Group>
+        </Plugins>
+      </Group>
+
+      <Plugin Name="Empty">
+        <BoundRect X="0" Y="5" Width="0" Height="5"/>
+      </Plugin>
+
+    </Plugins>
+  </Layout>
+
+</Layouts>

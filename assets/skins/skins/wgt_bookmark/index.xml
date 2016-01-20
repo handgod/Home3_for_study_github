@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<skin Name="Bookmark Widget" Type="widget">
+  <items>
+    <item>
+      <Image Name="bookmark" File="bookmark.png"/>
+      <Image Name="favicon"  File="favicon.png"/>
+    </item>
+  </items>
+</skin>

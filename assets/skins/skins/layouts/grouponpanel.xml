@@ -1,0 +1,343 @@
+<?xml version="1.0"?>
+
+<Layouts Name="Groupon Panel" Type="panel">
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layers>
+    <Layer Name="PanelFrame" Dialog="PanelFrame"/>
+    <Layer/>
+  </Layers>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Rules>
+    <!-- tablets specification -->
+    <PlatformCondition Platform="tablets">
+      <ScreenCondition Orientation="landscape"> <UseLayout Name="Landscape_Tablet"/> </ScreenCondition>
+      <ScreenCondition Orientation="portrait">  <UseLayout Name="Portrait_Tablet"/>  </ScreenCondition>
+    </PlatformCondition>
+
+    <!-- portrait specialization -->
+    <ScreenCondition Width="320" Height="480"> <UseLayout Name="Portrait_320x480"/> </ScreenCondition>
+    <ScreenCondition Width="240" Height="320"> <UseLayout Name="Portrait_240x320"/> </ScreenCondition>
+
+    <!-- landscape specialization -->
+    <ScreenCondition Orientation="landscape">  <UseLayout Name="Landscape"/> </ScreenCondition>
+
+    <Default>
+      <UseLayout Name="Portrait"/>
+    </Default>
+  </Rules>
+
+  <!-- **************************************************************************************************************** -->
+
+  <General>
+    <Skin AutoSkin="grouponpanel"/>
+    <DefaultFont Face="Droid Sans" HeightPxl="10" Bold="n" Color="FFFFFFFF"/>
+  </General>
+
+  <!-- **************************************************************************************************************** -->
+
+  <!-- large groupon image with a "buy" label and update status -->
+  <Layout Name="GrouponFrame">
+    <Frame Width="fill" Height="fill">
+      <Plugin Name="GrpnImage" Width="fill" Height="fill" Margins="1" ID="110" Align="center"/>
+      <Plugin Name="GrpnInfo"  Width="fill" Height="fill" Margins="1" ID="140" Align="center"/>
+
+      <!-- an arrow and a stuff inside arrow -->
+      <Frame Width="150" Height="35" Align="right|bottom">
+        <Plugin Width="fill" Height="fill" Name="BuyArrow" ID="300"/>
+
+        <Plugin Name="BuyButton" Width="52" Height="24" Margins="0 0 6 4" ID="310" Align="right|bottom">
+          <Font Name="Font" Face="Droid Sans" HeightPxl="11" Bold="n" Color="FFFFFFFF"/>
+        </Plugin>
+
+        <Plugin Name="BuyPrice" Width="65" Height="32" Margins="0 20 0 0" ID="320" Align="left|bottom">
+          <Font Name="Font" Face="Droid Sans" HeightPxl="14" Bold="y" Color="FFFFFFFF"/>
+          <Font Name="Shad" Face="Droid Sans" HeightPxl="14" Bold="y" Color="FF505050"/>
+        </Plugin>
+      </Frame>
+
+      <Plugin Name="GrpnFrame" Width="fill" Height="fill" ID="115" Align="center"/>
+    </Frame>
+  </Layout>
+
+  <!-- Header stuff -->
+  <Layout Name="GrouponHeader">
+    <Frame Width="fill" Height="fill">
+      <Col Width="fill" Height="fill">
+        <Plugin Name="City" Width="fill" Height="fill" ID="20">
+          <Font Name="Font" Face="Droid Sans" HeightPxl="12" Bold="y" Color="FFFFFFFF"/>
+        </Plugin>
+        <Plugin Name="Header" Width="fill" Height="fill" ID="10">
+          <Font Name="Font" Face="Droid Sans" HeightPxl="11" Bold="n" Color="FFFFFFFF"/>
+        </Plugin>
+      </Col>
+      <Plugin Name="CitySel" Width="fill" Height="fill" ID="30"/>
+    </Frame>
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+  <!-- Portrait -->
+  <Layout Name="Portrait">
+    <Frame Width="fill" Height="fill">
+      <Plugins Extends="common:PanelSettings"/>
+
+      <!-- layouting top/bottom groupons -->
+      <Col Name="MainFrame" Width="fill" Height="fill" Margins="14 6 6 55">
+
+        <!-- header stuff -->
+        <Plugins Extends="GrouponHeader" Width="fill" Height="32" Margins="0 30 30 0"/>
+
+        <!-- groupon info and shadow on the background -->
+        <Frame Name="GrouponFade" Width="fill" Height="fill" Margins="2 1 1 0">
+          <Plugin Name="Fade" Width="fill" Height="fill" ID="1000"/>
+
+          <Col Name="GrouponInfo" Width="fill" Height="fill" Margins="0 4 4 0">
+            <!-- groupon title -->
+            <Plugin Name="GrpnFullDesc" Width="fill" Height="fill" StretchFactor="1" ID="100">
+              <Font Name="Title"   Face="Droid Sans" HeightPxl="10" Bold="n" Color="FFFFFFFF"/>
+              <Font Name="NoDeals" Face="Droid Sans" HeightPxl="14" Bold="n" Color="FFA0A0A0"/>
+            </Plugin>
+
+            <!-- sold / expired information -->
+            <Frame Width="fill" Height="18" Margins="2 0 0 2">
+              <Plugin Name="GrpnSold" Width="70" Height="fill" ID="120" Align="right">
+                <Font Name="Font" Face="Droid Sans" HeightPxl="8" Bold="n" Color="FFB0B0B0"/>
+              </Plugin>
+              <Plugin Name="GrpnExpire" Width="120" Height="fill" ID="125" Align="left">
+                <Font Name="Font" Face="Droid Sans" HeightPxl="8" Bold="n" Color="FFB0B0B0"/>
+              </Plugin>
+            </Frame>
+
+            <!-- large groupon image -->
+            <Plugins Name="GrouponFrame" Width="fill" Height="132" Extends="GrouponFrame"/>
+
+            <!-- summary about the prices -->
+            <Row Dynamic="1" Width="fill" Height="30" ID="10">
+              <Int Name="Size" Value="3"/>
+              <Plugin Name="GrpnPrice" Width="0" Height="fill" Margins="4" ID="130" StretchFactor="1">
+                <Font Name="Title" Face="Droid Sans" HeightPxl="8"  Bold="n" Color="FFB0B0B0"/>
+                <Font Name="Price" Face="Droid Sans" HeightPxl="10" Bold="y" Color="FFFFFFFF"/>
+              </Plugin>
+            </Row>
+          </Col>
+        </Frame>
+
+        <!-- finally, slot for provider logo -->
+        <Row Width="fill" Height="32" Margins="4">
+          <Plugin Name="ShowButton" Width="fill" Height="fill" Margins="4" StretchFactor="1" ID="400" Align="center_vert">
+            <Font Name="Font" Face="Droid Sans" HeightPxl="11" Bold="n" Color="FFFFFFFF"/>
+            <Font Name="Shad" Face="Droid Sans" HeightPxl="11" Bold="n" Color="FF505050"/>
+          </Plugin>
+          <Plugin Name="Provider" Width="fill" Height="fill" Margins="4" StretchFactor="1" ID="500" Align="center_vert"/>
+        </Row>
+      </Col>
+    </Frame>
+  </Layout>
+
+  <!-- Portrait_320x480 -->
+  <Layout Name="Portrait_320x480">
+    <Plugins Extends="Portrait">      
+      <Col Name="MainFrame">
+        <Frame Name="GrouponFade">
+          <Col Name="GrouponInfo"> <Plugins Name="GrouponFrame" Width="fill" Height="100"/> </Col>
+        </Frame>
+      </Col>
+    </Plugins>
+  </Layout>
+
+  <!-- Portrait_240x320 -->
+  <Layout Name="Portrait_240x320">
+    <Plugins Extends="Portrait">      
+      <Col Name="MainFrame">
+        <Frame Name="GrouponFade">
+          <Col Name="GrouponInfo"> <Plugins Name="GrouponFrame" Width="fill" Height="80"/> </Col>
+        </Frame>
+      </Col>
+    </Plugins>
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+  <!-- Landscape -->
+  <Layout Name="Landscape">
+    <Frame Width="fill" Height="fill">
+      <Plugins Extends="common:PanelSettings_L"/>
+
+      <!-- layouting top/bottom groupons -->
+      <Col Name="MainFrame" Width="fill" Height="fill" Margins="14 14 56 14">
+
+        <!-- header stuff -->
+        <Plugins Extends="GrouponHeader" Width="fill" Height="32" Margins="0 30 30 0"/>
+
+        <!-- groupon info and shadow on the background -->
+        <Row Width="fill" Height="fill" Margins="4 0 0 0">
+          <!-- left part of the layout -->    
+          <Col Name="Left" Width="fill" Height="fill" StretchFactor="3">
+            <Plugins Name="GrouponFrame" Width="fill" Height="fill" Extends="GrouponFrame"/>
+            <Row Width="fill" Height="28">
+              <Plugin Name="ShowButton" Width="fill" Height="fill" Margins="4 0 4 0" StretchFactor="1" ID="400" Align="center_vert">
+                <Font Name="Font" Face="Droid Sans" HeightPxl="11" Bold="n" Color="FFFFFFFF"/>
+                <Font Name="Shad" Face="Droid Sans" HeightPxl="11" Bold="n" Color="FF505050"/>
+              </Plugin>
+              <Plugin Name="Provider" Width="fill" Height="fill" Margins="4 4 0 0" StretchFactor="1" ID="500" Align="center_vert"/>
+            </Row>
+          </Col>
+          <!-- right part of the layout -->
+          <Frame Name="Right" Width="fill" Height="fill" Margins="0 4 0 0" StretchFactor="2">
+            <Plugin Name="Fade" Width="fill" Height="fill" ID="1000"/>
+            <Col Width="fill" Height="fill" Margins="2">
+              <!-- main groupon title -->
+              <Plugin Name="GrpnFullDesc" Width="fill" Height="fill" StretchFactor="1" ID="100">
+                <Font Name="Title"   Face="Droid Sans" HeightPxl="10" Bold="n" Color="FFFFFFFF"/>
+                <Font Name="NoDeals" Face="Droid Sans" HeightPxl="14" Bold="n" Color="FFA0A0A0"/>
+              </Plugin>
+              <!-- summary about the prices -->
+              <Col Dynamic="1" Width="fill" Margins="4 0 0 4" Height="auto" ID="10">
+                <Int Name="Size" Value="3"/>
+                <Plugin Name="Dash" Width="fill" Height="1" Class="Spb.LSP.DashLine">
+                  <Int Name="SkipGroupIndex" Value="0"/>
+                </Plugin>
+                <Plugin Name="GrpnPrice" Width="fill" Height="24" ID="130" StretchFactor="1">
+                  <Font Name="Title" Face="Droid Sans" HeightPxl="8"  Bold="n" Color="FFB0B0B0"/>
+                  <Font Name="Price" Face="Droid Sans" HeightPxl="10" Bold="y" Color="FFFFFFFF"/>
+                </Plugin>
+              </Col>
+              <!-- sold information -->
+              <Plugin Name="GrpnSold" Width="fill" Height="12" ID="120">
+                <Font Name="Font" Face="Droid Sans" HeightPxl="8" Bold="n" Color="FFB0B0B0"/>
+              </Plugin>
+              <!-- expired information  -->
+              <Plugin Name="GrpnExpire" Width="fill" Height="12" ID="125">
+                <Font Name="Font" Face="Droid Sans" HeightPxl="8" Bold="n" Color="FFB0B0B0"/>
+              </Plugin>
+            </Col>
+          </Frame>
+        </Row>
+      </Col>
+    </Frame>
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="Portrait_Tablet">
+    <Frame Width="fill" Height="fill">
+      <Plugins Extends="common:PanelSettings_Tablet"/>
+
+      <!-- layouting top/bottom groupons -->
+      <Col Name="MainFrame" Width="fill" Height="fill">
+
+        <!-- header stuff -->
+        <Plugins Extends="GrouponHeader" Width="fill" Height="32" Margins="0 30 30 0"/>
+
+        <!-- groupon info and shadow on the background -->
+        <Frame Name="GrouponFade" Width="fill" Height="fill" Margins="2 1 1 0">
+          <Plugin Name="Fade" Width="fill" Height="fill" ID="1000"/>
+
+          <Col Name="GrouponInfo" Width="fill" Height="fill" Margins="0 4 4 0">
+            <!-- groupon title -->
+            <Plugin Name="GrpnFullDesc" Width="fill" Height="fill" StretchFactor="1" ID="100">
+              <Font Name="Title"   Face="Droid Sans" HeightPxl="10" Bold="n" Color="FFFFFFFF"/>
+              <Font Name="NoDeals" Face="Droid Sans" HeightPxl="14" Bold="n" Color="FFA0A0A0"/>
+            </Plugin>
+
+            <!-- sold / expired information -->
+            <Frame Width="fill" Height="18" Margins="2 0 0 2">
+              <Plugin Name="GrpnSold" Width="70" Height="fill" ID="120" Align="right">
+                <Font Name="Font" Face="Droid Sans" HeightPxl="8" Bold="n" Color="FFB0B0B0"/>
+              </Plugin>
+              <Plugin Name="GrpnExpire" Width="120" Height="fill" ID="125" Align="left">
+                <Font Name="Font" Face="Droid Sans" HeightPxl="8" Bold="n" Color="FFB0B0B0"/>
+              </Plugin>
+            </Frame>
+
+            <!-- large groupon image -->
+            <Plugins Name="GrouponFrame" Width="fill" Height="220" Extends="GrouponFrame"/>
+
+            <!-- summary about the prices -->
+            <Row Dynamic="1" Width="fill" Height="40" ID="10">
+              <Int Name="Size" Value="3"/>
+              <Plugin Name="GrpnPrice" Width="0" Height="fill" Margins="4" ID="130" StretchFactor="1">
+                <Font Name="Title" Face="Droid Sans" HeightPxl="10"  Bold="n" Color="FFB0B0B0"/>
+                <Font Name="Price" Face="Droid Sans" HeightPxl="14" Bold="y" Color="FFFFFFFF"/>
+              </Plugin>
+            </Row>
+          </Col>
+        </Frame>
+
+        <!-- finally, slot for provider logo -->
+        <Row Width="fill" Height="32" Margins="4">
+          <Plugin Name="ShowButton" Width="fill" Height="fill" Margins="4" StretchFactor="1" ID="400" Align="center_vert">
+            <Font Name="Font" Face="Droid Sans" HeightPxl="11" Bold="n" Color="FFFFFFFF"/>
+            <Font Name="Shad" Face="Droid Sans" HeightPxl="11" Bold="n" Color="FF505050"/>
+          </Plugin>
+          <Plugin Name="Provider" Width="fill" Height="fill" Margins="4" StretchFactor="1" ID="500" Align="center_vert"/>
+        </Row>
+      </Col>
+    </Frame>
+  </Layout>
+
+  <Layout Name="Landscape_Tablet">
+    <Frame Width="fill" Height="fill">
+      <Plugins Extends="common:PanelSettings_Tablet"/>
+
+      <!-- layouting top/bottom groupons -->
+      <Col Name="MainFrame" Width="fill" Height="fill">
+
+        <!-- header stuff -->
+        <Plugins Extends="GrouponHeader" Width="fill" Height="32" Margins="0 30 30 0"/>
+
+        <!-- groupon info and shadow on the background -->
+        <Row Width="fill" Height="fill" Margins="4 0 0 0">
+          <!-- left part of the layout -->    
+          <Col Name="Left" Width="fill" Height="fill" StretchFactor="4">
+            <Plugins Name="GrouponFrame" Width="fill" Height="fill" Extends="GrouponFrame"/>
+            <Row Width="fill" Height="28">
+              <Plugin Name="ShowButton" Width="fill" Height="fill" Margins="4 0 4 0" StretchFactor="1" ID="400" Align="center_vert">
+                <Font Name="Font" Face="Droid Sans" HeightPxl="11" Bold="n" Color="FFFFFFFF"/>
+                <Font Name="Shad" Face="Droid Sans" HeightPxl="11" Bold="n" Color="FF505050"/>
+              </Plugin>
+              <Plugin Name="Provider" Width="fill" Height="fill" Margins="4 4 0 0" StretchFactor="1" ID="500" Align="center_vert"/>
+            </Row>
+          </Col>
+          <!-- right part of the layout -->
+          <Frame Name="Right" Width="fill" Height="fill" Margins="0 4 0 0" StretchFactor="2">
+            <Plugin Name="Fade" Width="fill" Height="fill" ID="1000"/>
+            <Col Width="fill" Height="fill" Margins="2">
+              <!-- main groupon title -->
+              <Plugin Name="GrpnFullDesc" Width="fill" Height="fill" StretchFactor="1" ID="100">
+                <Font Name="Title"   Face="Droid Sans" HeightPxl="11" Bold="n" Color="FFFFFFFF"/>
+                <Font Name="NoDeals" Face="Droid Sans" HeightPxl="14" Bold="n" Color="FFA0A0A0"/>
+              </Plugin>
+              <!-- summary about the prices -->
+              <Col Dynamic="1" Width="fill" Margins="8 0 0 8" Height="auto" ID="10">
+                <Int Name="Size" Value="3"/>
+                <Plugin Name="Dash" Width="fill" Height="1" Class="Spb.LSP.DashLine">
+                  <Int Name="SkipGroupIndex" Value="0"/>
+                </Plugin>
+                <Plugin Name="GrpnPrice" Width="fill" Height="36" ID="130" StretchFactor="1">
+                  <Font Name="Title" Face="Droid Sans" HeightPxl="11" Bold="n" Color="FFB0B0B0"/>
+                  <Font Name="Price" Face="Droid Sans" HeightPxl="14" Bold="y" Color="FFFFFFFF"/>
+                </Plugin>
+              </Col>
+              <!-- sold information -->
+              <Plugin Name="GrpnSold" Width="fill" Height="16" ID="120">
+                <Font Name="Font" Face="Droid Sans" HeightPxl="10" Bold="n" Color="FFB0B0B0"/>
+              </Plugin>
+              <!-- expired information  -->
+              <Plugin Name="GrpnExpire" Width="fill" Height="16" ID="125">
+                <Font Name="Font" Face="Droid Sans" HeightPxl="10" Bold="n" Color="FFB0B0B0"/>
+              </Plugin>
+            </Col>
+          </Frame>
+        </Row>
+      </Col>
+    </Frame>
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+</Layouts>

@@ -1,0 +1,11 @@
+ minute| min
+ minutes| mins
+Active Channels|Active channels
+Celsius (#short)|Celsius
+Contact|Contact
+Fahrenheit (#short)|Fahrenheit
+G-Sensor|G-sensor
+Home Settings|Home Settings
+Home settings|Home settings
+Medium|Medium
+rd_loc|rd

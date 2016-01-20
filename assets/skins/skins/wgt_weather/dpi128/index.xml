@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skin Name="Weather Widget" Type="widget">
+  <items>
+    <item DontScale="1" DpiSpecific="1">
+      <Image Name="Tab_Left" ScaleDpi="115" File="Tab_Left.png" />
+      <Image Name="Tab_Right" ScaleDpi="115" File="Tab_Right.png" />
+      <Image Name="Tab_Highlight" ScaleDpi="115" File="Tab_Highlight.png" />
+      <Image Name="Tab_Shade" ScaleDpi="115" File="Tab_Shade.png" />
+      <Image Name="096_0" ScaleDpi="115" File="96_0.png" X="0" Width="58" Y="0" Height="58" />
+      <Image Name="096_1" ScaleDpi="115" File="96_1.png" X="0" Width="58" Y="0" Height="58" />
+      <Image Name="096_2" ScaleDpi="115" File="96_2.png" X="0" Width="58" Y="0" Height="58" />
+      <Image Name="096_3" ScaleDpi="115" File="96_3.png" X="0" Width="58" Y="0" Height="58" />
+      <Image Name="096_4" ScaleDpi="115" File="96_4.png" X="0" Width="58" Y="0" Height="58" />
+      <Image Name="096_5" ScaleDpi="115" File="96_5.png" X="0" Width="58" Y="0" Height="58" />
+      <Image Name="096_6" ScaleDpi="115" File="96_6.png" X="0" Width="58" Y="0" Height="58" />
+      <Image Name="096_7" ScaleDpi="115" File="96_7.png" X="0" Width="58" Y="0" Height="58" />
+      <Image Name="096_8" ScaleDpi="115" File="96_8.png" X="0" Width="58" Y="0" Height="58" />
+      <Image Name="096_9" ScaleDpi="115" File="96_9.png" X="0" Width="58" Y="0" Height="58" />
+      <Image Name="096_10" ScaleDpi="115" File="96_10.png" X="0" Width="58" Y="0" Height="58" />
+      <Image Name="096_11" ScaleDpi="115" File="96_11.png" X="0" Width="58" Y="0" Height="58" />
+      <Image Name="096_12" ScaleDpi="115" File="96_12.png" X="0" Width="58" Y="0" Height="58" />
+      <Image Name="096_13" ScaleDpi="115" File="96_13.png" X="0" Width="58" Y="0" Height="58" />
+      <Image Name="096_14" ScaleDpi="115" File="96_14.png" X="0" Width="58" Y="0" Height="58" />
+      <Image Name="096_15" ScaleDpi="115" File="96_15.png" X="0" Width="58" Y="0" Height="58" />
+      <Image Name="096_16" ScaleDpi="115" File="96_16.png" X="0" Width="58" Y="0" Height="58" />
+      <Image Name="096_17" ScaleDpi="115" File="96_17.png" X="0" Width="58" Y="0" Height="58" />
+      <Image Name="096_18" ScaleDpi="115" File="96_18.png" X="0" Width="58" Y="0" Height="58" />
+      <Image Name="096_19" ScaleDpi="115" File="96_19.png" X="0" Width="58" Y="0" Height="58" />
+      <Image Name="096_20" ScaleDpi="115" File="96_20.png" X="0" Width="58" Y="0" Height="58" />
+      <Image Name="096_21" ScaleDpi="115" File="96_21.png" X="0" Width="58" Y="0" Height="58" />
+      <Image Name="096_22" ScaleDpi="115" File="96_22.png" X="0" Width="58" Y="0" Height="58" />
+      <Image Name="096_23" ScaleDpi="115" File="96_23.png" X="0" Width="58" Y="0" Height="58" />
+      <Image Name="096_24" ScaleDpi="115" File="96_24.png" X="0" Width="58" Y="0" Height="58" />
+      <Image Name="096_25" ScaleDpi="115" File="96_25.png" X="0" Width="58" Y="0" Height="58" />
+      <Image Name="096_26" ScaleDpi="115" File="96_26.png" X="0" Width="58" Y="0" Height="58" />
+      <Image Name="096_27" ScaleDpi="115" File="96_27.png" X="0" Width="58" Y="0" Height="58" />
+      <Image Name="096_28" ScaleDpi="115" File="96_28.png" X="0" Width="58" Y="0" Height="58" />
+      <Image Name="096_29" ScaleDpi="115" File="96_29.png" X="0" Width="58" Y="0" Height="58" />
+      <Image Name="096_30" ScaleDpi="115" File="96_30.png" X="0" Width="58" Y="0" Height="58" />
+      <Image Name="072_0" ScaleDpi="115" File="72_0.png" X="0" Width="43" Y="0" Height="43" />
+      <Image Name="072_1" ScaleDpi="115" File="72_1.png" X="0" Width="43" Y="0" Height="43" />
+      <Image Name="072_2" ScaleDpi="115" File="72_2.png" X="0" Width="43" Y="0" Height="43" />
+      <Image Name="072_3" ScaleDpi="115" File="72_3.png" X="0" Width="43" Y="0" Height="43" />
+      <Image Name="072_4" ScaleDpi="115" File="72_4.png" X="0" Width="43" Y="0" Height="43" />
+      <Image Name="072_5" ScaleDpi="115" File="72_5.png" X="0" Width="43" Y="0" Height="43" />
+      <Image Name="072_6" ScaleDpi="115" File="72_6.png" X="0" Width="43" Y="0" Height="43" />
+      <Image Name="072_7" ScaleDpi="115" File="72_7.png" X="0" Width="43" Y="0" Height="43" />
+      <Image Name="072_8" ScaleDpi="115" File="72_8.png" X="0" Width="43" Y="0" Height="43" />
+      <Image Name="072_9" ScaleDpi="115" File="72_9.png" X="0" Width="43" Y="0" Height="43" />
+      <Image Name="072_10" ScaleDpi="115" File="72_10.png" X="0" Width="43" Y="0" Height="43" />
+      <Image Name="072_11" ScaleDpi="115" File="72_11.png" X="0" Width="43" Y="0" Height="43" />
+      <Image Name="072_12" ScaleDpi="115" File="72_12.png" X="0" Width="43" Y="0" Height="43" />
+      <Image Name="072_13" ScaleDpi="115" File="72_13.png" X="0" Width="43" Y="0" Height="43" />
+      <Image Name="072_14" ScaleDpi="115" File="72_14.png" X="0" Width="43" Y="0" Height="43" />
+      <Image Name="072_15" ScaleDpi="115" File="72_15.png" X="0" Width="43" Y="0" Height="43" />
+      <Image Name="072_16" ScaleDpi="115" File="72_16.png" X="0" Width="43" Y="0" Height="43" />
+      <Image Name="072_17" ScaleDpi="115" File="72_17.png" X="0" Width="43" Y="0" Height="43" />
+      <Image Name="072_18" ScaleDpi="115" File="72_18.png" X="0" Width="43" Y="0" Height="43" />
+      <Image Name="072_19" ScaleDpi="115" File="72_19.png" X="0" Width="43" Y="0" Height="43" />
+      <Image Name="072_20" ScaleDpi="115" File="72_20.png" X="0" Width="43" Y="0" Height="43" />
+      <Image Name="072_21" ScaleDpi="115" File="72_21.png" X="0" Width="43" Y="0" Height="43" />
+      <Image Name="072_22" ScaleDpi="115" File="72_22.png" X="0" Width="43" Y="0" Height="43" />
+      <Image Name="072_23" ScaleDpi="115" File="72_23.png" X="0" Width="43" Y="0" Height="43" />
+      <Image Name="072_24" ScaleDpi="115" File="72_24.png" X="0" Width="43" Y="0" Height="43" />
+      <Image Name="072_25" ScaleDpi="115" File="72_25.png" X="0" Width="43" Y="0" Height="43" />
+      <Image Name="072_26" ScaleDpi="115" File="72_26.png" X="0" Width="43" Y="0" Height="43" />
+      <Image Name="072_27" ScaleDpi="115" File="72_27.png" X="0" Width="43" Y="0" Height="43" />
+      <Image Name="072_28" ScaleDpi="115" File="72_28.png" X="0" Width="43" Y="0" Height="43" />
+      <Image Name="072_29" ScaleDpi="115" File="72_29.png" X="0" Width="43" Y="0" Height="43" />
+      <Image Name="072_30" ScaleDpi="115" File="72_30.png" X="0" Width="43" Y="0" Height="43" />
+
+      <Image Name="custom_background"  File="custom-background.png"/>
+    </item>
+    <item>
+      <Image Name="sep112" File="sep_v1.png" />
+      <Image Name="sep190" File="sep_h2.png" />
+      <Image Name="sep432" File="sep_h4.png" />
+      <Image Name="Icon_Wind" File="Icon_Wind.png" />
+      <Image Name="Icon_Press" File="Icon_Press.png" />
+      <Image Name="Icon_Humid" File="Icon_Humid.png" />
+      <Image Name="GraphBg" File="graphbg.png" />
+      <Image Name="Bar" File="bar.png" />
+    </item>
+    <item DontScale="1">
+      <Image Name="032_0" File="32_0.png" X="0" Y="0" Width="21" Height="21" />
+      <Image Name="032_1" File="32_1.png" X="0" Y="0" Width="21" Height="21" />
+      <Image Name="032_2" File="32_2.png" X="0" Y="0" Width="21" Height="21" />
+      <Image Name="032_3" File="32_3.png" X="0" Y="0" Width="21" Height="21" />
+      <Image Name="032_4" File="32_4.png" X="0" Y="0" Width="21" Height="21" />
+      <Image Name="032_5" File="32_5.png" X="0" Y="0" Width="21" Height="21" />
+      <Image Name="032_6" File="32_6.png" X="0" Y="0" Width="21" Height="21" />
+      <Image Name="032_7" File="32_7.png" X="0" Y="0" Width="21" Height="21" />
+      <Image Name="032_8" File="32_8.png" X="0" Y="0" Width="21" Height="21" />
+      <Image Name="032_9" File="32_9.png" X="0" Y="0" Width="21" Height="21" />
+      <Image Name="032_10" File="32_10.png" X="0" Y="0" Width="21" Height="21" />
+      <Image Name="032_11" File="32_11.png" X="0" Y="0" Width="21" Height="21" />
+      <Image Name="032_12" File="32_12.png" X="0" Y="0" Width="21" Height="21" />
+      <Image Name="032_13" File="32_13.png" X="0" Y="0" Width="21" Height="21" />
+      <Image Name="032_14" File="32_14.png" X="0" Y="0" Width="21" Height="21" />
+      <Image Name="032_15" File="32_15.png" X="0" Y="0" Width="21" Height="21" />
+      <Image Name="032_16" File="32_16.png" X="0" Y="0" Width="21" Height="21" />
+      <Image Name="032_17" File="32_17.png" X="0" Y="0" Width="21" Height="21" />
+      <Image Name="032_18" File="32_18.png" X="0" Y="0" Width="21" Height="21" />
+      <Image Name="032_19" File="32_19.png" X="0" Y="0" Width="21" Height="21" />
+      <Image Name="032_20" File="32_20.png" X="0" Y="0" Width="21" Height="21" />
+      <Image Name="032_21" File="32_21.png" X="0" Y="0" Width="21" Height="21" />
+      <Image Name="032_22" File="32_22.png" X="0" Y="0" Width="21" Height="21" />
+      <Image Name="032_23" File="32_23.png" X="0" Y="0" Width="21" Height="21" />
+      <Image Name="032_24" File="32_24.png" X="0" Y="0" Width="21" Height="21" />
+      <Image Name="032_25" File="32_25.png" X="0" Y="0" Width="21" Height="21" />
+      <Image Name="032_26" File="32_26.png" X="0" Y="0" Width="21" Height="21" />
+      <Image Name="032_27" File="32_27.png" X="0" Y="0" Width="21" Height="21" />
+      <Image Name="032_28" File="32_28.png" X="0" Y="0" Width="21" Height="21" />
+      <Image Name="032_29" File="32_29.png" X="0" Y="0" Width="21" Height="21" />
+      <Image Name="032_30" File="32_30.png" X="0" Y="0" Width="21" Height="21" />
+    </item>
+  </items>
+</skin>

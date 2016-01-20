@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<skin>
+  <items>
+    <item DontScale="1">
+      <Rect Name="Frame" X="0" Y="0" Width="792" Height="1046"/>
+      <Rect Name="FrameInt" X="12" Y="12" Width="770" Height="1018"/>
+      <Rect Name="FramePos" X="16" Y="94" Width="770" Height="1002"/>
+    </item>
+  </items>
+</skin>

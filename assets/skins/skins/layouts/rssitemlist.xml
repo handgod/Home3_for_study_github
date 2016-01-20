@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Layouts>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layers>
+    <Layer/>
+  </Layers>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Rules>
+    <Default>
+      <UseLayout Name="Portrait"/>
+    </Default>
+  </Rules>
+
+  <!-- **************************************************************************************************************** -->
+
+  <General>
+    <ScrollY Value="Auto"/>
+    <DialogObject Value="Spb.Data.RssItemList"/>
+    
+    <!-- fonts -->
+    <Font Name="ftTitle" Face="Droid Sans" HeightPxl="9"  Bold="n" Color="FFFFFFFF"/>
+    <Font Name="ftDate"  Face="Droid Sans" HeightPxl="8"  Bold="n" Color="FFA0A0A0"/>
+  </General>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="Portrait">
+    <Frame Width="fill" Height="auto">
+      <Col Dynamic="1" Width="fill" Height="auto" ID="1000">
+        <Row Width="fill" Height="46">
+          <Plugin Width="42" Height="42" Align="center" Margins="0 0 6 0" StretchFactor="0" ID="100" Name="Image"/>
+          <Frame Width="00" Height="fill" StretchFactor="1">
+            <Col Width="fill" Height="fill">
+              <Plugin Width="fill" Height="fill" ID="110" Name="Title"/>
+              <Plugin Width="fill" Height="09"   ID="120" Name="Date"/>
+            </Col>
+            <Plugin Width="fill" Height="fill" ID="200" Name="Select"/>
+          </Frame>
+        </Row>        
+        <Plugin Width="fill" Height="2" Margins="4 0 0 4" Name="sep" Class="Spb.LSP.DashLine"/>
+      </Col>
+    </Frame>
+  </Layout>
+  
+  <!-- **************************************************************************************************************** -->
+
+</Layouts>

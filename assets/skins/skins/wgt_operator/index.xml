@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<skin Name="Operator Widget" Type="widget">
+  <items>
+    <item>
+      <File Name="Script" File="operatorscript.lua"/>
+    </item>
+  </items>
+</skin>

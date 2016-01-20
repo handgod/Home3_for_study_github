@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skin>
+  <items>
+    <item DontScale="1"> <!-- it should be mdpi (160), but we use 192 on Xoom -->
+      <Point Name="CellSize" X="96" Y="96"/>
+    </item>
+  </items>
+</skin>

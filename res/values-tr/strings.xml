@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="widget_name"> Yandex.Web arama</string>
+    <string name="choose_skin">Tasarım örneği seçin</string>
+    <string name="searching">Arıyor...</string>
+    <string name="example">" "<i>Örneğin:</i>" "</string>
+    <string name="menu_clear_history">Arama geçmişini temizle</string>
+    <string name="skin_classic">Klasik</string>
+    <string name="skin_modern">Modern</string>
+    <string name="skin_grey">Sade</string>
+    <string name="app_name">SPB Shell 3D</string>
+    <string name="launcher_name">Yandex</string>
+    <string name="menu_search_sources">Aranacak kaynaklar</string>
+    <string name="search">Aranacak kaynaklar:</string>
+    <string name="source_SuggestionsSearchProvider">internet</string>
+    <string name="source_BrowserSearchProvider">ziyaret edilen sayfalar</string>
+    <string name="source_ApplicationsSearchProvider">uygulamalar</string>
+    <string name="source_ContactsSearchProvider">adres defteri</string>
+    <string name="source_SmsSearchProvider">sms</string>
+    <string name="insert_in_search_field">Arama satırına ekle</string>
+    <string name="delete">Sil</string>
+    <string name="logoUrl">http://m.yandex.ru/?clid=%s</string>
+    <string name="voice_search_dialog_title">Aramak istediğiniz...</string>
+    <string name="voice_search_dialog_hint">Söyleyin</string>
+    <string name="voice_search_dialog_wait">Bekleyin</string>
+    <string name="voice_search_dialog_wait_before">İşleniyor</string>
+    <string name="voice_search_dialog_unrecognized">Sorgu anlaşılamadı. Lütfen tekrar deneyin.</string>
+    <string name="voice_search_dialog_network">Sesli aramanın yapılabilmesi için internet bağlantısı gerekmektedir</string>
+    <string name="voice_search_dialog_cancel_button">İptal</string>
+    <string name="install_dialog_description">Uygulamayı kurmak veya siteye gitmek ister misiniz?</string>
+    <string name="install_dialog_checkbox">Hatırla</string>
+    <string name="install_dialog_install">Kur</string>
+    <string name="install_dialog_web">Site</string>
+    <string name="suggestUrl">http://suggest.yandex.com.tr/suggest-mobile?mob=1&amp;sn=10&amp;part=</string>
+    <string name="searchUrl" formatted="false">http://yandex.com.tr/touchsearch?text=%1$s&amp;app=my&amp;app_version=203&amp;clid=%2$s</string>
+    <string name="voice_search_locale">tr-Tr</string>
+    <string name="weather_city_title">Type 3 letters to start auto-completion:</string>
+    <string name="weather_enter_city_name">Enter city name</string>
+    <string name="weather_more_cities">More...</string>
+    <string name="weather_locate_nearest_city">Search the nearest city</string>
+    <string name="weather_current_location">Current location</string>
+    <string name="searching_city_title">Positioning</string>
+    <string name="searching_city_progress">Searching for nearest cities...</string>
+    <string name="city_location_failed">Failed to locate nearest city</string>
+    <string name="dialog_shell_loading">SPB Shell 3D yükleniyor...</string>
+    <string name="gadget_error_text">Pencere öğeleri yükleme problemi</string>
+    <string name="dialog_select_shortcut">Kısayol seçin</string>
+    <string name="dialog_choose_widget">Widget Seç</string>
+    <string name="chooser_wallpaper">Duvarkağıtları seçin</string>
+    <string name="wallpaper_instructions">Duvarkağıdı Ayarla</string>
+    <string name="pick_wallpaper">Duvar kağıtları</string>
+    <string name="wallpapers_spb">SPB Duvarkağıtları</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string>
+    <string name="wait">Lütfen bekleyin</string>
+    <string name="home_widget_error">Pencere öğesi eklemek için çok büyük.</string>
+    <string name="cancel">İptal</string>
+    <string name="error">error</string>
+    <string name="infinity">infinity</string>
+    <string name="dialog_unsupported_devices_title">Hata</string>
+    <string name="dialog_unsupported_devices_message">"SPB Shell 3D'yi çalıştırmak için OpenGL 2.0 gerekli"</string>
+    <string name="license_fail">"Maalesef, Android Market'de satın alınmış bulunmuyor. Yenisini yüklemeden önce bu kopyayı kaldırın."</string>
+    <string name="purchase">Satın Al</string>
+    <string name="exit">Çıkış</string>
+    <string name="legal_notices_title">Yasal uyarı</string>
+    <string name="license_fail_handango">Maalesef, satın alınmış bulunmuyor. Yenisini yüklemeden önce bu kopyayı kaldırın.</string>
+    <string name="safe_mode_title">Güvenli mod</string>
+    <string name="safe_mode_text">"SPB Shell 3D'nin önceki yüklemesi başarısız oldu. Tekrar açmak için lütfen \"Tekrar Dene\"ye basın yada \"Giriş Sayfası\"na basın farklı bir giriş sayfası etkinleştirmek için."</string>
+    <string name="safe_mode_retry">Tekrar dene</string>
+    <string name="safe_mode_home">Ana</string>
+    <string name="sd_install_title">Hata</string>
+    <string name="sd_install_text">Installation to a storage card is not supported. Please install SPB Shell 3D to the main memory</string>
+    <string name="contacts_failed_pick">Seçili kişi yüklemesi başarısız oldu. Kişiyi Google hesabınıza eklemeye yada telefona kaydetmeye çalışın.</string>
+</resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<skin Name="Contact Card">
+  <items>
+    <item>
+
+      <!-- Images -->
+      <Image Name="small_button" File="small_button.png"/>
+      <Image Name="small_button_blue" File="small_button_blue.png"/>
+      <Image Name="last_event_button" File="last_event_button.png"/>
+      <Image Name="sms_button" File="sms_button.png"/>
+
+      <Image Name="contact_icon" File="contact_icon.png"/>
+      <Image Name="mail_icon" File="mail_icon.png"/>
+      <Image Name="phone_icon" File="phone_icon.png"/>
+      <Image Name="sms_icon" File="sms_icon.png"/>
+      <Image Name="video_icon" File="video_icon.png"/>
+
+      <!-- Layout -->
+      <Rect Name="CaptionRect" X="6" Y="1" Width="228" Height="70"/>
+
+      <Point Name="PluginH" X="0" Y="50"/>
+      <Point Name="Margin" X="8" Y="3"/>
+
+      <!-- Caption -->
+      <Image Name="userpic_big" File="userpic_big.png"/>
+      <Rect Name="PhotoRect" X="180" Y="9" Width="44" Height="44"/>
+      <Rect Name="NameRect" X="2" Y="16" Width="170" Height="40"/>
+      <Font Name="NameFont" Face="Droid Sans" HeightPxl="12" Bold="n"/>
+
+      <!-- Last event -->
+      <Rect Name="ButtonRect" X="154" Y="5" Width="70" Height="40"/>
+
+      <Rect Name="ActionTextRect" X="154" Y="5" Width="70" Height="40"/>
+      <Rect Name="EventCaptionRect" X="3" Y="7" Width="142" Height="13"/>
+      <Rect Name="EventAddressRect" X="3" Y="22" Width="142" Height="11"/>
+      <Rect Name="EventTimeRect" X="3" Y="34" Width="142" Height="11"/>
+
+      <Font Name="ActionTextFont" Face="Droid Sans" HeightPxl="12" Bold="y"/>
+      <Font Name="EventCaptionFont" Face="Droid Sans" HeightPxl="11" Bold="n"/>
+      <Font Name="EventAddressFont" Face="Droid Sans" HeightPxl="9" Bold="n"/>
+      <Font Name="EventTimeFont" Face="Droid Sans" HeightPxl="9" Bold="n"/>
+
+      <!-- Action -->
+      <Rect Name="ActionIconRect" X="5" Y="9" Width="12" Height="12"/>
+      <Rect Name="LargeTextRect" X="22" Y="5" Width="85" Height="18"/>
+      <Rect Name="SmallTextRect" X="5" Y="25" Width="98" Height="12"/>
+      <Font Name="LargeTextFont" Face="Droid Sans" HeightPxl="11" Bold="n"/>
+      <Font Name="SmallTextFont" Face="Droid Sans" HeightPxl="9" Bold="n"/>
+
+    </item>
+  </items>
+</skin>

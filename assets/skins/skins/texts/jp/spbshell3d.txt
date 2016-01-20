@@ -1,0 +1,544 @@
+ a few seconds| 数秒
+ day| 日
+ days| 日
+ hour| 時間
+ hours| 時間
+ hr| 時間
+ hrs|時間
+ lunar day|月齢
+ min|分
+ mins|分
+ minute| 分
+ minutes| 分
+%d bought|%d 購入済み
+%d day|%d 日
+%d days|%d 日
+%d hour|%d 時間
+%d hours|%d 時間
+%d minute|%d 分
+%d minutes|%d 分
+%d more...|%d 以上...
+%i active channel|%i アクティブ チャンネル
+%i active channels|%i アクティブ チャンネル
+%i image|%i イメージ
+%i images|%i イメージ
+%i more today|今日から %i
+%i more...|%i  詳細...
+%i page|%i ページ
+%i pages|%i ページ
+%i%% of Full|%i%% 満月
+%s 2007—2011 Yandex|%s 2007—2011 Yandex
+(<1 min)|(<1 分)
+(in|(
+(in seconds)|(秒)
+(No title)|(タイトルなし)
+[ Loading images... ]|[ イメージロード中... ]
+[ Tap here for images load ]|[ タップしてイメージをロード ]
+A few minutes ago|数分前
+About|バージョン情報
+About SPB Shell 3D|SPB Shell 3D情報
+Above horizon|水平線上
+Accelerometer|加速度計
+Activate|アクティベート
+Activation|アクティベーション
+Activation failed. Check your Internet connection.|アクティベーションに失敗しました。インターネット接続を確認してください。
+Active Channels|アクティブ チャンネル
+Active channels|アクティブ チャンネル
+Add|追加
+Add category|カテゴリの追加
+Add channel|チャンネルの追加
+Add city|都市を追加
+Add custom channel|カスタムチャンネルの追加
+Add new city|新しい都市の追加
+Add note|メモの追加
+Add Panel|パネルの追加
+Add to Home screen|ホーム画面の追加
+Airplane|飛行機
+Airplane Mode|機内モード
+Alcatel Widget|アルカテルウィジェット
+All day|終日
+All pictures|すべての画像
+Allow resizing of all Android widgets|すべてのアンｄロイド　ウィジェットのリサイズを許可
+An hour ago|1時間前
+Android Shortcut|アンドロイド　ショートカット
+Android Widget|アンドロイド　ウィジェット
+Anniversary|記念日
+Appearance|表示形式
+Application|アプリケーション
+April|4月
+Aqua|アクア
+Aquarius|みずがめ座
+Aries|おひつじ座
+as of %s|/ %s
+at %s|at %s
+atm|気圧
+Atmospheres|大気
+Atmospheric pressure scale|大気圧スケール
+August|8月
+Auto|自動
+Auto (keyboard only)|自動 (キーボードのみ)
+Auto arrange widgets|ウィジェットの自動配置
+Automatic|自動
+Automatic naming|自動名前付け
+Backlight|バックライト
+Battery|バッテリー
+Below horizon|水平線下
+Birthday|誕生日
+Birthdays|誕生日
+Black|黒 (くろ)
+Blue|青 (あお)
+Bluetooth|Bluetooth
+Bookmarks|ブックマーク
+Bookmarks Folder|ブックマークフォルダ
+Business|ビジネス
+Buy!|購入!
+Cache size|キャッシュサイズ
+Calculator|電卓
+Calendar|カレンダー
+Calendar Panel|カレンダーパネル
+Calendar Panel Settings|予定表パネルの設定
+Call|電話
+Call Log|通話ログ
+Cancel|キャンセル
+Cancer|かに座
+Capricorn|やぎ座
+Categories|カテゴリ
+Category Name|カテゴリ名
+Celsius (#short)|摂氏
+Change|変更
+Change City|都市の変更
+Change profile|プロファイルの変更
+Channels list|チャンネルリスト
+Choose Alcatel Widget|アルカテルウィジェットを選択してください
+Choose Color|色の選択
+Choose Program|プログラムの選択
+Choose SPB Widget|SPBウィジェットの選択
+Choose widget|ウィジェットの選択
+Clear|晴天
+Clear cache|キャッシュの削除
+Clock|時計 (とけい)
+Cloudy|曇り
+Cloudy, hail|曇り,あられ
+Cloudy, heavy rain|曇り,豪雨
+Cloudy, heavy snow|曇り,豪雪
+Cloudy, rain|曇り,雨
+Cloudy, rain with snow|曇り,雨と雪
+Cloudy, snow|曇り,雪
+Cloudy, thunder|曇り,雷
+Color anaglyph (red/cyan)|カラー立体写真（赤/シアン)
+Communication|コミュニケーション
+Contact|連絡先
+Contact Settings|連絡先の設定
+Contact Size|連絡先のサイズ
+Contacts|連絡先
+Contacts Folder|連絡先フォルダ
+Copyright %s 2007-2011\nSPB Software|Copyright %s 2007-2011\nSPB Software
+Copyright %s 2007-2012\nSPB Software|Copyright %s 2007-2012\nSPB Software
+Create Folder|フォルダの作成
+Current|現在
+Current city|現在の都市
+Current conditions|現況
+Current Conditions|現在の状態
+Current skin|現在のスキン
+Custom channel|カスタムチャネル
+Day|昼
+Deal of the Day|本日の記事
+Deal of the Day Panel|今日の記事パネル
+Deal of the Day Panel Settings|本日の記事設定
+Deals|記事
+December|12月
+Default|デフォルト
+Default Action|デフォルトアクション
+Delete note|メモの削除
+Dew point:|露点温度
+Diagnostic tools|診断ツール
+Disabled|無効
+Discoverable|検出可能
+Done|完了
+Download Original|オリジナルのダウンロード
+Downloading images|イメージのダウンロード
+E|E
+east|東
+Edit channel|チャンネル編集
+Edit Contact|連絡先編集
+Edit note|メモの編集
+Edit panels|パネルの編集
+Emergency only|緊急時のみ
+Empty Panel|空のパネル
+Enable live wallpapers|ライブ壁紙を有効化
+Enabled|有効
+Enter RSS feed title|RSSフィードタイトルの入力
+Enter RSS feed URL|RSSフィードURLの入力
+Entertainment|エンターテイメント
+Error|エラー
+Evening|夕方
+Every 2 hours|2時間毎
+Every 24 hours|24時間毎
+Every 30 Minutes|30分毎
+Every 30 minutes|30分毎
+Every 4 hours|4時間毎
+Every hour|毎時
+Exit|終了
+Experimental|試験的
+Experimental Settings|実験的な設定
+Experimental settings|実験的な設定
+Fahrenheit (#short)|華氏
+Failed to add contact|連絡先を追加の失敗
+Failed to load RSS|RSS読込み失敗
+Failed to load the selected contact. Try to link the contact to Google account or save it to phone.|選択した連絡先のロードに失敗しました。Googleアカウントに連絡先をリンクしたり、電話に保存してみてください。
+Favorite Contacts|お気に入り連絡先
+Favorite contacts|お気に入り連絡先
+Favorites|お気に入り
+February|2月
+Filter|フィルタ
+First day of the week|週最初の曜日
+First Quarter|第1四半期
+Flight|フライト
+Folder|フォルダ
+Folder Name|フォルダ名
+Forecast|予報
+from forecast|予報から
+Full Moon|満月
+Gallery|ギャラリー
+Games|ゲーム
+Gemini|ふたご座
+Gravity|重力
+Grayscale anaglyph (red/cyan)|白黒立体写真（赤/シアン)
+Green|緑 (みどり)
+G-Sensor|Gセンサー
+Half an hour ago|30分前
+Hectopascals|ヘクトパスカル
+Hide Duplicates|重複を隠す
+Hide SIM Contacts|SIM連絡先を隠す
+Home|ホーム
+Home Settings|ホーム設定
+Home settings|ホーム設定
+hpa|hPa
+Humidity:|湿度:
+in %u days|%u 日内
+in Home Settings|ホーム設定
+inch|インチ
+Inches|インチ
+Increase Counter|カウンタ増加
+Interface mode|インタフェースモード
+Invisible|非可視
+January|1月
+July|7月
+June|6月
+Kilometers per hour|Km/時
+Knots|ノット
+knots|ノット
+kph|K/時
+kts|kts
+Landscape|横置き
+Landscape orientation required to enable left-to-right stereo mode|左から右へのステレオモードでは横置設定が必用です。
+Large|大
+Last Call|最終通信
+Last Message|最終メッセージ
+Last Quarter|最終四半期
+Last updated|最終更新
+Left-to-right (HTC EVO 3D)|左から右 (HTC EVO 3D)
+Legal information|著作権情報
+Legal notices|著作権
+Leo|しし座
+Libra|てんびん座
+Lifestyle|ライフスタイル
+Live wallpapers can cause performance degradation of your 3D home screen. Switching between live and static wallpapers can take up to a minute. Static wallpapers are recommended for the best experience.|ライブ壁紙は、ご利用の3Dホーム画面においてパフォーマンスの低下を引き起こします。ライブと静止壁紙を切り替えに最大1分かかります。操作性を良くするには静止壁紙を設定することをお勧めします。
+Loading failed|読み込み失敗
+Loading image for wallpaper|壁紙用イメージのロード中
+Loading RSS feed %s...|RSS フィード読込み中 %s...
+Loading skin failed!|スキン　ロード失敗
+Loading skins catalog failed!|スキンカタログのロード失敗!
+Loading...|ロード中...
+Logging In...|ログイン中...
+Lunar Calendar|月齢カレンダ
+Lunar day %d|月齢 %d
+Manage apps|アプリ管理
+Manage Apps|アプリ管理
+Manage panels|パネル管理
+Manage Panels|パネル管理
+March|3月
+May|5月
+Medium|中級
+Messaging|メッセージ
+Meters per second|m/秒
+Miles per hour|mi/時
+Millimetres|ミリメートル
+Misc|その他
+Miscellaneous|その他
+mm|mm
+Mobile|モバイル
+Mode|モード
+Monday|月曜日
+Moon|月
+Moon Calendar|月齢カレンダ
+Moon in %s,|月 %s,
+Morning|朝
+mph|mph
+mps|mps
+Multimedia|マルチメディア
+Music|音楽
+Music albums|ミュージックアルバム
+N|N
+N/A|N/A
+nd|番目
+NE|NE
+Network Status|ネットワーク　ステータス
+Never|使わない
+New|新規
+New Channel|新規チャンネル
+New channel|新規チャンネル
+New Contact|新規連絡先
+New Folder|新しいフォルダ
+New Moon|新月
+News|ニュース
+News Panel|新規パネル
+News Panel Settings|新規パネル設定
+next|次へ
+Next Alarm|次のアラーム
+Night|夜
+No|いいえ
+no|いいえ
+No Alarms|アラームなし
+No birthdays|誕生日なし
+No calls|着信なし
+No Cities|都市なし
+No conditions|条件なし
+No Contacts.|連絡先はありません。
+No Countries|国なし
+No deals loaded|ロードされていません。
+No Images|イメージなし
+No messages|メッセージなし
+No news|ニュースなし
+No rise/set info|日の出/日の入り情報なし
+No RSS feed found at|RSSフィードが見つかりません。
+No rss loaded|RSSが読み込まれていませんｎ
+No SIM|SIMなし
+No text messages|テキストメッセージなし
+No title|タイトル無し
+No upcoming events|近くにイベントはありません。
+No upcoming events in a week|今週のイベントはありません。
+No updates|アップデートはありません
+No weather forecast|天気予報はありません
+Normal|ノーマル表示
+north|北
+north east|北東
+north west|北西
+Not available|利用できません
+Not connected|未接続
+Notes|メモ
+Note's default color|メモのデフォルト色
+Note's font|メモのフォント
+Notes Panel|メモパネル
+Notes Panel Settings|メモパネル設定
+November|11月
+NW|NW
+October|10月
+Off|オフ
+Offer|お勧め
+On|オン
+One Touch Share|One Touch Share
+Only on free connections|無料接続時のみ
+Open Contact|連絡先を開く
+Open in Browser|ブラウザで開く
+OpenGL 2.0 is required to run SPB Shell 3D|SPB Shell 3Dを実行するにはOpenGl 2.0が必要です。
+Optimized anaglyph (red/cyan)|最適化立体写真（赤/シアン)
+Other (assistant)|その他(アシスタント)
+Page|ページ
+Pages: %d, images: %d|ページ: %d, イメージ: %d
+Panel Name|パネル名
+Panels|パネル
+Panels Settings|パネル設定
+Parsing skins catalog failed!|スキンカタログの読み込み失敗!
+Partly cloudy|晴れときどき曇り
+Partly cloudy, rain|晴れときどき曇り,雨
+Partly cloudy, snow|晴れときどき曇り,雪
+Partly cloudy, thunder|晴れときどき曇り,雷
+People|人々
+Performance Warning|パフォーマンス警告
+Performance Warning dialog|パフォーマンス警告ダイアログ
+Personal|個人
+Phone|電話
+Photo folder for gallery widgets|ギャラリーウィジェット用写真フォルダ
+Picture Gallery|画像ギャラリー
+Picture of the Day|今日の写真
+Picture Panel Settings|画像パネル設定
+Pictures|写真
+Pictures Of The Day|今日の写真
+Pictures Panel|画像パネル
+Pictures Panel Settings|画像パネル設定
+Pictures Settings|写真設定
+Pisces|うお座
+Please Log In|ログインしてください
+Please wait...|お待ちください。
+Portrait|縦置き
+Pressure:|気圧:
+Problem loading widget|ウィジェットの読み込み問題
+Productivity|効率化
+Program|プログラム
+Pulkovo|プルコボ
+Purchase|購入
+Purple|紫
+Quick Setting|クイック設定
+Radio off|ラジオを切る
+rd_loc|第
+Reading appointments...|予定を読み込んでいます...
+Recycle Bin|ゴミ箱
+Red|赤 (あか)
+Reduced|削減
+Reload skin list|スキンリストの再ロード
+Remove All|全て削除
+Rename|名前の変更
+Rename Panel|パネル名の変更
+Requesting images|イメージ　リスエスト中
+Retry|再試行
+Rise: %s|日の出: %s
+RSS Feed|RSSフィード
+RSS Panel|RSSパネル
+RSS Panel Settings|RSSパネル設定
+S|S
+Safe mode|セーフモード
+Sagittarius|いて座
+Saint-Petersburg|サンクトペテルブルグ
+Save as New|新規保存
+Save to Existing|上書き保存
+Scorpio|さそり座
+Screen orientation|画面方向
+Screen orientation will be changed to Landscape|画面の向きを横置きに変更されます。
+SE|SE
+Searching|検索中
+Select Channel|チャンネルの選択
+Select cities|都市の選択
+Select Contact Action|連絡先を選択してください
+Select Contact Size|連絡先のサイズを選択してください
+Select e-mail address|電子メールアドレスの選択
+Select phone number:|電話番号の選択:
+Select shortcut|ショートカットの選択
+Select Skin|スキンの選択
+Select wallpaper from|壁紙の選択元
+Selected cities|選択した都市
+Selected City|選択された都市
+Selected city|選択された都市
+Send Email|電子メール送信
+Send E-mail|電子メールを送信
+Send E-Mail|電子メールを送信
+Send Message|メッセージを送る
+Send MMS|MMS送信
+Send SMS|SMS送信
+September|9月
+Serial number:|シリアル番号:
+Set as Home|ホームとして設定
+Set as Wallpaper|壁紙として設定
+Set wallpaper|壁紙として設定
+Set: %s|日の入り: %s
+Settings|設定
+Show all|すべて表示
+Show all day events|終日イベントの表示
+Show all day events in calendar widgets|予定表ウィジェットの終日イベントの表示
+Show full news|ニュースをすべて表示
+Show images in news|ニュースに画像を表示
+Silent|サイレント
+Skin loading|スキンロード中
+Small|小
+Smartphone|スマートフォン
+Smog|スモッグ
+Social|ソーシャル
+Social Network|社会的ネットワーク
+Sound Profile|サウンドプロファイル
+south|南
+south east|南東
+south west|南西
+SPB Shell 3D is loading...|SPB Shell 3D ロード中...
+SPB Wallpapers|SPB 壁紙
+SPB Widget|SPB ウィジェット
+st|番目
+Standard Edition [Beta]|Standard Edition [Beta]
+Stereoscopic 3D mode|立体3Dモード
+Stereoscopic 3D mode will be disabled|立体3Dモードが無効化されます。
+Stereoscopic 3D Settings|立体3D設定
+Sun in %s,|日　%s,
+Sunday|日曜日
+SW|SW
+Switching the interface mode can take up to a minute. Screen orientation will be changed to '%s'.|インタフェースモードの切り替えには時間がかかります。画面の方向が'%s'に変更されます。
+System|システム
+Tablet|タブレット
+Taurus|おうし座
+Temperatur scale|気温スケール
+Temperature scale|気温スケール
+Test Battery|バッテリテスト
+th|日
+Thank you for your support. Your copy is now registered.|ありがとうございます。登録が完了しました。
+The experimental features below are not ready to be shipped in the core of SPB Shell 3D. They may contain severe defects and cause system instability. Use them at your own risk.|下記の試験的な機能はSPB Shell 3Dのコアとして公開準備ができていません。これによりシステムが不安定になることがあります。ご自身のリスクでご利用ください。
+The maximum number of panels is reached|パネルの最大数を超えました。
+The name cannot be changed.|名前を変更できません。
+The previous launch of SPB Shell 3D was unsuccessful. Please tap "Retry" to launch it again or "Home" to activate a different Home screen.|前回のSPB Shell 3Dの起動に失敗しました。[再試行]をタップして、再度起動するか、[ホーム]で別のホーム画面を起動してください。
+Time|時刻
+Time Panel|時刻パネル
+Time Panel Settings|時間パネル設定
+Today|本日
+Toggle|切り替え
+Tomorrow|明日
+Tools|ツール
+Travel|トラベル
+Unfortunately, we could not locate your purchase in Android Market. Please uninstall this copy before installing a new one.|アンドロイド　マーケットでの購入記録を確認することができませんでした。新しい版をインストールする前に、この版をアンインストールしてください。
+Unfortunately, we could not locate your purchase. Please uninstall this copy before installing a new one.|残念ながら客様の購入履歴が見つかりません。最新版をインストールする前に、このバージョンをアンインストールしてください。
+Uninstall|アンインストール
+Uninstall apps|アプリのアンインストール
+Unknown|不明
+Unknown location|不明な場所
+Upcoming events|将来のイベント
+Update|アップデート
+Update deals list automatically|記事リストの自動更新
+Update Now|今すぐ更新
+Update pictures page automatically|写真ページを自動的更新
+Update weather forecasts automatically|天気予報を自動的に更新
+Updated|更新済み
+Updated:|更新日:
+Updating image|イメージ更新中
+Updating...|更新中...
+Use 3D in application list|アプリケーションリストに3Dを使う
+Use 3D in edit mode|編集モードで3Dを使用する
+Use cellular connection for updating deals list|記事リストの更新に携帯電話接続を使用する
+Use cellular connection for updating deals list automatically|内容リストの更新に自動的に携帯接続を使用
+Use cellular connection for updating pictures automatically|写真の自動アップデートのために電話回線を使用する
+Use cellular connection for updating weather automatically|天気情報の自動更新に携帯電話接続を使用する
+Use new color every time|毎回新しい色を使う
+Use previous note's color|前回の色を使う
+Value|値
+variable|変数
+Version %s, Build %s|バージョン %s, ビルド %s
+Vibro|Vibro
+Video Call|ビデオ呼び出し
+View Duplicates|重複の表示
+View SIM Contacts|SIM連絡先の表示
+Virgo|おとめ座
+W|W
+Wallpaper|壁紙
+Wallpapers|壁紙
+Waning Crescent|下弦(満月)
+Waning Gibbous|上弦(満月)
+Waxing Crescent|上弦（新月)
+Waxing Gibbous|上弦（満月)
+Weather|天気
+Weather and Clock|天気と時計
+Weather Forecast|天気予報
+Weather Panel Settings|天気パネル設定
+Weather Settings|天気設定
+Welcome to notes panel|メモパネルにようこそ
+west|西
+Widget is too big to be added.|追加するにはウィジェットが大きすぎます。
+Widgets|ウィジェット
+Widgets Settings|ウィジェット設定
+Wind direction:|風向:
+Wind speed scale|風速スケール
+Wind speed:|風速:
+Wind:|風:
+Work|職場
+World Time|世界時計
+Wrong serial number. Please check it again.|シリアル番号が異なります。ご確認ください。
+Yandex.Search|Yandex.Search
+Yellow|黄色 (きいろ)
+Yes|はい
+Yesterday|昨日
+You save|値引き
+Your video system isn't compatible with Shell 3D.|ご使用のビデオはShell 3Dと互換性がありません。

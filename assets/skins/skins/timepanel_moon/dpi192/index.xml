@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skin name="Moon panel" Type="panel">
+	<items>
+		<item DontScale="1">
+			<Image Name="separator" File="sep_h4.png"/>
+			<Image Name="Moon" File="fullmoon_icon90.png"/>
+			<Image Name="MoonMap" File="Moon_map.png"/>
+			<Image Name="MoonBump" File="Moon_bump.png"/>
+
+			<Image Name="Glow"    File="Glow.png"/>
+			<Image Name="Nebula"  File="Nebula.png"/>
+			<Image Name="Star"    File="Star.png"/>
+
+			<Image Name="SunRune" File="SunRune.png"/>
+			<Image Name="MoonRune" File="MoonRune.png"/>
+
+			<Image Name="MoonFull" File="MoonFull.png"/>
+			<Image Name="MoonNew" File="MoonNew.png"/>
+
+			<Image Name="MarkerNow"  File="marker_now.png"/>
+			<Image Name="MarkerPos"  File="marker_pos.png"/>
+			<Image Name="MarkerSel"  File="marker_sel.png"/>
+		</item>
+	</items>
+</skin>

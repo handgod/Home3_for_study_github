@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<skin Name="Last Call Widget" Type="widget">
+  <items>
+    <item>
+      <Image Name="callcnt0" File="callcnt0.png"/>
+      <Image Name="callcnt1" File="callcnt1.png"/>
+
+      <Rect Name="CallCntRect"   X="16" Y="4" Width="14"  Height="10"/>
+      <Font Name="CallCntF"  Face="Droid Sans" HeightPxl="9" Bold="y" Color="FFFFFFFF"/>
+
+      <Image Name="calldir0" File="calldir0.png"/>
+      <Image Name="calldir1" File="calldir1.png"/>
+      <Image Name="calldir2" File="calldir2.png"/>
+      <Image Name="calldir3" File="calldir3.png"/>
+
+      <Image Name="userpic" File="userpic.png"/>
+
+      <Image Name="separator" File="sep_v41.png"/>
+      <Image Name="sep_h21" File="sep_h21.png"/>
+
+      <Image Name="anniv" File="anniv.png"/>
+      <Image Name="btday" File="btday.png"/>
+      <Image Name="event" File="event.png"/>
+      <Image Name="pile"  File="pile.png"/>
+
+      <Image Name="contact_bord" File="contact_bord.png"/>
+      <Image Name="contact_bord_2" File="contact_bord_2.png"/>
+
+      <Rect   Name="contact_bord_2_9Patch" X="4" Y="4" Width="1" Height="1"/>
+
+      <Image Name="contact_mask" File="contact_mask.png"/>
+      <Image Name="contact_mask_2" File="contact_mask_2.png"/>
+
+      <Image Name="contact_mirr" File="contact_mirr.png"/>
+      <Image Name="contact_dumm" File="contact_dumm.png"/>
+
+      <Image Name="action_bg" File="action_bg.png"/>
+      <Image Name="action_btn" File="action_btn.png"/>
+
+      <Image Name="phone_action_icon" File="phone_action_icon.png"/>
+      <Image Name="phone_action_btn" File="phone_action_btn.png"/>
+
+      <Image Name="sms_action_icon" File="sms_action_icon.png"/>
+      <Image Name="sms_action_btn" File="sms_action_btn.png"/>
+
+      <Image Name="mail_action_icon" File="mail_action_icon.png"/>
+
+      <Image Name="card_action_icon" File="card_action_icon.png"/>
+      <Image Name="card_action_btn" File="card_action_btn.png"/>
+
+      <Image Name="favourite_icon" File="favourite_icon.png"/>
+      <Image Name="mms_action_icon" File="mms_action_icon.png"/>
+      <Image Name="video_action_icon" File="video_action_icon.png"/>
+
+      <Image Name="wgt_contact_bkg" File="wgt_contact_bkg.png"/>
+      <Image Name="wgt_newcontact_frame" File="wgt_newcontact_frame.png"/>
+
+      <Rect  Name="wgt_contact_bkg_9Patch" X="5" Y="5" Width="1" Height="1"/>
+      <Rect  Name="wgt_newcontact_frame_9Patch" X="5" Y="5" Width="1" Height="1"/>
+
+      <Image Name="IconAnniversary" File="icon-anniversary.png"/>
+      <Image Name="IconBirthday" File="icon-birthday.png"/>
+
+      <Image Name="custom_background"  File="custom-background.png"/>
+
+	<!-- test images for contact border -->
+      <Image Name="movearrow_left" File="movearrow_left.png"/>
+      <Image Name="movearrow_top" File="movearrow_top.png"/>
+      <Image Name="movearrow_right" File="movearrow_right.png"/>
+      <Image Name="movearrow_bottom" File="movearrow_bottom.png"/>
+      <Image Name="addcontact" File="addcontact.png"/>
+
+    </item>
+  </items>
+</skin>

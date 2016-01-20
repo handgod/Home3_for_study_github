@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Layouts>
+
+  <Rules>
+    <PlatformCondition Platform="Android">
+      <Condition Name="Dlg:Sel" Value="all">
+        <UseLayout Name="240x320all"/>
+      </Condition>
+      <Condition Name="Dlg:Sel" Value="in">
+        <UseLayout Name="240x320in"/>
+      </Condition>
+      <Condition Name="Dlg:Sel" Value="out">
+        <UseLayout Name="240x320out"/>
+      </Condition>
+    </PlatformCondition>
+    <Default>
+      <Condition Name="Dlg:Sel" Value="all">
+        <UseLayout Name="240x320all-btns"/>
+      </Condition>
+      <Condition Name="Dlg:Sel" Value="in">
+        <UseLayout Name="240x320in-btns"/>
+      </Condition>
+      <Condition Name="Dlg:Sel" Value="out">
+        <UseLayout Name="240x320out-btns"/>
+      </Condition>
+    </Default>
+  </Rules>
+
+  <General>
+    <DialogObject Value="Spb.Data.MenuBar"/>
+    <LayerAlign Value="Bottom" Clip="1" />
+    <DefaultFont Face="Droid Sans" HeightPxl="12" Bold="n" Color="FFFFFFFF"/>
+    <String Name="Icons" Value="MenuIcons"/>
+    <String Name="IconSkin" Value="menubar/dpi192"/>
+    <Skin Skin="menubar/dpi96" MiddleSkin="menubar/dpi128" DoubleSkin="menubar/dpi192"/>
+
+    <Int Name="AttachedMenuBar" Value="1"/>
+  </General>
+
+  <Layout Name="Default">
+    <Plugins>
+      <Plugin Class="Spb.LSP.MenuBar" Name="Btn0" ID="1">
+        <String Name="Backgrd" Value="BarSel"/>
+        <String Name="Icons" Value="CallLog"/>
+        <Rect Name="SrcIcon" X="0" Y="3" Width="36" Height="31"/>
+        <String Name="Action" Value="Left"/>
+      </Plugin>
+
+      <Plugin Class="Spb.LSP.MenuBar" Name="Btn1" ID="2">
+        <String Name="Backgrd" Value="BarNor"/>
+        <String Name="Icons" Value="CallLog"/>
+        <Rect Name="SrcIcon" X="0" Y="75" Width="36" Height="31"/>
+        <String Name="Action" Value="Center"/>
+      </Plugin>
+
+      <Plugin Class="Spb.LSP.MenuBar" Name="Btn2" ID="2">
+        <String Name="Backgrd" Value="BarNor"/>
+        <String Name="Icons" Value="CallLog"/>
+        <Rect Name="SrcIcon" X="0" Y="39" Width="36" Height="31"/>
+        <String Name="Action" Value="Right"/>
+      </Plugin>
+
+      <Plugin Class="Spb.LSP.MenuBar" Name="Close" ID="3">
+        <String Name="Backgrd" Value="BarBtns"/>
+        <String Name="Action" Value="Close"/>
+        <Int Name="LeftBtn" Value="1"/>
+        <Rect Name="SrcIcon" X="0" Y="81" Width="27" Height="27"/>
+      </Plugin>
+
+      <Plugin Class="Spb.LSP.MenuBar" Name="Menu" ID="5">
+        <String Name="Backgrd" Value="BarBtns"/>
+        <String Name="Action" Value="Menu"/>
+        <Int Name="RightBtn" Value="1"/>
+        <Rect Name="SrcIcon" X="0" Y="0" Width="27" Height="27"/>
+      </Plugin>
+
+    </Plugins>
+  </Layout>
+
+  <Layout Name="240x320all">
+    <Plugins Extends="Default">
+
+      <Plugin Name="Btn0">
+        <BoundRect X="0" Y="0" Width="80" Height="31"/>
+        <Rect Name="SelRect" X="0" Y="0" Width="80" Height="31"/>
+        <Rect Name="IconRect" X="19" Y="0" Width="36" Height="31"/>
+        <Point Name="BkNormal" X="0" Y="0"/>
+      </Plugin>
+
+      <Plugin Name="Btn1">
+        <BoundRect X="80" Y="0" Width="80" Height="31"/>
+        <Rect Name="SelRect" X="0" Y="0" Width="80" Height="31"/>
+        <Rect Name="IconRect" X="19" Y="0" Width="36" Height="31"/>
+        <Point Name="BkNormal" X="80" Y="0"/>
+      </Plugin>
+
+      <Plugin Name="Btn2">
+        <BoundRect X="160" Y="0" Width="80" Height="31"/>
+        <Rect Name="SelRect" X="0" Y="0" Width="80" Height="31"/>
+        <Rect Name="IconRect" X="19" Y="0" Width="36" Height="31"/>
+        <Point Name="BkNormal" X="160" Y="0"/>
+      </Plugin>
+
+    </Plugins>
+  </Layout>
+
+  <Layout Name="240x320all-btns">
+    <Plugins Extends="240x320all">
+
+      <Plugin Name="Btn0">
+        <BoundRect X="35" Y="0" Width="56" Height="31"/>
+        <Rect Name="SelRect" X="0" Y="0" Width="56" Height="31"/>
+        <Rect Name="IconRect" X="10" Y="0" Width="36" Height="31"/>
+        <Point Name="BkNormal" X="35" Y="0"/>
+      </Plugin>
+
+      <Plugin Name="Btn1">
+        <BoundRect X="91" Y="0" Width="58" Height="31"/>
+        <Rect Name="SelRect" X="0" Y="0" Width="58" Height="31"/>
+        <Rect Name="IconRect" X="10" Y="0" Width="36" Height="31"/>
+      </Plugin>
+
+      <Plugin Name="Btn2">
+        <BoundRect X="149" Y="0" Width="56" Height="31"/>
+        <Rect Name="SelRect" X="0" Y="0" Width="56" Height="31"/>
+        <Rect Name="IconRect" X="10" Y="0" Width="36" Height="31"/>
+      </Plugin>
+
+      <Plugin Name="Close">
+        <BoundRect X="0" Y="0" Width="35" Height="31"/>
+        <Rect Name="SelRect" X="0" Y="0"  Width="35" Height="31"/>
+        <Rect Name="IconRect" X="4" Y="3" Width="27" Height="27"/>
+        <Point Name="BkNormal" X="0" Y="0"/>
+      </Plugin>
+
+      <Plugin Name="Menu">
+        <BoundRect X="205" Y="0" Width="35" Height="31"/>
+        <Rect Name="SelRect" X="0" Y="0"  Width="35" Height="31"/>
+        <Rect Name="IconRect" X="7" Y="3" Width="27" Height="27"/>
+        <Point Name="BkNormal" X="0" Y="31"/>
+      </Plugin>
+
+    </Plugins>
+  </Layout>
+
+  <Layout Name="240x320in">
+    <Plugins Extends="240x320all">
+      <Plugin Name="Btn0">
+        <String Name="Backgrd" Value="BarNor"/>
+      </Plugin>
+      <Plugin Name="Btn1">
+        <String Name="Backgrd" Value="BarSel"/>
+      </Plugin>
+      <Plugin Name="Btn2">
+        <String Name="Backgrd" Value="BarNor"/>
+      </Plugin>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="240x320in-btns">
+    <Plugins Extends="240x320all-btns">
+      <Plugin Name="Btn0">
+        <String Name="Backgrd" Value="BarNor"/>
+      </Plugin>
+      <Plugin Name="Btn1">
+        <String Name="Backgrd" Value="BarSel"/>
+      </Plugin>
+      <Plugin Name="Btn2">
+        <String Name="Backgrd" Value="BarNor"/>
+      </Plugin>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="240x320out">
+    <Plugins Extends="240x320all">
+      <Plugin Name="Btn0">
+        <String Name="Backgrd" Value="BarNor"/>
+      </Plugin>
+      <Plugin Name="Btn1">
+        <String Name="Backgrd" Value="BarNor"/>
+      </Plugin>
+      <Plugin Name="Btn2">
+        <String Name="Backgrd" Value="BarSel"/>
+      </Plugin>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="240x320out-btns">
+    <Plugins Extends="240x320all-btns">
+      <Plugin Name="Btn0">
+        <String Name="Backgrd" Value="BarNor"/>
+      </Plugin>
+      <Plugin Name="Btn1">
+        <String Name="Backgrd" Value="BarNor"/>
+      </Plugin>
+      <Plugin Name="Btn2">
+        <String Name="Backgrd" Value="BarSel"/>
+      </Plugin>
+    </Plugins>
+  </Layout>
+
+</Layouts>
+

@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+
+<Layouts>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layers>
+      <Layer/>
+  </Layers>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Rules>
+    <!-- tablettoss specification -->
+    <PlatformCondition Platform="tablets">
+      <ScreenCondition Orientation="landscape">
+        <UseLayout Name="landscape_tablet"/>
+      </ScreenCondition>
+      <ScreenCondition Orientation="portrait">
+        <UseLayout Name="portrait_tablet"/>
+      </ScreenCondition>
+    </PlatformCondition>
+
+    <ScreenCondition Orientation="landscape">
+      <UseLayout Name="landscape"/>
+    </ScreenCondition>
+
+    <Default>
+      <UseLayout Name="portrait"/>
+    </Default>
+  </Rules>
+
+  <!-- **************************************************************************************************************** -->
+
+  <General>
+      <Skin Skin="wgt_smsmms"/>
+      <DefaultFont Face="Droid Sans" HeightPxl="11" Bold="n" Color="FFFFFFFF"/>
+  </General>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="Default">
+      <Plugins LayoutType="frame">          
+          <LayoutSize Width="fill" Height="fill"/>
+          <Plugin Name="3DPlugin" Class="Spb.LSP.SmsMmsPlugin" ID="0" AutoSkin="wgt_smsmms">
+              <LayoutSize Width="fill" Height="fill"/>
+          </Plugin>
+      </Plugins>
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="portrait">
+      <General>
+          <!-- **************************** -->
+          <Int    Name="poscount" Value="6"  />
+          <Int    Name="posfront" Value="2"  />
+          <Int    Name="smscount" Value="16" />
+          <Int    Name="smsmagic" Value="8"  />
+          <!-- **************************** -->
+          <Point  Name="intsize" X="230" Y="70"/>
+          <!-- **************************** -->
+          <String Name="tr" Value="-3 32 -60   3 18 0   7 0 40   3 -18 0   -3 -32 -60  -8 -38 -120  -8 -100 -120  -8 38 -120" />          
+          <String Name="rx" Value="00   00   00   00   00   00   00   00" />
+          <String Name="ry" Value="24   24   24   24   24   24   24   24" />
+          <String Name="lg" Value="40   00   00   00   40  100  100  100" />
+          <!-- **************************** -->
+      </General>
+      <Plugins Extends="Default"/>
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="landscape">
+      <General>
+          <!-- **************************** -->
+          <Int    Name="poscount" Value="4"  />
+          <Int    Name="posfront" Value="1"  />
+          <Int    Name="smscount" Value="16" />
+          <Int    Name="smsmagic" Value="6"  />
+          <!-- **************************** -->
+          <Point  Name="intsize" X="230" Y="70"/>
+          <!-- **************************** -->
+          <String Name="tr" Value="-3 32 -30   7 0 20   -3 -32 -30  -8 -38 -60  -8 -100 -60  -8 38 -60" />          
+          <String Name="rx" Value="00   00   00   00   00   00" />
+          <String Name="ry" Value="24   24   24   24   24   24" />
+          <String Name="lg" Value="40   00   40  100  100  100" />
+          <!-- **************************** -->
+      </General>
+      <Plugins Extends="Default"/>
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="portrait_tablet">
+      <General>
+          <!-- **************************** -->
+          <Int    Name="poscount" Value="8"  />
+          <Int    Name="posfront" Value="3"  />
+          <Int    Name="smscount" Value="16" />
+          <Int    Name="smsmagic" Value="8"  />
+          <!-- **************************** -->
+          <Point  Name="intsize" X="230" Y="70"/>
+          <!-- **************************** -->
+          <String Name="tr" Value="-6 32 -90   6 22 0   14 12 30   18 0 60   14 -12 30  6 -22 0   -6 -32 -90  -16 -38 -180  -16 -100 -180  -16 38 -180" />          
+          <String Name="rx" Value="00   00   00   00   00   00   00   00   00   00" />
+          <String Name="ry" Value="24   24   24   24   24   24   24   24   24   24" />
+          <String Name="lg" Value="40   00   00   00   00   00   40  100  100  100" />
+          <!-- **************************** -->
+      </General>
+      <Plugins Extends="Default"/>
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="landscape_tablet">
+      <General>
+          <!-- **************************** -->
+          <Int    Name="poscount" Value="6"  />
+          <Int    Name="posfront" Value="2"  />
+          <Int    Name="smscount" Value="16" />
+          <Int    Name="smsmagic" Value="8"  />
+          <!-- **************************** -->
+          <Point  Name="intsize" X="230" Y="70"/>
+          <!-- **************************** -->
+          <String Name="tr" Value="-3 32 -90   3 18 0   7 0 60   3 -18 0   -3 -32 -90  -8 -38 -180  -8 -100 -180  -8 38 -180" />          
+          <String Name="rx" Value="00   00   00   00   00   00   00   00" />
+          <String Name="ry" Value="24   24   24   24   24   24   24   24" />
+          <String Name="lg" Value="40   00   00   00   40  100  100  100" />
+          <!-- **************************** -->
+      </General>
+      <Plugins Extends="Default"/>
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+</Layouts>

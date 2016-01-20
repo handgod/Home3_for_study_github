@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Layouts>
+
+  <Layers>
+    <Layer Name="Background" Dialog="PopupBackgrd"/>
+    <Layer Name="Frame" Dialog="BackgrdFrame"/>
+    <Layer/>
+  </Layers>
+
+  <Rules>
+
+      <Condition Name="Dlg:BtnCount" Value="2">
+        <UseLayout Name="240x320-2"/>
+      </Condition>
+      <Condition Name="Dlg:BtnCount" Value="3">
+        <UseLayout Name="240x320-3"/>
+      </Condition>
+      <Condition Name="Dlg:BtnCount" Value="4">
+        <UseLayout Name="240x320-4"/>
+      </Condition>
+      <Condition Name="Dlg:BtnCount" Value="5">
+        <UseLayout Name="240x320-5"/>
+      </Condition>
+      <Condition Name="Dlg:BtnCount" Value="6">
+        <UseLayout Name="240x320-6"/>
+      </Condition>
+      <Default>
+        <UseLayout Name="240x320"/>
+      </Default>
+
+  </Rules>
+
+  <General>
+    <DialogObject Value="Spb.Data.Backlight"/>
+    <DefaultFont Face="Droid Sans" HeightPxl="14" Bold="y" Color="FFFFFFFF"/>
+    <Color Name="LineColor" Value="FFFFFF"/>
+    <Int Name="LineOpacity" Value="255"/>
+    <String Name="Up" Value=""/>
+    <String Name="Down" Value=""/>
+    <String Name="Caption" Value="Backlight"/>
+  </General>
+
+  <Layout Name="Default">
+    <Plugins>
+      <Plugin Class="Spb.LSP.Generic" Name="s0" ID="0"/>
+      <Plugin Class="Spb.LSP.Generic" Name="s1" ID="1"/>
+      <Plugin Class="Spb.LSP.Generic" Name="s2" ID="2"/>
+      <Plugin Class="Spb.LSP.Generic" Name="s3" ID="3"/>
+      <Plugin Class="Spb.LSP.Generic" Name="s4" ID="4"/>
+      <Plugin Class="Spb.LSP.Generic" Name="s5" ID="5"/>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="240x320">
+    <Plugins Extends="Default">
+      <Plugin Name="s0">
+        <BoundRect X="0" Y="0" Width="52" Height="56"/>
+      </Plugin>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="240x320-2">
+    <Plugins Extends="240x320">
+      <Plugin Name="s0">
+        <BoundRect X="0" Y="0" Width="52" Height="56"/>
+      </Plugin>
+      <Plugin Name="s1">
+        <BoundRect X="55" Y="0" Width="52" Height="56"/>
+      </Plugin>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="240x320-3">
+    <Plugins Extends="240x320">
+      <Plugin Name="s0">
+        <BoundRect X="0" Y="0" Width="52" Height="56"/>
+      </Plugin>
+      <Plugin Name="s1">
+        <BoundRect X="55" Y="0" Width="52" Height="56"/>
+      </Plugin>
+      <Plugin Name="s2">
+        <BoundRect X="110" Y="0" Width="52" Height="56"/>
+      </Plugin>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="240x320-4">
+    <Plugins Extends="240x320">
+      <Plugin Name="s0">
+        <BoundRect X="0" Y="0" Width="52" Height="60"/>
+      </Plugin>
+      <Plugin Name="s1">
+        <BoundRect X="55" Y="0" Width="52" Height="60"/>
+      </Plugin>
+      <Plugin Name="s2">
+        <BoundRect X="0" Y="60" Width="52" Height="60"/>
+      </Plugin>
+      <Plugin Name="s3">
+        <BoundRect X="55" Y="60" Width="52" Height="60"/>
+      </Plugin>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="240x320-5">
+    <Plugins Extends="240x320">
+      <Plugin Name="s0">
+        <BoundRect X="0" Y="0" Width="52" Height="60"/>
+      </Plugin>
+      <Plugin Name="s1">
+        <BoundRect X="55" Y="0" Width="52" Height="60"/>
+      </Plugin>
+      <Plugin Name="s2">
+        <BoundRect X="110" Y="0" Width="52" Height="60"/>
+      </Plugin>
+      <Plugin Name="s3">
+        <BoundRect X="27" Y="60" Width="52" Height="60"/>
+      </Plugin>
+      <Plugin Name="s4">
+        <BoundRect X="82" Y="60" Width="52" Height="60"/>
+      </Plugin>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="240x320-6">
+    <Plugins Extends="240x320">
+      <Plugin Name="s0">
+        <BoundRect X="0" Y="0" Width="52" Height="60"/>
+      </Plugin>
+      <Plugin Name="s1">
+        <BoundRect X="55" Y="0" Width="52" Height="60"/>
+      </Plugin>
+      <Plugin Name="s2">
+        <BoundRect X="110" Y="0" Width="52" Height="60"/>
+      </Plugin>
+      <Plugin Name="s3">
+        <BoundRect X="0" Y="60" Width="52" Height="60"/>
+      </Plugin>
+      <Plugin Name="s4">
+        <BoundRect X="55" Y="60" Width="52" Height="60"/>
+      </Plugin>
+      <Plugin Name="s5">
+        <BoundRect X="110" Y="60" Width="52" Height="60"/>
+      </Plugin>
+    </Plugins>
+  </Layout>
+    
+</Layouts>

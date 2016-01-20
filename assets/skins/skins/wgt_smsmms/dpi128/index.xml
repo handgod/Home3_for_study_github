@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skin>
+  <items>
+    <item DontScale="1" DpiSpecific="1">
+      <Image Name="PhotoFrame" ScaleDpi="112" File="photoframe.png" />
+      <Rect Name="PhotoRect" ScaleDpi="112" X="5" Width="65" Y="5" Height="65" />
+    </item>
+    <item>
+      <Image Name="separator" File="sep_v41.png" />
+      <Image Name="Icon" File="icon.png" />
+      <Image Name="IconUnread" File="icon-unread.png" />
+      <Image Name="Bubble" File="bubble.png" />
+      <Image Name="PhotoFrameShadow" File="photoframeshadow.png"/>
+    </item>
+    <item DontScale="1" DpiSpecific="1">
+      <Rect Name="BubbleIntRect" X="44" Y="0" Width="0" Height="93"/>
+    </item>
+  </items>
+</skin>

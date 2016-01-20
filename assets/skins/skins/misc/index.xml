@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<skin Name="Miscellaneous">
+  <items>
+    <item>
+      <Image Name="darken" File="darken.png"/>
+      <Rect  Name="darken_9Patch" X="16" Y="16" Width="1" Height="1"/>
+
+      <Image Name="lighten" File="lighten.png"/>
+      <Rect  Name="lighten_9Patch" X="16" Y="16" Width="1" Height="1"/>
+
+      <Image Name="darken_inner" File="darken_inner.png"/>
+      <Rect  Name="darken_inner_9Patch" X="16" Y="16" Width="1" Height="1"/>
+
+      <Image Name="plus"   File="plus.png"/>
+      <Image Name="minus"  File="minus.png"/>
+      <Image Name="left"   File="left.png"/>
+      <Image Name="right"  File="right.png"/>
+
+      <Image Name="calculator" File="calculator.png"/>
+      <Image Name="calendar" File="calendar.png"/>
+      <Image Name="contacts" File="contacts.png"/>
+      <Image Name="clock" File="clock.png"/>
+      <Image Name="deals" File="deals.png"/>
+      <Image Name="moon" File="moon.png"/>
+      <Image Name="news" File="news.png"/>
+      <Image Name="notes" File="notes.png"/>
+      <Image Name="pictures" File="pictures.png"/>
+      <Image Name="weather" File="weather.png"/>
+      <Image Name="resizecorner" File="resizecorner.png"/>
+    </item>
+  </items>
+</skin>
+  

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.NoShadow.NoTitleBar" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="service_title">
+        <item name="android:textSize">11.0sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:paddingTop">2.0dip</item>
+        <item name="android:paddingRight">8.0dip</item>
+        <item name="android:layout_marginBottom">6.0dip</item>
+        <item name="android:shadowColor">#ff333333</item>
+        <item name="android:shadowDx">1.0</item>
+        <item name="android:shadowDy">2.0</item>
+        <item name="android:shadowRadius">1.0</item>
+    </style>
+    <style name="all_services_title">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:paddingTop">10.0dip</item>
+        <item name="android:paddingRight">8.0dip</item>
+        <item name="android:shadowColor">#ff333333</item>
+        <item name="android:shadowDx">1.0</item>
+        <item name="android:shadowDy">2.0</item>
+        <item name="android:shadowRadius">1.0</item>
+    </style>
+    <style name="AlertDialogCustom" parent="@android:style/Theme.Dialog">
+        <item name="android:textSize">5.0sp</item>
+    </style>
+    <style name="WeatherParameter" />
+    <style name="WeatherParameter.Pressure" parent="@style/WeatherParameter">
+        <item name="title">@string/weather_parameter_press_title</item>
+        <item name="unitsTitle">@string/weather_parameter_press_units_title</item>
+        <item name="units">@array/weather_press_unit_titles</item>
+        <item name="unitsValues">@array/weather_press_unit_values</item>
+        <item name="formats">@array/weather_press_formats</item>
+        <item name="rangeFormats">@array/weather_press_range_formats</item>
+        <item name="smallIcon">@drawable/weather_pressure</item>
+        <item name="largeIcon">@drawable/weather_large_pressure</item>
+        <item name="initialUnits">@string/weather_pressure_default_units</item>
+    </style>
+    <style name="WeatherParameter.Temperature" parent="@style/WeatherParameter">
+        <item name="title">@string/weather_parameter_temp_title</item>
+        <item name="unitsTitle">@string/weather_parameter_temp_units_title</item>
+        <item name="units">@array/weather_temp_unit_titles</item>
+        <item name="unitsValues">@array/weather_temp_unit_values</item>
+        <item name="formats">@array/weather_temp_formats</item>
+        <item name="rangeFormats">@array/weather_temp_range_formats</item>
+        <item name="initialUnits">@string/weather_temp_default_units</item>
+    </style>
+    <style name="WeatherParameter.DewPoint" parent="@style/WeatherParameter.Temperature">
+        <item name="title">@string/weather_parameter_dew_point_title</item>
+    </style>
+    <style name="WeatherParameter.WindSpeed" parent="@style/WeatherParameter">
+        <item name="title">@string/weather_parameter_wind_speed_title</item>
+        <item name="unitsTitle">@string/weather_parameter_wind_speed_units_title</item>
+        <item name="units">@array/weather_wind_speed_unit_titles</item>
+        <item name="unitsValues">@array/weather_wind_speed_unit_values</item>
+        <item name="formats">@array/weather_wind_speed_formats</item>
+        <item name="rangeFormats">@array/weather_wind_speed_range_formats</item>
+        <item name="smallIcon">@drawable/weather_wind_speed</item>
+        <item name="largeIcon">@drawable/weather_large_wind_speed</item>
+        <item name="initialUnits">@string/weather_wind_speed_default_units</item>
+    </style>
+    <style name="WeatherParameter.RelativeHumidity" parent="@style/WeatherParameter">
+        <item name="title">@string/weather_parameter_humidity_title</item>
+        <item name="unitsTitle">@string/weather_parameter_humidity_units_title</item>
+        <item name="units">@array/weather_humidity_unit_titles</item>
+        <item name="unitsValues">@array/weather_humidity_unit_values</item>
+        <item name="formats">@array/weather_humidity_formats</item>
+        <item name="rangeFormats">@array/weather_humidity_range_formats</item>
+        <item name="smallIcon">@drawable/weather_humidity</item>
+        <item name="largeIcon">@drawable/weather_large_humidity</item>
+        <item name="initialUnits">@string/weather_humidity_default_units</item>
+    </style>
+    <style name="WeatherParameter.WindDirection" parent="@style/WeatherParameter">
+        <item name="title">@string/weather_parameter_wind_dir_title</item>
+        <item name="unitsTitle">@string/weather_parameter_wind_dir_units_title</item>
+        <item name="units">@array/weather_winddir_unit_titles</item>
+        <item name="unitsValues">@array/weather_wind_speed_unit_values</item>
+        <item name="formats">@array/weather_winddir_formats</item>
+        <item name="rangeFormats">@array/weather_winddir_range_formats</item>
+        <item name="initialUnits">@string/weather_winddir_default_units</item>
+    </style>
+    <style name="Theme.NoTitleBar.NoBackground" parent="@android:style/Theme.NoTitleBar">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<skin Name="Picture Panel" Type="panel">
+  <items>
+    <item>
+      <Image Name="back" File="back.dds"/>
+      <Image Name="thumb" File="thumb.dds"/>
+    </item>
+  </items>
+</skin>

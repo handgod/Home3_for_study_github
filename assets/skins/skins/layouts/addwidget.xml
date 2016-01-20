@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<Layouts Name="Add Widget dialog" Type="other">
+  <Layers>
+    <Layer Name="Frame" Dialog="BackgrdFrame"/>
+    <Layer/>
+  </Layers>
+
+  <Rules>
+    <Default>
+      <UseLayout Name="240x320"/>
+    </Default>
+  </Rules>
+
+  <General>
+  	<String Name="Caption" Value="Choose SPB Widget"/>
+	<ScrollY Value="Auto"/>
+  </General>
+
+  <Layout Name="Default">
+    <Plugins>
+      <Group Name="Vert" ID="10">
+        <Plugins>
+			  <Plugin Name="Border" Class="Spb.LSP.DashLine">
+			  	<Color Name="Color" Value="FFFFFF"/>
+				<Int Name="Opacity" Value="128"/>
+			  </Plugin>
+              <Plugin Name="Item" ID="12" AutoSkin="misc">
+				<Int Name="LeftAlignText" Value="1"/>
+                <DefaultFont Face="Droid Sans" HeightPxl="14" Bold="n" Color="E0FFFFFF"/>
+              </Plugin>
+        </Plugins>
+      </Group>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="240x320">
+    <Plugins Extends="Default">
+
+      <Group Name="Vert">
+        <BoundRect X="0" Y="0" Width="0" Height="0"/>
+        <Plugins>
+		      <Plugin Name="Border">
+			    <BoundRect X="0" Y="45" Width="218" Height="1"/>
+			  </Plugin>
+              <Plugin Name="Item">
+                <BoundRect X="0" Y="0" Width="218" Height="45"/>
+                <Rect Name="IconRect" X="6" Y="5" Width="36" Height="36"/>
+                <Rect Name="TextRect" X="52" Y="5" Width="166" Height="36"/>
+              </Plugin>
+        </Plugins>
+      </Group>
+	</Plugins>
+  </Layout>
+
+</Layouts>

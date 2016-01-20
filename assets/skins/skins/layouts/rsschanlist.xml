@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Layouts>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layers>
+    <Layer/>
+  </Layers>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Rules>
+    <Default>
+      <UseLayout Name="Portrait"/>
+    </Default>
+  </Rules>
+
+  <!-- **************************************************************************************************************** -->
+
+  <General>
+    <ScrollY Value="Auto"/>
+    <DialogObject Value="Spb.Data.RssChanList"/>
+    
+    <!-- fonts -->
+    <Font Name="ftHeader" Face="Droid Sans" HeightPxl="10" Bold="y" Color="FFFFFFFF"/>
+    <Font Name="ftTitle"  Face="Droid Sans" HeightPxl="10" Bold="y" Color="FFFFFFFF"/>
+    <Font Name="ftDesc"   Face="Droid Sans" HeightPxl="08" Bold="n" Color="FFA0A0A0"/>
+  </General>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="Portrait">
+    <Frame Width="fill" Height="auto">
+      <Col Dynamic="1" Width="fill" Height="auto" ID="1000">
+        <Frame Width="fill" Height="40" Margins="0 0 0 4">
+          <Col Width="fill" Height="fill" Margins="0 4 4 0">
+            <Plugin Width="fill" Height="15"   ID="100" Name="Title"/>
+            <Plugin Width="fill" Height="fill" ID="110" Name="Desc"/>
+          </Col>
+          <Plugin Width="fill" Height="fill" ID="200" Name="Select"/>
+        </Frame>
+      </Col>
+    </Frame>
+  </Layout>
+  
+  <!-- **************************************************************************************************************** -->
+
+</Layouts>

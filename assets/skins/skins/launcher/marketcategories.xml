@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MarketCategories>
+  <MarketCategory Name="Comics" Id="COMICS">
+    <Programs>
+    </Programs>
+  </MarketCategory>
+  <MarketCategory Name="Communication" Id="COMMUNICATION">
+    <Programs>
+      <Program Name="com.android.stk"/>
+      <Program Name="com.android.contacts"/>
+      <Program Name="com.android.mms"/>
+      <Program Name="com.google.android.talk"/>
+      <Program Name="com.htc.android.mail"/>
+      <Program Name="com.google.android.gm"/>
+      <Program Name="com.android.htccontacts"/>
+      <Program Name="com.android.email"/>
+      <Program Name="com.sec.android.app.dialertab"/>
+      <Program Name="com.android.voicedialer"/>
+      <Program Name="com.sec.android.app.unifiedinbox"/>
+      <Program Name="com.android.browser"/>
+      <Program Name="com.newspaperdirect.pressreader.android.samsung"/>
+      <Program Name="com.google.android.voicesearch"/>
+      <Program Name="com.google.android.googlequicksearchbox"/>
+      <Program Name="com.android.htcdialer"/>
+    </Programs>
+  </MarketCategory>
+  <MarketCategory Name="Entertainment" Id="ENTERTAINMENT">
+    <Programs>
+    </Programs>
+  </MarketCategory>
+  <MarketCategory Name="Finance" Id="FINANCE">
+    <Programs>
+      <Program Name="com.htc.android.Stock"/>
+    </Programs>
+  </MarketCategory>
+  <MarketCategory Name="Health &amp; Fitness" Id="HEALTH_AND_FITNESS">
+    <Programs>
+    </Programs>
+  </MarketCategory>
+  <MarketCategory Name="Lifestyle" Id="LIFESTYLE">
+    <Programs>
+      <Program Name="com.layar"/>
+    </Programs>
+  </MarketCategory>
+  <MarketCategory Name="Music &amp; Audio" Id="MUSIC_AND_AUDIO">
+    <Programs>
+      <Program Name="com.cooliris.media"/>
+      <Program Name="com.htc.soundrecorder"/>
+      <Program Name="com.htc.fm"/>
+      <Program Name="com.sec.android.app.fm"/>
+      <Program Name="com.android.camera"/>
+      <Program Name="com.android.music"/>
+      <Program Name="com.sec.android.app.camera"/>
+      <Program Name="com.google.android.youtube"/>
+      <Program Name="com.sec.android.app.videoplayer"/>
+      <Program Name="com.sec.android.app.voicerecorder"/>
+      <Program Name="com.sec.android.app.dlna"/>
+      <Program Name="com.htc.music"/>
+      <Program Name="com.htc.album"/>
+    </Programs>
+  </MarketCategory>
+  <MarketCategory Name="News &amp; Magazines" Id="NEWS_AND_MAGAZINES">
+    <Programs>
+      <Program Name="com.aol.mobile.engadget"/>
+      <Program Name="com.htc.newsreader"/>
+      <Program Name="com.newspaperdirect.pressreader.android.samsung"/>
+    </Programs>
+  </MarketCategory>
+  <MarketCategory Name="Weather" Id="WEATHER">
+    <Programs>
+      <Program Name="com.htc.Weather"/>
+    </Programs>
+  </MarketCategory>
+  <MarketCategory Name="Productivity" Id="PRODUCTIVITY">
+    <Programs>
+      <Program Name="com.htc.calendar"/>
+      <Program Name="com.android.calendar"/>
+      <Program Name="com.sec.android.app.clockpackage"/>
+      <Program Name="com.sec.android.app.memo"/>
+      <Program Name="com.sec.android.app.minidiary"/>
+    </Programs>
+  </MarketCategory>
+  <MarketCategory Name="Books &amp; Reference" Id="BOOKS_AND_REFERENCE">
+    <Programs>
+    </Programs>
+  </MarketCategory>
+  <MarketCategory Name="Shopping" Id="SHOPPING">
+    <Programs>
+    </Programs>
+  </MarketCategory>
+  <MarketCategory Name="Social" Id="SOCIAL">
+    <Programs>
+      <Program Name="com.facebook.katana"/>
+      <Program Name="com.twitter.android"/>
+      <Program Name="com.android.vkontakte"/>
+      <Program Name="com.htc.friendstream"/>
+      <Program Name="com.htc.htctwitter"/>
+      <Program Name="com.android.htccontacts"/>
+      <Program Name="com.sec.android.app.dialertab"/>
+      <Program Name="com.android.voicedialer"/>
+    </Programs>
+  </MarketCategory>
+  <MarketCategory Name="Themes" Id="THEMES">
+    <Programs>
+    </Programs>
+  </MarketCategory>
+  <MarketCategory Name="Tools" Id="TOOLS">
+    <Programs>
+      <Program Name="com.adao.android.afm"/>
+      <Program Name="com.softspb.shell"/>
+      <Program Name="com.google.android.apps.translate"/>
+      <Program Name="org.freedictionary"/>
+      <Program Name="com.google.android.apps.unveil"/>
+      <Program Name="com.android.stk"/>
+      <Program Name="com.android.settings"/>
+      <Program Name="com.htc.android.htcsetupwizard"/>
+      <Program Name="com.htc.soundrecorder"/>
+      <Program Name="com.qo.android.htc"/>
+      <Program Name="com.htc.pdfreader"/>
+      <Program Name="com.android.vending"/>
+      <Program Name="com.sec.android.app.dialertab"/>
+      <Program Name="com.android.voicedialer"/>
+      <Program Name="com.aldiko.android.samsung"/>
+      <Program Name="calculator"/>
+      <Program Name="com.sec.android.app.calculator"/>
+      <Program Name="com.sec.android.app.myfiles"/>
+      <Program Name="com.sec.android.app.writeandgo"/>
+      <Program Name="com.sec.android.app.controlpanel"/>
+      <Program Name="com.tf.thinkdroid.samsung"/>
+    </Programs>
+  </MarketCategory>
+  <MarketCategory Name="Travel &amp; Local" Id="TRAVEL_AND_LOCAL">
+    <Programs>
+      <Program Name="com.google.android.apps.maps"/>
+      <Program Name="com.htc.android.footprints"/>
+      <Program Name="com.htc.android.worldclock"/>
+    </Programs>
+  </MarketCategory>
+  <MarketCategory Name="Arcade &amp; Action" Id="ARCADE">
+    <Programs>
+      <Program Name="dk.logisoft.aircontrol"/>
+      <Program Name="com.htc.android.teeter"/>
+    </Programs>
+  </MarketCategory>
+  <MarketCategory Name="Brain &amp; Puzzle" Id="BRAIN">
+    <Programs>
+      <Program Name="square"/>
+    </Programs>
+  </MarketCategory>
+  <MarketCategory Name="Cards &amp; Casino" Id="CARDS">
+    <Programs>
+      <Program Name="com.dragonplay.liveholdem"/>
+    </Programs>
+  </MarketCategory>
+  <MarketCategory Name="Casual" Id="CASUAL">
+    <Programs>
+    </Programs>
+  </MarketCategory>
+</MarketCategories>

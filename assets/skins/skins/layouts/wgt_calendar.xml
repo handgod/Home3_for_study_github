@@ -1,0 +1,275 @@
+<?xml version="1.0"?>
+
+<Layouts Name="Agenda Widget" Type="widget">
+
+  <!-- **************************************************************************************************** -->
+
+  <Rules>
+    <PlatformCondition Platform="tablets">
+      <ScreenCondition Orientation="landscape">
+        <UseLayout Name="Tablets_Land"/>
+      </ScreenCondition>
+      <Default>
+        <UseLayout Name="Tablets_Port"/>
+      </Default>
+    </PlatformCondition>
+    <ScreenCondition Orientation="landscape">
+      <UseLayout Name="Landscape"/>
+    </ScreenCondition>
+    <Default>
+      <UseLayout Name="Portrait"/>
+    </Default>
+  </Rules>
+
+  <!-- **************************************************************************************************** -->
+
+  <General>
+    <Skin AutoSkin="calendar"/>
+    <Int Name="DialogData" Value="1"/>
+
+    <!-- All children will be cropped by their parent-->
+    <Int Name="ParentCrop" Value="1"/>    
+  </General>
+
+  <!-- **************************************************************************************************** -->
+
+  <!-- Group winth calendar events -->
+  <Layout Name="CalendarFrame">
+    <!-- Frame with calendar , "No Appointment" text, More apps text -->
+    <Plugins LayoutType="frame" StretchFactor="1">
+      <LayoutSize Width="0" Height="fill"/>
+
+      <!-- "Noappts" text -->
+      <Plugin Name="NoAppts" Class="Spb.LSP.Text" ID="2">
+        <LayoutSize Width="fill" Height="fill"/>
+        <DefaultFont Face="Droid Sans" HeightPxl="12" Bold="n" Color="FFFFFFFF"/>
+      </Plugin>
+
+      <Group Name="CalendarList" LayoutType="linear" Orientation="vertical" ID="100">
+        <LayoutSize Width="fill" Height="fill"/>
+        <!--<LayoutMargins Left="2"/>-->
+
+        <!-- Each item is a frame with selection, Subject+recuring icon, Time string-->
+        <Plugins Name="ApptItem" LayoutType="frame" StretchFactor="1">
+          <LayoutSize Width="fill" Height="0"/>
+
+          <!-- Frame with Appt info (added to provide center alignment) -->
+          <Plugins Name="ApptInfo" LayoutType="frame" Align="center_vert">
+            <LayoutSize Width="fill" Height="auto"/>
+            <LayoutMargins Bottom="5"/>
+
+            <!-- ApptName + recuring icon -->
+            <Plugins Name="ApptName" LayoutType="linear" Orientation="horizontal">
+              <LayoutMargins Top="2" Left="0"/>
+              <LayoutSize Width="fill" Height="13"/>
+
+              <Plugin Name="Subject" Class="Spb.LSP.Text" ID="4" Align="center_vert|left">
+                <LayoutSize Width="auto" Height="fill"/>
+                <DefaultFont Face="Droid Sans" HeightPxl="9" Bold="y" Color="FFFFFFFF"/>
+              </Plugin>
+
+              <Plugin Name="Recurring" Class="Spb.LSP.Image" ID="5" Align="center_vert">
+                <LayoutMargins Left="5"/>
+                <LayoutSize Width="auto" Height="auto"/>
+              </Plugin>
+
+            </Plugins>
+
+            <Plugin Name="Time" Class="Spb.LSP.Text" ID="6">
+              <LayoutSize Width="auto" Height="12"/>
+              <LayoutMargins Left="0" Top="13"/>
+              <DefaultFont Face="Droid Sans" HeightPxl="9" Bold="n" Color="FFFFFFFF"/>
+            </Plugin>
+          </Plugins>
+
+          <Plugin Name="ApptSelection" ID="3">
+            <LayoutSize Width="fill" Height="fill"/>
+          </Plugin>
+
+          <!-- Dashline separator -->
+          <Plugin Name="Dash" Class="Spb.LSP.DashLine" Align="top" Marins="0 3 3 0">
+            <Int Name="SkipGroupIndex" Value="0"/>
+            <!-- Skip separator for the first elem -->
+            <LayoutSize Width="fill" Height="1"/>
+          </Plugin>
+        </Plugins>
+      </Group>
+      
+      <Plugin Name="More" Class="Spb.LSP.Text" ID="7" Align="right|bottom">
+        <LayoutSize Width="auto" Height="14"/>
+        <DefaultFont Face="Droid Sans" HeightPxl="8" Bold="n" Color="FFFFFFFF"/>
+      </Plugin>
+
+    </Plugins>
+  </Layout>
+  
+  <Layout Name="Default">
+    <General>
+      <Int Name="ApptsCount" Value="2"/>
+    </General>
+    <Fix Width="fill" Height="fill">
+      <Plugin Name="wgt_frame" Class="Spb.LSP.StdFrame">
+        <LayoutSize Width="fill" Height="fill"/>
+      </Plugin>
+
+      <Row Name="Content" Width="fill" Height="fill" Margins="3">
+        <!-- Frame with shortcut and selection-->
+        <Plugins Name="ShortcutFrame" LayoutType="frame">
+          <LayoutSize Width="52" Height="fill"/>
+
+          <Plugin Name="Shortcut" ID="1" Align="center" Class="Spb.LSP.CalendarIconWidget">
+            <LayoutMargins Top="0"/>
+			      <Int Name="AsPlugin" Value="1"/>
+            <LayoutSize Width="fill" Height="fill"/>
+          </Plugin>
+
+          <Plugin Name="ShortcutSel" ID="8">
+            <LayoutSize Width="fill" Height="fill"/>
+          </Plugin>
+        </Plugins>        
+
+        <!-- Frame with calendar, "No Appointment" text, More apps text -->
+        <Plugins Name="CalendarFrame" Extends="CalendarFrame" StretchFactor="1">
+          <LayoutSize Width="0" Height="fill"/>
+          <LayoutMargins Right="3"/>
+        </Plugins>
+
+      </Row>
+    </Fix>
+  </Layout>
+
+  <Layout Name="Portrait">
+    <Plugins Extends="Default">
+      <Plugins>
+        <Plugins Name="ShortcutFrame" Width="60" Height="fill" Margins="1"/>
+      </Plugins>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="Tablets_Land">
+    <General>
+      <Int Name="ApptsCount" Value="3"/>
+    </General>
+   
+    <Plugins Extends="Default">
+      <Row Name="Content" Margins="5 3 3 5"/>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="Tablets_Port">
+    <General>
+      <Int Name="ApptsCount" Value="3"/>
+    </General>
+    <Plugins LayoutType="frame">
+      <LayoutSize Width="fill" Height="fill"/>
+
+      <Plugin Name="wgt_frame" Class="Spb.LSP.StdFrame">
+        <LayoutSize Width="fill" Height="fill"/>
+      </Plugin>
+
+      <Plugins Name="main" LayoutType="linear" Orientation="vertical">
+        <LayoutSize Width="fill" Height="fill"/>
+        <LayoutMargins Left="5" Right="5" Top="5" Bottom="5"/>
+
+        <!-- header with shortcut and program name -->
+        <Plugins Name="header" LayoutType="frame" Orientation="horizontal">
+          <LayoutSize Width="fill" Height="40"/>
+
+          <Plugin Name="ShortcutSel" ID="8">
+            <LayoutSize Width="fill" Height="fill"/>
+          </Plugin>
+
+          <Plugin Name="Shortcut" ID="1" Class="Spb.LSP.CalendarIconWidget">
+            <LayoutSize Width="54" Height="fill"/>
+            <LayoutMargins Top="1"/>
+            <Int Name="DrawName" Value="0"/>
+			      <Int Name="AsPlugin" Value="1"/>
+          </Plugin>
+
+          <Plugin Name="ProgramName" Class="Spb.LSP.Text" Align="left|center_vert">
+            <LayoutSize Width="auto" Height="auto"/>
+            <DefaultFont Face="Droid Sans" HeightPxl="10" Bold="n" Color="FFFFFFFF"/>
+            <LayoutMargins Left="46" Bottom="0"/>
+
+            <Int Name="DialogData" Value="0"/>
+            <String Name="Text" Value="Calendar"/>
+          </Plugin>
+        </Plugins>
+        
+        <Plugin Name="Separator" Class="Spb.LSP.Separator">
+          <LayoutSize Width="fill" Height="1"/>
+          <Int Name="Side" Value="2"/>
+        </Plugin>
+
+        <!-- Frame with calendar , "No Appointment" text, More apps text -->
+        <Plugins Name="CalendarFrame" Extends="CalendarFrame" StretchFactor="1">
+          <LayoutSize Width="fill" Height="40"/>
+
+          <!-- Group with calendar events -->
+          <Group Name="CalendarList">
+            <LayoutMargins Left="10" Right="10"/>
+          </Group>
+        </Plugins>
+
+      </Plugins>
+    </Plugins>
+  </Layout>
+
+
+  <Layout Name="Landscape">
+    <General>
+      <Int Name="ApptsCount" Value="2"/>
+    </General>
+    <Plugins LayoutType="frame">
+      <LayoutSize Width="fill" Height="fill"/>
+
+      <Plugin Name="wgt_frame" Class="Spb.LSP.StdFrame">
+        <LayoutSize Width="fill" Height="fill"/>
+      </Plugin>
+
+      <Plugins LayoutType="linear" Orientation="horizontal">
+        <LayoutSize Width="fill" Height="fill"/>
+        <LayoutMargins Top="2" Bottom="2" Left="3" Right="3"/>
+
+        <!-- Frame with shortcut and selection-->
+        <Plugins Name="ShortcutFrame" LayoutType="frame">
+          <LayoutSize Width="84" Height="fill"/>
+
+          <Plugin Name="ShortcutSel" ID="8">
+            <LayoutSize Width="fill" Height="fill"/>
+          </Plugin>
+
+          <Plugin Name="Shortcut" ID="1" Align="center" Class="Spb.LSP.CalendarIconWidget">
+            <LayoutSize Width="44" Height="26"/>
+            <LayoutMargins Top="4"/>
+            <Int Name="DrawName" Value="0"/>
+						<Int Name="AsPlugin" Value="1"/>
+          </Plugin>
+					
+        </Plugins>
+
+        <!-- Frame with calendar , "No Appointment" text, More apps text -->
+        <Plugins Name="CalendarFrame" Extends="CalendarFrame" StretchFactor="4">
+          <LayoutSize Width="46" Height="fill"/>
+          <LayoutMargins Right="3"/>
+
+          <Group Name="CalendarList">
+            <Plugins Name="ApptItem">
+              <Plugins Name="ApptInfo">
+                <Plugins Name="ApptName">
+                  <LayoutMargins Left="3" Top="1" Bottom="2"/>
+                </Plugins>
+                <Plugin Name="Time">
+                  <LayoutMargins Left="3" Top="12"/>
+                </Plugin>
+              </Plugins>
+            </Plugins>
+          </Group>
+
+        </Plugins>
+      </Plugins>
+    </Plugins>
+  </Layout>
+
+</Layouts>
+

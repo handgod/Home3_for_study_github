@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Layouts>
+
+  <Rules>
+    <PlatformCondition Platform="tablets">
+      <UseLayout Name="Default"/>
+    </PlatformCondition>
+    <ScreenCondition Orientation="landscape">
+      <UseLayout Name="Landscape"/>
+    </ScreenCondition>
+    <Default>
+      <UseLayout Name="Default"/>
+    </Default>
+  </Rules>
+
+  <General>
+    <DialogObject Value="Spb.Data.Tray"/>
+    <ScrollX Value="Auto"/>
+    <ScrollY Value="Off"/>
+    <DefaultFont Face="Droid Sans" HeightPxl="10" Bold="n" Color="FFFFFFFF"/>
+    <Point Name="CellSize"  X="34"  Y="34"/>
+    <Point Name="ItemSize"  X="32"  Y="32"/>
+  </General>
+
+  <Layout Name="Default">
+    <Plugins/>
+  </Layout>
+
+  <Layout Name="Landscape">
+    <General>
+      <ScrollX Value="Off"/>
+      <ScrollY Value="Auto"/>
+      <Int Name="Vertical" Value="1"/>
+    </General>
+    <Plugins Extends="Default"/>
+  </Layout>
+
+</Layouts>

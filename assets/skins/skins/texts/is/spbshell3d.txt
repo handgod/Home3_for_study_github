@@ -1,0 +1,519 @@
+ a few seconds| nokkrar sekúndur
+ day| dagur
+ days| dagar
+ hour| klst.
+ hours| klst.
+ hr| klst.
+ hrs| klst.
+ lunar day| tungldagur
+ min| mín.
+ mins| mín.
+ minute| mínúta
+ minutes| mínútur
+%d bought|%d keypt
+%d day|%d dagur
+%d days|%d dagar
+%d hour|%d klukkutími
+%d hours|%d klukkutímar
+%d minute|%d mínúta
+%d minutes|%d mínútur
+%d more...|%d meira...
+%i active channel|%i virk rás
+%i active channels|%i virkar rásir
+%i image|%i mynd
+%i images|%i myndir
+%i more today|%i meira í dag
+%i more...|&i meira...
+%i page|%i síða
+%i pages|%i síður
+%i%% of Full|%i%% af fullt
+%s 2007—2011 Yandex|%s 2007—2011 Yandex
+(<1 min)|(<1 mín.)
+(in|(eftir
+(in seconds)|(eftir sekúndur)
+(No title)|(Enginn titill)
+[ Loading images... ]|[ Hleður myndum... ]
+[ Tap here for images load ]|[ Ýttu hér fyrir myndahleðslu ]
+A few minutes ago|Fyrir nokkrum mínútum
+About|Um
+Above horizon|Fyrir ofan sjóndeildarhring
+Activate|Virkja
+Activation|Virkjun
+Activation failed. Check your Internet connection.|Ekki tókst að virkja. Athugaðu nettenginguna þína.
+Active Channels|Virkar rásir
+Active channels|Virkar rásir
+Add|Bæta við
+Add category|Bæta flokk við
+Add city|Bæta við borg
+Add custom channel|Bæta við sérstilltri rás
+Add new city|Bæta við nýrri borg
+Add note|Bæta við minnispunkti
+Add Panel|Bæta við glugga
+Add to Home screen|Bæta við heimaskjá
+Airplane|Flugvél
+Airplane Mode|Flugstilling
+All day|Allur dagurinn
+All pictures|Allar myndir
+Allow resizing of all Android widgets|Gera breytingar á stærð á öllum android græjum (widgets) kleift
+An hour ago|Fyrir einni klukkustund
+Android Shortcut|Android-flýtileið
+Android Widget|Android-græja
+Anniversary|Merkisdagur
+Appearance|Útlit
+Application|Forrit
+April|Apríl
+Aqua|Sægrænt
+Aquarius|Vatnsberi
+Aries|Hrútur
+as of %s|frá og með %s
+at %s|í %s
+atm|loftþ.
+Atmospheres|Loftþyngdir
+Atmospheric pressure scale|Loftþrýstingskvarði
+August|Ágúst
+Auto|Sjálfvirkt
+Auto (keyboard only)|Sjálfvirkt (eingöngu lyklaborð)
+Auto arrange widgets|Raða græjum sjálfkrafa
+Automatic|Sjálfvirkt
+Automatic naming|Sjálfvirk nafngift
+Backlight|Baklýsing
+Battery|Rafhlaða
+Below horizon|Fyrir neðan sjóndeildarhring
+Birthday|Afmælisdagur
+Birthdays|Afmælisdagar
+Black|Svartur
+Blue|Blár
+Bluetooth|Bluetooth
+Bookmarks|Bókamerki
+Bookmarks Folder|Bókamerkjamappa
+Business|Vinna
+Buy!|Kaupa!
+Cache size|Stærð skyndiminnis
+Calculator|Reiknivél
+Calendar|Dagbók
+Calendar Panel|Dagbókargluggi
+Calendar Panel Settings|Stillingar dagbókarglugga
+Call|Hringja
+Call Log|Símtalaskrá
+Cancel|Hætta við
+Cancer|Krabbi
+Capricorn|Steingeit
+Categories|Flokkar
+Category Name|Heiti flokks
+Celsius (#short)|Celsíus
+Change|Breyta
+Change City|Breyta borg
+Change profile|Breyta notandasniði
+Channels list|Rásalisti
+Choose Color|Velja lit
+Choose Program|Velja forrit
+Choose SPB Widget|Velja SPB-græju
+Choose widget|Velja græju
+Clear|Hreinsa
+Clear cache|Hreinsa skyndiminni
+Clock|Klukka
+Cloudy|Skýjað
+Cloudy, hail|Skýjað, haglél
+Cloudy, heavy rain|Skýjað, mikil rigining
+Cloudy, heavy snow|Skýjað, mikil snjókoma
+Cloudy, rain|Skýjað, rigning
+Cloudy, rain with snow|Skýjað, slydda
+Cloudy, snow|Skýjað, snjókoma
+Cloudy, thunder|Skýjað, þrumuveður
+Color anaglyph (red/cyan)|Þrívíddarmynd í lit (rauður/blágrænn)
+Communication|Samskipti
+Contact|Tengiliður
+Contacts|Tengiliðir
+Contacts Folder|Tengiliðamappa
+Copyright %s 2007-2011\nSPB Software|Copyright %s 2007-2011\nSPB Software
+Copyright %s 2007-2012\nSPB Software|Copyright %s 2007-2012\nSPB Software
+Create Folder|Búa til möppu
+Current|Núverandi
+Current city|Núverandi borg
+Current conditions|Núverandi skilyrði
+Current Conditions|Núverandi skilyrði
+Current skin|Núverandi útlit
+Day|Dagur
+Deal of the Day|Tilboð dagsins
+Deal of the Day Panel|Gluggi fyrir tilboð dagsins
+Deal of the Day Panel Settings|Stillingar glugga fyrir tilboð dagsins
+Deals|Tilboð
+December|Desember
+Default|Sjálfgefið
+Delete note|Eyða minnispunkti
+Dew point:|Daggarmark:
+Diagnostic tools|Greiningartæki
+Disabled|Óvirk
+Discoverable|Sýnilegur
+Done|Lokið
+Download Original|Sækja frumrit
+Downloading images|Sækir myndir
+E|A
+east|austur
+Edit channel|Breyta rás
+Edit note|Breyta minnispunkti
+Edit panels|Breyta gluggum
+Emergency only|Aðeins í neyð
+Empty Panel|Tómur gluggi
+Enable live wallpapers|Gera kvik veggfóður virk
+Enabled|Virk
+Enter RSS feed title|Slá inn titil RSS-straums
+Enter RSS feed URL|Slá inn vefslóð RSS-straums
+Entertainment|Afþreying
+Error|Villa
+Evening|Kvöld
+Every 2 hours|Á 2 klst. fresti
+Every 24 hours|Á sólarhrings fresti
+Every 30 Minutes|Á 30 mínútna fresti
+Every 30 minutes|Á 30 mínútna fresti
+Every 4 hours|Á 4 klst. fresti
+Every hour|Á klst. fresti
+Exit|Hætta
+Experimental|Á tilraunastigi
+Experimental Settings|Tilraunastillingar
+Experimental settings|Tilraunastillingar
+Fahrenheit (#short)|Fahrenheit
+Failed to load RSS|RSS misfórst að setja í gang
+Favorite Contacts|Eftirlætistengiliðir
+Favorite contacts|Eftirlætistengiliðir
+February|Febrúar
+Filter|Sía
+First day of the week|Fyrsti dagur vikunnar
+First Quarter|Fyrsti ársfjórðungur
+Flight|Flug
+Folder|Mappa
+Folder Name|Möppuheiti
+Forecast|Spá
+from forecast|úr spá
+Full Moon|Fullt tungl
+Gallery|Gallerí
+Games|Leikir
+Gemini|Tvíburi
+Grayscale anaglyph (red/cyan)|Þrívíddarmynd í grátónakvarða (rauður/blágrænn)
+Green|Grænn
+G-Sensor|G-Sensor
+Half an hour ago|Fyrir hálfri klukkustund
+Hectopascals|Hektópasköl
+Hide Duplicates|Fela tvítekningar
+Hide SIM Contacts|Fela tengiliði á SIM-korti
+Home|Heim
+Home Settings|Stillingar heimaskjás
+Home settings|Stillingar heimaskjás
+hpa|hPa
+Humidity:|Raki:
+in %u days|eftir %u daga
+in Home Settings|í stillingum heimaskjás
+inch|tomma
+Inches|Tommur
+Increase Counter|Auka teljara
+Interface mode|Viðmótsstilling
+Invisible|Ósýnilegur
+January|Janúar
+July|Júlí
+June|Júní
+Kilometers per hour|Kílómetrar á klukkustund
+Knots|hnútar
+knots|hnútar
+kph|km/klst.
+kts|hnútar
+Landscape|Langsnið
+Landscape orientation required to enable left-to-right stereo mode|Landslagslega er nauðsynleg til að virkja vinstri til hægri tvírása hljóm
+Large|Stór
+Last Call|Síðasta símtal
+Last Message|Síðustu skilaboð
+Last Quarter|Síðasti ársfjórðungur
+Last updated|Síðast uppfært
+Left-to-right (HTC EVO 3D)|Vinstri til hægri (HTC EVO 3D)
+Legal information|Lagaleg atriði
+Legal notices|Lagaleg atriði
+Leo|Ljón
+Libra|Vog
+Lifestyle|Lífstíll
+Live wallpapers can cause performance degradation of your 3D home screen. Switching between live and static wallpapers can take up to a minute. Static wallpapers are recommended for the best experience.|Live-veggfóður geta haft neikvæð áhrif á þrívíða heimaskjáinn. Það getur tekið allt að mínútu að skipta milli kviks og fasts veggfóðurs. Mælt er með föstu veggfóðri til að tryggja sem besta eiginleika.
+Loading failed|Ekki tókst að hlaða
+Loading image for wallpaper|Hleður mynd fyrir veggfóður
+Loading RSS feed %s...|Set RSS-streymi í gang %s...
+Loading skin failed!|Ekki tókst að hlaða útliti!
+Loading skins catalog failed!|Ekki tókst að hlaða útlitsskrá!
+Loading...|Hleður...
+Logging In...|Skráir inn...
+Lunar Calendar|Tunglalmanak
+Lunar day %d|Tungldagur %d
+Manage apps|Vinna með forrit
+Manage Apps|Vinna með forrit
+Manage panels|Vinna með glugga
+Manage Panels|Vinna með glugga
+March|Mars
+May|Maí
+Messaging|Skilaboð
+Meters per second|Metrar á sekúndu
+Miles per hour|Mílur á klukkustund
+Millimetres|Millimetrar
+Misc|Ýmislegt
+Miscellaneous|Ýmislegt
+mm|mm
+Mobile|Farsími
+Mode|Stilling
+Monday|Mánudagur
+Moon|Tungl
+Moon Calendar|Tunglalmanak
+Moon in %s,|Tungl í %s,
+Morning|Morgunn
+mph|míl/klst
+mps|m/s
+Multimedia|Margmiðlun
+Music|Tónlist
+Music albums|Hljómplötur
+N|N
+N/A|N/A
+nd|.
+NE|NA
+Network Status|Staða nets
+Never|Aldrei
+New Channel|Ný rás
+New channel|Ný rás
+New Contact|Nýr tengiliður
+New Folder|Ný mappa
+New Moon|Nýtt tungl
+News|Fréttir
+News Panel|Fréttagluggi
+News Panel Settings|Stillingar fréttaglugga
+next|næsta
+Next Alarm|Næsta hringing
+Night|Nótt
+No|Nei
+no|nei
+No Alarms|Engar hringingar
+No birthdays|Engir afmælisdagar
+No calls|Engar hringingar
+No Cities|Engar borgir
+No conditions|Engin skilyrði
+No Contacts.|Engir tengiliðir.
+No Countries|Engin lönd
+No deals loaded|Engum tilboðum hlaðið
+No Images|Engar myndir
+No messages|Engin skilaboð
+No news|Engar fréttir
+No rise/set info|Engar upplýsingar um upprás/lag
+No RSS feed found at|Enginn RSS-straumur fannst á
+No rss loaded|Ekkert rss sett í gang
+No SIM|Ekkert SIM-kort
+No text messages|Engin textaskilaboð
+No title|Nafnlaust
+No upcoming events|Engir viðburðir á döfinni
+No upcoming events in a week|Engir viðburðir á döfinni í viku
+No updates|Engar uppfærslur
+No weather forecast|Engin veðurspá
+Normal|Venjulegt
+north|norður
+north east|norðaustur
+north west|norðvestur
+Not available|Ekki tiltæk
+Not connected|Ekki tengd(ur)
+Notes|Minnispunktar
+Note's default color|Sjálfvalinn litur athugasemda
+Note's font|Leturgerð athugasemda
+Notes Panel|Minnispunktagluggi
+Notes Panel Settings|Stillingar minnispunktaglugga
+November|Nóvember
+NW|NV
+October|Október
+Off|Slökkt
+Offer|Tilboð
+On|Í gangi
+One Touch Share|One Touch Share
+Only on free connections|Aðeins með gjaldfrjálsum tengingum
+Open Contact|Opna tengilið
+Open in Browser|Opna í vafra
+OpenGL 2.0 is required to run SPB Shell 3D|Það þarf OpenGL 2.0 til að keyra SPB Shell 3D
+Optimized anaglyph (red/cyan)|Bestuð þrívíddarmynd (rauður/blágrænn)
+Other (assistant)|Annað (aðstoðarmaður)
+Page|Síða
+Pages: %d, images: %d|Síður: %d, myndir: %d
+Panel Name|Heiti glugga
+Parsing skins catalog failed!|Ekki tókst að þátta útlitsskrá!
+Partly cloudy|Skýjað með köflum
+Partly cloudy, rain|Skýjað með köflum, skúrir
+Partly cloudy, snow|Skýjað með köflum, snjókoma
+Partly cloudy, thunder|Skýjað með köflum, þrumuveður
+People|Fólk
+Performance Warning|Viðvörun vegna neikvæðra áhrifa
+Performance Warning dialog|Svargluggi viðvörunar vegna neikvæðra áhrifa
+Personal|Persónulegt
+Phone|Sími
+Photo folder for gallery widgets|Myndamappa fyrir gallerísgræjur
+Picture Gallery|Myndagallerí
+Picture of the Day|Mynd dagsins
+Picture Panel Settings|Stillingar myndaglugga
+Pictures|Myndir
+Pictures Of The Day|Myndir dagsins
+Pictures Panel|Myndagluggi
+Pictures Panel Settings|Stillingar myndaglugga
+Pictures Settings|Myndastillingar
+Pisces|Fiskar
+Please Log In|Skráðu þig inn
+Please wait...|Augnablik...
+Portrait|Skammsnið
+Pressure:|Þrýstingur:
+Problem loading widget|Vandamál við að hlaða græju
+Productivity|Framleiðni
+Program|Forrit
+Pulkovo|Pulkovo
+Purchase|Kaup
+Purple|Fjólublár
+Radio off|Slökkt á útvarpi
+rd_loc|.
+Reading appointments...|Les erindi...
+Recycle Bin|Ruslakarfa
+Red|Rauður
+Reduced|Smækkað
+Reload skin list|Endurhlaða útlitslista
+Remove All|Fjarlægja allt
+Rename|Endurnefna
+Rename Panel|Endurnefna glugga
+Requesting images|Biður um myndir
+Retry|Reyna aftur
+Rise: %s|Upprás: %s
+RSS Feed|RSS-straumur
+RSS Panel|RSS-gluggi
+RSS Panel Settings|Stillingar RSS-glugga
+S|S
+Safe mode|Öryggisstilling
+Sagittarius|Bogmaður
+Saint-Petersburg|Sankti Pétursborg
+Save as New|Vista sem nýtt
+Save to Existing|Vista í Eldra
+Scorpio|Sporðdreki
+Screen orientation|Skjásnið
+SE|SA
+Searching|Leitar
+Select Channel|Velja rás
+Select cities|Velja borgir
+Select e-mail address|Veldu netfang
+Select phone number:|Veldu símanúmer:
+Select shortcut|Velja flýtileið
+Select Skin|Velja útlit
+Select wallpaper from|Velja veggfóður úr
+Selected cities|Valdar borgir
+Selected City|Valin borg
+Selected city|Valin borg
+Send E-mail|Senda tölvupóst
+Send E-Mail|Senda tölvupóst
+Send Message|Senda skilaboð
+Send MMS|Senda MMS
+Send SMS|Senda SMS
+September|September
+Serial number:|Raðnúmer:
+Set as Home|Nota sem heimaskjá
+Set as Wallpaper|Nota sem veggfóður
+Set wallpaper|Velja veggfóður
+Set: %s|Lag: %s
+Settings|Stillingar
+Show all|Sýna allt
+Show all day events|Sýna heilsdagsviðburði
+Show all day events in calendar widgets|Sýna heilsdagsviðburði í dagbókargræjum
+Show full news|Sýna allar fréttir
+Show images in news|Sýna myndir í fréttum
+Silent|Hljóðlaust
+Skin loading|Verið er að hlaða útliti
+Small|Lítill
+Smartphone|Snjallsími
+Smog|Loftmengun
+Social|Tengslanet
+Sound Profile|Hljóðsnið
+south|suður
+south east|suðaustur
+south west|suðvestur
+SPB Shell 3D is loading...|SPB Shell 3D er að hlaðast...
+SPB Wallpapers|SPB veggfóður
+SPB Widget|SPB-græja
+st|.
+Standard Edition [Beta]|Standard Edition [Beta]
+Stereoscopic 3D mode|Þrívíddarstilling
+Stereoscopic 3D mode will be disabled|Rúmsjávarþrívídd verður afvirkjuð
+Stereoscopic 3D Settings|Þrívíddarstillingar
+Sun in %s,|Sól í %s,
+Sunday|Sunnudagur
+SW|SV
+Switching the interface mode can take up to a minute. Screen orientation will be changed to '%s'.|Það getur tekið allt að mínútu að skipta milli viðmótsstillinga. Skjásniði verður breytt í '%s'.
+System|Kerfi
+Tablet|Spjaldtölva
+Taurus|Naut
+Temperatur scale|Hitastigskvarði
+Temperature scale|Hitastigskvarði
+Test Battery|Prófa rafhlöðu
+th|.
+Thank you for your support. Your copy is now registered.|Þakka þér fyrir. Eintakið þitt hefur verið skráð.
+The experimental features below are not ready to be shipped in the core of SPB Shell 3D. They may contain severe defects and cause system instability. Use them at your own risk.|Eftirfarandi eiginleikar eru á tilraunastigi og eru ekki tilbúnir til að fylgja með kjarna SPB Shell 3D. Þeir kunna að innihalda alvarlega galla og geta gert kerfið óstöðugt. Notkun þeirra er á eigin ábyrgð.
+The maximum number of panels is reached|Hámarksfjölda glugga er náð
+The name cannot be changed.|Ekki er hægt að breyta heitinu.
+The previous launch of SPB Shell 3D was unsuccessful. Please tap "Retry" to launch it again or "Home" to activate a different Home screen.|Ekki tókst að ræsa SPB Shell 3D síðast þegar það var reynt. Ýttu á "Reyna aftur" til að ræsa það aftur eða á "Heim" til að velja annan heimaskjá.
+Time|Tími
+Time Panel|Tímagluggi
+Time Panel Settings|Stillingar tímaglugga
+Today|Í dag
+Toggle|Skipta milli
+Tomorrow|Á morgun
+Tools|Verkfæri
+Travel|Ferðalög
+Unfortunately, we could not locate your purchase in Android Market. Please uninstall this copy before installing a new one.|Því miður fundum við ekki það sem þú keyptir á Android Market. Fjarlægðu þetta eintak áður en þú setur nýtt upp.
+Unfortunately, we could not locate your purchase. Please uninstall this copy before installing a new one.|Því miður fundum við ekki það sem þú keyptir. Fjarlægðu þetta eintak áður en þú setur nýtt upp.
+Uninstall|Fjarlægja
+Uninstall apps|Fjarlægja forrit
+Unknown|Óþekkt
+Unknown location|Óþekkt staðsetning
+Upcoming events|Viðburðir á döfinni
+Update|Uppfæra
+Update deals list automatically|Uppfæra tilboðalista sjálfkrafa
+Update Now|Uppfæra núna
+Update pictures page automatically|Uppfæra myndasíðu sjálfkrafa
+Update weather forecasts automatically|Uppfæra veðurspár sjálfkrafa
+Updated|Uppfært
+Updated:|Uppfært:
+Updating image|Uppfærir mynd
+Updating...|Uppfærir...
+Use 3D in application list|Nota þrívídd í forritalista
+Use 3D in edit mode|Nota þrívídd í breytingastillingu
+Use cellular connection for updating deals list|Nota farsímatengingu til að uppfæra tilboðalista
+Use cellular connection for updating deals list automatically|Notaðu GSM-tenginu til að uppfæra listann sjálfkrafa
+Use cellular connection for updating pictures automatically|Nota farsímatengingu til að uppfæra myndir sjálfkrafa
+Use cellular connection for updating weather automatically|Notaðu GSM-tengingu til að uppfæra verður sjálfkrafa
+Use new color every time|Nota nýjan lit í hvert sinn
+Use previous note's color|Nota fyrri lit athugasemda
+Value|Verðmæti
+variable|breytileg
+Version %s, Build %s|Útgáfa %s, smíð %s
+Vibro|Titringur
+Video Call|Myndsímtal
+View Duplicates|Sýna tvítekningar
+View SIM Contacts|Skoða tengiliði á SIM-korti
+Virgo|Meyja
+W|V
+Wallpaper|Veggfóður
+Wallpapers|Veggfóður
+Waning Crescent|Minnkandi mánasigð
+Waning Gibbous|Minnkandi gleitt tungl
+Waxing Crescent|Vaxandi mánasigð
+Waxing Gibbous|Vaxandi gleitt tungl
+Weather|Veður
+Weather and Clock|Veður og klukka
+Weather Forecast|Veðurspá
+Weather Settings|Veðurstillingar
+Welcome to notes panel|Velkominn í stjórnborð athugasemda
+west|vestur
+Widget is too big to be added.|Græjan er of stór og er því ekki hægt að bæta henni við.
+Widgets|Græjur
+Widgets Settings|Græjustillingar
+Wind direction:|Vindátt:
+Wind speed scale|Vindhraðakvarði
+Wind speed:|Vindhraði:
+Wind:|Vindur:
+Work|Vinna
+World Time|Heimstími
+Wrong serial number. Please check it again.|Rangt raðnúmer. Athugaðu það aftur.
+Yandex.Search|Yandex.Search
+Yellow|Gulur
+Yes|Já
+Yesterday|Í gær
+You save|Þú sparar
+Your video system isn't compatible with Shell 3D.|Myndkerfið er ekki samhæft við Shell 3D.

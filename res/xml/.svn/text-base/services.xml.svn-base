@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<services>
+    <service title="Главная" key="search" url="http://www.yandex.ru/?clid=%s" />
+    <service title="Картинки" key="images" url="http://m.images.yandex.ru/?clid=%s" queryUrl="http://m.images.yandex.ru/search?clid=%s&amp;text=%s" />
+    <service title="Новости " key="news" url="http://m.news.yandex.ru/?clid=%s" queryUrl="http://m.news.yandex.ru/yandsearch?rpt=nnews2&amp;clid=%s&amp;text=%s" />
+    <service title="Почта" key="mail" packageName="ru.yandex.mail" activityName="ru.yandex.mail.ui.MailListActivity" url="http://mail.yandex.ru/lite/inbox/?clid=%s" />
+    <service title="Карты" key="map" packageName="ru.yandex.yandexmaps" activityName="ru.yandex.yandexmaps.MapActivity" url="http://m.maps.yandex.ru/?clid=%s" queryUrl="http://m.maps.yandex.ru/?where=&amp;clid=%s&amp;text=%s" alwaysViaUrl="false" />
+    <service title="Маркет" key="market" packageName="ru.yandex.market" activityName="ru.yandex.market.ui.MainActivity" url="http://m.market.yandex.ru/?clid=%s" queryUrl="http://m.market.yandex.ru/search.xml?clid=%s&amp;text=%s" />
+    <service title="Словари" key="translate" url="http://m.slovari.yandex.ru/?clid=%s" queryUrl="http://m.slovari.yandex.ru/search.xml?clid=%s&amp;text=%s" />
+    <service title="Все\nсервисы" key="all" noImage="true" url="http://www.yandex.ru/all.xml?clid=%s" />
+</services>

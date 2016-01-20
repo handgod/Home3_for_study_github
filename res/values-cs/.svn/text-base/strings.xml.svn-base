@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SPB Shell 3D</string>
+    <string name="weather_city_title">Pro spuštění automatického doplnění napište 3 písmena:</string>
+    <string name="weather_enter_city_name">Vložte název města</string>
+    <string name="weather_more_cities">Více...</string>
+    <string name="weather_locate_nearest_city">Vyhledat nejbližší město</string>
+    <string name="weather_current_location">Aktuální umístění</string>
+    <string name="searching_city_title">Zjišťování polohy</string>
+    <string name="searching_city_progress">Vyhledávání nejbližších měst...</string>
+    <string name="city_location_failed">Chyba při lokalizaci nejbližšího města</string>
+    <string name="dialog_shell_loading">SPB Shell 3D se načítá...</string>
+    <string name="gadget_error_text">Problém při stahování miniaplikace</string>
+    <string name="dialog_select_shortcut">Vybrat zástupce</string>
+    <string name="dialog_choose_widget">Vybrat miniaplikaci</string>
+    <string name="chooser_wallpaper">Vybrat pozadí z</string>
+    <string name="wallpaper_instructions">Nastavit pozadí</string>
+    <string name="pick_wallpaper">Tapety</string>
+    <string name="wallpapers_spb">Tapety SPB</string>
+    <string name="yes">Ano</string>
+    <string name="no">Ne</string>
+    <string name="wait">Čekejte prosím.</string>
+    <string name="home_widget_error">Miniaplikace je příliš velká.</string>
+    <string name="cancel">Storno</string>
+    <string name="error">error</string>
+    <string name="infinity">infinity</string>
+    <string name="dialog_unsupported_devices_title">Chyba</string>
+    <string name="dialog_unsupported_devices_message">Pro spuštění SPB Shell 3D je vyžadován OpenGl 2.0</string>
+    <string name="license_fail">Bohužel jsme v Android Marketu nelokalizovali váš nákup. Odinstalujte prosím tuto kopii před instalací nové.</string>
+    <string name="purchase">Koupit</string>
+    <string name="exit">Odejít</string>
+    <string name="legal_notices_title">Právní informace</string>
+    <string name="license_fail_handango">Bohužel se nám nepodařilo lokalizovat váš nákup. Před novou instalací programu odinstalujte tuto kopii, prosím.</string>
+    <string name="safe_mode_title">Bezpečný režim</string>
+    <string name="safe_mode_text">Předchozí spuštění SPB Shell 3D bylo neúspěšné. Pro nové spuštění prosím tapněte na \"Zkusit znovu\" nebo \"Domů\" pro aktivaci jiné domácí obrazovky.</string>
+    <string name="safe_mode_retry">Znovu</string>
+    <string name="safe_mode_home">Hlavní</string>
+    <string name="sd_install_title">Chyba</string>
+    <string name="sd_install_text">Installation to a storage card is not supported. Please install SPB Shell 3D to the main memory</string>
+    <string name="contacts_failed_pick">Nepodařilo se načíst vybraný kontakt. Zkuste odkaz na kontakt na účet Google nebo uložit do telefonu.</string>
+</resources>

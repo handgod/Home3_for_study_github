@@ -1,0 +1,268 @@
+<?xml version="1.0"?>
+
+<Layouts Name="Clock Widget" Type="widget">
+
+  <Rules>
+    <PlatformCondition Platform="tablets">
+      <ScreenCondition Orientation="portrait">
+        <UseLayout Name="TP"/>
+      </ScreenCondition>
+	    <Default>
+	      <UseLayout Name="TL"/>
+	    </Default>
+    </PlatformCondition>
+    <PlatformCondition Platform="smartphone">
+      <ScreenCondition Orientation="portrait">
+        <UseLayout Name="SP"/>
+      </ScreenCondition>
+	    <Default>
+	      <UseLayout Name="SL"/>
+	    </Default>
+    </PlatformCondition>
+    <Default>
+      <UseLayout Name="SP"/>
+    </Default>
+  </Rules>
+
+  <General>
+    <Skin AutoSkin="wgt_clock"/>
+    <DefaultFont Face="Droid Sans" HeightPxl="10" Bold="n" Color="FFFFFFFF"/>
+
+    <Int Name="DialogData" Value="1"/>
+
+    <Int Name="Align" Value="32769"/>
+    <!-- DT_END_ELLIPSIS | DT_CENTER-->
+
+    <!-- All children will be cropped by their parent-->
+    <Int Name="ParentCrop" Value="1"/>
+  </General>
+
+
+  <Layout Name="TP">
+
+    <Fix Width="fill" Height="fill">
+      <Plugin Name="wgt_frame" Class="Spb.LSP.StdFrame" Width="fill" Height="fill"/>
+
+      <Row Width="fill" Height="fill" Margins="9 10 9 8">
+        <Fix Width="auto" Height="fill" Factor="2">
+          <Plugin Name="frame9p" Class="Spb.LSP.9Patch" Width="fill" Height="fill">
+            <String Name="ImageName" Value="frame"/>            
+          </Plugin>
+		  
+          <Row Width="auto" Height="auto" Margins="5 5 0 5" Align="center">
+            <Plugin Name="TimeLbl" Class="Spb.LSP.Text" ID="0" Factor="3"
+                    Width="auto" Height="auto" Align="center">
+              <DefaultFont Face="Droid Sans" HeightPxl="22" Bold="y" Color="FFFFFFFF"/>
+            </Plugin>
+            <Col Width="auto" Height="auto" Factor="1" Margins="3">
+              <Plugin Name="DateSht" Class="Spb.LSP.Text" ID="2" Width="auto" Height="auto"/>
+              <Plugin Name="AMPMLbl" Class="Spb.LSP.Text" ID="1" Width="auto" Height="auto"/>
+            </Col>
+          </Row>
+        </Fix>
+        <Col Width="auto" Height="auto" Factor="1" Align="center_vert">
+          <Plugin Name="IconAlr" Class="Spb.LSP.Image" Margins="5"
+                  Width="auto" Height="auto" Align="center_horz">
+            <Int Name="DialogData" Value="0"/>
+            <String Name="ImageName" Value="alarm" />
+          </Plugin>
+          <Plugin Name="NoAlrms" Class="Spb.LSP.Text" ID="7"
+                  Width="auto" Height="auto" Align="center_horz"/>
+          <Plugin Name="AlrWhen" Class="Spb.LSP.Text" ID="8"
+                  Width="auto" Height="auto" Align="center_horz"/>
+        </Col>
+      </Row>
+    </Fix>
+  </Layout>
+
+
+  <Layout Name="TL">
+
+    <Fix Width="fill" Height="fill">
+      <Plugin Name="wgt_frame" Class="Spb.LSP.StdFrame" Width="fill" Height="fill"/>
+
+      <Row Width="fill" Height="fill" Margins="8 9 8 7">
+        <Fix Width="auto" Height="fill" Factor="2">
+          <Plugin Name="frame9p" Class="Spb.LSP.9Patch" Width="fill" Height="fill">
+            <String Name="ImageName" Value="frame"/>            
+          </Plugin>
+          
+          <Row Width="auto" Height="auto" Margins="2" Align="center">
+            <Plugin Name="TimeLbl" Class="Spb.LSP.Text" ID="0" Factor="3"
+                    Width="auto" Height="auto" Align="center" Margins="0 3 3 0">
+              <DefaultFont Face="Droid Sans" HeightPxl="22" Bold="y" Color="FFFFFFFF"/>
+            </Plugin>
+            <Plugin Name="AMPMLbl" Class="Spb.LSP.Text" ID="1" Width="auto" Height="auto"
+                    Margins="3 1 1 3" Align="center_horz|bottom" Factor="1"/>
+            <Plugin Name="Separat" Class="Spb.LSP.Separator" 
+										Width="1" Height="fill" Margins="0 3 3 0">
+              <Int Name="Side" Value="1"/>
+            </Plugin>
+            <Col Width="auto" Height="fill" Factor="2" Margins="0 3 3 0">
+              <Plugin Name="WeekLng" Class="Spb.LSP.Text" ID="5"
+                      Width="auto" Height="auto" Align="center_horz"/>
+              <Plugin Name="DateLng" Class="Spb.LSP.Text" ID="3"
+                      Width="auto" Height="auto" Align="center_horz"/>
+            </Col>
+          </Row>
+        </Fix>
+        <Col Width="auto" Height="auto" Factor="1" Align="center_vert">
+          <Plugin Name="IconAlr" Class="Spb.LSP.Image" Margins="3"
+                  Width="auto" Height="auto" Align="center_horz">
+            <Int Name="DialogData" Value="0"/>
+            <String Name="ImageName" Value="alarm" />
+          </Plugin>
+          <Plugin Name="NoAlrms" Class="Spb.LSP.Text" ID="7"
+                  Width="auto" Height="auto" Align="center_horz"/>
+          <Plugin Name="AlrWhen" Class="Spb.LSP.Text" ID="8"
+                  Width="auto" Height="auto" Align="center_horz"/>
+        </Col>
+      </Row>
+    </Fix>
+  </Layout>
+
+
+  <Layout Name="SP">
+
+    <Fix Width="fill" Height="fill">
+      <Plugin Name="wgt_frame" Class="Spb.LSP.StdFrame" Width="fill" Height="fill"/>
+
+      <Col Width="fill" Height="fill" Margins="8">
+        <Fix Width="fill" Height="auto">
+          <Plugin Name="frame9p" Class="Spb.LSP.9Patch" Width="fill" Height="fill">
+            <String Name="ImageName" Value="frame"/>            
+          </Plugin>
+		  		
+          <Row Width="fill" Height="auto" Margins="3" Align="center">
+
+<!-- font time - begin -->
+
+            <Plugin Name="TimeLbl" Class="Spb.LSP.Text" ID="0" Factor="4"
+                    Width="auto" Height="auto" Margins="0 3 3 0">
+              <DefaultFont Face="Droid Sans" HeightPxl="28" Bold="y" Color="FFFFFFFF"/>
+            </Plugin>
+            <Plugin Name="AMPMLbl" Class="Spb.LSP.Text" ID="1" Width="auto" Height="auto"
+                   Margins="3" Align="bottom" Factor="1"/>
+
+<!-- font time - begin -->
+
+<!-- graphical time - begin -->
+<!--
+						<Row Width="auto" Height="auto" Factor="4">
+								<Row Width="auto" Height="auto" Factor="4" Align="center_horz">
+									<Plugin Name="HoursImage1" Class="Spb.LSP.Image" ID="13" Width="auto" Height="auto" Margins="8"/>
+									<Plugin Name="HoursImage2" Class="Spb.LSP.Image" ID="14" Width="auto" Height="auto" Margins="8"/>
+									<Col Width="auto" Height="auto">
+				            <Plugin Name="AMPMLbl" Class="Spb.LSP.Text" ID="1" Width="auto" Height="auto">
+											<DefaultFont Face="Droid Sans" HeightPxl="7" Bold="y" Color="FFFFFFFF"/>
+										</Plugin>
+										<Plugin Name="Column" Class="Spb.LSP.Image" Width="auto" Height="auto">
+											<Int Name="DialogData" Value="0"/>
+	            				<String Name="ImageName" Value="column" />
+										</Plugin>
+									</Col>
+									<Plugin Name="MinutesImage1" Class="Spb.LSP.Image" ID="15" Width="auto" Height="auto" Margins="8"/>
+									<Plugin Name="MinutesImage2" Class="Spb.LSP.Image" ID="16" Width="auto" Height="auto" Margins="8"/>
+								</Row>
+						</Row>
+-->
+<!-- graphical time - end -->
+
+            <Plugin Name="Separat" Class="Spb.LSP.Separator" Width="1" Height="fill">
+              <Int Name="Side" Value="1"/>
+            </Plugin>
+
+            <Col Width="auto" Height="fill" Factor="4">
+              <Plugin Name="WeekLng" Class="Spb.LSP.Text" ID="5"
+                      Width="auto" Height="auto" Margins="2" Align="center_horz">
+                <DefaultFont Face="Droid Sans" HeightPxl="10" Bold="y" Color="FFFFFFFF"/>
+              </Plugin>
+              <Plugin Name="DateLng" Class="Spb.LSP.Text" ID="3"
+                      Width="auto" Height="auto" Margins="2" Align="center_horz">
+                <DefaultFont Face="Droid Sans" HeightPxl="10" Bold="y" Color="FFFFFFFF"/>
+              </Plugin>
+            </Col>
+
+          </Row>
+        </Fix>
+
+        <Row Width="auto" Height="auto" Margins="3" Align="center_horz">
+          <Plugin Name="IconAlr" Class="Spb.LSP.Image" Margins="0 3 3 0"
+                  Width="auto" Height="auto">
+            <Int Name="DialogData" Value="0"/>
+            <String Name="ImageName" Value="alarm" />
+          </Plugin>
+          <Plugin Name="NoAlrms" Class="Spb.LSP.Text" ID="7" Margins="0 1 1 0"
+                  Width="auto" Height="auto">
+            <DefaultFont Face="Droid Sans" HeightPxl="10" Bold="y" Color="FFFFFFFF"/>
+          </Plugin>
+          <Plugin Name="AlrmLbl" Class="Spb.LSP.Text" ID="6" Margins="0 1 1 0"
+                  Width="auto" Height="auto">
+            <DefaultFont Face="Droid Sans" HeightPxl="10" Bold="y" Color="FFFFFFFF"/>
+          </Plugin>
+          <Plugin Name="AlrWhen" Class="Spb.LSP.Text" ID="8" Margins="0 1 1 0"
+                  Width="auto" Height="auto"/>
+          <Plugin Name="WaitSht" Class="Spb.LSP.Text" ID="10" Margins="0 1 1 0"
+                  Width="auto" Height="auto"/>
+        </Row>
+
+      </Col>
+    </Fix>
+
+  </Layout>
+
+  <Layout Name="SL">
+
+    <Fix Width="fill" Height="fill">
+      <Plugin Name="wgt_frame" Class="Spb.LSP.StdFrame" Width="fill" Height="fill"/>
+
+      <Row Width="fill" Height="fill" Margins="8 9 8 7">
+        <Fix Width="0" Height="fill" Factor="2">
+          <Plugin Name="frame9p" Class="Spb.LSP.9Patch" Width="fill" Height="fill">
+            <String Name="ImageName" Value="frame"/>            
+          </Plugin>
+          
+          <Row Width="fill" Height="auto" Margins="2" Align="center">
+            <Plugin Name="TimeLbl" Class="Spb.LSP.Text" ID="0" Factor="3"
+                    Width="auto" Height="auto" Margins="0 3 3 0">
+              <DefaultFont Face="Droid Sans" HeightPxl="22" Bold="y" Color="FFFFFFFF"/>
+            </Plugin>
+            <Col Width="auto" Height="auto" Factor="1">
+              <Plugin Name="AMPMLbl" Class="Spb.LSP.Text" ID="1"
+                      Width="auto" Height="auto" Margins="3 1 1 0" Align="left">
+                <DefaultFont Face="Droid Sans" HeightPxl="9" Bold="n" Color="FFFFFFFF"/>
+              </Plugin>
+            </Col>
+            <Plugin Name="Separat" Class="Spb.LSP.Separator" 
+										Width="1" Height="fill" Margins="0 3 3 0">
+              <Int Name="Side" Value="1"/>
+            </Plugin>
+            <Col Width="auto" Height="fill" Factor="4" Margins="0 3 3 0">
+              <Plugin Name="WeekLng" Class="Spb.LSP.Text" ID="5"
+                      Width="auto" Height="auto" Align="center_horz"/>
+              <Plugin Name="DateLng" Class="Spb.LSP.Text" ID="3"
+                      Width="auto" Height="auto" Align="center_horz"/>
+            </Col>
+          </Row>
+        </Fix>
+        <Col Width="0" Height="auto" Factor="1" Align="center_vert">
+					<Row Width="auto" Height="auto" Align="center" Factor="1">
+						<Plugin Name="IconAlr" Class="Spb.LSP.Image" Margins="3"
+                  Width="auto" Height="auto" Align="center_horz">
+            	<Int Name="DialogData" Value="0"/>
+            	<String Name="ImageName" Value="alarm" />
+          	</Plugin>
+	          <Plugin Name="AlrWhen" Class="Spb.LSP.Text" ID="8" Margins="2 0 0 0"
+	                  Width="auto" Height="auto" Align="center_horz"/>
+					</Row>
+          <Plugin Name="NoAlrms" Class="Spb.LSP.Text" ID="7"
+                  Width="auto" Height="auto" Align="center_horz"/>
+	        <Plugin Name="WaitSht" Class="Spb.LSP.Text" ID="10"
+	                Width="auto" Height="auto" Align="center_horz"/>
+        </Col>
+      </Row>
+    </Fix>
+  </Layout>
+
+
+</Layouts>

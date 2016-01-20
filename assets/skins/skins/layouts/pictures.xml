@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Layouts Name="Picture panel" Type="panel">
+
+  <Layers>
+    <Layer Name="PanelFrame" Dialog="PanelFrame"/>
+    <Layer/>
+  </Layers>
+
+  <Rules>
+    <!-- tablets specification -->
+    <PlatformCondition Platform="tablets">
+      <ScreenCondition Orientation="landscape">
+        <UseLayout Name="Landscape_Tablet"/>
+      </ScreenCondition>
+      <ScreenCondition Orientation="portrait">
+        <UseLayout Name="Portrait_Tablet"/>
+      </ScreenCondition>
+    </PlatformCondition>
+  
+    <ScreenCondition Width="800" Height="480">
+      <UseLayout Name="Landscape_Small"/>
+    </ScreenCondition>
+  
+    <ScreenCondition Width="854" Height="480">
+      <UseLayout Name="Landscape_3x4"/>
+    </ScreenCondition>
+
+    <ScreenCondition Width="320" Height="480">
+      <UseLayout Name="Portrait_Small"/>
+    </ScreenCondition>
+
+    <ScreenCondition Width="480" Height="320">
+      <UseLayout Name="Landscape_3x4"/>
+    </ScreenCondition>
+
+    <ScreenCondition Width="240" Height="320">
+      <UseLayout Name="Portrait_Small"/>
+    </ScreenCondition>
+
+    <ScreenCondition Width="960" Height="540">
+      <UseLayout Name="Landscape_3x3"/>
+    </ScreenCondition>
+
+    <ScreenCondition Width="1024" Height="600">
+      <UseLayout Name="Landscape_3x3"/>
+    </ScreenCondition>
+
+    <ScreenCondition Width="1280" Height="800">
+      <UseLayout Name="Landscape_3x4"/>
+    </ScreenCondition>
+
+    <ScreenCondition Width="1280" Height="720">
+      <UseLayout Name="Landscape_3x3"/>
+    </ScreenCondition>
+
+<!-- Special case for Nexux Prime Landscape-->
+    <ScreenCondition Width="1196" Height="720">
+      <UseLayout Name="Landscape_3x3"/>
+    </ScreenCondition>
+
+    
+    <ScreenCondition Orientation="landscape">
+      <UseLayout Name="Landscape"/>
+    </ScreenCondition>
+    <Default>
+      <UseLayout Name="Portrait"/>
+    </Default>
+  </Rules>
+
+  <General>
+    <Skin AutoSkin="pnl_pictures"/>
+  </General>
+  <Layout Name="PictureFrame">
+    <Frame Factor="1" Width="fill" Height="0">
+      <Plugin Name="MainPic" ID="5" Width="fill" Height="fill" />
+
+      <Plugin Name="MainLbl" ID="6" Align="bottom" Width="fill" Height="11" Margins="2">
+        <Font Name="Default"  Face="Droid Sans" HeightPxl="8"  Bold="n" Color="FF000000"/>
+      </Plugin>
+    </Frame>
+  </Layout>
+
+  <Layout Name="Portrait">
+	  <General>
+		  <Int Name="ByX" Value="5"/>
+		  <Int Name="ByY" Value="3"/>
+	  </General>
+    <Frame Width="fill" Height="fill">
+      <Plugins Extends="common:PanelSettings"/>
+
+      <Col Width="fill" Height="fill" Margins="14 15 15 57">
+
+        <Plugin Name="Caption" ID="2" Width="fill" Height="16">
+          <Font Name="Default"  Face="Droid Sans" HeightPxl="12" Bold="y" Color="FFFFFFFF"/>
+        </Plugin>
+
+        <Plugin Name="Label" ID="3" Width="fill" Height="16">
+          <Font Name="Default"  Face="Droid Sans" HeightPxl="11" Bold="n" Color="FFFFFFFF"/>
+        </Plugin>
+
+        <Plugins Extends="PictureFrame" Width="fill" Height="0" Margins="2 0 0 2"/>
+
+        <!-- Group of pictures -->
+        <Col Dynamic="1" Name="ThumbsV" ID="1001" Width="fill" Height="auto" Margins="3 0 0 2">
+          <Row Dynamic="1" Name="ThumbsH" ID="1002" Width="fill" Height="auto">
+            <MiddleGap Factor="1"/>
+            <Plugin Name="Thumb"  ID="10" Width="38" Height="38" Margins="2 0 0 3"/>
+          </Row>
+        </Col>
+
+      </Col>
+
+      <Plugin Name="AnimationPlaceHolder" ID="99" Width="1" Height="1"/>
+
+    </Frame>
+  </Layout>
+
+  <Layout Name="Landscape">
+    <General>
+      <Int Name="ByX" Value="4"/>
+      <Int Name="ByY" Value="4"/>
+    </General>
+    <Plugins LayoutType="frame" Width="fill" Height="fill">
+      <Plugins Extends="common:PanelSettings_L"/>
+
+      <Plugins Name="G0" LayoutType="linear" Orientation="vertical">
+        <LayoutMargins Left="14" Top="14" Right="56" Bottom="14"/>
+        <LayoutSize Width="fill" Height="fill"/>
+
+        <Plugin Class="Spb.LSP.Generic" Name="Caption" ID="2">
+          <LayoutSize Width="fill" Height="16"/>
+
+          <Font Name="Default"  Face="Droid Sans" HeightPxl="12" Bold="y" Color="FFFFFFFF"/>
+        </Plugin>
+
+        <Plugin Class="Spb.LSP.Generic" Name="Label"   ID="3">
+          <LayoutSize Width="fill" Height="16"/>
+
+          <Font Name="Default"  Face="Droid Sans" HeightPxl="11" Bold="n" Color="FFFFFFFF"/>
+        </Plugin>
+
+        <Plugins LayoutType="linear" Orientation="horizontal" StretchFactor="1">
+          <LayoutSize Width="fill" Height="0"/>
+          <LayoutMargins Top="4"/>
+
+          <Plugins Extends="PictureFrame" StretchFactor="3">
+            <LayoutSize Width="0" Height="fill"/>
+          </Plugins>
+
+          <Group Name="PicturesGroup" ID="1001" LayoutType="linear" Orientation="vertical" StretchFactor="2">
+            <LayoutSize Width="0" Height="fill"/>
+            <MiddleGap StretchFactor="1"/>
+
+            <Group Name="ThumbsH" ID="1002" LayoutType="linear" Orientation="horizontal">
+              <LayoutSize Width="fill" Height="auto"/>
+              
+              <Plugin Class="Spb.LSP.Generic" Name="Thumb"  ID="10" Align="right" StretchFactor="1">
+                <LayoutSize Width="38" Height="38"/>
+              </Plugin>
+            </Group>
+          </Group>
+          
+        </Plugins>
+      </Plugins>
+
+      <Plugin Class="Spb.LSP.Generic" Name="AnimationPlaceHolder" ID="99">
+        <LayoutSize Width="1" Height="1"/>
+      </Plugin>
+
+    </Plugins>
+  </Layout>
+
+  <Layout Name="Landscape_Small">
+    <General>
+      <Int Name="ByX" Value="3"/>
+    </General>
+    <Plugins Extends="Landscape">
+    </Plugins>
+  </Layout>
+
+  <Layout Name="Portrait_Small">
+    <General>
+      <Int Name="ByY" Value="2"/>
+    </General>
+    <Plugins Extends="Portrait">
+    </Plugins>
+  </Layout>
+
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="Landscape_Tablet">
+
+    <General>
+      <Int Name="ByX" Value="3"/>
+      <Int Name="ByY" Value="4"/>
+    </General>
+
+    <Plugins LayoutType="frame" Width="fill" Height="fill">
+      <Plugins Extends="common:PanelSettings_Tablet"/>
+
+      <Plugins Name="G0" LayoutType="linear" Orientation="vertical">
+        <LayoutSize Width="fill" Height="fill"/>
+
+        <Row Width="fill" Height="30">
+          <!-- "Flickr" title -->
+          <Plugin Name="Caption" ID="2" Width="35" Height="30">
+            <Font Name="Default"  Face="Droid Sans" HeightPxl="12" Bold="y" Color="FFFFFFFF"/>
+          </Plugin>
+          
+          <!-- ". " title -->
+          <Plugin Name="Dot" Class="Spb.LSP.Text" Width="auto" Height="30" Margins="0 0 4 0">
+            <DefaultFont Face="Droid Sans" HeightPxl="12" Bold="y" Color="FFFFFFFF"/>
+            <Int Name="DialogData" Value="0"/>
+            <String Name="Text" Value="."/>
+          </Plugin>
+
+          <!-- "Picture of the day" title -->
+          <Plugin Class="Spb.LSP.Generic" Name="Label" ID="3">
+            <LayoutSize Width="fill" Height="30"/>
+            <Int Name="textalign" Value="4"/>
+            <Font Name="Default"  Face="Droid Sans" HeightPxl="12" Bold="y" Color="FFFFFFFF"/>
+          </Plugin>
+        </Row>
+
+        <!-- container to layout pictures / thumbnails -->
+        <Plugins LayoutType="linear" Orientation="horizontal" StretchFactor="1">
+          <LayoutSize Width="fill" Height="0"/>
+          <LayoutMargins Bottom="30"/>
+
+          <Plugins LayoutType="frame" StretchFactor="3">
+            <LayoutSize Width="0" Height="fill"/>
+
+            <Plugin Class="Spb.LSP.9Patch" Name="Shade" AutoSkin="misc">
+              <String Name="ImageName" Value="lighten"/>
+              <LayoutSize Width="fill" Height="fill"/>
+            </Plugin>
+
+            <Plugins Extends="PictureFrame" Align="center">
+              <LayoutSize Width="fill" Height="fill"/>
+
+              <Plugin Name="MainPic">
+                <LayoutMargins Top="30" Bottom="30" Left="1" Right="1"/>
+              </Plugin>>
+
+              <Plugin Name="MainLbl" ID="6" Align="bottom" Width="fill" Height="11" Margins="0 0 1 9">
+                <Font Name="Default"  Face="Droid Sans" HeightPxl="9"  Bold="n" Color="FF000000"/>
+              </Plugin>
+              
+            </Plugins>
+          </Plugins>
+
+          <Col Dynamic="1" Name="PicturesGroup" ID="1001" Width="0" Height="fill" Factor="2">
+            <MiddleGap StretchFactor="1"/>
+            <Row Dynamic="1" Name="ThumbsH" ID="1002" Width="fill" Height="auto">
+						
+              <Plugin Class="Spb.LSP.Generic" Name="Thumb"  ID="10" 
+									Width="54" Height="54" Align="right" Factor="1"/>
+							
+            </Row>
+          </Col>
+      </Plugins>
+
+    </Plugins>
+
+    <Plugin Class="Spb.LSP.Generic" Name="AnimationPlaceHolder" ID="99">
+      <LayoutSize Width="1" Height="1"/>
+    </Plugin>
+
+    </Plugins>
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="Portrait_Tablet">
+
+    <General>
+      <Int Name="ByX" Value="5"/>
+      <Int Name="ByY" Value="2"/>
+    </General>
+
+    <Plugins LayoutType="frame" Width="fill" Height="fill">
+      <Plugins Extends="common:PanelSettings_Tablet"/>
+
+      <Plugins Name="G0" LayoutType="linear" Orientation="vertical">
+        <LayoutSize Width="fill" Height="fill"/>
+
+
+        <Row Width="fill" Height="30">
+          <!-- "Flickr" title -->
+          <Plugin Name="Caption" ID="2" Width="35" Height="30">
+            <Font Name="Default"  Face="Droid Sans" HeightPxl="12" Bold="y" Color="FFFFFFFF"/>
+          </Plugin>
+
+          <!-- ". " title -->
+          <Plugin Name="Dot" Class="Spb.LSP.Text" Width="auto" Height="30" Margins="0 0 4 0">
+            <DefaultFont Face="Droid Sans" HeightPxl="12" Bold="y" Color="FFFFFFFF"/>
+            <Int Name="DialogData" Value="0"/>
+            <String Name="Text" Value="."/>
+          </Plugin>
+
+          <!-- "Picture of the day" title -->
+          <Plugin Class="Spb.LSP.Generic" Name="Label" ID="3">
+            <LayoutSize Width="fill" Height="30"/>
+            <Int Name="textalign" Value="4"/>
+            <Font Name="Default"  Face="Droid Sans" HeightPxl="12" Bold="y" Color="FFFFFFFF"/>
+          </Plugin>
+        </Row>
+
+        <!-- container to layout pictures / thumbnails -->
+        <Plugins LayoutType="linear" Orientation="vertical" StretchFactor="1">
+          <LayoutSize Width="fill" Height="0"/>
+
+          <Plugins LayoutType="frame" StretchFactor="4">
+            <LayoutSize Width="fill" Height="0"/>
+
+            <Plugin Class="Spb.LSP.9Patch" Name="Shade" AutoSkin="misc">
+              <String Name="ImageName" Value="lighten"/>
+              <LayoutSize Width="fill" Height="fill"/>
+            </Plugin>
+
+            <Plugins Extends="PictureFrame" Align="center">
+              <LayoutSize Width="fill" Height="fill"/>
+              
+              <Plugin Name="MainPic">
+                <LayoutMargins Top="30" Bottom="30" Left="1" Right="1"/>
+              </Plugin>>
+
+              <Plugin Name="MainLbl" ID="6" Align="bottom" Width="fill" Height="11" Margins="0 0 1 9">
+                <Font Name="Default"  Face="Droid Sans" HeightPxl="9"  Bold="n" Color="FF000000"/>
+              </Plugin>
+              
+            </Plugins>
+          </Plugins>
+
+          <Group Name="PicturesGroup" ID="1001" LayoutType="linear" Orientation="vertical" StretchFactor="2">
+            <LayoutMargins Top="35" Bottom="15" />
+            <LayoutSize Width="fill" Height="0"/>
+            <MiddleGap StretchFactor="1"/>
+
+            <Group Name="ThumbsH" ID="1002" LayoutType="linear" Orientation="horizontal">
+              <LayoutSize Width="fill" Height="auto"/>
+            	<MiddleGap StretchFactor="1"/>
+              
+              <Plugin Class="Spb.LSP.Generic" Name="Thumb" ID="10" Align="right|top">
+                <LayoutSize Width="60" Height="60"/>
+								<LayoutMargins All="0"/>
+              </Plugin>
+            </Group>
+          </Group>
+      </Plugins>
+
+    </Plugins>
+
+    <Plugin Class="Spb.LSP.Generic" Name="AnimationPlaceHolder" ID="99">
+      <LayoutSize Width="1" Height="1"/>
+    </Plugin>
+
+    </Plugins>
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+
+  <Layout Name="Landscape_3x3">
+    <General>
+      <Int Name="ByX" Value="3"/>
+      <Int Name="ByY" Value="3"/>
+    </General>
+    <Plugins Extends="Landscape"/>
+  </Layout>
+
+  <Layout Name="Landscape_3x4">
+    <General>
+      <Int Name="ByX" Value="3"/>
+      <Int Name="ByY" Value="4"/>
+    </General>
+    <Plugins Extends="Landscape"/>
+  </Layout>
+
+</Layouts>

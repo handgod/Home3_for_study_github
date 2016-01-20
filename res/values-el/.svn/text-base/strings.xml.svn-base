@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SPB Shell 3D</string>
+    <string name="weather_city_title">Εισάγετε 3 γράμματα για να ξεκινήσει η αυτόματη συμπλήρωση:</string>
+    <string name="weather_enter_city_name">Εισάγετε όνομα πόλης</string>
+    <string name="weather_more_cities">Περισσότερα...</string>
+    <string name="weather_locate_nearest_city">Αναζήτηση πλησιέστερης πόλης</string>
+    <string name="weather_current_location">Τρέχουσα τοποθεσία</string>
+    <string name="searching_city_title">Εντοπισμός θέσης</string>
+    <string name="searching_city_progress">Αναζήτηση πλησιέστερων πόλεων...</string>
+    <string name="city_location_failed">Αποτυχία εντοπισμού πλησιέστερης πόλης</string>
+    <string name="dialog_shell_loading">Φόρτωση SPB Shell 3D...</string>
+    <string name="gadget_error_text">Πρόβλημα στη φόρτωση widget</string>
+    <string name="dialog_select_shortcut">Επιλογή συντόμευσης</string>
+    <string name="dialog_choose_widget">Επιλογή widget</string>
+    <string name="chooser_wallpaper">Επιλογή ταπετσαρίας από</string>
+    <string name="wallpaper_instructions">Ορισμός ταπετσαρίας</string>
+    <string name="pick_wallpaper">Ταπετσαρίες</string>
+    <string name="wallpapers_spb">SPB ταπετσαρίες</string>
+    <string name="yes">Ναι</string>
+    <string name="no">Όχι</string>
+    <string name="wait">Παρακαλώ περιμένετε.</string>
+    <string name="home_widget_error">Το widget είναι πολύ μεγάλο για να προστεθεί.</string>
+    <string name="cancel">Άκυρο</string>
+    <string name="error">error</string>
+    <string name="infinity">infinity</string>
+    <string name="dialog_unsupported_devices_title">Σφάλμα</string>
+    <string name="dialog_unsupported_devices_message">Απαιτείται το OpenGl 2.0 για την εκτέλεση του SPB Shell 3D</string>
+    <string name="license_fail">Δυστυχώς, δεν μπορέσαμε να εντοπίσουμε την αγορά σας στο Android Market. Παρακαλούμε, απεγκαταστήστε αυτό το αντίγραφο πριν να εγκαταστήσετε ένα νέο.</string>
+    <string name="purchase">Αγορά</string>
+    <string name="exit">Έξοδος</string>
+    <string name="legal_notices_title">Νομικές παρατηρήσεις</string>
+    <string name="license_fail_handango">Δυστυχώς, δεν μπορέσαμε να εντοπίσουμε την αγορά σας. Παρακαλούμε, απεγκαταστήστε αυτό το αντίγραφο πριν να εγκαταστήσετε ένα νέο.</string>
+    <string name="safe_mode_title">Ασφαλής λειτουργία</string>
+    <string name="safe_mode_text">Η προηγούμενη εκκίνηση του SPB Shell 3D ήταν ανεπιτυχής. Παρακαλώ πατήστε «Δοκιμή ξανά» για να το εκκινήσετε ξανά ή «Αρχική» για να ενεργοποιήσετε μια διαφορετική Αρχική οθόνη.</string>
+    <string name="safe_mode_retry">Δοκιμή ξανά</string>
+    <string name="safe_mode_home">Αρχική</string>
+    <string name="sd_install_title">Σφάλμα</string>
+    <string name="sd_install_text">Installation to a storage card is not supported. Please install SPB Shell 3D to the main memory</string>
+    <string name="contacts_failed_pick">Failed to load the selected contact. Try to link the contact to Google account or save it to phone.</string>
+</resources>

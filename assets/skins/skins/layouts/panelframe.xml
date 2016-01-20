@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+
+<Layouts Name="Panel Frame" Type="panel">
+
+  <Rules>
+    <!-- tablets specification -->
+    <PlatformCondition Platform="tablets">
+      <ScreenCondition Orientation="landscape">
+        <UseLayout Name="Landscape_Tablet"/>
+      </ScreenCondition>
+      <ScreenCondition Orientation="portrait">
+        <UseLayout Name="Portrait_Tablet"/>
+      </ScreenCondition>
+    </PlatformCondition>
+
+    <ScreenCondition Orientation="landscape">
+      <UseLayout Name="Landscape"/>
+    </ScreenCondition>
+    <Default>
+      <UseLayout Name="Portrait"/>
+    </Default>
+  </Rules>
+
+  <Layout Name="Portrait">
+    <Plugins LayoutType="frame">
+      <LayoutSize Width="fill" Height="fill"/>
+
+      <Plugin Class="Spb.LSP.StdFrame" Name="Frame">
+        <LayoutSize Width="fill" Height="fill"/>
+        <LayoutMargins Left="3" Top="6" Right="3" Bottom="53"/>
+      </Plugin>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="Landscape">
+    <Plugins Extends="Portrait">
+      <Plugin Name="Frame">
+        <LayoutMargins Left="4" Top="8" Right="47" Bottom="8"/>
+      </Plugin>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="Portrait_Tablet">
+    <Plugins>
+      <Plugin Name="Frame">
+        <LayoutMargins All="0"/>
+      </Plugin>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="Landscape_Tablet">
+    <Plugins>
+      <Plugin Name="Frame">
+        <LayoutMargins All="0"/>
+      </Plugin>
+    </Plugins>
+  </Layout>
+
+</Layouts>

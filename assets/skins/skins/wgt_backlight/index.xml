@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skin Name="Backlight Widget" Type="widget">
+  <items>
+    <item DontScale="1">
+    </item>
+  </items>
+</skin>

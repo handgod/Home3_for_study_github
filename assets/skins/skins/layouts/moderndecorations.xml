@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Layouts>
+  <Layers>
+    <Layer Name="ModernBackground" Dialog="ModernBackground"/>
+    <Layer/>
+  </Layers>
+  
+  <Rules>
+    <UseLayout Name="Default"/>
+  </Rules>
+
+  <General>
+    <Skin AutoSkin="modernbackground"/>
+    <DialogObject Value="Spb.Data.ModernDecorations"/>
+  </General>
+
+  <Layout Name="Default">
+	<Column Name="Col" Width="fill" Height="fill">
+	  
+	  <Frame Name="Header" Width="fill" Height="auto">
+	    <Plugin Name="Dummy" Width="0" Height="32"/>
+	    <Plugin Name="HeaderBackground" Width="fill" Height="fill" Class="Spb.LSP.Image">
+          <String Name="ImageName" Value="header_bg"/>
+          <Int Name="Stretch" Value="1"/>
+	    </Plugin>
+        <Row Width="auto" Height="auto" Align="center" Margins="3 0 0 3">
+		  <Frame ID="103" Dynamic="1" Width="auto" Height="auto" Align="center_vert">
+		    <Int Name="MaxSize" Value="1"/>
+		    <Plugin Name="Icon" ID="3" Width="25" Height="25" Margins="0 0 10 0" />
+		  </Frame>
+          <Plugin Name="Text" ID="2" Width="auto" Height="auto" Align="center_vert">
+		    <DefaultFont Face="Droid Sans" HeightPxl="14" Bold="y" Color="FFffffff"/>
+			<Font Name="SmallFont" Face="Droid Sans" HeightPxl="12" Bold="y" Color="FFffffff"/>
+		  </Plugin>
+        </Row>
+      </Frame>
+		
+	  <Plugin Name="Content" Width="fill" Height="0" StretchFactor="1">
+	  </Plugin>
+		
+	</Column>
+  </Layout>
+
+</Layouts>

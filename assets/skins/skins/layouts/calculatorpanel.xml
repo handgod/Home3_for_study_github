@@ -1,0 +1,839 @@
+﻿<?xml version="1.0"?>
+
+<Layouts Name="Calculator Panel" Type="panel">
+
+	<!-- **************************************************************************************************************** -->
+
+	<Layers>
+		<Layer Name="PanelFrame" Dialog="PanelFrame"/>
+		<Layer/>
+	</Layers>
+
+	<!-- **************************************************************************************************************** -->
+
+	<Rules>
+		<!-- tablets specification -->
+		<PlatformCondition Platform="tablets">
+			<ScreenCondition Orientation="landscape">
+				<UseLayout Name="Landscape_Tablet"/>
+			</ScreenCondition>
+			<Default>
+				<UseLayout Name="Portrait_Tablet"/>
+			</Default>
+		</PlatformCondition>
+
+		<ScreenCondition Orientation="landscape">
+			<UseLayout Name="Landscape"/>
+		</ScreenCondition>
+
+		<Default>
+			<UseLayout Name="Portrait"/>
+		</Default>
+	</Rules>
+
+	<!-- **************************************************************************************************************** -->
+
+	<General>
+      <Skin AutoSkin="calculatorpanel" DoubleSkin="calculatorpanel"/>
+      <DefaultFont Face="Droid Sans" HeightPxl="16" Bold="n" Color="FFFFFFFF"/>
+      <Font Name="Default" Face="Droid Sans" HeightPxl="24" Color="FFFFFFFF"/>
+      <String Name="ImageName" Value="button"/>
+      <Int Name="DialogData" Value="0"/>
+	</General>
+
+  <Layout Name="Screen">
+    <Fix Height="fill" Width="fill">
+      <Plugin Class="Spb.LSP.9Patch" Name="Screen_9" Width="fill" Height="fill">
+        <String Name="ImageName" Value="screen"/>
+      </Plugin>
+      <Plugin Name="Screen_text" ID="1005" Width="fill" Height="fill" Margins="2 0 7 2"/>
+    </Fix>
+  </Layout>
+
+  <Layout Name="divide">
+    <Fix Height="fill" Width="fill">
+      <Plugin Class="Spb.LSP.9Patch" Name="divide_9" ID="14" Width="fill" Height="fill">
+        <String Name="ImageName" Value="operation"/>
+      </Plugin>
+      <Plugin Class="Spb.LSP.Text" Name="divide_text" Width="fill" Height="fill">
+        <DefaultFont Face="Droid Sans" HeightPxl="20" Bold="n" Color="FFFFFFFF"/>
+        <String Name="Text" Value="÷" />
+      </Plugin>
+      <!--Plugin Name="divide" ID="14" Width="fill" Height="0" Factor="5"/-->
+    </Fix>
+  </Layout>
+  <Layout Name="dig7">
+    <Fix Height="fill" Width="fill">
+      <Plugin Class="Spb.LSP.9Patch" Name="dig7_9" ID="7" Width="fill" Height="fill"/>
+      <Plugin Class="Spb.LSP.Text" Name="dig7_text" Width="fill" Height="fill">
+        <String Name="Text" Value="7" />
+      </Plugin>
+      <!--Plugin Name="dig7" ID="7" Width="fill" Height="0" Factor="5"/-->
+    </Fix>
+  </Layout>
+  <Layout Name="dig4">
+    <Fix Height="fill" Width="fill">
+      <Plugin Class="Spb.LSP.9Patch" Name="dig4_9" ID="4" Width="fill" Height="fill"/>
+      <Plugin Class="Spb.LSP.Text" Name="dig4_text" Width="fill" Height="fill">
+        <String Name="Text" Value="4" />
+      </Plugin>
+      <!--Plugin Name="dig4" ID="4" Width="fill" Height="0" Factor="5"/-->
+    </Fix>
+  </Layout>
+  <Layout Name="dig1">
+    <Fix Height="fill" Width="fill">
+      <Plugin Class="Spb.LSP.9Patch" Name="dig1_9" ID="1" Width="fill" Height="fill"/>
+      <Plugin Class="Spb.LSP.Text" Name="dig1_text" Width="fill" Height="fill">
+        <String Name="Text" Value="1" />
+      </Plugin>
+      <!--Plugin Name="dig1" ID="1" Width="fill" Height="0" Factor="5"/-->
+    </Fix>
+  </Layout>
+  <Layout Name="dig0">
+    <Fix Height="fill" Width="fill">
+      <Plugin Class="Spb.LSP.9Patch" Name="dig0_9" ID="0" Width="fill" Height="fill"/>
+      <Plugin Class="Spb.LSP.Text" Name="dig0_text" Width="fill" Height="fill">
+        <String Name="Text" Value="0" />
+      </Plugin>
+      <!--Plugin Name="dig0" ID="0" Width="fill" Height="0" Factor="5"/-->
+    </Fix>
+  </Layout>
+  <Layout Name="mult">
+    <Fix Height="fill" Width="fill">
+      <Plugin Class="Spb.LSP.9Patch" Name="mult_9" ID="15" Width="fill" Height="fill">
+        <String Name="ImageName" Value="operation"/>
+      </Plugin>
+      <Plugin Class="Spb.LSP.Text" Name="mult_text" Width="fill" Height="fill">
+        <DefaultFont Face="Droid Sans" HeightPxl="20" Bold="n" Color="FFFFFFFF"/>
+        <String Name="Text" Value="×" />
+      </Plugin>
+      <!--Plugin Name="mult" ID="15" Width="fill" Height="0" Factor="5"/-->
+    </Fix>
+  </Layout>
+  <Layout Name="dig8">
+    <Fix Height="fill" Width="fill">
+      <Plugin Class="Spb.LSP.9Patch" Name="dig8_9" ID="8" Width="fill" Height="fill"/>
+      <Plugin Class="Spb.LSP.Text" Name="dig8_text" Width="fill" Height="fill">
+        <String Name="Text" Value="8" />
+      </Plugin>
+      <!--Plugin Name="dig8" ID="8" Width="fill" Height="0" Factor="5"/-->
+    </Fix>
+  </Layout>
+  <Layout Name="dig5">
+    <Fix Height="fill" Width="fill">
+      <Plugin Class="Spb.LSP.9Patch" Name="dig5_9" ID="5" Width="fill" Height="fill"/>
+      <Plugin Class="Spb.LSP.Text" Name="dig5_text" Width="fill" Height="fill">
+        <String Name="Text" Value="5" />
+      </Plugin>
+      <!--Plugin Name="dig5" ID="5" Width="fill" Height="0" Factor="5"/-->
+    </Fix>
+  </Layout>
+  <Layout Name="dig2">
+    <Fix Height="fill" Width="fill">
+      <Plugin Class="Spb.LSP.9Patch" Name="dig2_9" ID="2" Width="fill" Height="fill"/>
+      <Plugin Class="Spb.LSP.Text" Name="dig2_text" Width="fill" Height="fill">
+        <String Name="Text" Value="2" />
+      </Plugin>
+      <!--Plugin Name="dig2" ID="2" Width="fill" Height="0" Factor="5"/-->
+    </Fix>
+  </Layout>
+  <Layout Name="dot">
+    <Fix Height="fill" Width="fill">
+      <Plugin Class="Spb.LSP.9Patch" Name="dot_9" ID="10" Width="fill" Height="fill"/>
+      <Plugin Class="Spb.LSP.Text" Name="dot_text" ID="1010" Width="fill" Height="fill">
+        <Int Name="DialogData" Value="1"/>
+      </Plugin>
+      <!--Plugin Name="dot" ID="10" Width="fill" Height="0" Factor="5"/-->
+    </Fix>
+  </Layout>
+  <Layout Name="plus">
+    <Fix Height="fill" Width="fill">
+      <Plugin Class="Spb.LSP.9Patch" Name="plus_9" ID="13" Width="fill" Height="fill">
+        <String Name="ImageName" Value="operation"/>
+      </Plugin>
+      <Plugin Class="Spb.LSP.Text" Name="plus_text" Width="fill" Height="fill">
+        <DefaultFont Face="Droid Sans" HeightPxl="20" Bold="n" Color="FFFFFFFF"/>
+        <String Name="Text" Value="+" />
+      </Plugin>
+      <!--Plugin Name="plus" ID="13" Width="fill" Height="0" Factor="5"/-->
+    </Fix>
+  </Layout>
+  <Layout Name="dig9">
+    <Fix Height="fill" Width="fill">
+      <Plugin Class="Spb.LSP.9Patch" Name="dig9_9" ID="9" Width="fill" Height="fill"/>
+      <Plugin Class="Spb.LSP.Text" Name="dig9_text" Width="fill" Height="fill">
+        <String Name="Text" Value="9" />
+      </Plugin>
+      <!--Plugin Name="dig9" ID="9" Width="fill" Height="0" Factor="5"/-->
+    </Fix>
+  </Layout>
+  <Layout Name="dig6">
+    <Fix Height="fill" Width="fill">
+      <Plugin Class="Spb.LSP.9Patch" Name="dig6_9" ID="6" Width="fill" Height="fill"/>
+      <Plugin Class="Spb.LSP.Text" Name="dig6_text" Width="fill" Height="fill">
+        <String Name="Text" Value="6" />
+      </Plugin>
+      <!--Plugin Name="dig6" ID="6" Width="fill" Height="0" Factor="5"/-->
+    </Fix>
+  </Layout>
+  <Layout Name="dig3">
+    <Fix Height="fill" Width="fill">
+      <Plugin Class="Spb.LSP.9Patch" Name="dig3_9" ID="3" Width="fill" Height="fill"/>
+      <Plugin Class="Spb.LSP.Text" Name="dig3_text" Width="fill" Height="fill">
+        <String Name="Text" Value="3" />
+      </Plugin>
+      <!--Plugin Name="dig3" ID="3" Width="fill" Height="0" Factor="5"/-->
+    </Fix>
+  </Layout>
+  <Layout Name="braces">
+    <Fix Height="fill" Width="fill">
+      <Plugin Class="Spb.LSP.9Patch" Name="braces_9" ID="19" Width="fill" Height="fill">
+        <String Name="ImageName" Value="operation"/>
+      </Plugin>
+      <Plugin Class="Spb.LSP.Text" Name="braces_text" Width="fill" Height="fill">
+        <String Name="Text" Value="( )" />
+      </Plugin>
+      <!--Plugin Name="braces" ID="11" Width="fill" Height="0" Factor="5"/-->
+    </Fix>
+  </Layout>
+  <Layout Name="braces_">
+    <Fix Height="fill" Width="fill">
+      <Plugin Class="Spb.LSP.9Patch" Name="braces_9" ID="19" Width="fill" Height="fill"/>
+      <Plugin Class="Spb.LSP.Text" Name="braces_text" Width="fill" Height="fill">
+        <String Name="Text" Value="( )" />
+      </Plugin>
+      <!--Plugin Name="braces" ID="11" Width="fill" Height="0" Factor="5"/-->
+    </Fix>
+  </Layout>
+  <Layout Name="minus">
+    <Fix Height="fill" Width="fill">
+      <Plugin Class="Spb.LSP.9Patch" Name="minus_9" ID="12" Width="fill" Height="fill">
+        <String Name="ImageName" Value="operation"/>
+      </Plugin>
+      <Plugin Class="Spb.LSP.Text" Name="minus_text" Width="fill" Height="fill">
+        <DefaultFont Face="Droid Sans" HeightPxl="20" Bold="n" Color="FFFFFFFF"/>
+        <String Name="Text" Value="−" />
+      </Plugin>
+      <!--Plugin Name="minus" ID="12" Width="fill" Height="0" Factor="5"/-->
+    </Fix>
+  </Layout>
+  <Layout Name="backspace">
+    <Fix Height="fill" Width="fill">
+      <Plugin Class="Spb.LSP.9Patch" Name="backspace_9" ID="17" Width="fill" Height="fill">
+        <String Name="ImageName" Value="operation"/>
+      </Plugin>
+      <Plugin Class="Spb.LSP.Image" Name="backspace_img" Width="auto" Height="auto" Align="center">
+        <String Name="ImageName" Value="back"/>
+      </Plugin>
+      <!--Plugin Name="backspace" ID="17" Width="fill" Height="0" Factor="5"/-->
+    </Fix>
+  </Layout>
+  <Layout Name="clear">
+    <Fix Height="fill" Width="fill">
+      <Plugin Class="Spb.LSP.9Patch" Name="clear_9" ID="18" Width="fill" Height="fill">
+        <String Name="ImageName" Value="operation"/>
+      </Plugin>
+      <Plugin Class="Spb.LSP.Text" Name="clear_text" Width="fill" Height="fill">
+        <String Name="Text" Value="C" />
+      </Plugin>
+      <!--Plugin Name="clear" ID="18" Width="fill" Height="0" Factor="5"/-->
+    </Fix>
+  </Layout>
+  <Layout Name="clearedit">
+    <Fix Height="fill" Width="fill">
+      <Plugin Class="Spb.LSP.9Patch" Name="clearedit_9" ID="20" Width="fill" Height="fill">
+        <String Name="ImageName" Value="operation"/>
+      </Plugin>
+      <Plugin Class="Spb.LSP.Text" Name="clearedit_text" Width="fill" Height="fill">
+        <String Name="Text" Value="CE" />
+      </Plugin>
+      <!--Plugin Name="clear" ID="18" Width="fill" Height="0" Factor="5"/-->
+    </Fix>
+  </Layout>
+  <Layout Name="equal">
+    <Fix Height="fill" Width="fill">
+      <Plugin Class="Spb.LSP.9Patch" Name="equal_9" ID="16" Width="fill" Height="fill">
+        <String Name="ImageName" Value="orangebutton"/>
+      </Plugin>
+      <Plugin Class="Spb.LSP.Text" Name="equal_text" Width="fill" Height="fill">
+        <DefaultFont Face="Droid Sans" HeightPxl="20" Bold="n" Color="FFFFFFFF"/>
+        <String Name="Text" Value="=" />
+      </Plugin>
+      <!--Plugin Name="equal" ID="16" Width="fill" Height="0" Factor="11"/-->
+    </Fix>
+  </Layout>
+  <Layout Name="percent">
+    <Fix Height="fill" Width="fill">
+      <Plugin Class="Spb.LSP.9Patch" Name="percent_9" ID="11" Width="fill" Height="fill">
+        <String Name="ImageName" Value="operation"/>
+      </Plugin>
+      <Plugin Class="Spb.LSP.Text" Name="percent_text" Width="fill" Height="fill">
+        <String Name="Text" Value="%" />
+      </Plugin>
+      <!--Plugin Name="clear" ID="18" Width="fill" Height="0" Factor="5"/-->
+    </Fix>
+  </Layout>
+
+  <Layout Name="sin">
+    <Fix Height="fill" Width="fill">
+      <Plugin Class="Spb.LSP.9Patch" Name="sin_9" ID="21" Width="fill" Height="fill">
+        <String Name="ImageName" Value="operation"/>
+      </Plugin>
+      <Plugin Class="Spb.LSP.Text" Name="sin_text" Width="fill" Height="fill">
+        <String Name="Text" Value="sin" />
+      </Plugin>
+    </Fix>
+  </Layout>
+
+  <Layout Name="cos">
+    <Fix Height="fill" Width="fill">
+      <Plugin Class="Spb.LSP.9Patch" Name="cos_9" ID="22" Width="fill" Height="fill">
+        <String Name="ImageName" Value="operation"/>
+      </Plugin>
+      <Plugin Class="Spb.LSP.Text" Name="cos_text" Width="fill" Height="fill">
+        <String Name="Text" Value="cos" />
+      </Plugin>
+    </Fix>
+  </Layout>
+
+  <Layout Name="tan">
+    <Fix Height="fill" Width="fill">
+      <Plugin Class="Spb.LSP.9Patch" Name="tan_9" ID="23" Width="fill" Height="fill">
+        <String Name="ImageName" Value="operation"/>
+      </Plugin>
+      <Plugin Class="Spb.LSP.Text" Name="tan_text" Width="fill" Height="fill">
+        <String Name="Text" Value="tan" />
+      </Plugin>
+    </Fix>
+  </Layout>
+
+  <Layout Name="ln">
+    <Fix Height="fill" Width="fill">
+      <Plugin Class="Spb.LSP.9Patch" Name="ln_9" ID="24" Width="fill" Height="fill">
+        <String Name="ImageName" Value="operation"/>
+      </Plugin>
+      <Plugin Class="Spb.LSP.Text" Name="ln_text" Width="fill" Height="fill">
+        <String Name="Text" Value="ln" />
+      </Plugin>
+    </Fix>
+  </Layout>
+
+  <Layout Name="log">
+    <Fix Height="fill" Width="fill">
+      <Plugin Class="Spb.LSP.9Patch" Name="log_9" ID="25" Width="fill" Height="fill">
+        <String Name="ImageName" Value="operation"/>
+      </Plugin>
+      <Plugin Class="Spb.LSP.Text" Name="log_text" Width="fill" Height="fill">
+        <String Name="Text" Value="log" />
+      </Plugin>
+    </Fix>
+  </Layout>
+
+  <Layout Name="sinh">
+    <Fix Height="fill" Width="fill">
+      <Plugin Class="Spb.LSP.9Patch" Name="sinh_9" ID="26" Width="fill" Height="fill">
+        <String Name="ImageName" Value="operation"/>
+      </Plugin>
+      <Plugin Class="Spb.LSP.Text" Name="sinh_text" Width="fill" Height="fill">
+        <String Name="Text" Value="sinh" />
+      </Plugin>
+    </Fix>
+  </Layout>
+
+  <Layout Name="cosh">
+    <Fix Height="fill" Width="fill">
+      <Plugin Class="Spb.LSP.9Patch" Name="cosh_9" ID="27" Width="fill" Height="fill">
+        <String Name="ImageName" Value="operation"/>
+      </Plugin>
+      <Plugin Class="Spb.LSP.Text" Name="cosh_text" Width="fill" Height="fill">
+        <String Name="Text" Value="cosh" />
+      </Plugin>
+    </Fix>
+  </Layout>
+
+  <Layout Name="tanh">
+    <Fix Height="fill" Width="fill">
+      <Plugin Class="Spb.LSP.9Patch" Name="tanh_9" ID="28" Width="fill" Height="fill">
+        <String Name="ImageName" Value="operation"/>
+      </Plugin>
+      <Plugin Class="Spb.LSP.Text" Name="tanh_text" Width="fill" Height="fill">
+        <String Name="Text" Value="tanh" />
+      </Plugin>
+    </Fix>
+  </Layout>
+
+  <Layout Name="x_in_minus1">
+    <Fix Height="fill" Width="fill">
+      <Plugin Class="Spb.LSP.9Patch" Name="x_in_minus1_9" ID="29" Width="fill" Height="fill">
+        <String Name="ImageName" Value="operation"/>
+      </Plugin>
+      <Plugin Class="Spb.LSP.Text" Name="x_in_minus1_text" Width="fill" Height="fill">
+        <String Name="Text" Value="1/x" />
+      </Plugin>
+    </Fix>
+  </Layout>
+
+  <Layout Name="x_in_2">
+    <Fix Height="fill" Width="fill">
+      <Plugin Class="Spb.LSP.9Patch" Name="x_in_2_9" ID="30" Width="fill" Height="fill">
+        <String Name="ImageName" Value="operation"/>
+      </Plugin>
+      <Plugin Class="Spb.LSP.Text" Name="x_in_2_text" Width="fill" Height="fill">
+        <String Name="Text" Value="x²" />
+      </Plugin>
+    </Fix>
+  </Layout>
+
+  <Layout Name="x_in_3">
+    <Fix Height="fill" Width="fill">
+      <Plugin Class="Spb.LSP.9Patch" Name="x_in_3_9" ID="31" Width="fill" Height="fill">
+        <String Name="ImageName" Value="operation"/>
+      </Plugin>
+      <Plugin Class="Spb.LSP.Text" Name="x_in_3_text" Width="fill" Height="fill">
+        <String Name="Text" Value="x³" />
+      </Plugin>
+    </Fix>
+  </Layout>
+
+  <Layout Name="x_in_y">
+    <Fix Height="fill" Width="fill">
+      <Plugin Class="Spb.LSP.9Patch" Name="x_in_y_9" ID="32" Width="fill" Height="fill">
+        <String Name="ImageName" Value="operation"/>
+      </Plugin>
+      <Row Width="auto" Height="auto" Align="center_horz|center_vert">
+        <Plugin Class="Spb.LSP.Text" Name="x_in_y_text" Width="auto" Height="auto">
+          <String Name="Text" Value="x" />
+        </Plugin>
+        <Plugin Class="Spb.LSP.Text" Name="x_in_y_text2" Width="auto" Height="auto" Align="top" >
+          <String Name="Text" Value="y" />
+          <DefaultFont Face="Droid Sans" HeightPxl="10" Bold="y" Color="FFFFFFFF"/>
+        </Plugin>
+      </Row>
+    </Fix>
+  </Layout>
+
+  <Layout Name="pi">
+    <Fix Height="fill" Width="fill">
+      <Plugin Class="Spb.LSP.9Patch" Name="pi_9" ID="33" Width="fill" Height="fill">
+        <String Name="ImageName" Value="operation"/>
+      </Plugin>
+      <Plugin Class="Spb.LSP.Text" Name="pi_text" Width="fill" Height="fill">
+        <String Name="Text" Value="π" />
+      </Plugin>
+    </Fix>
+  </Layout>
+
+  <Layout Name="e">
+    <Fix Height="fill" Width="fill">
+      <Plugin Class="Spb.LSP.9Patch" Name="e_9" ID="34" Width="fill" Height="fill">
+        <String Name="ImageName" Value="operation"/>
+      </Plugin>
+      <Plugin Class="Spb.LSP.Text" Name="e_text" Width="fill" Height="fill">
+        <String Name="Text" Value="e" />
+      </Plugin>
+    </Fix>
+  </Layout>
+
+  <Layout Name="exp">
+    <Fix Height="fill" Width="fill">
+      <Plugin Class="Spb.LSP.9Patch" Name="exp_9" ID="35" Width="fill" Height="fill">
+        <String Name="ImageName" Value="operation"/>
+      </Plugin>
+      <Row Width="auto" Height="auto" Align="center_horz|center_vert">
+        <Plugin Class="Spb.LSP.Text" Name="exp_text" Width="auto" Height="auto">
+          <String Name="Text" Value="e" />
+        </Plugin>
+        <Plugin Class="Spb.LSP.Text" Name="exp_text2" Width="auto" Height="auto" Align="top" >
+          <String Name="Text" Value="x" />
+          <DefaultFont Face="Droid Sans" HeightPxl="13" Bold="n" Color="FFFFFFFF"/>
+        </Plugin>
+      </Row>
+    </Fix>
+  </Layout>
+
+  <Layout Name="arcsin">
+    <Fix Height="fill" Width="fill">
+      <Plugin Class="Spb.LSP.9Patch" Name="arcsin_9" ID="36" Width="fill" Height="fill">
+        <String Name="ImageName" Value="operation"/>
+      </Plugin>
+      <Row Width="auto" Height="auto" Align="center_horz|center_vert">
+        <Plugin Class="Spb.LSP.Text" Name="arcsin_text" Width="auto" Height="auto">
+          <String Name="Text" Value="sin" />
+        </Plugin>
+        <Plugin Class="Spb.LSP.Text" Name="arcsin_text2" Width="auto" Height="auto" Align="top" >
+          <String Name="Text" Value="-1" />
+          <DefaultFont Face="Droid Sans" HeightPxl="13" Bold="n" Color="FFFFFFFF"/>
+        </Plugin>
+      </Row>
+    </Fix>
+  </Layout>
+
+  <Layout Name="arccos">
+    <Fix Height="fill" Width="fill">
+      <Plugin Class="Spb.LSP.9Patch" Name="arccos_9" ID="37" Width="fill" Height="fill">
+        <String Name="ImageName" Value="operation"/>
+      </Plugin>
+      <Row Width="auto" Height="auto" Align="center_horz|center_vert">
+        <Plugin Class="Spb.LSP.Text" Name="arccos_text" Width="auto" Height="auto">
+          <String Name="Text" Value="cos" />
+        </Plugin>
+        <Plugin Class="Spb.LSP.Text" Name="arccos_text2" Width="auto" Height="auto" Align="top" >
+          <String Name="Text" Value="-1" />
+          <DefaultFont Face="Droid Sans" HeightPxl="13" Bold="n" Color="FFFFFFFF"/>
+        </Plugin>
+      </Row>
+    </Fix>
+  </Layout>
+
+  <Layout Name="arctan">
+    <Fix Height="fill" Width="fill">
+      <Plugin Class="Spb.LSP.9Patch" Name="arctan_9" ID="38" Width="fill" Height="fill">
+        <String Name="ImageName" Value="operation"/>
+      </Plugin>
+      <Row Width="auto" Height="auto" Align="center_horz|center_vert">
+        <Plugin Class="Spb.LSP.Text" Name="arctan_text" Width="auto" Height="auto">
+          <String Name="Text" Value="tan" />
+        </Plugin>
+        <Plugin Class="Spb.LSP.Text" Name="arctan_text2" Width="auto" Height="auto" Align="top" >
+          <String Name="Text" Value="-1" />
+          <DefaultFont Face="Droid Sans" HeightPxl="13" Bold="n" Color="FFFFFFFF"/>
+        </Plugin>
+      </Row>
+    </Fix>
+  </Layout>
+
+  <Layout Name="sqrt">
+    <Fix Height="fill" Width="fill">
+      <Plugin Class="Spb.LSP.9Patch" Name="sqrt_9" ID="39" Width="fill" Height="fill">
+        <String Name="ImageName" Value="operation"/>
+      </Plugin>
+      <Plugin Class="Spb.LSP.Text" Name="sqrt_text" Width="fill" Height="fill">
+        <String Name="Text" Value="√" />
+      </Plugin>
+    </Fix>
+  </Layout>
+
+  <Layout Name="Portrait">
+    <General>
+      <Int Name="EditLength" Value="15"/>
+    </General>
+    <Frame Width="fill" Height="fill">
+      <Plugins Extends="common:PanelSettings"/>
+
+      <Col Width="fill" Height="fill" Margins="14 15 15 65">
+
+        <Plugins Extends="Screen" Height="62" Width="fill" Margins="10 0 0 15"/>
+
+        <Row Width="fill" Height="fill">
+          <MiddleGap Factor="1"/>
+          <Col Width="0" Factor="8" Height="fill">
+            <MiddleGap Factor="1"/>
+            <Plugins Extends="clear" Height="0" Factor="5" Width="fill"/>
+            <Plugins Extends="dig7" Height="0" Factor="5" Width="fill"/>
+            <Plugins Extends="dig4" Height="0" Factor="5" Width="fill"/>
+            <Plugins Extends="dig1" Height="0" Factor="5" Width="fill"/>
+            <Plugins Extends="dig0" Height="0" Factor="5" Width="fill"/>
+          </Col>
+          <Col Width="0" Factor="8" Height="fill">
+            <MiddleGap Factor="1"/>
+            <Plugins Extends="backspace" Height="0" Factor="5" Width="fill"/>
+            <Plugins Extends="dig8" Height="0" Factor="5" Width="fill"/>
+            <Plugins Extends="dig5" Height="0" Factor="5" Width="fill"/>
+            <Plugins Extends="dig2" Height="0" Factor="5" Width="fill"/>
+            <Plugins Extends="dot" Height="0" Factor="5" Width="fill"/>
+          </Col>
+          <Col Width="0" Factor="8" Height="fill">
+            <MiddleGap Factor="1"/>
+            <Plugins Extends="divide" Height="0" Factor="5" Width="fill"/>
+            <Plugins Extends="dig9" Height="0" Factor="5" Width="fill"/>
+            <Plugins Extends="dig6" Height="0" Factor="5" Width="fill"/>
+            <Plugins Extends="dig3" Height="0" Factor="5" Width="fill"/>
+            <Plugins Extends="braces_" Height="0" Factor="5" Width="fill"/>
+          </Col>
+          <Col Width="0" Factor="8" Height="fill" Margins="0 1 0 0">
+            <MiddleGap Factor="1"/>
+            <Plugins Extends="mult" Height="0" Factor="5" Width="fill"/>
+            <Plugins Extends="minus" Height="0" Factor="5" Width="fill"/>
+            <Plugins Extends="plus" Height="0" Factor="5" Width="fill"/>
+            <Plugins Extends="equal" Height="0" Factor="11" Width="fill"/>
+          </Col>
+        </Row>
+      </Col>
+    </Frame>
+  </Layout>
+
+	<!-- **************************************************************************************************************** -->
+
+  <Layout Name="Landscape">
+    <General>
+      <Int Name="EditLength" Value="23"/>
+    </General>
+    <Frame Width="fill" Height="fill">
+      <Plugins Extends="common:PanelSettings_L"/>
+      <Col Width="fill" Height="fill" Margins="14 14 56 14">
+        <Plugins Extends="Screen" Height="62" Width="fill" Margins="10 0 0 12"/>
+
+        <Row Width="fill" Height="fill">
+          <MiddleGap Factor="1"/>
+          <Col Factor="59" Width="0" Height="fill">
+            <Row Width="fill" Height="fill">
+              <MiddleGap Factor="1"/>
+
+              <Col Factor="9" Width="0" Height="fill">
+                <MiddleGap Factor="1"/>
+                <Plugins Extends="clear" Height="0" Factor="7" Width="fill"/>
+                <Plugins Extends="backspace" Height="0" Factor="7" Width="fill"/>
+                <Plugins Extends="braces" Height="0" Factor="7" Width="fill"/>
+              </Col>
+              <Col Factor="19" Width="0" Height="fill">
+                <MiddleGap Factor="1"/>
+	            <Row Width="fill" Height="fill" Factor="7">
+                  <MiddleGap Factor="1"/>
+                  <Plugins Extends="dig6" Height="fill" Width="0" Factor="9"/>
+                  <Plugins Extends="dig7" Height="fill" Width="0" Factor="9"/>
+                </Row>
+	            <Row Width="fill" Height="fill" Factor="7">
+                  <MiddleGap Factor="1"/>
+                  <Plugins Extends="dig2" Height="fill" Width="0" Factor="9"/>
+                  <Plugins Extends="dig3" Height="fill" Width="0" Factor="9"/>
+                </Row>
+                <Plugins Extends="dig0" Height="0" Factor="7" Width="fill"/>
+              </Col>
+              <Col Factor="9" Width="0" Height="fill">
+                <MiddleGap Factor="1"/>
+                <Plugins Extends="dig8" Height="0" Factor="7" Width="fill"/>
+                <Plugins Extends="dig4" Height="0" Factor="7" Width="fill"/>
+                <Plugins Extends="dig1" Height="0" Factor="7" Width="fill"/>
+              </Col>
+              <Col Factor="9" Width="0" Height="fill">
+                <MiddleGap Factor="1"/>
+                <Plugins Extends="dig9" Height="0" Factor="7" Width="fill"/>
+                <Plugins Extends="dig5" Height="0" Factor="7" Width="fill"/>
+                <Plugins Extends="dot"  Height="0" Factor="7" Width="fill"/>
+              </Col>
+              <Col Factor="9" Width="0" Height="fill">
+                <MiddleGap Factor="1"/>
+                <Plugins Extends="mult" Height="0" Factor="7" Width="fill"/>
+                <Plugins Extends="minus" Height="0" Factor="7" Width="fill"/>
+                <Plugins Extends="plus" Height="0" Factor="7" Width="fill"/>
+              </Col>
+            </Row>
+          </Col>
+          <Col Factor="9" Width="0" Height="fill">
+            <Row Width="fill" Height="fill">
+              <Col Factor="9" Width="0" Height="fill">
+                <MiddleGap Factor="1"/>
+                <Plugins Extends="divide" Height="0" Factor="7" Width="fill"/>
+                <Plugins Extends="equal" Height="0" Factor="15" Width="fill"/>
+              </Col>
+            </Row>
+          </Col>
+        </Row>
+      </Col>
+    </Frame>
+  </Layout>
+
+  <Layout Name="Landscape_Tablet">
+    <General>
+      <Int Name="EditLength" Value="22"/>
+      <Font Name="Default" Face="Droid Sans" HeightPxl="27" Color="FFFFFFFF"/>
+    </General>
+    <Frame Width="fill" Height="fill">
+      <Plugins Extends="common:PanelSettings_Tablet"/>
+      <Plugin Class="Spb.LSP.Image" Name="background" Height="fill" Width="fill" Margins="34 1 1 1">
+        <String Name="ImageName" Value="background"/>
+        <Int Name="Tile" Value="1"/>
+      </Plugin>
+      <Plugin Class="Spb.LSP.9Patch" Name="border" Width="fill" Height="fill" Margins="33 0 0 0">
+        <String Name="ImageName" Value="border"/>
+      </Plugin>
+      <Col Width="fill" Height="fill" Margins="4 10 10 7">
+        <Plugin Name="Caption" ID="1002" Width="fill" Height="16">
+          <Font Name="Default"  Face="Droid Sans" HeightPxl="12" Bold="y" Color="FFFFFFFF"/>
+        </Plugin>
+        <Plugins Extends="Screen" Height="62" Width="fill" Margins="21 0 0 11"/>
+
+        <Row Width="fill" Height="fill">
+          <MiddleGap Factor="1"/>
+          <Col Width="0" Height="fill" Factor="10">
+            <MiddleGap Factor="1"/>
+            <Plugins Extends="arcsin" Height="0" Factor="8" Width="fill"/>
+            <Plugins Extends="sin" Height="0" Factor="8" Width="fill"/>
+            <Plugins Extends="sinh" Height="0" Factor="8" Width="fill"/>
+            <Plugins Extends="x_in_minus1" Height="0" Factor="8" Width="fill"/>
+            <Plugins Extends="pi" Height="0" Factor="8" Width="fill"/>
+          </Col>
+          <Col Width="0" Height="fill" Factor="10">
+            <MiddleGap Factor="1"/>
+            <Plugins Extends="arccos" Height="0" Factor="8" Width="fill"/>
+            <Plugins Extends="cos" Height="0" Factor="8" Width="fill"/>
+            <Plugins Extends="cosh" Height="0" Factor="8" Width="fill"/>
+            <Plugins Extends="x_in_2" Height="0" Factor="8" Width="fill"/>
+            <Plugins Extends="e" Height="0" Factor="8" Width="fill"/>
+          </Col>
+          <Col Width="0" Height="fill" Factor="10">
+            <MiddleGap Factor="1"/>
+            <Plugins Extends="arctan" Height="0" Factor="8" Width="fill"/>
+            <Plugins Extends="tan" Height="0" Factor="8" Width="fill"/>
+            <Plugins Extends="tanh" Height="0" Factor="8" Width="fill"/>
+            <Plugins Extends="x_in_3" Height="0" Factor="8" Width="fill"/>
+            <Plugins Extends="exp" Height="0" Factor="8" Width="fill"/>
+          </Col>
+          <Col Width="0" Height="fill" Factor="10">
+            <MiddleGap Factor="1"/>
+            <Plugins Extends="sqrt" Height="0" Factor="8" Width="fill"/>
+            <Plugins Extends="ln" Height="0" Factor="8" Width="fill"/>
+            <Plugins Extends="log" Height="0" Factor="8" Width="fill"/>
+            <Plugins Extends="x_in_y" Height="0" Factor="8" Width="fill"/>
+            <Plugins Extends="braces" Height="0" Factor="8" Width="fill"/>
+          </Col>
+          <Col Width="0" Height="fill" Factor="21">
+            <MiddleGap Factor="1"/>
+            <Row Width="fill" Height="0" Factor="8">
+              <MiddleGap Factor="1"/>
+              <Plugins Extends="clear" Height="fill" Factor="10" Width="0"/>
+              <Plugins Extends="backspace" Height="fill" Factor="10" Width="0"/>
+            </Row>
+            <Row Width="fill" Height="0" Factor="8">
+              <MiddleGap Factor="1"/>
+              <Plugins Extends="dig7" Height="fill" Factor="10" Width="0"/>
+              <Plugins Extends="dig8" Height="fill" Factor="10" Width="0"/>
+            </Row>
+            <Row Width="fill" Height="0" Factor="8">
+              <MiddleGap Factor="1"/>
+              <Plugins Extends="dig4" Height="fill" Factor="10" Width="0"/>
+              <Plugins Extends="dig5" Height="fill" Factor="10" Width="0"/>
+            </Row>
+            <Row Width="fill" Height="0" Factor="8">
+              <MiddleGap Factor="1"/>
+              <Plugins Extends="dig1" Height="fill" Factor="10" Width="0"/>
+              <Plugins Extends="dig2" Height="fill" Factor="10" Width="0"/>
+            </Row>
+            <Plugins Extends="dig0" Height="0" Factor="8" Width="fill"/>
+          </Col>
+          <Col Width="0" Height="fill" Factor="10">
+            <MiddleGap Factor="1"/>
+            <Plugins Extends="divide" Height="0" Factor="8" Width="fill"/>
+            <Plugins Extends="dig9" Height="0" Factor="8" Width="fill"/>
+            <Plugins Extends="dig6" Height="0" Factor="8" Width="fill"/>
+            <Plugins Extends="dig3" Height="0" Factor="8" Width="fill"/>
+            <Plugins Extends="dot" Height="0" Factor="8" Width="fill"/>
+          </Col>
+          <Col Width="0" Height="fill" Factor="10">
+            <MiddleGap Factor="1"/>
+            <Plugins Extends="mult" Height="0" Factor="8" Width="fill"/>
+            <Plugins Extends="minus" Height="0" Factor="8" Width="fill"/>
+            <Plugins Extends="plus" Height="0" Factor="8" Width="fill"/>
+            <Plugins Extends="equal" Height="0" Factor="17" Width="fill"/>
+          </Col>
+        </Row>
+      </Col>
+    </Frame>
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+  <Layout Name="Portrait_Tablet">
+    <General>
+      <Int Name="EditLength" Value="19"/>
+      <Font Name="Default" Face="Droid Sans" HeightPxl="27" Color="FFFFFFFF"/>
+    </General>
+    <Frame Width="fill" Height="fill">
+      <Plugins Extends="common:PanelSettings_Tablet"/>
+      <Plugin Class="Spb.LSP.Image" Name="background" Height="fill" Width="fill" Margins="34 1 1 1">
+        <String Name="ImageName" Value="background"/>
+        <Int Name="Tile" Value="1"/>
+      </Plugin>
+      <Plugin Class="Spb.LSP.9Patch" Name="border" Width="fill" Height="fill" Margins="33 0 0 0">
+        <String Name="ImageName" Value="border"/>
+      </Plugin>
+      <Plugin Name="Caption" ID="1002" Width="fill" Height="16" Margins="4 10 10 3">
+        <Font Name="Default"  Face="Droid Sans" HeightPxl="12" Bold="y" Color="FFFFFFFF"/>
+      </Plugin>
+      <Plugins Extends="Screen" Height="62" Width="fill" Margins="41 10 10 0"/>
+      <Col Width="fill" Height="fill" Margins="115 10 10 7">
+        <MiddleGap Factor="1"/>
+        <Row Width="fill" Height="0" Factor="40"> <!--27-->
+          <MiddleGap Factor="1"/>
+          <Col Width="0" Height="fill" Factor="12">
+            <MiddleGap Factor="1"/>
+            <Plugins Extends="clear" Height="0" Factor="6" Width="fill"/>
+            <Plugins Extends="arcsin" Height="0" Factor="6" Width="fill"/>
+            <Plugins Extends="sin" Height="0" Factor="6" Width="fill"/>
+            <Plugins Extends="sinh" Height="0" Factor="6" Width="fill"/>
+          </Col>
+          <Col Width="0" Height="fill" Factor="12">
+            <MiddleGap Factor="1"/>
+            <Plugins Extends="pi" Height="0" Factor="6" Width="fill"/>
+            <Plugins Extends="arccos" Height="0" Factor="6" Width="fill"/>
+            <Plugins Extends="cos" Height="0" Factor="6" Width="fill"/>
+            <Plugins Extends="cosh" Height="0" Factor="6" Width="fill"/>
+          </Col>
+          <Col Width="0" Height="fill" Factor="12">
+            <MiddleGap Factor="1"/>
+            <Plugins Extends="e" Height="0" Factor="6" Width="fill"/>
+            <Plugins Extends="arctan" Height="0" Factor="6" Width="fill"/>
+            <Plugins Extends="tan" Height="0" Factor="6" Width="fill"/>
+            <Plugins Extends="tanh" Height="0" Factor="6" Width="fill"/>
+          </Col>
+          <Col Width="0" Height="fill" Factor="12">
+            <MiddleGap Factor="1"/>
+            <Plugins Extends="exp" Height="0" Factor="6" Width="fill"/>
+            <Plugins Extends="sqrt" Height="0" Factor="6" Width="fill"/>
+            <Plugins Extends="ln" Height="0" Factor="6" Width="fill"/>
+            <Plugins Extends="log" Height="0" Factor="6" Width="fill"/>
+          </Col>
+          <Col Width="0" Height="fill" Factor="12">
+            <MiddleGap Factor="1"/>
+            <Plugins Extends="backspace" Height="0" Factor="6" Width="fill"/>
+            <Plugins Extends="braces" Height="0" Factor="6" Width="fill"/>
+            <Plugins Extends="divide" Height="0" Factor="6" Width="fill"/>
+            <Plugins Extends="mult" Height="0" Factor="6" Width="fill"/>
+          </Col>
+        </Row>
+        <Row Width="fill" Height="0" Factor="40"> <!--27-->
+          <MiddleGap Factor="1"/>
+          <Col Width="0" Height="fill" Factor="12">
+            <MiddleGap Factor="1"/>
+            <Plugins Extends="x_in_minus1" Height="0" Factor="6" Width="fill"/>
+            <Plugins Extends="x_in_2" Height="0" Factor="6" Width="fill"/>
+            <Plugins Extends="x_in_3" Height="0" Factor="6" Width="fill"/>
+            <Plugins Extends="x_in_y" Height="0" Factor="6" Width="fill"/>
+          </Col>
+          <Col Width="0" Height="fill" Factor="25">
+            <MiddleGap Factor="1"/>
+            <Row Width="fill" Height="0" Factor="6">
+              <MiddleGap Factor="1"/>
+              <Plugins Extends="dig7" Height="fill" Factor="12" Width="0"/>
+              <Plugins Extends="dig8" Height="fill" Factor="12" Width="0"/>
+            </Row>
+            <Row Width="fill" Height="0" Factor="6">
+              <MiddleGap Factor="1"/>
+              <Plugins Extends="dig4" Height="fill" Factor="12" Width="0"/>
+              <Plugins Extends="dig5" Height="fill" Factor="12" Width="0"/>
+            </Row>
+            <Row Width="fill" Height="0" Factor="6">
+              <MiddleGap Factor="1"/>
+              <Plugins Extends="dig1" Height="fill" Factor="12" Width="0"/>
+              <Plugins Extends="dig2" Height="fill" Factor="12" Width="0"/>
+            </Row>
+            <Plugins Extends="dig0" Height="0" Factor="6" Width="fill"/>
+          </Col>
+          <Col Width="0" Height="fill" Factor="12">
+            <MiddleGap Factor="1"/>
+            <Plugins Extends="dig9" Height="0" Factor="6" Width="fill"/>
+            <Plugins Extends="dig6" Height="0" Factor="6" Width="fill"/>
+            <Plugins Extends="dig3" Height="0" Factor="6" Width="fill"/>
+            <Plugins Extends="dot" Height="0" Factor="6" Width="fill"/>
+          </Col>
+          <Col Width="0" Height="fill" Factor="12">
+            <MiddleGap Factor="1"/>
+            <Plugins Extends="minus" Height="0" Factor="6" Width="fill"/>
+            <Plugins Extends="plus" Height="0" Factor="6" Width="fill"/>
+            <Plugins Extends="equal" Height="0" Factor="13" Width="fill"/>
+          </Col>
+        </Row>
+      </Col>
+    </Frame>
+  </Layout>
+
+</Layouts>

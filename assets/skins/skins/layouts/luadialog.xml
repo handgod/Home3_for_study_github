@@ -1,0 +1,209 @@
+<?xml version="1.0"?>
+
+<Layouts Name="Lua Dialog"  Type="panel">
+
+  <!-- **************************************************************************************************************** -->
+
+  <Rules>
+    <ScreenCondition Width="480" Height="800">
+      <UseLayout Name="240x400"/>
+    </ScreenCondition>
+
+    <ScreenCondition Width="800" Height="480">
+      <UseLayout Name="Landscape_Small"/>
+    </ScreenCondition>
+
+    <ScreenCondition Orientation="landscape">
+      <UseLayout Name="Landscape"/>
+    </ScreenCondition>
+    <Default>
+      <UseLayout Name="Portrait"/>
+    </Default>
+  </Rules>
+  
+  <!-- **************************************************************************************************************** -->
+
+  <General>
+    <!-- automatic skins and fonts -->
+    <Skin AutoSkin="luadialog"/>
+    <DefaultFont Face="Droid Sans" HeightPxl="10" Bold="n" Color="FF102D52"/>
+
+    <Font Name="ftFact" Face="Droid Sans" HeightPxl="14" Bold="y" Color="FF102D52"/>
+    <Font Name="ftCapt" Face="Droid Sans" HeightPxl="11" Bold="y" Color="FF102D52"/>
+
+    <!-- experimental lua staff -->
+    <String Name="LuaModule" Value="Script"/>
+    <String Name="LuaClass"  Value="ChuckScript"/>
+  </General>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="Default">
+    <General>
+    </General>
+    <Plugins>
+      <Plugin Name="Image_Header"   Class="Spb.LSP.Generic" ID="10" AutoSkin="luadialog" />
+      <Plugin Name="Image_Stretch"  Class="Spb.LSP.Generic" ID="20" AutoSkin="luadialog" />
+      <Plugin Name="Image_Footer"   Class="Spb.LSP.Generic" ID="30" AutoSkin="luadialog" />
+      <Plugin Name="Image_Separ1"   Class="Spb.LSP.Generic" ID="40" AutoSkin="luadialog" />
+      <Plugin Name="Image_Separ2"   Class="Spb.LSP.Generic" ID="50" AutoSkin="luadialog" />
+
+      <Plugin Name="Text_Url"       Class="Spb.LSP.Generic" ID="100"/>
+      <Plugin Name="Text_Fact"      Class="Spb.LSP.Generic" ID="110"/>
+      <Plugin Name="Text_Caption"   Class="Spb.LSP.Generic" ID="120"/>
+      <Plugin Name="Text_Updated"   Class="Spb.LSP.Generic" ID="130"/>
+
+      <Plugin Name="Btn_Update"     Class="Spb.LSP.Generic" ID="1000"/>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="240x400" BaseWidth="240" BaseHeight="400">
+    <General>
+    </General>
+    <Plugins Extends="Default">
+
+      <Plugin Name="Image_Header">
+        <BoundRect X="10"  Y="10"  Width="220" Height="85"  />
+      </Plugin>
+      <Plugin Name="Image_Stretch">
+        <BoundRect X="10"  Y="95"  Width="220" Height="211" />
+      </Plugin>
+      <Plugin Name="Image_Footer">
+        <BoundRect X="10"  Y="306" Width="220" Height="20"  />
+      </Plugin>
+      <Plugin Name="Image_Separ1">
+        <BoundRect X="85"  Y="120" Width="70"  Height="10"  />
+      </Plugin>
+      <Plugin Name="Image_Separ2">
+        <BoundRect X="85"  Y="250" Width="70"  Height="10"  />
+      </Plugin>
+
+      <Plugin Name="Text_Url">
+        <BoundRect X="15"  Y="95"  Width="210" Height="15"  />
+      </Plugin>
+      <Plugin Name="Text_Fact">
+        <BoundRect X="30"  Y="130" Width="180" Height="120" />
+      </Plugin>
+      <Plugin Name="Text_Caption">
+        <BoundRect X="20"  Y="272" Width="100" Height="15"  />
+      </Plugin>
+      <Plugin Name="Text_Updated">
+        <BoundRect X="20"  Y="287" Width="100" Height="15"  />
+      </Plugin>
+
+      <Plugin Name="Btn_Update">
+        <BoundRect X="120" Y="272" Width="100" Height="30"  />
+      </Plugin>
+
+    </Plugins>
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+  <!-- Stretchable layout for portrait resolution -->
+  <Layout Name="Portrait">
+    <General>
+    </General>
+    <Plugins LayoutType="linear" Orientation="vertical">
+      <LayoutSize Width="fill" Height="fill"/>
+      <LayoutMargins Left="10" Top="10" Right="10" Bottom="55"/>
+
+      <Plugin Name="Image_Header"   Class="Spb.LSP.Generic" ID="10" Align="top">
+        <LayoutSize Width="fill" Height="85"/>
+      </Plugin>
+
+      <Plugins LayoutType="frame" StretchFactor="1">
+        <LayoutSize Width="fill" Height="0"/>
+        
+        <Plugin Name="Image_Stretch"  lass="Spb.LSP.Generic" ID="20">
+          <LayoutSize Width="fill" Height="fill"/>
+        </Plugin>
+
+
+        <Plugins LayoutType="linear" Orientation="vertical">
+          <LayoutSize Width="fill" Height="fill"/>
+          <LayoutMargins Left="5" Right="5"/>
+
+          <Plugin Name="Text_Url"       Class="Spb.LSP.Generic" ID="100">
+            <LayoutSize Width="fill" Height="15"/>
+          </Plugin>
+
+          <Plugin Name="Image_Separ1"   Class="Spb.LSP.Generic" ID="40" Align ="center">
+            <LayoutSize Width="70" Height="10"/>
+            <LayoutMargins Top="10"/>
+          </Plugin>
+
+          <Plugin Name="Text_Fact"      Class="Spb.LSP.Generic" ID="110" StretchFactor="1">
+            <LayoutSize Width="fill" Height="0"/>
+          </Plugin>
+
+          <Plugin Name="Image_Separ2"   Class="Spb.LSP.Generic" ID="50" Align="center">
+            <LayoutSize Width="70" Height="10"/>
+            <LayoutMargins Bottom="10"/>
+          </Plugin>
+
+          <Plugins LayoutType="frame">
+            <LayoutSize Width="fill" Height="auto"/>
+            <LayoutMargins Left="5" Top="2" Bottom="4"/>
+
+            <Plugin Name="Text_Caption"   Class="Spb.LSP.Generic" ID="120" Align="left|top">
+              <LayoutSize Width="100" Height="15"/>
+            </Plugin>
+
+            <Plugin Name="Text_Updated"   Class="Spb.LSP.Generic" ID="130" Align="left|bottom">
+              <LayoutSize Width="100" Height="15"/>
+            </Plugin>
+
+            <Plugin Name="Btn_Update"     Class="Spb.LSP.Generic" ID="1000" Align="right|center_vert">
+              <LayoutMargins Right="5"/>
+              <LayoutSize Width="100" Height="30"/>
+            </Plugin>
+          </Plugins>
+        </Plugins>
+
+      </Plugins>
+
+      <Plugin Name="Image_Footer"   Class="Spb.LSP.Generic" ID="30" Align="bottom">
+        <LayoutSize Width="fill" Height="20"/>
+      </Plugin>
+
+    </Plugins>
+  </Layout>
+
+  <Layout Name="Landscape">
+    <Plugins Extends="Portrait">
+      <LayoutMargins Left="10" Top="10" Right="49" Bottom="10"/>
+      
+      <Plugins>
+        <Plugins>
+          <Plugin Name="Image_Separ1">
+            <LayoutMargins Top="0"/>
+          </Plugin>
+          <Plugin Name="Image_Separ2">
+            <LayoutMargins Bottom="5"/>
+          </Plugin>          
+        </Plugins>
+      </Plugins>
+      
+    </Plugins>
+  </Layout>
+
+  <Layout Name="Landscape_Small">
+    <Plugins Extends="Landscape">
+      <Plugin Name="Image_Header">
+        <LayoutSize Width="fill" Height="55"/>
+      </Plugin>
+
+      <Plugins>
+        <Plugins>
+          <Plugin Name="Image_Separ2">
+            <LayoutSize Width="0" Height="0"/>
+          </Plugin>
+        </Plugins>
+      </Plugins>
+
+      <Plugin Name="Image_Footer">
+        <LayoutSize Width="fill" Height="10"/>
+      </Plugin>
+    </Plugins>
+  </Layout>
+</Layouts>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skin Name="Widget Frame">
+  <items>
+    <item>
+      <Image Name="Frame" File="frame.png" />
+      <Image Name="Gloss" File="gloss.png" />
+      <Image Name="Gloss2x" File="gloss2x.png" />
+    </item>
+    <item DontScale="1">
+      <Rect Name="WidgetFramePadding" Left="1" Right="1" Top="4" Bottom="4" />
+    </item>
+  </items>
+</skin>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weather_temp_unit_titles">
+        <item>摂氏</item>
+        <item>華氏</item>
+    </string-array>
+    <string-array name="weather_press_unit_titles">
+        <item>水銀柱ミリメートル</item>
+        <item>水銀柱インチ</item>
+        <item>気圧</item>
+        <item>ヘクトパスカル</item>
+    </string-array>
+    <string-array name="weather_wind_speed_unit_titles">
+        <item>mi/時</item>
+        <item>ノット</item>
+        <item>m/s</item>
+        <item>km/h</item>
+    </string-array>
+    <string-array name="weather_humidity_unit_titles">
+        <item>パーセント</item>
+    </string-array>
+    <string-array name="weather_winddir_unit_titles">
+        <item>８方位（北、北東...）</item>
+        <item>１６方位（北、北北東...）</item>
+        <item>３６０方位</item>
+        <item>３２方位（北東微北...）</item>
+    </string-array>
+    <string-array name="weather_wind_directions">
+        <item>北</item>
+        <item>北東</item>
+        <item>東</item>
+        <item>南東</item>
+        <item>南</item>
+        <item>南西</item>
+        <item>西</item>
+        <item>北西</item>
+    </string-array>
+    <string-array name="weather_wind_directions_finer">
+        <item>北</item>
+        <item>北北東</item>
+        <item>北東</item>
+        <item>東北東</item>
+        <item>東</item>
+        <item>東南東</item>
+        <item>南東</item>
+        <item>南南東</item>
+        <item>南</item>
+        <item>南南西</item>
+        <item>南西</item>
+        <item>西南西</item>
+        <item>西</item>
+        <item>西北西</item>
+        <item>北西</item>
+        <item>北北西</item>
+    </string-array>
+    <string-array name="weather_wind_directions_marine">
+        <item>北</item>
+        <item>北微東</item>
+        <item>北北東</item>
+        <item>北東微北</item>
+        <item>北東</item>
+        <item>北東微東</item>
+        <item>東北東</item>
+        <item>東微北</item>
+        <item>東</item>
+        <item>東微南</item>
+        <item>東南東</item>
+        <item>南東微東</item>
+        <item>南東</item>
+        <item>南東微南</item>
+        <item>南南東</item>
+        <item>南微東</item>
+        <item>南</item>
+        <item>南微西</item>
+        <item>南南西</item>
+        <item>南西微南</item>
+        <item>南西</item>
+        <item>南西微西</item>
+        <item>西南西</item>
+        <item>西微南</item>
+        <item>西</item>
+        <item>西微北</item>
+        <item>西北西</item>
+        <item>北西微西</item>
+        <item>北西</item>
+        <item>北西微北</item>
+        <item>北北西</item>
+        <item>北微西</item>
+    </string-array>
+    <string-array name="weather_update_period_choices">
+        <item>無料のインターネット接続時のみ</item>
+        <item>15分毎</item>
+        <item>30分毎</item>
+        <item>1時間毎</item>
+        <item>1日2回</item>
+        <item>毎日</item>
+    </string-array>
+    <string-array name="weather_launch_mode_choices">
+        <item>天気予報画面を表示する</item>
+        <item>現在の状態画面を表示する</item>
+        <item>前回表示した画面を表示する</item>
+    </string-array>
+    <string-array name="weather_launch_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>

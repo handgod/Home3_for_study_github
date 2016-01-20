@@ -1,0 +1,370 @@
+ a few seconds|pieni hetki
+ day|päivä
+ days|päivää
+ hour|tunti
+ hours|tuntia
+ hrs|h
+ lunar day| kuupäivä
+ min| min
+ mins| min
+ minute|minuutti
+ minutes|minuuttia
+%i more today|%i lisää tänään
+%i more...|%i lisää...
+%i%% of Full|%i%% täydestä
+%s 2007—2011 Yandex|%s 2007—2011 Yandex
+(<1 min)|(<1 min)
+(in seconds)|(sekunneissa)
+(No title)|(Ei nimeä)
+[ Loading images... ]|[ Ladataan kuvia... ]
+[ Tap here for images load ]|[ Kuvat latautuvat kun painat tästä ]
+About|Tietoja
+Activate|Aktivoi
+Activation|Aktivointi
+Activation failed. Check your Internet connection.|Aktivointi epäonnistui. Tarkista Internet-yhteys.
+Add|Lisää
+Add channel|Lisää Kanava
+Add city|Lisää Kaupunki
+Add new city|Lisää Uusi Kaupunki
+Add Panel|Lisää Paneeli
+Add to Home screen|Lisää Kotivalikkoon
+Airplane|Lentokone
+All day|Koko päivän
+All pictures|Kaikki kuvat
+Android Shortcut|Android Pikakuvake
+Android Widget|Android Widget
+Anniversary|Vuosipäivä
+April|Huhtikuu
+Aqua|Vesi
+atm|x IP
+Atmospheres|Ilmanpainetta
+Atmospheric pressure scale|Ilmanpaine
+August|Elokuu
+Auto|Automaattinen
+Automatic|Automaattinen
+Automatic naming|Automaattinen nimeäminen
+Backlight|Taustavalo
+Birthday|Syntymäpäivä
+Birthdays|Syntymäpäivät
+Black|Musta
+Blue|Sininen
+Bookmarks|Kirjanmerkit
+Buy!|Ostaa!
+Calculator|Laskin
+Calendar|Kalenteri
+Calendar Panel|Kalenteri Paneeli
+Calendar Panel Settings|Kalenteri Paneelin asetukset
+Call|Soita
+Call Log|Puheluhistoria
+Cancel|Peruuta
+Celsius (#short)|Celsius (°C)
+Change|Vaihda
+Change City|Vaihda Kaupunkia
+Change profile|Vaihda Profiilia
+Choose Color|Valitse Väri
+Choose Program|Valitse Ohjelma
+Choose widget|Valitse Widget
+Clear|Selkeä
+Clock|Kello
+Cloudy|Pilvinen
+Cloudy, hail|Pilvistä, rakeita
+Cloudy, heavy rain|Pilvistä, rankkasadetta
+Cloudy, heavy snow|Pilvistä, lumimyrsky
+Cloudy, rain|Pilvistä, sadetta
+Cloudy, rain with snow|Pilvistä, loskasadetta
+Cloudy, snow|Pilvistä, lumisadetta
+Cloudy, thunder|Pilvistä, ukkosta
+Communication|Yhteydet
+Contact|Yhteystieto
+Contacts|Yhteystiedot
+Copyright %s 2007-2011\nSPB Software|Tekijänoikeudet %s 2007-2011\nSPB Software
+Copyright %s 2007-2012\nSPB Software|Tekijänoikeudet %s 2007-2012\nSPB Software
+Create Folder|Luo kansio
+Current|Nykyinen
+Current city|Nykyinen kaupunki
+Current conditions|Nykyinen Säätila
+Current Conditions|Nykyinen Säätilanne
+Current skin|Nykyinen olemus
+Day|Päivä
+December|Joulukuu
+Default|Oletus
+Default Action|Oletus Toiminto
+Dew point:|Kastepiste:
+Diagnostic tools|Diagnoosityökalut
+Discoverable|Havaittavissa
+Done|Valmis
+Download Original|Lataa Alkuperäinen
+Downloading images|Ladataan kuvia
+E|I
+east|itä
+Edit panels|Muokkaa paneeleja
+Emergency only|Vain hätätilanteessa
+Empty Panel|Tyhjä Paneeli
+Entertainment|Viihde
+Error|Virhe
+Evening|Ilta
+Every 2 hours|2 tunnin välein
+Every 24 hours|24 tunnin välein
+Every 30 Minutes|30 min välein
+Every 30 minutes|30 min välein
+Every 4 hours|4 tunnin välein
+Every hour|Tunnin välein
+Exit|Poistu
+Fahrenheit (#short)|Fahrenheit (°F)
+Favorite Contacts|Suositut Yhteystiedot
+Favorite contacts|Suositut yhteystiedot
+February|Helmikuu
+Filter|Suodatin
+First day of the week|Viikon ensimmäinen päivä
+First Quarter|Ensimmäinen neljännes
+Flight|Lento
+Folder|Kansio
+Folder Name|Kansion Nimi
+Forecast|Sääennuste
+from forecast|sääennusteesta
+Full Moon|Täysikuu
+Gallery|Galleria
+Games|Pelit
+Green|Vihreä
+Hectopascals|Hehtopascaleina
+Hide Duplicates|Piilota kaksoiskappaleet
+Hide SIM Contacts|Piilota SIM-kortin yhteystiedot
+Home|Koti
+hpa|hPa
+Humidity:|Ilmankosteus:
+in %u days|%u päivää
+inch|tuuma
+Inches|Tuumina
+Increase Counter|Kasvata Laskuria
+Invisible|Piilotettu
+January|Tammikuu
+July|Heinäkuu
+June|Kesäkuu
+Kilometers per hour|Kilometriä tunnissa
+Knots|Solmua
+knots|solmua
+kph|kph
+Large|Suuri
+Last Call|Viimeisin Puhelu
+Last Message|Viimeisin Viesti
+Last Quarter|Viimeinen neljännes
+Last updated|Päivitetty viimeksi
+Legal information|Oikeudelliset tiedot
+Legal notices|Oikeudellisia huomautuksia
+Lifestyle|Lifestyle
+Loading failed|Lataaminen epäonnistui
+Loading image for wallpaper|Ladataan kuvaa taustakuvaksi
+Loading skin failed!|Olemuksen lataaminen epäonnistui!
+Loading skins catalog failed!|Olemuskatalogin lataaminen epäonnistui!
+Loading...|Ladataan...
+Logging In...|Kirjaudutaan sisään...
+Lunar Calendar|Kuukalenteri
+Manage apps|Hallitse ohjelmia
+Manage Apps|Hallitse Ohjelmia
+Manage panels|Järjestä Paneeleja
+Manage Panels|Järjestä Paneeleja
+March|Maaliskuu
+May|Toukokuu
+Medium|Keskivaikea
+Messaging|Viestit
+Meters per second|Metriä sekunnissa
+Miles per hour|Mailia tunnissa
+Millimetres|Millimetreinä
+Misc|Muut
+Miscellaneous|Muut
+mm|mm
+Mobile|Matkapuhelin
+Mode|Tila
+Monday|Maanantai
+Moon|Kuu
+Moon Calendar|Kuukalenteri
+Morning|Aamu
+mph|mph
+mps|m/s
+Multimedia|Multimedia
+Music|Musiikki
+Music albums|Musiikki-albumit
+N|N
+N/A|N/A
+nd|.
+NE|Koil.
+Never|Ei Koskaan
+New|Uusi
+New Contact|Uusi yhteystieto
+New Folder|Uusi Kansio
+New Moon|Uusikuu
+News|Uutiset
+next|Seuraava
+Next Alarm|Seuraava Hälytys
+Night|Yö
+No|Ei
+no|Ei
+No Alarms|Ei hälytyksiä
+No calls|Ei puheluita
+No Cities|Ei kaupunkeja
+No conditions|Ei ehtoja
+No Contacts.|Ei yhteystietoja.
+No Countries|Ei valtioita
+No Images|Ei Kuvia
+No messages|Ei viestejä
+No news|Ei uutisia
+No SIM|Ei SIM-korttia
+No text messages|Ei tekstiviestejä
+No title|Ei otsikkoa
+No upcoming events|Ei tulevia tapahtumia
+No upcoming events in a week|Ei tulevia tapahtumia viikon sisällä
+No updates|Ei päivityksiä
+No weather forecast|Ei sääennusteita
+Normal|Normaali
+north|pohjoinen
+north east|koillinen
+north west|kaakko
+Not available|Ei saatavilla
+Not connected|Ei Yhteyttä
+November|Marraskuu
+NW|Luode
+October|Lokakuu
+One Touch Share|One Touch Share
+Only on free connections|Vain ilmaisilla yhteyksillä
+Open Contact|Avaa yhteystieto
+Open in Browser|Avaa Selaimessa
+OpenGL 2.0 is required to run SPB Shell 3D|Tarvitset OpenGL 2.0 käyttääksesi SPB Shell 3D:tä
+Other (assistant)|Muu (assistentti)
+Page|Sivu
+Panel Name|Paneelin Nimi
+Panels|Paneelit
+Parsing skins catalog failed!|Olemuskatalogin jäsentäminen epäonnistui!
+Partly cloudy|Osittain pilvistä
+Partly cloudy, rain|Osittain pilvistä, sadetta
+Partly cloudy, snow|Osittain pilvistä, lumisadetta
+Partly cloudy, thunder|Osittain pilvistä, ukkosta
+People|Ihmiset
+Phone|Puhelin
+Picture of the Day|Päivänkuva
+Pictures|Kuvat
+Pictures Of The Day|Päivän kuvat
+Pictures Settings|Kuvapaneelin Asetukset
+Please Log In|Kirjaudu sisään
+Please wait...|Odota hetki.
+Pressure:|Ilmanpaine:
+Problem loading widget|Ongelma ladattaessa Widgetiä
+Productivity|Tuottavuus
+Program|Ohjelma
+Pulkovo|Pulkovo
+Purchase|Osta
+Purple|Purppura
+Radio off|Radio pois päältä
+rd_loc|.
+Reading appointments...|Luetaan tapaamisia...
+Recycle Bin|Roskakori
+Red|Punainen
+Reload skin list|Päivitä olemusten lista
+Remove All|Poista Kaikki
+Rename|Nimeä uudelleen
+Rename Panel|Nimeä Paneeli
+Requesting images|Pyydetään kuvia
+Retry|Yritä Uudelleen
+RSS Feed|RSS-syöte
+RSS Panel Settings|RSS Paneelin Asetukset
+S|E
+Safe mode|Vikasietotila
+Saint-Petersburg|Pietari
+Save as New|Tallenna uutena
+Save to Existing|Tallenna olemassa olevaan
+SE|Kaak.
+Searching|Etsitään
+Select Channel|Valitse Channel
+Select cities|Valitse kaupunkia
+Select e-mail address|Valitse sähköpostiosoite
+Select phone number:|Valitse puhelinnumero:
+Select shortcut|Valitse pikakuvake
+Select Skin|Valitse Olemus
+Select wallpaper from|Valitse taustakuva
+Selected City|Valittu Kaupunki
+Selected city|Valittu kaupunki
+Send E-mail|Lähetä sähköposti
+Send E-Mail|Lähetä sähköposti
+Send Message|Lähetä viesti
+Send MMS|Lähetä MMS
+Send SMS|Lähetä Tekstiviesti
+September|Syyskuu
+Serial number:|Sarjanumero:
+Set as Home|Aseta Kotivalikoksi
+Set as Wallpaper|Aseta Taustakuvaksi
+Set wallpaper|Aseta taustakuva
+Settings|Asetukset
+Show all day events|Näytä päivän tapahtumat
+Silent|Äänetön
+Skin loading|Olemusta ladataan
+Small|Pieni
+Smog|Savusumu
+Social|Social
+south|etelä
+south east|lounas
+south west|luode
+SPB Shell 3D is loading...|SPB Shell 3D lataa...
+SPB Wallpapers|SPB Taustakuvat
+SPB Widget|SPB Widget
+st|.
+Standard Edition [Beta]|Standard Edition [Beta]
+Sunday|Sunnuntai
+SW|Lounas
+Temperatur scale|Lämpötila
+Temperature scale|Lämpötila-asteikko
+Test Battery|Akkutesti
+th|.
+Thank you for your support. Your copy is now registered.|Kiitoksia tuestasi. Tuotteesi on nyt rekisteröity.
+The maximum number of panels is reached|Paneeleja ei pysty lisäämään enempää
+The previous launch of SPB Shell 3D was unsuccessful. Please tap "Retry" to launch it again or "Home" to activate a different Home screen.|SPB Shell 3D:n aikaisempi käynnistyminen epäonnistui. Paina "Yritä Uudelleen" käynnistääksesi taas tai Kotipainiketta aktivoidaksesi jonkun muun valikon.
+Time|Aika
+Time Panel Settings|Aikapaneelin Asetukset
+Today|Tänään
+Tomorrow|Huomenna
+Tools|Työkalut
+Travel|Matkustus
+Unfortunately, we could not locate your purchase in Android Market. Please uninstall this copy before installing a new one.|Valitettavasti emme löytäneet maksuasi Android Marketista. Kokeile ohjelman poistamista ja uudelleenasennusta.
+Unfortunately, we could not locate your purchase. Please uninstall this copy before installing a new one.|Emme valitettavasti pystyneet tunnistamaan maksuasi. Poista ohjelma ja yritä asentaa se uudelleen.
+Uninstall|Poista
+Uninstall apps|Poista ohjelmia
+Unknown|Tuntematon
+Unknown location|Tuntematon sijainti
+Upcoming events|Tulevat tapahtumat
+Update|Päivitä
+Update Now|Päivitä Nyt
+Update pictures page automatically|Päivitä
+Update weather forecasts automatically|Päivitä säätiedot automaattisesti
+Updated|Päivitetty
+Updated:|Päivitetty:
+Updating image|Päivitetään kuvaa
+Updating...|Päivitetään...
+Use cellular connection for updating pictures automatically|Päivitä kuvia automaattisesti puhelimen verkkoyhteydellä.
+variable|muuttuja
+Version %s, Build %s|Versio %s, koontiversio %s
+Vibro|Värinä
+Video Call|Videopuhelu
+View Duplicates|Näytä kaksoiskappaleet
+View SIM Contacts|Näytä SIM-kortin yhteystiedot
+W|L
+Wallpaper|Taustakuva
+Wallpapers|Taustakuvat
+Waning Crescent|Hiipuva Kuunsirppi
+Waning Gibbous|Hiipuva Puolikuu
+Waxing Crescent|Kasvava Kuunsirppi
+Waxing Gibbous|Kasvava Puolikuu
+Weather|Sää
+Weather Forecast|Sääennuste
+Weather Settings|Sää Asetukset
+west|länsi
+Widget is too big to be added.|Widget on liian iso lisättäväksi.
+Wind direction:|Tuulen suunta:
+Wind speed scale|Tuulennopeus
+Wind speed:|Tuulennopeus:
+Wind:|Tuuli:
+Work|Työ
+World Time|Maailman Aika
+Wrong serial number. Please check it again.|Väärä sarjanumero. Tarkista se uudelleen.
+Yandex.Search|Yandex.Search
+Yellow|keltainen
+Yes|Kyllä
+Yesterday|Eilen
+Your video system isn't compatible with Shell 3D.|Laitteistosi ei ole yhteensopiva Shell 3D:n kanssa.

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skin Name="Miscellaneous">
+  <items>
+    <item DontScale="1">
+
+      <Image Name="crossfade" File="crossfade.png"/>
+
+      <Image Name="Header" File="Header.png"/>
+      <Image Name="HeaderLine" File="HeaderLine.png"/>
+      <Image Name="UpperGlow" File="UpperGlow.png"/>
+      <Image Name="Thermo" File="Thermo.png"/>
+
+      <Image Name="RadioButton" File="RadioButton.png"/>
+      <Image Name="WidgetIcons" File="WidgetIcons.png"/>
+      <Image Name="Border" File="Border.png"/>
+      <Image Name="Contacts" File="contacts.png"/>
+
+      <Image Name="CallLog" File="CallLog.png"/>
+      <Image Name="NoPhoto" File="NoPhoto.png"/>
+
+      <Image Name="Change"      File="Change.png"/>
+      <Image Name="Settings"    File="Settings.png"/>
+      <Image Name="SettingsWnd" File="SettingsWnd.png"/>
+      <Image Name="Add"         File="Add.png"/>
+      <Image Name="Update"      File="Update.png"/>
+      <Image Name="Browser"     File="browser.png"/>
+      <Image Name="Wallpaper"   File="wallppr.png"/>
+      <Image Name="Download"    File="downl.png"/>
+
+      <Image Name="Button"     File="Button.png"/>
+
+      <Image Name="contacts_size_large"     File="contacts_size_large.png"/>
+      <Image Name="contacts_size_medium"     File="contacts_size_medium.png"/>
+      <Image Name="contacts_size_small"     File="contacts_size_small.png"/>
+      <Image Name="contacts_action"     File="contacts_action.png"/>
+      <Image Name="contacts_size"     File="contacts_size.png"/>
+
+      <Int Name="BackgrdOpacity" Value="150"/>
+      <Point Name="BorderOuterMargin" X="3" Y="3"/>
+      <Point Name="BorderSize" X="10" Y="10"/>
+
+      <Image Name="Folder" File="ic_folder.png"/>
+      <Image Name="Widget" File="ic_launcher_appwidget.png"/>
+      <Image Name="Shortcut" File="ic_launcher_shortcut.png"/>
+      <Image Name="SPBWidget" File="spbwidget.png"/>
+      <Image Name="PanelIcon" File="panel_icon_auto.png"/>
+      <Image Name="ProgramIcon" File="programme_icon.png"/>
+
+      <Image Name="Logo" File="logo_icon.png"/>
+      <Image Name="LogoSmall" File="logo_small.png"/>
+
+      <Image Name="CarouselStaticBg" File="bg-1.png"/>
+      <Image Name="bottom-glow" File="bottom-glow.png"/>
+      <Image Name="rcorners" File="rcorners.png"/>
+      <Image Name="tintcorners" File="tintcorners.dds"/>
+
+      <Image Name="Today"       File="today.png"/>
+      <Image Name="Rename"      File="rename.png"/>
+      <Image Name="EditNote"    File="edit_note.png"/>
+      <Image Name="DeleteNote"  File="delete_note.png"/>
+      <Image Name="SetHome"     File="sethome.png"/>
+      <Image Name="ChooseColor" File="choosecolor.png"/>
+
+      <Image Name="separator" File="separator.png"/>
+
+      <Image Name="crossfade_v" File="crossfade_v.png"/>
+
+      <!-- popup elems -->
+      <Image Name="PopupHeader_s" File="PopupHeader_s.png"/>
+      <Image Name="PopupHeader_b" File="PopupHeader_b.png"/>
+      <Image Name="PopupFooter"   File="PopupFooter.png"  />
+      <Image Name="PopupStretch"  File="PopupStretch.png" />
+    </item>
+  </items>
+</skin>

@@ -1,0 +1,519 @@
+ a few seconds| kelios sek.
+ day| diena
+ days| dienos
+ hour| val.
+ hours| valandos
+ hr| val
+ hrs| val.
+ lunar day| mėnulio diena
+ min| min.
+ mins| min.
+ minute| min.
+ minutes| minutės
+%d bought|Įsigyta %d
+%d day|%d diena
+%d days|%d dienos (-ų)
+%d hour|%d valanda
+%d hours|%d valandos
+%d minute|%d minutė
+%d minutes|%d minutės
+%d more...|%d daugiau...
+%i active channel|Aktyvus kanalas: %i
+%i active channels|Aktyvūs kanalai: %i
+%i image|%i vaizd.
+%i images|%i vaizd.
+%i more today|Šiandien dar %i
+%i more...|Dar %i...
+%i page|%i psl.
+%i pages|%i psl.
+%i%% of Full|%i%% pilno
+%s 2007—2011 Yandex|%s 2007—2011 Yandex
+(<1 min)|(< 1 min.)
+(in|(už
+(in seconds)|(sek.)
+(No title)|(pavadinimo nėra)
+[ Loading images... ]|[ Įkeliami vaizdai... ]
+[ Tap here for images load ]|[ Bakstelėkite čia įkelti vaizdus ]
+A few minutes ago|Prieš kelias minutes
+About|Apie
+Above horizon|Virš horizonto
+Activate|Aktyvinti
+Activation|Aktyvinimas
+Activation failed. Check your Internet connection.|Suaktyvinti nepavyko. Patikrinkite interneto ryšį.
+Active Channels|Aktyvūs kanalai
+Active channels|Aktyvūs kanalai
+Add|Pridėti
+Add category|Pridėti kategoriją
+Add city|Pridėti miestą
+Add custom channel|Pridėti pasirinktą kanalą
+Add new city|Pridėti naują miestą
+Add note|Pridėti pastabą
+Add Panel|Pridėti ekraną
+Add to Home screen|Pridėti į pagrindinį ekraną
+Airplane|Lėktuvas
+Airplane Mode|Skrydžio režimas
+All day|Visą dieną
+All pictures|Visi paveikslėliai
+Allow resizing of all Android widgets|Leisti keisti dydį visose Androi programėlėse
+An hour ago|Prieš valandą
+Android Shortcut|Android nuoroda
+Android Widget|Android programėlė
+Anniversary|Jubiliejus
+Appearance|Išvaizda
+Application|Naudojimas
+April|Balandis
+Aqua|Žydra
+Aquarius|Vandenis
+Aries|Avinas
+as of %s|nuo %s
+at %s|%s
+atm|atm
+Atmospheres|Atmosferos
+Atmospheric pressure scale|Atmosferos slėgio skalė
+August|Rugpjūtis
+Auto|Automatinis
+Auto (keyboard only)|Automatinis (tik klaviatūra)
+Auto arrange widgets|Automatiškai išdėstyti programėles
+Automatic|Automatinis
+Automatic naming|Autom. pavadinimas
+Backlight|Fono apšvietimas
+Battery|Baterija
+Below horizon|Žemiau horizonto
+Birthday|Gimtadienis
+Birthdays|Gimtadieniai
+Black|Juoda
+Blue|Mėlyna
+Bluetooth|„Bluetooth“
+Bookmarks|Žymės
+Bookmarks Folder|Žymių aplankas
+Business|Verslo
+Buy!|Pirkti!
+Cache size|Talpyklos dydis
+Calculator|Skaičiuotuvas
+Calendar|Kalendorius
+Calendar Panel|Kalendoriaus ekranas
+Calendar Panel Settings|Kalendoriaus ekrano nustatymai
+Call|Skambinti
+Call Log|Skamb. žurnalas
+Cancel|Atšaukti
+Cancer|Vėžys
+Capricorn|Ožiaragis
+Categories|Kategorijos
+Category Name|Kategorijos pavadinimas
+Celsius (#short)|Celsijaus
+Change|Pakeisti
+Change City|Keisti miestą
+Change profile|Keisti profilį
+Channels list|Kanalų sąrašas
+Choose Color|Keisti spalvą
+Choose Program|Rinktis programą
+Choose SPB Widget|Rinktis SPB valdiklį
+Choose widget|Rinktis programėlę
+Clear|Giedra
+Clear cache|Valyti talpyklą
+Clock|Laikrodis
+Cloudy|Debesuota
+Cloudy, hail|Debesuota, kruša
+Cloudy, heavy rain|Debesuota, smarkus lietus
+Cloudy, heavy snow|Debesuota, stiprus sniegas
+Cloudy, rain|Debesuota, lietus
+Cloudy, rain with snow|Debesuota, lietus su sniegu
+Cloudy, snow|Debesuota, sniegas
+Cloudy, thunder|Debesuota, perkūnija
+Color anaglyph (red/cyan)|Spalvotas persidengiantis vaizdas (raudona / žydra)
+Communication|Ryšiai
+Contact|Kontaktas
+Contacts|Kontaktai
+Contacts Folder|Kontaktų aplankas
+Copyright %s 2007-2011\nSPB Software|%s „SPB Software“,\n2007-2011
+Copyright %s 2007-2012\nSPB Software|%s „SPB Software“,\n2007-2012
+Create Folder|Kurti aplanką
+Current|Esamas
+Current city|Esamas miestas
+Current conditions|Esamos sąlygos
+Current Conditions|Esamos sąlygos
+Current skin|Esamas apipavidalinimas
+Day|Diena
+Deal of the Day|Dienos pasiūlymas
+Deal of the Day Panel|Dienos pasiūlymo ekranas
+Deal of the Day Panel Settings|Dienos pasiūlymo ekrano nustatymai
+Deals|Pasiūlymai
+December|Gruodis
+Default|Numatytasis
+Delete note|Trinti pastabą
+Dew point:|Rasos taškas:
+Diagnostic tools|Diagnostikos įrankiai
+Disabled|Išjungtas
+Discoverable|Aptinkamas
+Done|Baigta
+Download Original|Atsisiųsti originalą
+Downloading images|Atsisiunčiami vaizdai
+E|R
+east|rytų
+Edit channel|Redaguoti kanalą
+Edit note|Redaguoti pastabą
+Edit panels|Redaguoti ekranus
+Emergency only|Tik pagalbos skambučiai
+Empty Panel|Tuščias ekranas
+Enable live wallpapers|Įjungti realiojo laiko tapetus
+Enabled|Įjungtas
+Enter RSS feed title|Įvesti RSS transliacijos pavadinimą
+Enter RSS feed URL|Įvesti RSS transliacijos URL
+Entertainment|Pramogos
+Error|Klaida
+Evening|Vakaras
+Every 2 hours|Kas 2 val.
+Every 24 hours|Kas 24 val.
+Every 30 Minutes|Kas 30 min.
+Every 30 minutes|Kas 30 min.
+Every 4 hours|Kas 4 val.
+Every hour|Kas valandą
+Exit|Išeiti
+Experimental|Eksperimentinis
+Experimental Settings|Eksperimentiniai nustatymai
+Experimental settings|Eksperimentiniai nustatymai
+Fahrenheit (#short)|Farenheito
+Failed to load RSS|Nepavyko įkelti RSS
+Favorite Contacts|Mėgstami kontaktai
+Favorite contacts|Mėgstami kontaktai
+February|Vasaris
+Filter|Filtras
+First day of the week|Pirma savaitės diena
+First Quarter|Jaunas mėnulis
+Flight|Skrydis
+Folder|Aplankas
+Folder Name|Aplanko pavadinimas
+Forecast|Prognozė
+from forecast|iš prognozės
+Full Moon|Pilnatis
+Gallery|Galerija
+Games|Žaidimai
+Gemini|Dvyniai
+Grayscale anaglyph (red/cyan)|Pilkas persidengiantis vaizdas (raudona / žydra)
+Green|Žalia
+G-Sensor|G jutiklis
+Half an hour ago|Prieš pusvalandį
+Hectopascals|Hektopaskaliai
+Hide Duplicates|Slėpti dublikatus
+Hide SIM Contacts|Slėpti SIM kontaktus
+Home|Atgal
+Home Settings|Pagr. nustatymai
+Home settings|Pagr. nustatymai
+hpa|hPa
+Humidity:|Drėgmė:
+in %u days|už %u d.
+in Home Settings|Pagr. nustatymuose
+inch|col.
+Inches|Coliai
+Increase Counter|Didinti skaičių
+Interface mode|Sąsajos režimas
+Invisible|Nematomas
+January|Sausis
+July|Liepa
+June|Birželis
+Kilometers per hour|Km/val.
+Knots|mazgai
+knots|mazgai
+kph|k/val.
+kts|mazg.
+Landscape|Gulsčias
+Landscape orientation required to enable left-to-right stereo mode|Kraštovaizdžio padėtis, reikalinga įjungti stereo režimą iš kairės į dešinę
+Large|Didelis
+Last Call|Paskutinis skambutis
+Last Message|Paskutinis pranešimas
+Last Quarter|Delčia
+Last updated|Paskutinį kartą atnaujinta
+Left-to-right (HTC EVO 3D)|Iš kairės į dešinę (HTC EVO 3D)
+Legal information|Teisinė informacija
+Legal notices|Teisinės pastabos
+Leo|Liūtas
+Libra|Svarstyklės
+Lifestyle|Gyvenimo būdas
+Live wallpapers can cause performance degradation of your 3D home screen. Switching between live and static wallpapers can take up to a minute. Static wallpapers are recommended for the best experience.|Realiojo laiko tapetai gali nulemti 3D pagrindinio ekrano prastesnį veikimą. Persijungti tarp realiojo laiko ir statiškų tapetų gali užtrukti iki minutės. Geriausiai patirčiai rekomenduojami statiški tapetai.
+Loading failed|Įkelti nepavyko
+Loading image for wallpaper|Atsisiunčiamas tapeto paveikslėlis
+Loading RSS feed %s...|Įkeliamas RSS srautas %s...
+Loading skin failed!|Atsisiųsti apipavidalinimo nepavyko!
+Loading skins catalog failed!|Įkelti apipavidalinimų katalogo nepavyko!
+Loading...|Įkeliama...
+Logging In...|Prisiregistruojama...
+Lunar Calendar|Mėnulio kalendorius
+Lunar day %d|%d mėnulio kal. diena
+Manage apps|Tvarkyti programas
+Manage Apps|Tvarkyti programas
+Manage panels|Tvarkyti ekranus
+Manage Panels|Tvarkyti ekranus
+March|Kovas
+May|Gegužė
+Messaging|Pranešimai
+Meters per second|M/s
+Miles per hour|Myl./val.
+Millimetres|Milimetrai
+Misc|Įvairūs
+Miscellaneous|Įvairūs
+mm|mm
+Mobile|Mobilusis
+Mode|Režimas
+Monday|Pirmadienis
+Moon|Mėnulis
+Moon Calendar|Mėnulio kalendorius
+Moon in %s,|Mėnulis šiame ženkle: %s,
+Morning|Rytas
+mph|myl./val.
+mps|mps
+Multimedia|Daugialypė terpė
+Music|Muzika
+Music albums|Muzikos albumai
+N|Š
+N/A|NĖRA
+nd|-as
+NE|ŠR
+Network Status|Tinklo būsena
+Never|Niekada
+New Channel|Naujas kanalas
+New channel|Naujas kanalas
+New Contact|Naujas kontaktas
+New Folder|Naujas aplankas
+New Moon|Jaunatis
+News|Naujienos
+News Panel|Naujienų ekranas
+News Panel Settings|Naujienų ekrano nustatymai
+next|toliau
+Next Alarm|Kitas signalas
+Night|Naktis
+No|Ne
+no|ne
+No Alarms|Signalų nėra
+No birthdays|Gimtadienių nėra
+No calls|Skambučių nėra
+No Cities|Miestų nėra
+No conditions|Sąlygų nėra
+No Contacts.|Kontaktų nėra.
+No Countries|Šalių nėra
+No deals loaded|Pasiūlymų neįkelta
+No Images|Paveikslėlių nėra
+No messages|Pranešimų nėra
+No news|Naujienų nėra
+No rise/set info|Kilimo / leidimosi informacijos nėra
+No RSS feed found at|Nerasta RSS transliacijų
+No rss loaded|RSS neįkelta
+No SIM|SIM nėra
+No text messages|Teksto pranešimų nėra
+No title|Pavadinimo nėra
+No upcoming events|Artėjančių įvykių nėra
+No upcoming events in a week|Per savaitę artėjančių įvykių nėra
+No updates|Atnaujinimų nėra
+No weather forecast|Oro prognozės nėra
+Normal|Įprastas
+north|šiaurės
+north east|šiaurės rytų
+north west|šiaurės vakarų
+Not available|Nėra
+Not connected|Neprijungta
+Notes|Pastabos
+Note's default color|Pastabos numatytoji spalva
+Note's font|Pastabos šriftas
+Notes Panel|Pastabų ekranas
+Notes Panel Settings|Pastabų ekrano nustatymai
+November|Lapkritis
+NW|ŠV
+October|Spalis
+Off|Išjungta
+Offer|Pasiūlymas
+On|Įj.
+One Touch Share|One Touch Share
+Only on free connections|Tik laisviems ryšiams
+Open Contact|Atidaryti kontaktą
+Open in Browser|Atidaryti naršyklėje
+OpenGL 2.0 is required to run SPB Shell 3D|SPB Shell 3D gali veikti tik su OpenGL 2.0
+Optimized anaglyph (red/cyan)|Optimizuotas persidengiantis vaizdas (raudona / žydra)
+Other (assistant)|Kitas (pagalb.)
+Page|Psl.
+Pages: %d, images: %d|Puslapiai: %d, atvaizdai: %d
+Panel Name|Ekrano pavadinimas
+Parsing skins catalog failed!|Suskaidyti apipavidalinimų katalogo nepavyko!
+Partly cloudy|Iš dalies debesuota
+Partly cloudy, rain|Iš dalies debesuota, lietus
+Partly cloudy, snow|Iš dalies debesuota, sniegas
+Partly cloudy, thunder|Iš dalies debesuota, perkūnija
+People|Žmonės
+Performance Warning|Veikimo įspėjimas
+Performance Warning dialog|Veikimo įspėjimo dialogo langas
+Personal|Asmeninė
+Phone|Telefonas
+Photo folder for gallery widgets|Nuotraukų aplankas galerijos valdikliams
+Picture Gallery|Paveikslėlių galerija
+Picture of the Day|Dienos paveikslėlis
+Picture Panel Settings|Paveikslėlių ekrano nustatymai
+Pictures|Paveikslėliai
+Pictures Of The Day|Dienos paveikslėliai
+Pictures Panel|Paveikslėlių ekranas
+Pictures Panel Settings|Paveikslėlių ekrano nustatymai
+Pictures Settings|Paveikslėlių nustatymai
+Pisces|Žuvys
+Please Log In|Prisiregistruokite
+Please wait...|Palaukite...
+Portrait|Stačias
+Pressure:|Slėgis:
+Problem loading widget|Programėlės įkėlimo problema
+Productivity|Produktyvumas
+Program|Programa
+Pulkovo|Pulkovo oro uostas
+Purchase|Pirkinys
+Purple|Rausvas
+Radio off|Radijas išjungtas
+rd_loc|-as
+Reading appointments...|Nuskaitomi susitikimai...
+Recycle Bin|Šiukšlinė
+Red|Raudona
+Reduced|Sumažinta
+Reload skin list|Vėl įkelti apipavidalinimų sąrašą
+Remove All|Šalinti viską
+Rename|Pervadinti
+Rename Panel|Pervadinti ekraną
+Requesting images|Užklausiama vaizdų
+Retry|Kartoti
+Rise: %s|Kyla: %s
+RSS Feed|RSS informacija
+RSS Panel|RSS ekranas
+RSS Panel Settings|RSS ekrano nustatymai
+S|P
+Safe mode|Saugus režimas
+Sagittarius|Šaulys
+Saint-Petersburg|Sankt Peterburgas
+Save as New|Įrašyti kaip naują
+Save to Existing|Įrašyti į esamą
+Scorpio|Skorpionas
+Screen orientation|Ekrano orientavimas
+SE|PR
+Searching|Ieškoma
+Select Channel|Rinktis kanalą
+Select cities|Pasirinkti miestus
+Select e-mail address|Pasirinkti el. pašto adresą
+Select phone number:|Pasirinkti tel. Nr.:
+Select shortcut|Rinktis nuorodą
+Select Skin|Pasirinkti apipavidalinimą
+Select wallpaper from|Rinktis tapetą iš
+Selected cities|Pasirinkti miestai
+Selected City|Pasirinktas miestas
+Selected city|Pasirinktas miestas
+Send E-mail|Siųsti el. laišką
+Send E-Mail|Siųsti el. laišką
+Send Message|Siųsti pranešimą
+Send MMS|Siųsti MMS
+Send SMS|Siųsti SMS
+September|Rugsėjis
+Serial number:|Serijos numeris:
+Set as Home|Nustatyti kaip pagrindinį
+Set as Wallpaper|Nustatyti kaip tapetą
+Set wallpaper|Nustatyti tapetą
+Set: %s|Leidžiasi: %s
+Settings|Nustatymai
+Show all|Rodyti viską
+Show all day events|Rodyti visos dienos įvykius
+Show all day events in calendar widgets|Rodyti visos dienos įvykius kalendoriaus programėlėse
+Show full news|Rodyti pilnas naujienas
+Show images in news|Rodyti vaizdus naujienose
+Silent|Tylus
+Skin loading|Įkeliamas apipavidalinimas
+Small|Mažas
+Smartphone|Išmanusis telefonas
+Smog|Smogas
+Social|Socialiniai
+Sound Profile|Garso profilis
+south|pietų
+south east|pietryčių
+south west|pietvakarių
+SPB Shell 3D is loading...|Įkeliama SPB Shell 3D...
+SPB Wallpapers|SPB tapetai
+SPB Widget|SPB programėlė
+st|-as
+Standard Edition [Beta]|Standartinis leidimas [Beta]
+Stereoscopic 3D mode|Stereoskopinis 3D režimas
+Stereoscopic 3D mode will be disabled|Stereoskopinis 3D režimas bus išjungtas
+Stereoscopic 3D Settings|Stereoskopiniai 3D nustatymai
+Sun in %s,|Saulė šiame ženkle: %s,
+Sunday|Sekmadienis
+SW|PV
+Switching the interface mode can take up to a minute. Screen orientation will be changed to '%s'.|Sąsajos režimo prijungimas gali užtrukti iki minutės. Ekrano orientavimas bus %s.
+System|Sistema
+Tablet|Planšetinis kompiuteris
+Taurus|Jautis
+Temperatur scale|Temperatūrų skalė
+Temperature scale|Temperatūrų skalė
+Test Battery|Tikrinti bateriją
+th|-as
+Thank you for your support. Your copy is now registered.|Dėkojame už jūsų palaikymą. Dabar jūsų kopija užregistruota.
+The experimental features below are not ready to be shipped in the core of SPB Shell 3D. They may contain severe defects and cause system instability. Use them at your own risk.|Toliau išvardintos eksperimentinės funkcijos neparuoštos pateikti su bazine SPB Shell 3D. Jose gali būti defektų, kurie gali nulemti sistemos nestabilumą. Naudokite jas tik savo nuožiūra.
+The maximum number of panels is reached|Pasiektas didžiausias ekranų skaičius
+The name cannot be changed.|Pavadinimo pakeisti negalima.
+The previous launch of SPB Shell 3D was unsuccessful. Please tap "Retry" to launch it again or "Home" to activate a different Home screen.|Ankstesnis SPB Shell 3D paleidimas buvo nesėkmingas. Norėdami įkelti dar kartą, bakstelėkite „Kartoti“, arba bakstelėkite „Pagrindinis“ norėdami įjungti kitą pagrindinį ekraną,
+Time|Laikas
+Time Panel|Laiko ekranas
+Time Panel Settings|Laiko ekrano nustatymai
+Today|Šiandien
+Toggle|Perjungti
+Tomorrow|Rytoj
+Tools|Įrankiai
+Travel|Kelionės
+Unfortunately, we could not locate your purchase in Android Market. Please uninstall this copy before installing a new one.|Deja, jūsų pirkinio Android parduotuvėje neradome. Išdiekite šią kopiją prieš įdiegdami naują.
+Unfortunately, we could not locate your purchase. Please uninstall this copy before installing a new one.|Deja, jūsų pirkinio rasti nepavyko. Išdiekite šią kopiją prieš įdiegdami naują.
+Uninstall|Išdiegti
+Uninstall apps|Išdiegti programas
+Unknown|Nežinomas
+Unknown location|Nežinoma vieta
+Upcoming events|Būsimi įvykiai
+Update|Atnaujinimas
+Update deals list automatically|Pasiūlymų sąrašą atnaujinti automatiškai
+Update Now|Atnaujinti dabar
+Update pictures page automatically|Atnaujinti paveikslėlių psl. automatiškai
+Update weather forecasts automatically|Atnaujinti orų prognozę automatiškai
+Updated|Atnaujinta
+Updated:|Atnaujinta:
+Updating image|Atnaujinamas vaizdas
+Updating...|Atnaujinama...
+Use 3D in application list|Programų sąraše naudoti 3D
+Use 3D in edit mode|Naudoti 3D redagavimo režimu
+Use cellular connection for updating deals list|Naudoti mobilų ryšį atnaujinti pasiūlymų sąrašą
+Use cellular connection for updating deals list automatically|Naudokite mobilųjį ryšį automatiškai atnaujinti sutarčių sąrašą
+Use cellular connection for updating pictures automatically|Naudoti mobilų ryšį automatiškai atnaujinti paveikslėlius
+Use cellular connection for updating weather automatically|Naudokite mobilųjį ryšį automatiškai atnaujinti informaciją apie orą
+Use new color every time|Kaskart naudoti naują spalvą
+Use previous note's color|Naudoti ankstesnės pastabos spalvą
+Value|Vertė
+variable|kintančios krypties
+Version %s, Build %s|Versija %s, variantas %s
+Vibro|Vibruojantis
+Video Call|Vaizdo skambutis
+View Duplicates|Peržiūrėti dublikatus
+View SIM Contacts|Peržiūrėti SIM kontaktus
+Virgo|Mergelė
+W|V
+Wallpaper|Tapetas
+Wallpapers|Tapetai
+Waning Crescent|Mažėjantis pusmėnulis
+Waning Gibbous|Mažėjantis priešpilnis
+Waxing Crescent|Didėjantis pusmėnulis
+Waxing Gibbous|Didėjantis priešpilnis
+Weather|Oras
+Weather and Clock|Oras ir laikrodis
+Weather Forecast|Oro prognozė
+Weather Settings|Oro nustatymai
+Welcome to notes panel|Sveiki, tai pastabų sritis
+west|vakarų
+Widget is too big to be added.|Programėlė per didelė, pridėti negalima.
+Widgets|Valdikliai
+Widgets Settings|Valdiklių nustatymai
+Wind direction:|Vėjo kryptis:
+Wind speed scale|Vėjo greičių skalė
+Wind speed:|Vėjo greitis:
+Wind:|Vėjas:
+Work|Darbo
+World Time|Pasaulio laikas
+Wrong serial number. Please check it again.|Klaidingas serijos numeris. Prašom patikrinti dar kartą.
+Yandex.Search|Yandex.Search
+Yellow|Geltonas
+Yes|Taip
+Yesterday|Vakar
+You save|Sutaupote
+Your video system isn't compatible with Shell 3D.|Jūsų vaizdo sistema nesuderinama su Shell 3D.

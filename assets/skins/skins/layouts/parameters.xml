@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Layouts>
+
+  <Layers>
+    <Layer Name="Background" Dialog="ModernDecorations"/>
+    <Layer/>
+    <Layer Name="ScrollBar" Dialog="ScrollBar"/>
+  </Layers>
+
+  <Rules>
+    <PlatformCondition Platform="tablets">
+      <UseLayout Name="Tablets"/>
+    </PlatformCondition>
+    <Default>
+      <UseLayout Name="Default"/>
+    </Default>
+  </Rules>
+
+  <General>
+    <ScrollY Value="Auto"/>
+    <DialogObject Value="Spb.Data.Parameters"/>
+    <Skin AutoSkin="settings"/>
+	<String Name="Caption" Value="Settings"/>
+  </General>
+
+  <Layout Name="Default">
+    <Frame Width="fill" Height="auto">
+	
+        <Column Name="Group" Dynamic="1" ID="100" Width="fill" Height="auto">
+          <Frame Width="fill" Height="auto" Margins="0 5 5 0">
+            <Row Width="fill" Height="auto" Margins="0 7 7 0">
+		  
+		      <Frame Name="IconGroup" Dynamic="1" ID="102" Width="auto" Height="fill">
+                <Int Name="MaxSize" Value="1"/>
+                <Plugin Name="Icon" ID="10" Width="30" Height="fill" Margins="0 5 10 0" />
+              </Frame>
+			  
+			  <Frame Width="100" StretchFactor="1" Height="auto" Align="center_vert">
+		        <Column Width="fill" Height="auto" Margins="8 0 0 8">
+                  <Plugin Name="Name" ID="2" Width="fill" Height="auto">
+				  	<BoundRect X="0" Y="0" Width="0" Height="15"/><!--min height-->
+				    <DefaultFont Face="Droid Sans" HeightPxl="12" Bold="y" Color="ffffffff"/>
+				  </Plugin>
+				  <Plugin Name="Value" ID="3" Width="fill" Height="16">
+				    <DefaultFont Face="Droid Sans" HeightPxl="12" Bold="n" Color="ffa0a0a0"/>
+			      </Plugin>
+                </Column>
+				
+		        <Plugin Name="SingleHeader" ID="6" Width="fill" Height="auto" Align="center_vert" Margins="12 5 5 12">
+				  <DefaultFont Face="Droid Sans" HeightPxl="13" Bold="n" Color="ffffffff"/>
+			    </Plugin>
+			  </Frame>
+		  
+		      <Frame Name="ButtonGroup" Dynamic="1" ID="101" Width="auto" Height="auto" Align="center_vert">
+                <Int Name="MaxSize" Value="1"/>
+                <Plugin Name="Button" ID="4"  Width="70" Height="31" AutoSkin="misc" Margins="8 0 0 8">
+				  <DefaultFont Face="Droid Sans" HeightPxl="12" Bold="n" Color="FFFFFFFF"/>
+				</Plugin>
+              </Frame>
+            </Row>
+		  
+            <Plugin Name="h" Class="Spb.LSP.ModernSeparator" Align="bottom" Width="fill" Height="1" Margins="0 5 5 0" />
+            <Plugin Name="Selection" ID="5" Width="fill" Height="fill" Margins="1 0 0 0"/>
+          </Frame>
+        </Column>
+
+    </Frame>
+  </Layout>
+
+  <Layout Name="Tablets">
+    <Column Extends="Default" Margins="0 10 10 0"/>
+  </Layout>
+  
+</Layouts>

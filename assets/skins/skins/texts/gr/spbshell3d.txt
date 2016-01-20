@@ -1,0 +1,432 @@
+ a few seconds| λίγα δευτερόλεπτα
+ day| μέρα
+ days| μέρες
+ hour| ώρα
+ hours| ώρες
+ hr| ώρα
+ hrs| ώρες
+ lunar day| σεληνιακή μέρα
+ min| λεπτό
+ mins| λεπτά
+ minute| λεπτό
+ minutes| λεπτά
+%d bought|%d αγοράστηκε
+%i more today|ακόμα %i σήμερα
+%i more...|ακόμα %i...
+%i%% of Full|%i%% της Πανσελήνου
+%s 2007—2011 Yandex|%s 2007—2011 Yandex
+(<1 min)|(<1 λεπτό)
+(in|(σε
+(in seconds)|(σε δευτερόλεπτα)
+(No title)|(Χωρίς τίτλο)
+[ Loading images... ]|[ Φόρτωση εικόνων... ]
+[ Tap here for images load ]|[ Πατήστε εδώ για φόρτωση εικόνων ]
+About|Σχετικά
+Activate|Ενεργοποίηση
+Activation|Ενεργοποίηση
+Activation failed. Check your Internet connection.|Αποτυχία ενεργοποίησης
+Add|Προσθήκη
+Add channel|Προσθήκη καναλιού
+Add city|Προσθήκη πόλης
+Add new city|Προσθήκη νέας πόλης
+Add Panel|Προσθήκη πάνελ
+Add to Home screen|Προσθήκη στην Αρχική οθόνη
+Airplane|Αεροπλάνο
+Airplane Mode|Λειτουργία αεροπλάνου
+All day|Όλη μέρα
+All pictures|Όλες οι εικόνες
+Android Shortcut|Συντόμευση του Android
+Android Widget|Widget του Android
+Anniversary|Επέτειος
+Appearance|Εμφάνιση
+Application|Εφαρμογή
+April|Απρίλιος
+Aqua|Γαλάζιο
+as of %s|από %s
+at %s|%s
+atm|atm
+Atmospheres|Ατμόσφαιρες
+Atmospheric pressure scale|Κλίμακα ατμοσφαιρικής πίεσης
+August|Αύγουστος
+Auto|Αυτόματο
+Auto (keyboard only)|Αυτόματο (πληκτρολόγιο μόνο)
+Auto arrange widgets|Αυτόματη διευθέτηση των widget
+Automatic|Αυτόματο
+Automatic naming|Αυτόματη ονοματοδοσία
+Backlight|Φωτισμός
+Battery|Μπαταρία
+Birthday|Γενέθλια
+Birthdays|Γενέθλια
+Black|Μαύρο
+Blue|Μπλε
+Bluetooth|Bluetooth
+Bookmarks|Σελιδοδείκτες
+Bookmarks Folder|Φάκελος σελιδοδεικτών
+Business|Επιχείρηση
+Buy!|Αγόρασε!
+Calendar|Ημερολόγιο
+Calendar Panel|Πάνελ ημερολογίου
+Calendar Panel Settings|Ρυθμίσεις πάνελ Ημερολογίου
+Call|Κλήση
+Call Log|Αναφορά κλήσεων
+Cancel|Άκυρο
+Celsius (#short)|Κελσίου
+Change|Αλλαγή
+Change City|Αλλαγή πόλης
+Change profile|Αλλαγή προφίλ
+Choose Color|Επιλογή χρώματος
+Choose Program|Επιλογή προγράμματος
+Choose SPB Widget|Επιλογή SPB widget
+Choose widget|Επιλογή widget
+Clear|Αίθριος
+Clock|Ρολόι
+Cloudy|Συννεφιασμένος
+Cloudy, hail|Συννεφιασμένος με χαλαζόπτωση
+Cloudy, heavy rain|Συννεφιασμένος με δυνατή βροχόπτωση
+Cloudy, heavy snow|Συννεφιασμένος με δυνατή χιονόπτωση
+Cloudy, rain|Συννεφιασμένος με βροχόπτωση
+Cloudy, rain with snow|Συννεφιασμένος με χιονόνερο
+Cloudy, snow|Συννεφιασμένος με χιονόπτωση
+Cloudy, thunder|Συννεφιασμένος με αστραπές
+Color anaglyph (red/cyan)|Ανάγλυφο χρώματος (κόκκινο/κυανό)
+Communication|Επικοινωνία
+Contact|Επαφή
+Contacts|Επαφές
+Contacts Folder|Φάκελος επαφών
+Copyright %s 2007-2011\nSPB Software|Κατοχύρωση %s 2007-2011\nSPB Software
+Copyright %s 2007-2012\nSPB Software|Κατοχύρωση %s 2007-2012\nSPB Software
+Create Folder|Δημιουργία φακέλου
+Current|Τρέχων
+Current city|Τρέχουσα πόλη
+Current conditions|Τρέχουσες συνθήκες
+Current Conditions|Τρέχουσες συνθήκες
+Current skin|Τρέχουσα επιφάνεια
+Day|Μεσημέρι
+Deal of the Day|Συμφωνία της ημέρας
+Deal of the Day Panel Settings|Ρυθμίσεις πάνελ Συμφωνία της ημέρας
+Deals|Συμφωνίες
+December|Δεκέμβριος
+Default|Αρχικό
+Default Action|Αρχική ενέργεια
+Dew point:|Σημείο δρόσου:
+Diagnostic tools|Διαγνωστικά εργαλεία
+Disabled|Απενεργοποιημένο
+Discoverable|Ανιχνεύσιμο
+Done|Τέλος
+Download Original|Λήψη πρωτότυπου
+Downloading images|Λήψη εικόνων
+E|Α
+east|ανατολικοί
+Edit panels|Επεξεργασία πάνελ
+Emergency only|Μόνο επείγουσες
+Empty Panel|Κενό πάνελ
+Enable live wallpapers|Ενεργοποίηση ζωντανών ταπετσαριών
+Enabled|Ενεργοποιημένο
+Entertainment|Ψυχαγωγία
+Error|Σφάλμα
+Evening|Απόγευμα
+Every 2 hours|Κάθε 2 ώρες
+Every 24 hours|Κάθε 24 ώρες
+Every 30 Minutes|Κάθε 30 λεπτά
+Every 30 minutes|Κάθε 30 λεπτά
+Every 4 hours|Κάθε 4 ώρες
+Every hour|Κάθε ώρα
+Exit|Έξοδος
+Experimental|Πειραματικό
+Experimental Settings|Πειραματικές ρυθμίσεις
+Fahrenheit (#short)|Φαρενάιτ
+Favorite Contacts|Αγαπημένες επαφές
+Favorite contacts|Αγαπημένες επαφές
+February|Φεβρουάριος
+Filter|Φίλτρο
+First day of the week|Πρώτη μέρα της εβδομάδας
+First Quarter|Πρώτο τέταρτο
+Flight|Πτήση
+Folder|Φάκελος
+Folder Name|Όνομα φακέλου
+Forecast|Πρόγνωση
+from forecast|από πρόγνωση
+Full Moon|Πανσέληνος
+Gallery|Γκαλερύ
+Games|Παιχνίδια
+Grayscale anaglyph (red/cyan)|Ανάγλυφο κλίμακας του γκρίζου (κόκκινο/κυανό)
+Green|Πράσινο
+Hectopascals|Εκτοπασκάλ
+Hide Duplicates|Απόκρυψη διπλών
+Hide SIM Contacts|Απόκρυψη επαφών SIM
+Home|Αρχική
+Home Settings|Ρυθμίσεις Αρχικής
+Home settings|Ρυθμίσεις Αρχικής
+hpa|hPa
+Humidity:|Υγρασία:
+in %u days|σε %u μέρες
+inch|ίντσ.
+Inches|Ίντσες
+Increase Counter|Αύξηση μετρητή
+Interface mode|Λειτουργία Περιβάλλοντος χρήσης
+Invisible|Μη ορατό
+January|Ιανουάριος
+July|Ιούλιος
+June|Ιούνιος
+Kilometers per hour|Χιλιόμετρα ανά ώρα
+Knots|Κόμβοι
+knots|κόμβοι
+kph|χμ/ω
+Landscape|Οριζόντιος
+Large|Μεγάλο
+Last Call|Τελευταία κλήση
+Last Message|Τελευταίο μήνυμα
+Last Quarter|Τελευταίο τέταρτο
+Last updated|Τελευταία ανανέωση
+Legal information|Νομικές πληροφορίες
+Legal notices|Νομικές παρατηρήσεις
+Lifestyle|Καθημερινή
+Live wallpapers can cause performance degradation of your 3D home screen. Switching between live and static wallpapers can take up to a minute. Static wallpapers are recommended for the best experience.|Οι ζωντανές ταπετσαρίες μπορούν να προκαλέσουν υποβάθμιση της επίδοσης της τρισδιάστατης αρχικής σας οθόνης. Η εναλλαγή μεταξύ ζωντανών και στατικών ταπετσαριών μπορεί να κρατήσει μέχρι κι ένα λεπτό. Οι στατικές ταπετσαρίες συστήνονται για την καλύτερη εμπειρία.
+Loading failed|Αποτυχία φόρτωσης
+Loading image for wallpaper|Φόρτωση εικόνας για ταπετσαρία
+Loading skin failed!|Αποτυχία φόρτωσης επιφάνειας!
+Loading skins catalog failed!|Αποτυχία φόρτωσης καταλόγου επιφανειών!
+Loading...|Φόρτωση...
+Logging In...|Σύνδεση...
+Lunar Calendar|Σεληνιακό ημερολόγιο
+Manage apps|Διαχείριση εφαρμογών
+Manage Apps|Διαχείριση εφαρμογών
+Manage panels|Διαχείριση πάνελ
+Manage Panels|Διαχείριση πάνελ
+March|Μάρτιος
+May|Μάιος
+Medium|Μέτριο
+Messaging|Μηνύματα
+Meters per second|Μέτρα ανά δευτερόλεπτο
+Miles per hour|Μίλια ανά ώρα
+Millimetres|Χιλιοστόμετρα
+Misc|Διάφορα
+Miscellaneous|Διάφορα
+mm|mm
+Mobile|Κινητό
+Mode|Λειτουργία
+Monday|Δευτέρα
+Moon Calendar|Ημερολόγιο Σελήνης
+Morning|Πρωί
+mph|μιλ/ω
+mps|μιλ/δ
+Multimedia|Πολυμέσα
+Music|Μουσική
+Music albums|Μουσικά άλμπουμ
+N|Β
+N/A|Μ/Δ
+nd|η
+NE|ΒΑ
+Network Status|Κατάσταση δικτύου
+Never|Ποτέ
+New|Νέο
+New channel|Νέο κανάλι
+New Contact|Νέα επαφή
+New Folder|Νέος φάκελος
+New Moon|Νέα Σελήνη
+News|Ειδήσεις
+Next Alarm|Επόμενη αφύπνιση
+Night|Νύχτα
+No|Όχι
+No Alarms|Καμμιά αφύπνιση
+No birthdays|Χωρίς γενέθλια
+No calls|Καμμιά κλήση
+No Cities|Καμμιά πόλη
+No conditions|Χωρίς συνθήκες
+No Contacts.|Καμμιά επαφή
+No Countries|Καμμιά χώρα
+No deals loaded|Δεν έχουν φορτωθεί συμφωνίες
+No Images|Χωρίς εικόνες
+No messages|Κανένα μήνυμα
+No news|Καμμιά είδηση
+No SIM|Χωρίς SIM
+No text messages|Χωρίς μηνύματα κειμένου
+No title|Χωρίς τίτλο
+No upcoming events|Χωρίς επερχόμενα ραντεβού
+No upcoming events in a week|Κανένα επερχόμενο γεγονός σε μια εβδομάδα
+No updates|Καμμιά
+No weather forecast|Καμμιά πρόγνωση καιρού
+Normal|Κανονικό
+north|βόρειοι
+north east|βορειοανατολικοί
+north west|βορειοδυτικοί
+Not available|Μη διαθέσιμο
+Not connected|Χωρίς σύνδεση
+November|Νοέμβριος
+NW|ΒΔ
+October|Οκτώβριος
+Off|Ανενεργό
+Offer|Προσφορά
+One Touch Share|One Touch Share
+Only on free connections|Μόνο σε δωρεάν συνδέσεις
+Open Contact|Άνοιγμα επαφής
+Open in Browser|Άνοιγμα στον Πλοηγό
+OpenGL 2.0 is required to run SPB Shell 3D|Απαιτείται το OpenGl 2.0 για την εκτέλεση του SPB Shell 3D
+Optimized anaglyph (red/cyan)|Ανάγλυφο βελτιστοποιημένου (κόκκινο/κυανό)
+Other (assistant)|Άλλο (βοηθός)
+Page|Σελίδα
+Panel Name|Όνομα πάνελ
+Panels|Πάνελ
+Parsing skins catalog failed!|Αποτυχία ανάλυσης καταλόγου επιφανειών!
+Partly cloudy|Μερικώς συννεφιασμένος
+Partly cloudy, rain|Μερικώς συννεφιασμένος με βροχόπτωση
+Partly cloudy, snow|Μερικώς συννεφιασμένος με χιονόπτωση
+Partly cloudy, thunder|Μερικώς συννεφιασμένος με αστραπές
+People|Άνθρωποι
+Performance Warning|Προειδοποίηση επίδοσης
+Performance Warning dialog|Διάλογος προειδοποίησης επίδοσης
+Phone|Τηλέφωνο
+Photo folder for gallery widgets|Φάκελος φωτογραφιών για την γκαλερί των widget
+Picture Gallery|Γκαλερί φωτογραφιών
+Picture of the Day|Εικόνα της ημέρας
+Picture Panel Settings|Ρυθμίσεις πάνελ Εικόνων
+Pictures|Εικόνες
+Pictures Of The Day|Εικόνες της μέρας
+Pictures Panel|Πάνελ Φωτογραφιών
+Pictures Settings|Ρυθμίσεις εικόνων
+Please Log In|Παρακαλώ συνδεθείτε
+Please wait...|Παρακαλώ περιμένετε.
+Portrait|Κάθετος
+Pressure:|Πίεση:
+Problem loading widget|Πρόβλημα στη φόρτωση widget
+Productivity|Παραγωγικότητα
+Program|Πρόγραμμα
+Pulkovo|Πούλκοβο
+Purchase|Αγορά
+Purple|Μωβ
+Radio off|Δίκτυο ανενεργό
+rd_loc|η
+Reading appointments...|Ανάγνωση ραντεβού...
+Recycle Bin|Κάδος ανακύκλωσης
+Red|Κόκκινο
+Reload skin list|Επαναφόρτωση καταλόγου επιφανειών
+Remove All|Αφαίρεση όλων
+Rename|Μετονομασία
+Rename Panel|Μετονομασία πάνελ
+Requesting images|Αίτηση εικόνων
+Retry|Δοκιμή ξανά
+RSS Feed|Τροφοδοσία RSS
+RSS Panel Settings|Ρυθμίσεις πάνελ RSS
+S|Ν
+Safe mode|Ασφαλής λειτουργία
+Saint-Petersburg|Αγία Πετρούπολη
+Save as New|Αποθήκ. ως νέα επαφή
+Save to Existing|Αποθήκ. σε υπάρχουσα
+Screen orientation|Προσανατολισμός οθόνης
+SE|ΝΑ
+Searching|Αναζήτηση
+Select cities|Επιλέξτε πόλεις
+Select e-mail address|Επιλογή διεύθυνσης e-mail
+Select phone number:|Επιλογή αριθμού τηλεφώνου:
+Select shortcut|Επιλογή συντόμευσης
+Select Skin|Επιλογή επιφάνειας
+Select wallpaper from|Επιλογή ταπετσαρίας από
+Selected cities|Επιλεγμένες πόλεις
+Selected City|Επιλεγμένη πόλη
+Selected city|Επιλεγμένη πόλη
+Send E-mail|Αποστολή e-mail
+Send E-Mail|Αποστολή e-Mail
+Send Message|Αποστολή μηνύματος
+Send MMS|Αποστολή MMS
+Send SMS|Αποστολή SMS
+September|Σεπτέμβριος
+Serial number:|Αύξων αριθμός:
+Set as Home|Ορισμός ως Αρχική
+Set as Wallpaper|Ορισμός ως ταπετσαρία
+Set wallpaper|Ορισμός ταπετσαρίας
+Settings|Ρυθμίσεις
+Show all|Προβολή όλων
+Show all day events|Προβολή ολοήμερων γεγονότων
+Show all day events in calendar widgets|Προβολή ολοήμερων γεγονότων στα widget ημερολογίου
+Silent|Αθόρυβο
+Skin loading|Φόρτωση επιφάνειας
+Small|Μικρό
+Smartphone|Smartphone
+Smog|Αιθαλομίχλη
+Social|Κοινωνικό
+Sound Profile|Προφίλ ήχου
+south|νότιοι
+south east|νοτιοανατολικοί
+south west|νοτιοδυτικοί
+SPB Shell 3D is loading...|Φόρτωση SPB Shell 3D...
+SPB Wallpapers|SPB ταπετσαρίες
+SPB Widget|SPB widget
+st|η
+Standard Edition [Beta]|Standard Edition [Beta]
+Stereoscopic 3D mode|Λειτουργία στερεοσκοπικού 3D
+Stereoscopic 3D Settings|Ρυθμίσεις στερεοσκοπικού 3D
+Sunday|Κυριακή
+SW|ΝΔ
+Switching the interface mode can take up to a minute. Screen orientation will be changed to '%s'.|Η εναλλαγή της λειουργίας περιβάλλοντος χρήσης μπορεί να πάρει μέχρι ένα λεπτό. Ο προσανατολισμός οθόνης θα αλλάξει σε: %s.
+Tablet|Tablet
+Temperatur scale|Κλίμακα θερμοκρασίας
+Temperature scale|Κλίμακα θερμοκρασίας
+Test Battery|Δοκιμή μπαταρίας
+th|η
+Thank you for your support. Your copy is now registered.|Ευχαριστούμε για την υποστήριξή σας. Το αντίγραφό σας είναι καταχωρημένο τώρα.
+The experimental features below are not ready to be shipped in the core of SPB Shell 3D. They may contain severe defects and cause system instability. Use them at your own risk.|Τα παρακάτω πειραματικά χαρακτηριστικά δεν είναι έτοιμα για συμπερίληψη στον πυρήνα του SPB Shell 3D. Μπορεί να περιέχουν σοβαρά ελαττώματα και να προκαλέσουν αστάθεια του συστήματος. Χρησιμοποιήστε τα με δική σας ευθύνη.
+The maximum number of panels is reached|Ο μέγιστος αριθμός πάνελ συμπληρώθηκε
+The name cannot be changed.|Το όνομα δεν μπορεί να αλλαχθεί.
+The previous launch of SPB Shell 3D was unsuccessful. Please tap "Retry" to launch it again or "Home" to activate a different Home screen.|Η προηγούμενη εκκίνηση του SPB Shell 3D ήταν ανεπιτυχής. Παρακαλώ πατήστε «Δοκιμή ξανά» για να το εκκινήσετε ξανά ή «Αρχική» για να ενεργοποιήσετε μια διαφορετική Αρχική οθόνη.
+Time|Ώρα
+Time Panel|Πάνελ Ώρας
+Time Panel Settings|Ρυθμίσεις πάνελ Ώρας
+Today|Σήμερα
+Toggle|Εναλλαγή
+Tomorrow|Αύριο
+Tools|Εργαλεία
+Travel|Ταξίδι
+Unfortunately, we could not locate your purchase in Android Market. Please uninstall this copy before installing a new one.|Δυστυχώς, δεν μπορέσαμε να εντοπίσουμε την αγορά σας στο Android Market. Παρακαλούμε, απεγκαταστήστε αυτό το αντίγραφο πριν να εγκαταστήσετε ένα νέο.
+Unfortunately, we could not locate your purchase. Please uninstall this copy before installing a new one.|Δυστυχώς, δεν μπορέσαμε να εντοπίσουμε την αγορά σας. Παρακαλούμε, απεγκαταστήστε αυτό το αντίγραφο πριν να εγκαταστήσετε ένα νέο.
+Uninstall|Απεγκατάσταση
+Uninstall apps|Απεγκατάσταση εφαρμογών
+Unknown|Άγνωστο
+Unknown location|Άγνωστη τοποθεσία
+Upcoming events|Επερχόμενα ραντεβού
+Update|Ανανέωση
+Update deals list automatically|Αυτόματη ανανέωση λίστας συμφωνιών
+Update Now|Ανανέωση τώρα
+Update pictures page automatically|Αυτόματη ανανέωση σελίδας εικόνων
+Update weather forecasts automatically|Αυτόματη ανανέωση μετεωρολογικών προβλέψεων
+Updated|Ανανεώθηκε
+Updated:|Ανανεώθηκε:
+Updating image|Ανανέωση εικόνας
+Updating...|Ανανέωση...
+Use 3D in application list|Χρήση 3D στη λίστα εφαρμογών
+Use 3D in edit mode|Χρήση 3D σε λειτουργία επεξεργασίας
+Use cellular connection for updating deals list|Χρήση δικτύου κινητής τηλεφωνίας για ανανέωση λίστας συμφωνιών
+Use cellular connection for updating pictures automatically|Χρήση σύνδεσης κινητής τηλεφωνίας για ανανέωση εικόνων αυτόματα
+Value|Αξία
+variable|μεταβλητή
+Version %s, Build %s|Έκδοση %s, Αναθεώρηση %s
+Vibro|Δόνηση
+Video Call|Βιντεοκλήση
+View Duplicates|Προβολή διπλών
+View SIM Contacts|Προβολή επαφών SIM
+W|Δ
+Wallpaper|Ταπετσαρία
+Wallpapers|Ταπετσαρίες
+Waning Crescent|Φθίνουσα, πριν από τη νέα Σελήνη
+Waning Gibbous|Φθίνουσα, πριν από το τελευταίο τέταρτο
+Waxing Crescent|Αύξουσα, πριν από το πρώτο τέταρτο
+Waxing Gibbous|Αύξουσα, πριν από την Πανσέληνο
+Weather|Καιρός
+Weather Forecast|Πρόγνωση καιρού
+Weather Settings|Ρυθμίσεις καιρού
+west|δυτικοί
+Widget is too big to be added.|Το widget είναι πολύ μεγάλο για να προστεθεί.
+Widgets|Widgets
+Widgets Settings|Ρυθμίσεις widget
+Wind direction:|Διεύθυνση ανέμων:
+Wind speed scale|Κλίμακα ταχύτητας ανέμων
+Wind speed:|Ταχύτητα ανέμων:
+Wind:|Άνεμοι:
+Work|Εργασία
+World Time|Παγκόσμια ώρα
+Wrong serial number. Please check it again.|Λανθασμένος αύξων αριθμός. Παρακαλώ ελέγξτε τον ξανά.
+Yandex.Search|Yandex.Search
+Yellow|Κίτρινο
+Yes|Ναι
+Yesterday|Χθες
+You save|Εξοικονομείτε
+Your video system isn't compatible with Shell 3D.|Το σύστημα βίντεο σας δεν είναι συμβατό με το Shell 3D.

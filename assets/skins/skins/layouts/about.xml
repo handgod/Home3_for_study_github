@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Layouts>
+
+  <Layers>
+    <Layer Name="Background" Dialog="Background_Opaque"/>
+    <Layer/>
+  </Layers>
+
+  <Rules>
+    <Default>  
+      <UseLayout Name="Default"/>
+    </Default>
+
+  </Rules>
+
+  <General>
+    <DialogObject Value="Spb.Data.AboutDlg"/>
+    <Font Name="TextFont" Face="Droid Sans" HeightPxl="11" Color="FFFFFFFF"/>
+    <Int Name="RefreshInPaint" Value="0"/>
+    <Int Name="Align" Value="17"/> <!-- DT_CENTER | DT_WORDBREAK -->
+  </General>
+
+  <Layout Name="Default" LayoutType="frame">
+    <Plugins LayoutType="frame">
+      <LayoutSize Width="fill" Height="fill"/>
+
+      <Plugins LayoutType="frame">
+        <LayoutSize Width="fill" Height="fill"/>
+        <Plugin Class="Spb.LSP.Text" Name="DeviceInfo" Align="top">
+          <LayoutSize Width="fill" Height="20"/>
+          <String Name="StringID" Value="STRING_DEVICEINFO"/>
+        </Plugin>
+      </Plugins>
+
+      <Plugins LayoutType="linear" Orientation="vertical">
+      <LayoutSize Width="fill" Height="fill"/>
+
+        <Plugins LayoutType="linear" Orientation="vertical" Align="center" StretchFactor="1">
+          <LayoutSize Width="fill" Height="auto"/>
+          
+          <Plugin Class="Spb.LSP.Image" Name="LogoIcon" AutoSkin="misc" Align="center">
+            <LayoutSize Width="auto" Height="auto"/>
+            <LayoutMargins Bottom="10"/>
+            
+            <String Name="ImageName" Value="Logo"/>
+          </Plugin>
+
+          <Plugin Class="Spb.LSP.Text" Name="AppName">
+            <LayoutSize Width="fill" Height="30"/>
+            
+            <Font Name="TextFont" Face="Droid Sans" HeightPxl="24" Color="FFFFFFFF"/>
+            <String Name="StringID" Value="STRING_APPNAME"/>
+
+          </Plugin>
+
+          <Plugin Class="Spb.LSP.Text" Name="Build">
+            <LayoutSize Width="fill" Height="20"/>
+            
+            <String Name="StringID" Value="STRING_BUILDINFO"/>
+          </Plugin>
+
+        </Plugins>
+
+        <Plugin Class="Spb.LSP.Text" Name="Copyrights">
+          <LayoutSize Width="fill" Height="50"/>
+          
+          <String Name="StringID" Value="STRING_SPBCOPYRIGTH"/>
+        </Plugin>
+      </Plugins>
+
+    </Plugins>
+  </Layout>
+
+</Layouts>

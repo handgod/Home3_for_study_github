@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Layouts>
+
+  <Layers>
+    <Layer/>
+    <Layer Name="ScrollBar" Dialog="ScrollBar"/>
+    <Layer Name="Menu" Dialog="MenuBarCallLog"/>
+  </Layers>
+
+  <Rules>
+    <ScreenCondition Width="360" Height="640">
+      <UseLayout Name="360x640"/>
+    </ScreenCondition>
+    <ScreenCondition Width="240" Height="320">
+      <UseLayout Name="240x320"/>
+    </ScreenCondition>
+    <Default>
+      <UseLayout Name="240x320"/>
+    </Default>
+  </Rules>
+
+  <General>
+
+    <Skin DoubleSkin="misc/dpi192"/>
+
+    <ScrollY Value="Auto"/>
+    <LayerAlign Cache="1"/>
+    <DialogObject Value="Spb.Data.CallLog"/>
+
+    <Rect Name="Photo" X="4" Y="2" Width="44" Height="44"/>
+    <Rect Name="Name" X="71" Y="1" Width="155" Height="17"/>
+    <Rect Name="Phone" X="71" Y="20" Width="155" Height="14"/>
+    <Rect Name="Date" X="71" Y="34" Width="155" Height="14"/>
+    <Rect Name="Icon" X="53" Y="4" Width="16" Height="16"/>
+
+    <Font Name="NameFont" Face="Droid Sans" HeightPxl="12" Bold="y" Color="FFFFFFFF"/>
+    <Font Name="PhoneFont" Face="Droid Sans" HeightPxl="12" Bold="n" Color="FFFFFFFF"/>
+    <Font Name="DateFont" Face="Droid Sans" HeightPxl="10" Bold="n" Color="FF777777"/>
+    <Font Name="NoCallsFont" Face="Droid Sans" HeightPxl="14" Bold="y" Color="FFFFFFFF"/>
+
+  </General>
+
+  <Layout Name="Default">
+    <Plugins>
+      <Plugin Class="Spb.LSP.Generic" Name="NoCalls" ID="0">
+        <BoundRect X="0" Y="0" Width="0" Height="0"/>
+      </Plugin>
+      <Group Name="Group1" ID="0">
+        <Plugins>
+          <Plugin Class="Spb.LSP.Generic" Name="ListItem" ID="10"/>
+          <Plugin Class="Spb.LSP.DashLine" Name="h0"/>
+        </Plugins>
+      </Group>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="240x320">
+    <Plugins Extends="Default">
+      <Group Name="Group1">
+        <Plugins>
+          <Plugin Name="ListItem">
+            <BoundRect X="2" Y="0" Width="236" Height="48"/>
+          </Plugin>
+          <Plugin Name="h0">
+            <BoundRect X="8" Y="48" Width="224" Height="1"/>
+          </Plugin>
+        </Plugins>
+      </Group>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="360x640">
+    <General>
+      <Skin Skin="misc/dpi144"/>
+    </General>
+    <Plugins Extends="Default">
+      <Group Name="Group1">
+        <Plugins>
+          <Plugin Name="ListItem">
+            <BoundRect X="2" Y="0" Width="236" Height="48"/>
+          </Plugin>
+          <Plugin Name="h0">
+            <BoundRect X="8" Y="48" Width="224" Height="1"/>
+          </Plugin>
+        </Plugins>
+      </Group>
+    </Plugins>
+  </Layout>
+</Layouts>

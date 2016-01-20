@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<skin Name="Notes Panel" Type="panel">
+  <items>
+    <item>
+      <Image Name="NotesBg" File="notesbg.png"/>
+      <Image Name="Cork" File="cork.png"/>
+      <Image Name="Border" File="border.png"/>
+      <Image Name="Dot_On" File="dot_on.png"/>
+      <Image Name="Dot_Off" File="dot_off.png"/>
+    </item>
+  </items>
+</skin>
+  

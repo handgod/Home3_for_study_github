@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+
+
+<Layouts Name="Add Program dialog" Type="other">
+  <Layers>
+    <Layer Name="Frame" Dialog="BackgrdFrame"/>
+    <Layer/>
+  </Layers>
+  
+  <Rules>
+	  <Default>
+      <UseLayout Name="Default"/>
+	  </Default>
+  </Rules>
+
+  <General>
+    <DialogObject Value="Spb.Data.ChooseProgramDlg"/>
+    <ScrollY Value="Auto"/>
+    <Int Name="Width" Value="4"/> <!-- items per line -->
+    <DefaultFont Face="Droid Sans" HeightPxl="10" Bold="n" Color="FFFFFFFF"/>
+    
+    <String Name="Caption" Value="Choose Program"/>
+  </General>
+
+  <Layout Name="Default">
+    <General>
+      <Point Name="ContentSize" X="224" Y="300"/>
+    </General>
+
+    <Plugins>
+      <Group Name="Line" ID="11">
+        <BoundRect X="0" Y="0" Width="224" Height="70"/>
+        <Plugins>
+          <Group Name="Column" ID="12">
+            <BoundRect X="0" Y="0" Width="56" Height="70"/>
+            <Int Name="ByHorz" Value="1"/>
+            <Plugins>
+              <Plugin Name="Cell" ID="10">
+                <BoundRect X="0" Y="0" Width="56" Height="70"/>
+              </Plugin>
+            </Plugins>
+          </Group>
+        </Plugins>
+      </Group>
+    </Plugins>
+  </Layout>
+
+</Layouts>

@@ -1,0 +1,519 @@
+ a few seconds| nekoliko sekundi
+ day| dan
+ days| dani
+ hour| sat
+ hours| sati
+ hr| hr
+ hrs| satima
+ lunar day| lunarni dan
+ min| min
+ mins| minute
+ minute| minuta
+ minutes| minute
+%d bought|% kupljeno
+%d day|%d dan
+%d days|%d dana
+%d hour|%d sata
+%d hours|%d sati
+%d minute|%d minute
+%d minutes|%d minuta
+%d more...|%d više...
+%i active channel|% aktivnih kanala
+%i active channels|% aktivnih kanala
+%i image|% slike
+%i images|% slika
+%i more today|%i više danas
+%i more...|%i više...
+%i page|% stranica
+%i pages|% stranica
+%i%% of Full|%i%% punog mjeseca
+%s 2007—2011 Yandex|%s 2007—2011 Yandex
+(<1 min)|(<1 min)
+(in|(u
+(in seconds)|(u sekundama)
+(No title)|(nema naslova)
+[ Loading images... ]|[ Učitavanje slika... ]
+[ Tap here for images load ]|[ Ovdje dotaknite za učitavanje slike ]
+A few minutes ago|Prije nekoliko minuta
+About|O tome
+Above horizon|Iznad horizonta
+Activate|Aktiviraj
+Activation|Aktivacija
+Activation failed. Check your Internet connection.|Aktivacija nije uspjela. Provjerite svoju internetsku vezu.
+Active Channels|Aktivni kanali
+Active channels|Aktivni kanali
+Add|Dodaj
+Add category|Dodaj kategoriju
+Add city|Dodaj grad
+Add custom channel|Dodaj prilagođeni kanal
+Add new city|Dodaj novi grad
+Add note|Dodaj napomenu
+Add Panel|Dodaj ploču
+Add to Home screen|Dodaj početni zaslon
+Airplane|Zrakoplov
+Airplane Mode|Način rada zrakoplova
+All day|Cijeli dan
+All pictures|Sve slike
+Allow resizing of all Android widgets|Omogući promjenu dimenzija svih dodataka za android
+An hour ago|Prije jednog sata
+Android Shortcut|Prečac androida
+Android Widget|Dodatak androida
+Anniversary|Godišnjica
+Appearance|Izgled
+Application|Aplikacija
+April|Travanj
+Aqua|Voda
+Aquarius|Vodenjak
+Aries|Ovan
+as of %s|od %s
+at %s|uz %s
+atm|atm
+Atmospheres|Atmosfera
+Atmospheric pressure scale|Ljestvica atmosferskog tlaka
+August|Kolovoz
+Auto|Auto
+Auto (keyboard only)|Auto (samo tipkovnica)
+Auto arrange widgets|Automatsko raspoređivanje dodataka
+Automatic|Automatski
+Automatic naming|Automatsko imenovanje
+Backlight|Pozadinsko svjetlo
+Battery|Baterija
+Below horizon|Ispod horizonta
+Birthday|Rođendan
+Birthdays|Rođendani
+Black|Crno
+Blue|Plavo
+Bluetooth|Bluetooth
+Bookmarks|Knjižne oznake
+Bookmarks Folder|Mapa knjižnih oznaka
+Business|Poslovno
+Buy!|Kupi!
+Cache size|Opseg predmemorije
+Calculator|Kalkulator
+Calendar|Kalendar
+Calendar Panel|Ploča kalendara
+Calendar Panel Settings|Postavke ploče kalendara
+Call|Poziv
+Call Log|Zapis poziva
+Cancel|Zatvori
+Cancer|Rak
+Capricorn|Jarac
+Categories|Kategorije
+Category Name|Naziv kategorije
+Celsius (#short)|Celzij
+Change|Promjena
+Change City|Promijeni grad
+Change profile|Promjena profila
+Channels list|Popis kanala
+Choose Color|Izaberi boju
+Choose Program|Izaberi program
+Choose SPB Widget|Izaberite SPB dodatak
+Choose widget|Izaberite dodatak
+Clear|Vedro
+Clear cache|Izbriši predmemoriju
+Clock|Sat
+Cloudy|Oblačno
+Cloudy, hail|Oblačno, tuča
+Cloudy, heavy rain|Oblačno, jaka kiša
+Cloudy, heavy snow|Oblačno, jaki snijeg
+Cloudy, rain|Oblačno, kiša
+Cloudy, rain with snow|Oblačno, kiša sa snijegom
+Cloudy, snow|Oblačno, snijeg
+Cloudy, thunder|Oblačno, grmljavina
+Color anaglyph (red/cyan)|Boje stereoskopske slike (crveno / cijan)
+Communication|Komunikacija
+Contact|Kontakt
+Contacts|Kontakti
+Contacts Folder|Mapa kontakata
+Copyright %s 2007-2011\nSPB Software|Autorsko pravo %s 2007-2011\nSPB Software
+Copyright %s 2007-2012\nSPB Software|Autorsko pravo %s 2007-2012\nSPB Software
+Create Folder|Stvori mapu
+Current|Trenutno
+Current city|Trenutni grad
+Current conditions|Trenutni uvjeti
+Current Conditions|Trenutni uvjeti
+Current skin|Trenutna površina
+Day|Dan
+Deal of the Day|Posao dana
+Deal of the Day Panel|Ploča za posao dana
+Deal of the Day Panel Settings|Postavke ploče za posao dana
+Deals|Poslovi
+December|Prosinac
+Default|Zadano
+Delete note|Izbriši napomenu
+Dew point:|Rosište:
+Diagnostic tools|Dijagnostički alati
+Disabled|Onemogućeno
+Discoverable|Vidljivo
+Done|Učinjeno
+Download Original|Preuzimanje izvornika
+Downloading images|Preuzimanje slika
+E|E
+east|istok
+Edit channel|Uredi kanal
+Edit note|Uredi napomenu
+Edit panels|Uređivanje ploča
+Emergency only|Samo u hitnom slučaju
+Empty Panel|Prazna ploča
+Enable live wallpapers|Omogući živu pozadinu
+Enabled|Omogućeno
+Enter RSS feed title|Unesite naslov RSS kanala
+Enter RSS feed URL|Unesite URL RSS kanala
+Entertainment|Zabava
+Error|Pogreška
+Evening|Večer
+Every 2 hours|Svaka 2 sata
+Every 24 hours|Svaka 24 sata
+Every 30 Minutes|Svakih 30 minuta
+Every 30 minutes|Svakih 30 minuta
+Every 4 hours|Svaka 4 sata
+Every hour|Svaki sat
+Exit|Izlaz
+Experimental|Eksperimentalno
+Experimental Settings|Eksperimentalne postavke
+Experimental settings|Eksperimentalne postavke
+Fahrenheit (#short)|Farenhajt
+Failed to load RSS|RSS se nije učitao
+Favorite Contacts|Omiljeni kontakti
+Favorite contacts|Omiljeni kontakti
+February|Veljača
+Filter|Filtar
+First day of the week|Prvi dan u tjednu
+First Quarter|Prva četvrt
+Flight|Let
+Folder|Mapa
+Folder Name|Naziv mape
+Forecast|Vremenska prognoza
+from forecast|iz vremenske prognoze
+Full Moon|Puni mjesec
+Gallery|Galerija
+Games|Igre
+Gemini|Blizanci
+Grayscale anaglyph (red/cyan)|Sivi tonovi stereoskopske slike (crveno / cijan)
+Green|Zeleno
+G-Sensor|G-senzor
+Half an hour ago|Prije pola sata
+Hectopascals|Hektopaskali
+Hide Duplicates|Sakrij duplikate
+Hide SIM Contacts|Sakrij SIM kontakte
+Home|Početna
+Home Settings|Postavke početne stranice
+Home settings|Postavke početne stranice
+hpa|hpa
+Humidity:|Vlažnost:
+in %u days|u %u dana
+in Home Settings|u početnim postavkama
+inch|Inči
+Inches|Inči
+Increase Counter|Povećajte brojač
+Interface mode|Način rada sučelja
+Invisible|Nevidljivo
+January|Siječanj
+July|Srpanj
+June|Lipanj
+Kilometers per hour|Kilometara na sat
+Knots|čvorovi
+knots|čvorovi
+kph|kph
+kts|čv.
+Landscape|Krajolik
+Landscape orientation required to enable left-to-right stereo mode|Za omogućavanje stereo modusa slijeva-nadesno potrebno je pejzažno usmjerenje
+Large|Veliko
+Last Call|Zadnji poziv
+Last Message|Zadnja poruka
+Last Quarter|Zadnja četvrt
+Last updated|Zadnje ažuriranje
+Left-to-right (HTC EVO 3D)|Slijeva nadesno (HTC EVO 3D)
+Legal information|Pravne informacije
+Legal notices|Pravne napomene
+Leo|Lav
+Libra|Vaga
+Lifestyle|Životni stil
+Live wallpapers can cause performance degradation of your 3D home screen. Switching between live and static wallpapers can take up to a minute. Static wallpapers are recommended for the best experience.|Žive pozadine mogu prouzročiti slabljenje radnih karakteristika Vašeg 3D početnog zaslona. Prebacivanje izmeđi živih i statičnih pozadina može teći do jedne minute. Preporučujemo statične pozadine radi boljeg rada.
+Loading failed|Učitavanje nije uspjelo
+Loading image for wallpaper|Učitavanje slike za pozadinu
+Loading RSS feed %s...|Učitavanje RSS kanala u %s...
+Loading skin failed!|Učitavanje površine nije uspjelo!
+Loading skins catalog failed!|Učitavanje kataloga površina nije uspjelo!
+Loading...|Učitavanje...
+Logging In...|Prijava u tijeku...
+Lunar Calendar|Lunarni kalendar
+Lunar day %d|% lunarnog dana
+Manage apps|Upravljanje aplikacijama
+Manage Apps|Upravljanje aplikacijama
+Manage panels|Upravljanje pločama
+Manage Panels|Upravljanje pločama
+March|Ožujak
+May|Ja
+Messaging|Poruke
+Meters per second|Metara u sekundi
+Miles per hour|Milja na sat
+Millimetres|Milimetri
+Misc|Razno
+Miscellaneous|Razno
+mm|mm
+Mobile|Mobilni
+Mode|Način rada
+Monday|Ponedjeljak
+Moon|Mjesec
+Moon Calendar|Mjesečev kalendar
+Moon in %s,|Mjesec u %-cima
+Morning|Jutro
+mph|mph
+mps|mps
+Multimedia|Multimedija
+Music|Glazba
+Music albums|Glazbeni albumi
+N|N
+N/A|N/P
+nd|gi
+NE|NE
+Network Status|Status mreže
+Never|Nikada
+New Channel|Novi kanal
+New channel|Novi kanal
+New Contact|Novi kontakt
+New Folder|Nova mapa
+New Moon|Novi mjesec
+News|Vijesti
+News Panel|Ploča s vijestima
+News Panel Settings|Postavke ploče s vijestima
+next|dalje
+Next Alarm|Sljedeći alarm
+Night|Noć
+No|Ne
+no|nema
+No Alarms|Nema alarma
+No birthdays|Nema rođendana
+No calls|Nema poziva
+No Cities|Nema gradova
+No conditions|Nema uvjeta
+No Contacts.|Nema kontakata
+No Countries|Nema zemalja
+No deals loaded|Nema učitanih poslova
+No Images|Nema slika
+No messages|Nema poruka
+No news|Nema novosti
+No rise/set info|Nema informacija o podizanju/položaju
+No RSS feed found at|Nije pronađen RSS kanal kod
+No rss loaded|Nije se učitao nijedan rss
+No SIM|Nema SIM-kartice
+No text messages|Nema tekstnih poruka
+No title|Nema naslova
+No upcoming events|Nema nadolazećih događaja
+No upcoming events in a week|Nema nadolazećih događaja u ovom tjednu
+No updates|Nema ažuriranja
+No weather forecast|Nema vremenske prognoze
+Normal|Normalno
+north|sjever
+north east|sjeveroistok
+north west|sjeverozapad
+Not available|Nije dostupno
+Not connected|Nije priključeno
+Notes|Napomene
+Note's default color|Zadana boja napomena
+Note's font|Font u napomenama
+Notes Panel|Ploča s napomenama
+Notes Panel Settings|Postavke ploče s napomenama
+November|Studeni
+NW|NW
+October|Listopad
+Off|Isključeno
+Offer|Ponuda
+On|Uključeno
+One Touch Share|One Touch Share
+Only on free connections|Samo na slobodnim priključcima
+Open Contact|Otvori kontakt
+Open in Browser|Otvori u pregledniku
+OpenGL 2.0 is required to run SPB Shell 3D|Da biste pokrenuli SPB Shell 3D, potrebno je otvoriti GL 2.0.
+Optimized anaglyph (red/cyan)|Optimizirana stereoskopska slika (crveno / cijan)
+Other (assistant)|Drugo (pomoćnik)
+Page|Stranica
+Pages: %d, images: %d|Stranice: %d, slike: %d
+Panel Name|Naziv ploče
+Parsing skins catalog failed!|Rasčlanjivanje kataloga površina nije uspjelo!
+Partly cloudy|Naoblaka
+Partly cloudy, rain|Naoblaka, kiša
+Partly cloudy, snow|Naoblaka, snijeg
+Partly cloudy, thunder|Naoblaka, grmljavina
+People|Ljudi
+Performance Warning|Upozorenja pri izvedbi
+Performance Warning dialog|Dijaloški okvir upozorenja pri izvedbi
+Personal|Osobno
+Phone|Telefon
+Photo folder for gallery widgets|Slikovna mapa za galeriju dodataka
+Picture Gallery|Galerija slika
+Picture of the Day|Slika dana
+Picture Panel Settings|Postavke slikovne ploče
+Pictures|Slike
+Pictures Of The Day|Slika dana
+Pictures Panel|Slikovna ploča
+Pictures Panel Settings|Postavke slikovne ploče
+Pictures Settings|Postavke slika
+Pisces|Ribe
+Please Log In|Molimo da se prijavite
+Please wait...|Pričekajte...
+Portrait|Portret
+Pressure:|Tlak:
+Problem loading widget|Problem s učitavanjem dodatka
+Productivity|Produktivnost
+Program|Program
+Pulkovo|Pulkovo
+Purchase|Kupnja
+Purple|Purpurno
+Radio off|Radio isključen
+rd_loc|.
+Reading appointments...|Čitanje naloga...
+Recycle Bin|Mapa za smeće
+Red|Crveno
+Reduced|Smanjeno
+Reload skin list|Ponovno učitavanje popisa površina
+Remove All|Ukloni sve
+Rename|Preimenuj
+Rename Panel|Preimenovanje ploče
+Requesting images|Zahtjev za slikom
+Retry|Pokušaj ponovno
+Rise: %s|Podizanje: %s
+RSS Feed|RSS kanal
+RSS Panel|Ploča za RSS
+RSS Panel Settings|Postavke RSS ploče
+S|S
+Safe mode|Sigurnosni način rada
+Sagittarius|Strijelac
+Saint-Petersburg|Saint-Petersburg
+Save as New|Spremi kao novo
+Save to Existing|Spremi kao postojeće
+Scorpio|Škorpion
+Screen orientation|Usmjerenje zaslona
+SE|SE
+Searching|Pretraživanje
+Select Channel|Odaberite kanal
+Select cities|Odaberite gradove
+Select e-mail address|Odaberite adresu e-pošte
+Select phone number:|Odaberite broj telefona:
+Select shortcut|Odaberite prečac
+Select Skin|Odabir površine
+Select wallpaper from|Odaberite pozadinu od
+Selected cities|Odabrani gradovi
+Selected City|Odabrani grad
+Selected city|Odabrani grad
+Send E-mail|Pošalji e-poštu
+Send E-Mail|Pošalji e-poštu
+Send Message|Pošalji poruku
+Send MMS|Pošalji MMS
+Send SMS|Pošalji SMS
+September|Rujan
+Serial number:|Serijski broj:
+Set as Home|Postavi kao početno
+Set as Wallpaper|Postavi kao pozadinu
+Set wallpaper|Postavljanje pozadine
+Set: %s|Položaj: %s
+Settings|Postavke
+Show all|Prikaži sve
+Show all day events|Prikaži cjelodnevne događaje
+Show all day events in calendar widgets|Prikaži cjelodnevne događaje u dodatku kalendara
+Show full news|Prikaži cjelokupne vijesti
+Show images in news|Prikaži slike u vijestima
+Silent|Tiho
+Skin loading|Učitavanje površine
+Small|Maleno
+Smartphone|Pametni telefon
+Smog|Smog
+Social|Društvene teme
+Sound Profile|Zvučni profil
+south|jug
+south east|jugoistok
+south west|jugozapad
+SPB Shell 3D is loading...|SPB Shell 3D se učitava...
+SPB Wallpapers|SPB pozadine
+SPB Widget|SPB dodatak
+st|vi
+Standard Edition [Beta]|Standardno izdanje [Beta]
+Stereoscopic 3D mode|Stereoskopski 3D način rada
+Stereoscopic 3D mode will be disabled|Stereoskopski 3D modus bit će onemogućen
+Stereoscopic 3D Settings|Stereoskopske 3D postavke
+Sun in %s,|Sunce u %-cima
+Sunday|Nedjelja
+SW|SW
+Switching the interface mode can take up to a minute. Screen orientation will be changed to '%s'.|Prebacivanje načina rada sučelja može trajati do jedne minute. Usmjerenje zaslona će se promijeniti na '%s'.
+System|Sustav
+Tablet|Tablet
+Taurus|Bik
+Temperatur scale|Temperaturna ljestvica
+Temperature scale|Temperaturna ljestvica
+Test Battery|Testiranje baterije
+th|ti
+Thank you for your support. Your copy is now registered.|Hvala na podršci. Vaša kopija je sada registrirana.
+The experimental features below are not ready to be shipped in the core of SPB Shell 3D. They may contain severe defects and cause system instability. Use them at your own risk.|Eksperimentalne značajke ispod nisu spremne da se dostave u jezgru proizvoda SPB Shell 3D. Oni mogu sadržavati teška oštećenja i prouzročiti nestabilnost sustava. Koristite ih na vlastitu odgovornost.
+The maximum number of panels is reached|Dostignut je maksimalni broj ploča
+The name cannot be changed.|Naziv se ne smije mijenjati.
+The previous launch of SPB Shell 3D was unsuccessful. Please tap "Retry" to launch it again or "Home" to activate a different Home screen.|Prethodno pokretanje proizvoda SPB Shell 3D nije bilo uspješno. Dodirnite "Pokušaj ponovno" da biste ga ponovno pokrenuli ili "Početna" za aktiviranje drugog početnog zaslona.
+Time|Vrijeme
+Time Panel|Vremenska ploča
+Time Panel Settings|Postavke vremenske ploče
+Today|Danas
+Toggle|Prekidač
+Tomorrow|Sutra
+Tools|Alati
+Travel|Putovanje
+Unfortunately, we could not locate your purchase in Android Market. Please uninstall this copy before installing a new one.|Nažalost, ne možemo pronaći Vaše podatke o kupnji u prodavaonici androida. Molimo da deinstalirate ovu kopiju prije instaliranja nove.
+Unfortunately, we could not locate your purchase. Please uninstall this copy before installing a new one.|Nažalost, ne možemo pronaći Vaše podatke o kupnji. Molimo da deinstalirate ovu kopiju prije instaliranja nove.
+Uninstall|Deinstaliranje
+Uninstall apps|Deinstaliranje aplikacija
+Unknown|Nepoznate
+Unknown location|Nepoznata lokacija
+Upcoming events|Nadolazeći događaji
+Update|Ažuriraj
+Update deals list automatically|Automatsko ažuriranje popisa poslova
+Update Now|Ažuriraj sada
+Update pictures page automatically|Automatsko ažuriranje stranice sa slikom
+Update weather forecasts automatically|Automatsko ažuriranje vremenske prognoze
+Updated|Ažurirano
+Updated:|Ažurirano:
+Updating image|Ažuriranje slike
+Updating...|Ažuriranje...
+Use 3D in application list|Koristite 3D na popisu aplikacija
+Use 3D in edit mode|Koristite 3D u modusu uređivanja
+Use cellular connection for updating deals list|Za ažuriranje popisa poslova koristite mobilni priključak
+Use cellular connection for updating deals list automatically|Koristite celularno povezivanje za automatsko ažuriranje popisa ponuda
+Use cellular connection for updating pictures automatically|Za automatsko ažuriranje slika koristite mobilni priključak
+Use cellular connection for updating weather automatically|Koristite celularno povezivanje za automatsko ažuriranje vremena
+Use new color every time|Svaki put koristite novu boju
+Use previous note's color|Koristite boju prethodne napomene
+Value|Vrijednost
+variable|varijabla
+Version %s, Build %s|Verzija %s, konstruirano %s
+Vibro|Vibro
+Video Call|Video poziv
+View Duplicates|Prikaži duplikate
+View SIM Contacts|Prikaži SIM kontakte
+Virgo|Djevica
+W|W
+Wallpaper|Pozadina
+Wallpapers|Pozadine
+Waning Crescent|Zadnja četvrt u padu
+Waning Gibbous|Puni mjesec u padu
+Waxing Crescent|Mladi mjesec u rastu
+Waxing Gibbous|Prva četvrt u rastu
+Weather|Vrijeme
+Weather and Clock|Vrijeme i sat
+Weather Forecast|Vremenska prognoza
+Weather Settings|Postavke vremena
+Welcome to notes panel|Dobrodošli na ploču s napomenama
+west|zapad
+Widget is too big to be added.|Dodatak je prevelik za dodavanje.
+Widgets|Dodaci
+Widgets Settings|Postavke dodataka
+Wind direction:|Smjer vjetra:
+Wind speed scale|Ljestvica brzine vjetra
+Wind speed:|Brzina vjetra:
+Wind:|Vjetar:
+Work|Radni
+World Time|Svjetsko vrijeme
+Wrong serial number. Please check it again.|Pogrešni serijski broj. Provjerite ponovno.
+Yandex.Search|Yandex.Search
+Yellow|Žuto
+Yes|Da
+Yesterday|Jučer
+You save|Uštedili ste
+Your video system isn't compatible with Shell 3D.|Vaš video sustav nije kompatibilan sa Shell 3D.

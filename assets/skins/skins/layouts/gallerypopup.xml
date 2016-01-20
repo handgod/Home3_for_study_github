@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+
+<Layouts>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layers>
+      <Layer/>
+  </Layers>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Rules>
+    <!-- tablettoss specification -->
+    <PlatformCondition Platform="tablets">
+      <ScreenCondition Orientation="landscape">
+        <UseLayout Name="landscape_tablet"/>
+      </ScreenCondition>
+      <ScreenCondition Orientation="portrait">
+        <UseLayout Name="portrait_tablet"/>
+      </ScreenCondition>
+    </PlatformCondition>
+
+    <ScreenCondition Orientation="landscape">
+      <UseLayout Name="landscape"/>
+    </ScreenCondition>
+
+    <Default>
+      <UseLayout Name="portrait"/>
+    </Default>
+  </Rules>
+
+  <!-- **************************************************************************************************************** -->
+
+  <General>
+      <Skin Skin="wgt_gallery"/>
+      <DefaultFont Face="Droid Sans" HeightPxl="11" Bold="n" Color="FFFFFFFF"/>
+  </General>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="Default">
+      <Plugins LayoutType="frame">          
+	<LayoutSize Width="fill" Height="fill"/>
+          <Plugin Name="3DPlugin" Class="Spb.LSP.GalleryPlugin" ID="0" AutoSkin="wgt_gallery">
+              <LayoutSize Width="fill" Height="fill"/>
+          </Plugin>
+      </Plugins>
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="portrait">
+      <General>
+          <!-- **************************** -->
+          <Int    Name="cntPan" Value="7"/>
+          <Int    Name="minImg" Value="3"/>
+          <Point  Name="pansize" X="160" Y="160"/>
+          <Point  Name="frmsize" X="170" Y="170"/>
+          <Point  Name="intsize" X="220" Y="220"/>
+          <!-- **************************** -->
+          <String Name="tr" Value="0 10 0    0 -25 0    0 -30 0    0 -35 0   0 -70 100   0 70 100   0 70 0" />          
+          <String Name="rx" Value="00  -80  -80  -90  -90  -30 -30" />
+          <String Name="ry" Value="00   10  -10   00  -10  10  05" />
+          <String Name="lg" Value="00   00   00   01   01  01  01" />
+          <!-- **************************** -->
+      </General>
+      <Plugins Extends="Default" />
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="landscape">
+      <General>
+          <!-- **************************** -->
+          <Int    Name="cntPan" Value="7"/>
+          <Int    Name="minImg" Value="3"/>
+          <Point  Name="pansize" X="160" Y="160"/>
+          <Point  Name="frmsize" X="170" Y="170"/>
+          <Point  Name="intsize" X="220" Y="220"/>
+          <!-- **************************** -->
+          <String Name="tr" Value="0 0 0    0 -50 0    0 -55 0    0 -60 0   0 -100 100   0 100 100   0 100 0" />          
+          <String Name="rx" Value="00  -80  -80  -90  -90  -30 -30" />
+          <String Name="ry" Value="00   10  -10   00  -10  10  05" />
+          <String Name="lg" Value="00   01   01   01   01  01  01" />
+          <!-- **************************** -->
+      </General>
+      <Plugins Extends="Default" />
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="portrait_tablet">
+      <General>
+          <!-- **************************** -->
+          <Int    Name="cntPan" Value="9"/>
+          <Int    Name="minImg" Value="5"/>
+          <Point  Name="pansize" X="230" Y="230"/>
+          <Point  Name="frmsize" X="245" Y="245"/>
+          <Point  Name="intsize" X="280" Y="280"/>
+          <!-- **************************** -->
+          <String Name="tr" Value="0 10 0    0 -25 0    0 -30 0    0 -35 0   0 -40 0   0 -70 100   0 70 100   0 70 100   0 70 0" />          
+          <String Name="rx" Value="00  -80  -80  -90  -90  -90  00  -30 -30" />
+          <String Name="ry" Value="00   10  -10   00  -10  -10  10  05  05" />
+          <String Name="lg" Value="00   00   00   01   01   01  01  01  01" />
+          <!-- **************************** -->
+      </General>
+      <Plugins Extends="Default" />
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="landscape_tablet">
+      <General>
+          <!-- **************************** -->
+          <Int    Name="cntPan" Value="9"/>
+          <Int    Name="minImg" Value="5"/>
+          <Point  Name="pansize" X="215" Y="215"/>
+          <Point  Name="frmsize" X="230" Y="230"/>
+          <Point  Name="intsize" X="270" Y="270"/>
+          <!-- **************************** -->
+          <String Name="tr" Value="0 13 0    0 -32 0    0 -38 0    0 -45 0   0 -50 0   0 -70 100   0 70 100   0 70 100   0 70 0" />          
+          <String Name="rx" Value="00  -80  -80  -90  -90  -90  00  -30 -30" />
+          <String Name="ry" Value="00   10  -10   00  -10  -10  10  05  05" />
+          <String Name="lg" Value="00   00   00   01   01   01  01  01  01" />
+          <!-- **************************** -->
+      </General>
+      <Plugins Extends="Default" />
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+</Layouts>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SPB Shell 3D</string>
+    <string name="dialog_shell_loading">"El Shell 3D SPB s'està carregant..."</string>
+    <string name="gadget_error_text">Problema en la càrrega del giny</string>
+    <string name="dialog_select_shortcut">Seleccionar accés directe</string>
+    <string name="dialog_choose_widget">Triar giny</string>
+    <string name="chooser_wallpaper">Seleccionar imatge de fons de</string>
+    <string name="wallpaper_instructions">Seleccionar imatge de fons</string>
+    <string name="pick_wallpaper">Imatges de fons</string>
+    <string name="wallpapers_spb">Imatges de fons SPB</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+    <string name="wait">Esperi si us plau...</string>
+    <string name="home_widget_error">El giny és massa gran per ser afegit.</string>
+    <string name="cancel">Cancel.lar</string>
+    <string name="error">error</string>
+    <string name="infinity">infinity</string>
+    <string name="dialog_unsupported_devices_title">Error</string>
+    <string name="dialog_unsupported_devices_message">Es requereix OpenGL 2.0 per executar el Shell 3D SP</string>
+    <string name="license_fail">"Si us plau, desinstal.leu aquesta còpia abans d'instal.lar una nova."</string>
+    <string name="purchase">Comanda</string>
+    <string name="exit">Sortida</string>
+    <string name="legal_notices_title">Notícies legals</string>
+    <string name="license_fail_handango">"Desafortunadament, no vam poder localitzar la seva comanda.Si us plau, desinstal.leu aquesta còpia abans d'instal.lar una nova."</string>
+    <string name="safe_mode_title">Mode segur</string>
+    <string name="safe_mode_text">"L'execució anterior del Shell 3D SPB no va tenir èxit. Si us plau, premi \"Torneu-ho a provar\" per executar de nou o \"Inici\" per activar una pantalla inicial diferent."</string>
+    <string name="safe_mode_retry">Torneu-ho a provar</string>
+    <string name="safe_mode_home">Inici</string>
+    <string name="sd_install_title">Error</string>
+    <string name="sd_install_text">Installation to a storage card is not supported. Please install SPB Shell 3D to the main memory</string>
+    <string name="contacts_failed_pick">Failed to load the selected contact. Try to link the contact to Google account or save it to phone.</string>
+</resources>

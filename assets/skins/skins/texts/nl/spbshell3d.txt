@@ -1,0 +1,546 @@
+ a few seconds|een paar seconden
+ day| dag
+ days| dagen
+ hour| uur
+ hours| uren
+ hr| uur
+ hrs| uren
+ lunar day| maan dag
+ min| min
+ mins|minuten
+ minute| minuut
+ minutes| minuten
+%d bought|%d gekocht
+%d day|%d dag
+%d days|%d dagen
+%d hour|%d uur
+%d hours|%d uren
+%d minute|%d minuut
+%d minutes|%d minuten
+%d more...|%d meer...
+%i active channel|%i actief kanaal
+%i active channels|%i actieve kanalen
+%i image|%i afbeelding
+%i images|%i afbeeldingen
+%i more today|%i meer vandaag
+%i more...|%i meer...
+%i page|%i pagina
+%i pages|%i pagina's
+%i%% of Full|%i%% van de volledige cyclus
+%s 2007—2011 Yandex|%s 2007—2011 Yandex
+(<1 min)|(<1 min)
+(in|(binnen
+(in seconds)|(binnen seconden)
+(No title)|(Geen titel)
+[ Loading images... ]|[ Afbeeldingen laden... ]
+[ Tap here for images load ]|[ Tap hier om afbeeldingen in te laden ]
+A few minutes ago|Een paar minuten geleden
+About|Over
+About SPB Shell 3D|Over SPB Shell 3D
+Above horizon|Boven de horizon
+Accelerometer|Accelerometer
+Activate|Activeren
+Activation|Activatie
+Activation failed. Check your Internet connection.|Activatie mislukt. Controleer uw internet verbinding.
+Active Channels|Actieve Kalalen
+Active channels|Actieve kanalen
+Add|Toevoegen
+Add category|Categorie toevoegen
+Add channel|Kanaal toevoegen
+Add city|Stad toevoegen
+Add custom channel|Persoonlijke kanaal toevoegen
+Add new city|Nieuwe stad toevoegen
+Add note|Notitie toevoegen
+Add Panel|Toevoegen Paneel
+Add to Home screen|Toevoegen aan Home scherm
+Airplane|Vliegtuig
+Airplane Mode|Vliegtuigmodus
+Alcatel Widget|Alcatel widget
+All day|Duurt hele dag
+All pictures|Alle afbeeldingen
+Allow resizing of all Android widgets|Herschalen van alle Android widgets toestaan
+An hour ago|Een uur geleden
+Android Shortcut|Android Snelkoppeling
+Android Widget|Android Widget
+Anniversary|Feestdag
+Appearance|Uiterlijk
+Application|Applicatie
+April|April
+Aqua|Aqua
+Aquarius|Waterman
+Aries|Ram
+as of %s|vanaf %s
+at %s|op %s
+atm|atm
+Atmospheres|Atmosfeer
+Atmospheric pressure scale|Atmosferische drukschaal
+August|Augustus
+Auto|Automatisch
+Auto (keyboard only)|Auto (alleen toetsenbord)
+Auto arrange widgets|Automatisch rangschikken widgets
+Automatic|Automatisch
+Automatic naming|Automatische naamgeving
+Backlight|Achtergrondverlichting
+Battery|Batterij
+Below horizon|Onder de horizon
+Birthday|Geboortedag
+Birthdays|Geboortedagen
+Black|Zwart
+Blue|Blauw
+Bluetooth|Bluetooth
+Bookmarks|Bladwijzers
+Bookmarks Folder|Favorieten Map
+Business|Business
+Buy!|Kopen!
+Cache size|Cache grootte
+Calculator|Rekenmachine
+Calendar|Agenda
+Calendar Panel|Kalender Paneel
+Calendar Panel Settings|Kalender Paneel Instellingen
+Call|Bellen
+Call Log|Oproephistorie
+Cancel|Annuleren
+Cancer|Kreeft
+Capricorn|Steenbok
+Categories|Categorieën
+Category Name|Categorie naam
+Celsius (#short)|Celsius
+Change|Wijzigen
+Change City|Stad wijzigen
+Change profile|Wijzig Profiel
+Channels list|Kanalen lijst
+Choose Alcatel Widget|Kies Alcatel widget
+Choose Color|Kleur kiezen
+Choose Program|Kies programma
+Choose SPB Widget|Kies SPB Widget
+Choose widget|Kies Widget
+Clear|Helder
+Clear cache|Cache legen
+Clock|Klok
+Cloudy|Bewolkt
+Cloudy, hail|Bewolkt, hagel
+Cloudy, heavy rain|Bewolkt, hevige regen
+Cloudy, heavy snow|Bewolkt, hevige sneeuw
+Cloudy, rain|Bewolkt, regen
+Cloudy, rain with snow|Bewolkt, regen en sneew
+Cloudy, snow|Bewolkt, sneeuw
+Cloudy, thunder|Bewolkt, onweer
+Color anaglyph (red/cyan)|Kleuren anaglief (rood/cyan)
+Communication|Communicatie
+Contact|Contactpersoon
+Contact Settings|Contacten instellingen
+Contact Size|Contact grootte
+Contacts|Contactpersonen
+Contacts Folder|Contacten map
+Copyright %s 2007-2011\nSPB Software|Copyright %s 2007-2011\nSPB Software
+Copyright %s 2007-2012\nSPB Software|Copyright %s 2007-2012\nSPB Software
+Create Folder|Map aanmaken
+Current|Huidig
+Current city|Huidige stad
+Current conditions|Huidige Condities
+Current Conditions|Huidige Condities
+Current skin|Huidige skin
+Custom channel|Persoonlijke kanaal
+Day|Dag
+Deal of the Day|Deal van de dag
+Deal of the Day Panel|Deal van de Dag Paneel
+Deal of the Day Panel Settings|Deal van de Dag Paneel Instellingen
+Deals|Aanbiedingen
+December|December
+Default|Standaard
+Default Action|Standaard Actie
+Delete note|Notitie verwijderen
+Dew point:|Dauwpunt
+Diagnostic tools|Diagnostische tools
+Disabled|Uitgeschakeld
+Discoverable|Herkenbaar
+Done|Gereed
+Download Original|Download Origineel
+Downloading images|Downloaden afbeeldingen
+E|O
+east|Oosten
+Edit channel|Kanaal bewerken
+Edit Contact|Contactpersoon bewerken
+Edit note|Notitie bewerken
+Edit panels|Panelen bewerken
+Emergency only|Alleen in noodgevallen
+Empty Panel|Leeg Paneel
+Enable live wallpapers|Inschakelen live wallpapers
+Enabled|Ingeschakeld
+Enter RSS feed title|Voer RSS feed titel in
+Enter RSS feed URL|Voer RSS feed URL in
+Entertainment|Vermaak
+Error|Fout
+Evening|Avond
+Every 2 hours|Elke 2 uur
+Every 24 hours|Elke 24 Uur
+Every 30 Minutes|Elke 30 Minuten
+Every 30 minutes|Elke 30 minuten
+Every 4 hours|Elke 4 uur
+Every hour|Elk uur
+Exit|Afsluiten
+Experimental|Experimenteel
+Experimental Settings|Experimentele Instellingen
+Experimental settings|Experimentele instellingen
+Fahrenheit (#short)|Fahrenheit
+Failed to add contact|Contact toevoegen mislukt
+Failed to load RSS|Laden RSS niet gelukt
+Failed to load the selected contact. Try to link the contact to Google account or save it to phone.|Laden van geselecteerde contact is mislukt. Probeer om contact te linken aan Google account of bewaar deze direct op de telefoon.
+Favorite Contacts|Favoriete Contactpersonen
+Favorite contacts|Favoriete Contactpersonen
+Favorites|Favorieten
+February|Februari
+Filter|Filteren
+First day of the week|Eerste dag van de week
+First Quarter|Eerste kwart
+Flight|Vlucht
+Folder|Map
+Folder Name|Naam map
+Forecast|Voorspelling
+from forecast|van voorspelling
+Full Moon|Volle maan
+Gallery|Gallerij
+Games|Spelletjes
+Gemini|Tweeling
+Gravity|Zwaartekracht
+Grayscale anaglyph (red/cyan)|Grijstinten anaglief (rood/cyan)
+Green|Groen
+G-Sensor|G-Sensor
+Half an hour ago|Een half uur geleden
+Hectopascals|Hectopascal
+Hide Duplicates|Verberg Dubbelen
+Hide SIM Contacts|SIM Contacten verbergen
+Home|Home
+Home Settings|Home Instellingen
+Home settings|Home Instellingen
+hpa|hPa
+Humidity:|Vochtigheid:
+in %u days|binnen %u dagen
+in Home Settings|in Home instellingen
+inch|inch
+Inches|Inch
+Increase Counter|Toenemen Teller
+Interface mode|Interface modus
+Invisible|Onzichtbaar
+January|Januari
+July|Juli
+June|Juni
+Kilometers per hour|Kilometers per uur
+Knots|Knopen
+knots|knopen
+kph|km/h
+kts|kts
+Landscape|Liggend
+Landscape orientation required to enable left-to-right stereo mode|Landschap oriëntatie vereist om links-naar-rechts stereo modus te activeren
+Large|Groot
+Last Call|Laatste oproep
+Last Message|Laatste bericht
+Last Quarter|Laatste Kwart
+Last updated|Laatst geupdate
+Left-to-right (HTC EVO 3D)|Links-naar-rechts (HTC EVO 3D)
+Legal information|Juridische informatie
+Legal notices|Juridische mededeling
+Leo|Leeuw
+Libra|Weegschaal
+Lifestyle|Lifestyle
+Live wallpapers can cause performance degradation of your 3D home screen. Switching between live and static wallpapers can take up to a minute. Static wallpapers are recommended for the best experience.|Live wallpapers kunnen een afname van prestatie van je 3D home screen veroorzaken. Wisselen tussen live en statische wallpapers kan tot een minuut duren. Statische wallpapers zijn aanbevolen voor de beste gebruikerservaring.
+Loading failed|Laden Mislukt
+Loading image for wallpaper|Afbeelding laden als achtergrond
+Loading RSS feed %s...|RSS feed aan het laden %s...
+Loading skin failed!|Laden skin mislukt!
+Loading skins catalog failed!|Laden skin catalogus mislukt!
+Loading...|Laden...
+Logging In...|Inloggen...
+Lunar Calendar|Maand Kalender
+Lunar day %d|maan dag %d
+Manage apps|Manage applicaties
+Manage Apps|Manage Applicaties
+Manage panels|Manage panelen
+Manage Panels|Panelen Beheren
+March|Maart
+May|Mei
+Medium|Gemiddeld
+Messaging|Berichten
+Meters per second|Meters per seconde
+Miles per hour|Mijlen per uur
+Millimetres|Milimeters
+Misc|Diversen
+Miscellaneous|Diversen
+mm|mm
+Mobile|Mobiel
+Mode|Modus
+Monday|Maandag
+Moon|Maan
+Moon Calendar|Maan kalender
+Moon in %s,|Maan over %s,
+Morning|Ochtend
+mph|m/h
+mps|m/s
+Multimedia|Multimedia
+Music|Muziek
+Music albums|Muziek albums
+N|N
+N/A|N.v.t.
+nd|de
+NE|NO
+Network Status|Netwerk Status
+Never|Nooit
+New|Nieuw
+New Channel|Nieuw kanaal
+New channel|Nieuw kanaal
+New Contact|Nieuwe Contactpersoon
+New Folder|Nieuwe Map
+New Moon|Nieuwe maan
+New update available|Nieuwe update beschikbaar
+News|Nieuws
+News Panel|Nieuws Paneel
+News Panel Settings|Nieuws Paneel instellingen
+next|volgende
+Next Alarm|Volgende alarm
+Night|Nacht
+No|Nee
+no|nee
+No Alarms|Geen alarmen
+No birthdays|Geen verjaardagen
+No calls|Geen oproepen
+No Cities|Geen Steden
+No conditions|Geen toestanden
+No Contacts.|Geen Contactpersonen
+No Countries|Geen Landen
+No deals loaded|Geen deals geladen
+No Images|Geen Afbeeldingen
+No messages|Geen berichten
+No news|Geen Nieuws
+No rise/set info|Geen op- of ondergang info
+No RSS feed found at|Geen RSS feed gevonden bij
+No rss loaded|Geen RSS geladen
+No SIM|Geen SIM-kaart
+No text messages|Geen tekst berichten
+No title|Geen titel
+No upcoming events|Geen aanstaande gebeurtenissen
+No upcoming events in a week|Geen aanstaande gebeurtenissen over een week
+No updates|Geen updates
+No weather forecast|Geen weersvoorspellingen
+Normal|Normaal
+north|noord
+north east|noord oost
+north west|noord west
+Not available|Niet beschikbaar
+Not connected|Niet verbonden
+Notes|Notities
+Note's default color|Standaard kleur notitie
+Note's font|Lettertype notitie
+Notes Panel|Notitie Paneel
+Notes Panel Settings|Notitie Paneel Instellingen
+November|November
+NW|NW
+October|Oktober
+Off|Uit
+Offer|Aanbod
+On|Aan
+One Touch Share|One Touch Share
+Only on free connections|Alleen bij gratis verbindingen
+Open Contact|Open Contactpersoon
+Open in Browser|Openen in Browser
+OpenGL 2.0 is required to run SPB Shell 3D|OpenGl 2.0 is benodigd om SPB Shell 3D te draaien
+Optimized anaglyph (red/cyan)|Geoptimaliseerd anaglief (rood/cyan)
+Other (assistant)|Andere (assistent)
+Page|Pagina
+Pages: %d, images: %d|Pagina's: %d, afbeeldingen: %d
+Panel Name|Paneel naam
+Panels|Panelen
+Panels Settings|Panelen Instellingen
+Parsing skins catalog failed!|Parseren skins catalogus mislukt!
+Partly cloudy|Gedeeltelijk bewolkt
+Partly cloudy, rain|Gedeeltelijk bewolkt, regen
+Partly cloudy, snow|Gedeeltelijk bewolkt, sneeuw
+Partly cloudy, thunder|Gedeeltelijk bewolkt, onweer
+People|Mensen
+Performance Warning|Prestatie Waarschuwing
+Performance Warning dialog|Prestatie Waarschuwingsdialoogvenster
+Personal|Persoonlijk
+Phone|Telefoon
+Photo folder for gallery widgets|Afbeeldingen map voor gallerij widgets
+Picture Gallery|Afbeeldingen Gallerij
+Picture of the Day|Afbeelding van de dag
+Picture Panel Settings|Afbeelding Paneel Instellingen
+Pictures|Foto's
+Pictures Of The Day|Afbeeldingen van de dag
+Pictures Panel|Afbeeldingen Paneel
+Pictures Panel Settings|Afbeeldingen Paneel instellingen
+Pictures Settings|Afbeeldingen Instellingen
+Pisces|Vis
+Please Log In|Log a.u.b. in
+Please wait...|A.u.b. wachten
+Portrait|Portret
+Pressure:|Druk:
+Problem loading widget|Probleem laden widget
+Productivity|Productiviteit
+Program|Programma
+Pulkovo|Pulkovo
+Purchase|Kopen
+Purple|Paars
+Quick Setting|Snelle Instellingen
+Radio off|Radio uit
+rd_loc|de
+Reading appointments...|Lezen afspraken...
+Recycle Bin|Prullenbak
+Red|Rood
+Reduced|Gereduceerd
+Reload skin list|Herladen skins lijst
+Remove All|Alles verwijderen
+Rename|Hernoemen
+Rename Panel|Hernoemen paneel
+Requesting images|Afbeeldingen verzoeken
+Retry|Opnieuw proberen
+Rise: %s|Opgang: %s
+RSS Feed|RSS Feed
+RSS Panel|RSS Paneel
+RSS Panel Settings|RSS Paneel Instellingen
+S|Z
+Safe mode|Veilige modus
+Sagittarius|Boogschutter
+Saint-Petersburg|Sint-Petersburg
+Save as New|Opslaan als nieuw
+Save to Existing|Opslaan als bestaande
+Scorpio|Schorpioen
+Screen orientation|Schermorientatie
+Screen orientation will be changed to Landscape|Oriëntatie van het scherm zal veranderen naar landscape
+SE|ZO
+Searching|Zoeken
+Select Channel|Selecteer Kanaal
+Select cities|Selecteer steden
+Select Contact Action|Selecteer Contact Actie
+Select Contact Size|Selecteer Contact Grootte
+Select e-mail address|Selecteer e-mailadres
+Select phone number:|Selecteer telefoonnummer
+Select shortcut|Selecteren snelkopeling
+Select Skin|Selecteer Skin
+Select wallpaper from|Selecteer achtergrond van
+Selected cities|Geselecteerde steden
+Selected City|Geselecteerde Steden
+Selected city|Geselecteerde steden
+Send Email|E-mail verzenden
+Send E-mail|Verstuur E-mail
+Send E-Mail|Verstuur E-mail
+Send Message|Verstuur Bericht
+Send MMS|MMS verzenden
+Send SMS|SMS verzenden
+September|September
+Serial number:|Serienummer:
+Set as Home|Instellen als Home
+Set as Wallpaper|Instellen als Achtergrond
+Set wallpaper|Instellen achtergrond
+Set: %s|Instellen: %s
+Settings|Instellingen
+Show all|Toon Allen
+Show all day events|Toon dagvullende gebeurtenissen
+Show all day events in calendar widgets|Toon dagvullende gebeurtenissen in kalender widgets
+Show full news|Volledig nieuws weergeven
+Show images in news|Afbeeldingen in nieuws weergeven
+Silent|Stil
+Skin loading|Skin laden
+Small|Klein
+Smartphone|Smartphone
+Smog|Smog
+Social|Social
+Social Network|Sociaal Netwerk
+Sound Profile|Geluidsprofiel
+south|Zuid
+south east|Zuid Oost
+south west|Zuid West
+SPB Shell 3D is loading...|SPB Shell 3D is aan het laden...
+SPB Wallpapers|SPB Achtergronden
+SPB Widget|SPB Widget
+st|eerste
+Standard Edition [Beta]|Standaard Editie [Beta]
+Stereoscopic 3D mode|Stereoscopische 3D mode
+Stereoscopic 3D mode will be disabled|Stereoscopische 3D modus wordt uitgeschakeld
+Stereoscopic 3D Settings|Stereoscopische 3D instellingen
+Sun in %s,|Zon over %s,
+Sunday|Zondag
+SW|ZW
+Switching the interface mode can take up to a minute. Screen orientation will be changed to '%s'.|De interface mode wisselen kan tot wel enkele minuten duren. De schermorientatie zal worden veranderd naar '%s'.
+System|Systeem
+Tablet|Tablet
+Tap here to download|Tap hier te downloaden
+Taurus|Stier
+Temperatur scale|Temperatuur schaal
+Temperature scale|Temperatuur schaal
+Test Battery|Test Batterij
+th|de
+Thank you for your support. Your copy is now registered.|Dank u voor uw ondersteuning. Uw kopie is nu geregistreerd.
+The experimental features below are not ready to be shipped in the core of SPB Shell 3D. They may contain severe defects and cause system instability. Use them at your own risk.|De experimentele features hierbeneden zijn nog niet klaar om te worden verzonden in de core van SPB Shell 3D. Deze features bevatten mogelijk zware defecten die systeem instabiliteit veroorzaken. Gebruiken op eigen risico.
+The maximum number of panels is reached|Het maximaal aantal panelen is bereikt
+The name cannot be changed.|De naam kan nier worden gewijzigd.
+The previous launch of SPB Shell 3D was unsuccessful. Please tap "Retry" to launch it again or "Home" to activate a different Home screen.|De vorige start van SPB Shell 3D was niet succesvol. Klik alstublief op "Opnieuw proberen" om het wederom te starten of "Home" om een andere homescreen te activeren.
+Time|Tijd
+Time Panel|Tijd Paneel
+Time Panel Settings|Tijdspaneel instellingen
+Today|Vandaag
+Toggle|Wisselen
+Tomorrow|Morgen
+Tools|Tools
+Travel|Reizen
+Unfortunately, we could not locate your purchase in Android Market. Please uninstall this copy before installing a new one.|Helaas hebben we uw aankoop niet kunnen lokaliseren in de Android Market. Alstublieft deinstalleer deze versie alvorens een nieuwe te installeren.
+Unfortunately, we could not locate your purchase. Please uninstall this copy before installing a new one.|Helaas kunnen we uw aankoop niet localiseren. Deinstalleer deze kopie alstublieft alvorens u een nieuwe versie installeert.
+Uninstall|De-installeren
+Uninstall apps|Applicaties verwijderen
+Unknown|Onbekend
+Unknown location|Onbekende locatie
+Upcoming events|Aankomende gebeurtenissen
+Update|Bijwerken
+Update deals list automatically|Update aanbiedingenlijst automatisch
+Update Now|Nu updaten
+Update pictures page automatically|Update afbeeldingen pagina automatisch
+Update weather forecasts automatically|Update weersvoorspellingen automatisch
+Updated|Geupdate
+Updated:|Bijgewerkt:
+Updating image|Updaten afbeelding
+Updating...|Updaten...
+Use 3D in application list|Gebruik 3D in de applicatie lijst
+Use 3D in edit mode|Gebruik 3D in edit modus
+Use cellular connection for updating deals list|Gebruik mobiele dataverbinding voor updates van de aanbiedingenlijst
+Use cellular connection for updating deals list automatically|Mobiel netwerk gebruiken om deals lijst automatisch te vernieuwen
+Use cellular connection for updating pictures automatically|Gebruik mobiele dataverbinding automatisch voor het updaten van afbeeldingen
+Use cellular connection for updating weather automatically|Mobiel netwerk gebruiken om het weer automatisch te vernieuwen
+Use new color every time|Iedere keer een nieuwe kleur gebruiken
+Use previous note's color|Gebruik kleur van voorgaande notitie
+Value|Waarde
+variable|Variabel
+Version %s, Build %s|Versie %s, Build %s
+Vibro|Vibreren
+Video Call|Videogesprek
+View Duplicates|Dubbele bekijken
+View SIM Contacts|Toon SIM Contacten
+Virgo|Maagd
+W|W
+Wallpaper|Achtergrond
+Wallpapers|Achtergronden
+Waning Crescent|Afnemende halve maan
+Waning Gibbous|Afnemende maan tussen half en vol
+Waxing Crescent|Wassende halve maan
+Waxing Gibbous|Wassende maan tussen half en vol
+Weather|Weer
+Weather and Clock|Weer en Klok
+Weather Forecast|Weersvoorspelling
+Weather Panel Settings|Weer Paneel Instellingen
+Weather Settings|Weer instellingen
+Welcome to notes panel|Welkom bij het notitie paneel
+west|West
+Widget is too big to be added.|Widget is te groot om te kunnen worden toegevoegd.
+Widgets|Widgets
+Widgets Settings|Widgetinstellingen
+Wind direction:|Wind richting:
+Wind speed scale|Schaal Windsnelheid
+Wind speed:|Windsnelheid:
+Wind:|Wind:
+Work|Werk
+World Time|Wereld Tijd
+Wrong serial number. Please check it again.|Foutief serienummer. Controleer dit opnieuw.
+Yandex.Search|Yandex.Search
+Yellow|Geel
+Yes|Ja
+Yesterday|Gisteren
+You save|U bespaart
+Your video system isn't compatible with Shell 3D.|Uw video systeem is niet compatible met Shell 3D.

@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Categories>
+  <Category Name="Games">
+    <Tags>
+    </Tags>
+    <Programs>
+      <Program Name="papertoss"/>
+      <Program Name="immobsters"/>
+    </Programs>
+    <MarketCategories>
+      <MarketCategory Id="ARCADE"/>
+      <MarketCategory Id="BRAIN"/>
+      <MarketCategory Id="CARDS"/>
+      <MarketCategory Id="CASUAL"/>
+      <MarketCategory Id="SPORTS_GAMES"/>
+      <MarketCategory Id="ENTERTAINMENT"/>
+    </MarketCategories>
+  </Category>
+  <Category Name="Bookmarks">
+    <Tags>
+      <Tag Name="bookmark" Weight="2"/>
+    </Tags>
+    <Programs>
+    </Programs>
+    <MarketCategories>
+    </MarketCategories>
+  </Category>
+  <Category Name="Music albums">
+    <Tags>
+      <Tag Name="album" Weight="2"/>
+    </Tags>
+    <Programs>
+    </Programs>
+    <MarketCategories>
+    </MarketCategories>
+  </Category>
+  <Category Name="Entertainment">
+    <Tags>
+    </Tags>
+    <Programs>
+    </Programs>
+    <MarketCategories>
+      <MarketCategory Id="COMICS"/>
+      <MarketCategory Id="ENTERTAINMENT"/>
+    </MarketCategories>
+  </Category>
+  <Category Name="Lifestyle">
+    <Tags>
+    </Tags>
+    <Programs>
+    </Programs>
+    <MarketCategories>
+      <MarketCategory Id="LIFESTYLE"/>
+      <MarketCategory Id="HEALTH_AND_FITNESS"/>
+      <MarketCategory Id="SHOPPING"/>
+      <MarketCategory Id="EDUCATION"/>
+      <MarketCategory Id="MEDICAL"/>
+      <MarketCategory Id="PERSONALIZATION"/>
+    </MarketCategories>
+  </Category>
+  <Category Name="Travel">
+    <Tags>
+      <Tag Name="maps" Weight="2"/>
+      <Tag Name="worldtime" Weight="2"/>
+    </Tags>
+    <Programs>
+    </Programs>
+    <MarketCategories>
+      <MarketCategory Id="TRAVEL_AND_LOCAL"/>
+      <MarketCategory Id="TRANSPORTATION"/>
+    </MarketCategories>
+  </Category>
+  <Category Name="Social">
+    <Tags>
+      <Tag Name="facebook"  Weight="2"/>
+      <Tag Name="twitter" Weight="2"/>
+      <Tag Name="contact" Weight="1"/>
+      <Tag Name="birthdays" Weight="1"/>
+    </Tags>
+    <Programs>
+    </Programs>
+    <MarketCategories>
+      <MarketCategory Id="SOCIAL"/>
+    </MarketCategories>
+  </Category>
+  <Category Name="People">
+    <Tags>
+      <Tag Name="contact" Weight="2"/>
+      <Tag Name="phone" Weight="2"/>
+      <Tag Name="birthdays" Weight="2"/>
+      <Tag Name="facebook" Weight="1"/>
+      <Tag Name="twitter" Weight="1"/>
+    </Tags>
+    <Programs>
+    </Programs>
+    <MarketCategories>
+      <MarketCategory Id="SOCIAL"/>
+    </MarketCategories>
+  </Category>
+  <Category Name="Communication">
+    <Tags>
+      <Tag Name="phone" Weight="2"/>
+      <Tag Name="mail" Weight="2"/>
+      <Tag Name="sms" Weight="2"/>
+      <Tag Name="talk" Weight="2"/>
+      <Tag Name="contact" Weight="2"/>
+      <Tag Name="lastcall" Weight="2"/>
+      <Tag Name="operator" Weight="2"/>
+      <Tag Name="browser" Weight="2"/>
+      <Tag Name="bookmark" Weight="2"/>
+      <Tag Name="news" Weight="2"/>
+      <Tag Name="twitter" Weight="2"/>
+      <Tag Name="facebook" Weight="2"/>
+    </Tags>
+    <Programs>
+    </Programs>
+    <MarketCategories>
+      <MarketCategory Id="COMMUNICATION"/>
+    </MarketCategories>
+  </Category>
+  <Category Name="Multimedia">
+    <Tags>
+      <Tag Name="gallery" Weight="2"/>
+      <Tag Name="media" Weight="2"/>
+      <Tag Name="camera" Weight="2"/>
+      <Tag Name="album" Weight="2"/>
+      <Tag Name="bookmark" Weight="2"/>
+    </Tags>
+    <Programs>
+    </Programs>
+    <MarketCategories>
+      <MarketCategory Id="MUSIC_AND_AUDIO"/>
+      <MarketCategory Id="MEDIA_AND_VIDEO"/>
+      <MarketCategory Id="PHOTOGRAPHY"/>
+    </MarketCategories>
+  </Category>
+  <Category Name="Weather">
+    <Tags>
+      <Tag Name="weather" Weight="2"/>
+    </Tags>
+    <Programs>
+      <Program Name="com.htc.Weather"/>
+    </Programs>
+    <MarketCategories>
+      <MarketCategory Id="WEATHER"/>
+    </MarketCategories>
+  </Category>
+  <Category Name="News">
+    <Tags>
+      <Tag Name="news" Weight="2"/>
+    </Tags>
+    <Programs>
+    </Programs>
+    <MarketCategories>
+      <MarketCategory Id="FINANCE"/>
+      <MarketCategory Id="BUSINESS"/>
+      <MarketCategory Id="NEWS_AND_MAGAZINES"/>
+    </MarketCategories>
+  </Category>
+  <Category Name="Productivity">
+    <Tags>
+      <Tag Name="clock"/>
+      <Tag Name="alarm"/>
+      <Tag Name="worldtime"/>
+      <Tag Name="calendar"/>
+      <Tag Name="calendarwidget"/>
+    </Tags>
+    <Programs>
+    </Programs>
+    <MarketCategories>
+      <MarketCategory Id="PRODUCTIVITY"/>
+    </MarketCategories>
+  </Category>
+  <Category Name="Tools">
+    <Tags>
+      <Tag Name="phone"/>
+      <Tag Name="wifi"/>
+      <Tag Name="bluetooth"/>
+      <Tag Name="phone.ext"/>
+      <Tag Name="wifi.ext"/>
+      <Tag Name="bluetooth.ext"/>
+      <Tag Name="flight"/>
+      <Tag Name="profile"/>
+      <Tag Name="operator"/>
+      <Tag Name="backlight"/>
+      <Tag Name="market"/>
+      <Tag Name="calculator"/>
+      <Tag Name="battery"/>
+    </Tags>
+    <Programs>
+    </Programs>
+    <MarketCategories>
+      <MarketCategory Id="BOOKS_AND_REFERENCE"/>
+      <MarketCategory Id="TOOLS"/>
+    </MarketCategories>
+  </Category>
+  <Category Name="Misc" Default="1">
+    <Tags>
+      <Tag Name="clock"/>
+      <Tag Name="worldtime"/>
+      <Tag Name="alarm"/>
+      <Tag Name="news"/>
+      <Tag Name="calendarwidget"/>
+      <Tag Name="weather"/>
+      <Tag Name="birthdays"/>
+      <Tag Name="calendar"/>
+      <Tag Name="calculator"/>
+      <Tag Name="battery"/>
+      <Tag Name="profile"/>
+      <Tag Name="operator"/>
+    </Tags>
+    <Programs>
+      <Program Name="calculator"/>
+    </Programs>
+    <MarketCategories>
+      <MarketCategory Id="UNKNOWN"/>
+    </MarketCategories>
+  </Category>
+</Categories>

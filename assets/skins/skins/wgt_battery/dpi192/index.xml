@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<skin Name="Battery Widget" Type="widget">
+  <items>
+    <item DontScale="1">
+      <Image Name="discharging10"  File="battery.png" X="0" Y="0"   Width="40" Height="62" />
+      <Image Name="discharging20"  File="battery.png" X="0" Y="62"  Width="40" Height="62" />
+      <Image Name="discharging30"  File="battery.png" X="0" Y="124" Width="40" Height="62" />
+      <Image Name="discharging40"  File="battery.png" X="0" Y="186" Width="40" Height="62" />
+      <Image Name="discharging50"  File="battery.png" X="0" Y="248" Width="40" Height="62" />
+      <Image Name="discharging60"  File="battery.png" X="0" Y="310" Width="40" Height="62" />
+      <Image Name="discharging70"  File="battery.png" X="0" Y="372" Width="40" Height="62" />
+      <Image Name="discharging80"  File="battery.png" X="0" Y="434" Width="40" Height="62" />
+      <Image Name="discharging90"  File="battery.png" X="0" Y="496" Width="40" Height="62" />
+      <Image Name="discharging100" File="battery.png" X="0" Y="558" Width="40" Height="62" />
+      <Image Name="charging"       File="battery.png" X="0" Y="620" Width="40" Height="62" />
+      <Image Name="notcharging"    File="battery.png" X="0" Y="682" Width="40" Height="62" />
+      <Image Name="full"           File="battery.png" X="0" Y="744" Width="40" Height="62" />
+    </item>
+  </items>
+</skin>

@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+
+<Layouts>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layers>
+      <Layer/>
+  </Layers>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Rules>
+    <PlatformCondition Platform="tablets">
+      <UseLayout Name="landscape_tablet"/>
+    </PlatformCondition>
+
+    <ScreenCondition Orientation="landscape">
+      <UseLayout Name="landscape"/>
+    </ScreenCondition>
+
+    <Default>
+      <UseLayout Name="portrait"/>
+    </Default>
+  </Rules>
+
+  <!-- **************************************************************************************************************** -->
+
+  <General>
+      <Skin Skin="weatherchart"/>
+      <DefaultFont Face="Droid Sans" HeightPxl="11" Bold="n" Color="FFFFFFFF"/>
+  </General>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="Default">
+      <Plugins LayoutType="frame">          
+          <LayoutSize Width="fill" Height="fill"/>
+          <Plugin Name="3DPlugin" Class="Spb.LSP.WeatherPlugin" ID="0" AutoSkin="weatherchart">
+              <LayoutSize Width="fill" Height="fill"/>
+          </Plugin>
+      </Plugins>
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="portrait">
+      <General>
+          <!-- **************************** -->
+          <String Name="icons" Value="wgt_weather"/>
+          <Int    Name="iconsize" Value="72"/>
+          <!-- **************************** -->
+          <Int    Name="rows" Value="4"/>
+          <Int    Name="cols" Value="4"/>
+          <!-- **************************** -->
+          <Font   Name="ftDays"   Face="Droid Sans" HeightPxl="12" Bold="y" Color="FFFFFFFF"/>
+          <Font   Name="ftParts"  Face="Droid Sans" HeightPxl="10" Bold="n" Color="FFFFFFFF"/>
+          <Font   Name="ftTemp"   Face="Droid Sans" HeightPxl="12" Bold="y" Color="FFFFFFFF"/>
+          <!-- **************************** -->
+          <Point  Name="barscale" X="30" Y="30"/>
+          <Point  Name="barsize"  X="40" Y="40"/>
+          <!-- **************************** -->
+      </General>
+      <Plugins Extends="Default" />
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="landscape">
+      <General>
+          <!-- **************************** -->
+          <String Name="icons" Value="wgt_weather"/>
+          <Int    Name="iconsize" Value="72"/>
+          <!-- **************************** -->
+          <Int    Name="rows" Value="4"/>
+          <Int    Name="cols" Value="4"/>
+          <!-- **************************** -->
+          <Font   Name="ftDays"   Face="Droid Sans" HeightPxl="12" Bold="y" Color="FFFFFFFF"/>
+          <Font   Name="ftParts"  Face="Droid Sans" HeightPxl="10" Bold="n" Color="FFFFFFFF"/>
+          <Font   Name="ftTemp"   Face="Droid Sans" HeightPxl="12" Bold="y" Color="FFFFFFFF"/>
+          <!-- **************************** -->
+          <Point  Name="barscale" X="26" Y="26"/>
+          <Point  Name="barsize"  X="36" Y="36"/>
+          <!-- **************************** -->
+      </General>
+      <Plugins Extends="Default" />
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+  <Layout Name="landscape_tablet">
+      <General>
+          <!-- **************************** -->
+          <String Name="icons" Value="wgt_weather"/>
+          <Int    Name="iconsize" Value="72"/>
+          <!-- **************************** -->
+          <Int    Name="rows" Value="4"/>
+          <Int    Name="cols" Value="4"/>
+          <!-- **************************** -->
+          <Font   Name="ftDays"   Face="Droid Sans" HeightPxl="16" Bold="y" Color="FFFFFFFF"/>
+          <Font   Name="ftParts"  Face="Droid Sans" HeightPxl="12" Bold="n" Color="FFFFFFFF"/>
+          <Font   Name="ftTemp"   Face="Droid Sans" HeightPxl="14" Bold="y" Color="FFFFFFFF"/>
+          <!-- **************************** -->
+          <Point  Name="barscale" X="36" Y="36"/>
+          <Point  Name="barsize"  X="52" Y="52"/>
+          <!-- **************************** -->
+      </General>
+      <Plugins Extends="Default" />
+  </Layout>
+
+  <!-- **************************************************************************************************************** -->
+
+</Layouts>

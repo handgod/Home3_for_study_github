@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SPB Shell 3D</string>
+    <string name="weather_city_title">Type 3 letters to start auto-completion:</string>
+    <string name="weather_enter_city_name">Enter city name</string>
+    <string name="weather_more_cities">More...</string>
+    <string name="weather_locate_nearest_city">Search the nearest city</string>
+    <string name="weather_current_location">Current location</string>
+    <string name="searching_city_title">Positioning</string>
+    <string name="searching_city_progress">Searching for nearest cities...</string>
+    <string name="city_location_failed">Failed to locate nearest city</string>
+    <string name="dialog_shell_loading">جاري تحميل SPB Shell 3D</string>
+    <string name="gadget_error_text">خطأ في تحميل عنصر واجهة المستخدم</string>
+    <string name="dialog_select_shortcut">اختيار اختصار</string>
+    <string name="dialog_choose_widget">اختيار عنصر واجهة المستخدم</string>
+    <string name="chooser_wallpaper">اختيار الخلفية من</string>
+    <string name="wallpaper_instructions">تعيين خلفية</string>
+    <string name="pick_wallpaper">خلفية</string>
+    <string name="wallpapers_spb">خلفية SPB</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="wait">الرجاء الانتظار</string>
+    <string name="home_widget_error">عنصر واجهة المستخدم</string>
+    <string name="cancel">الغاء</string>
+    <string name="error">error</string>
+    <string name="infinity">infinity</string>
+    <string name="dialog_unsupported_devices_title">خطأ</string>
+    <string name="dialog_unsupported_devices_message">برنامج SPB Shell 3D يتطلب دعم OpenGl 2.0</string>
+    <string name="license_fail">للأسف لم نتمكن من العثور على مشترياتك في سوق اندرويد.الرجاء ازالة النسخة الحالية قبل تحميل الجديدة.</string>
+    <string name="purchase">شراء</string>
+    <string name="exit">خروج</string>
+    <string name="legal_notices_title">ملاحظة قانونية</string>
+    <string name="license_fail_handango">لم يتم العثور على مشترياتك. الرجاء ازالة هذه النسخة قبل تحميل نسخة اخرى.</string>
+    <string name="safe_mode_title">الوضع الآمن</string>
+    <string name="safe_mode_text">فشلت عملية تحميل SPB Shell 3D. الرجاء الضغط على \"اعادة المحاولة\" او \"البداية\" لتفعيل شاشة بداية اخرى.</string>
+    <string name="safe_mode_retry">اعادة المحاولة</string>
+    <string name="safe_mode_home">بداية</string>
+    <string name="sd_install_title">خطأ</string>
+    <string name="sd_install_text">Installation to a storage card is not supported. Please install SPB Shell 3D to the main memory</string>
+    <string name="contacts_failed_pick">Failed to load the selected contact. Try to link the contact to Google account or save it to phone.</string>
+</resources>

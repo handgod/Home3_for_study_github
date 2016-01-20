@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<skin Name="Yandex.Search Widget" Type="widget">
+  <items>
+    <item BaseDpi="128">
+
+      <Image Name="Icon"   File="icon.png"/>
+      <String Name="DefaultLabel" Value="Yandex.Search"/>
+
+      <Image Name="back" File="yandex_bar_modern_bg.png"/>
+      <Rect  Name="back_9Patch" X="9" Y="8" Width="5" Height="41"/>
+
+      <Image Name="edit" File="input_modern_grey_default.png"/>
+      <Rect  Name="edit_9Patch" X="5" Y="4" Width="2" Height="32"/>
+
+      <Image Name="edit_s" File="input_modern_grey_pressed.png"/>
+      <Rect  Name="edit_s_9Patch" X="5" Y="4" Width="2" Height="31"/>
+
+      <Image Name="button" File="button_modern_default.png"/>
+      <Image Name="button_s" File="button_modern_pressed.png"/>
+
+      <Image Name="voice" File="voice_modern_default.png"/>  
+      <Image Name="voice_s" File="voice_modern_pressed.png"/>
+
+      <Image Name="ya_text" File="yandex_text.png"/>
+      <Image Name="ya_text_en" File="yandex_text_en.png"/>
+
+    </item>
+  </items>
+</skin>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Layouts Name="Contact Card" Type="dialog" HideInUib="1">
+
+  <Layers>
+    <Layer/>
+    <Layer Name="ScrollBar" Dialog="ScrollBar"/>
+  </Layers>
+
+  <Rules>
+    <ScreenCondition Width="360" Height="640">
+      <UseLayout Name="360x640"/>
+    </ScreenCondition>
+    <Default>
+      <UseLayout Name="240x400"/>
+    </Default>
+  </Rules>
+
+  <General>
+    <ScrollY Value="Auto"/>
+    <DefaultFont Face="Droid Sans"  HeightPxl="11"  Bold="n" Color="FFFFFFFF"/>
+    <Font Name="NameFont" Face="Droid Sans" HeightPxl="14" Bold="n"/>
+    <Color Name="LineColor" Value="FFFFFF"/>
+    <Int Name="LineOpacity" Value="128"/>
+
+    <!--reordering-->
+    <Point Name="Padding"  X="6"  Y="4"/>
+    <Point Name="BlockDim" X="60" Y="51"/>
+    <AbsoluteSize Name="PageDim"  X="4"  Y="4"/>
+  </General>
+
+  <Layout Name="Default">
+    <Plugins>
+      <Plugin Class="Spb.LSP.SimpleBackgrd" Name="Glow" DoubleSkin="misc/dpi192" ID="1000">
+        <String Name="ImageName" Value="UpperGlow"/>
+      </Plugin>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="240x400">
+    <General>      
+      <Skin DoubleSkin="contact_card/dpi192"/>
+      <Rect Name="DragRect" X="0" Y="75" Width="240" Height="1000" />
+    </General>
+    <Plugins Extends="Default">
+      <Plugin Name="Glow" DoubleSkin="misc/dpi192">
+        <BoundRect X="0" Y="65" Width="240" Height="36"/>
+      </Plugin>
+    </Plugins>
+  </Layout>
+
+  <Layout Name="360x640">
+    <General>      
+      <Skin Skin="contact_card/dpi144"/>
+      <Rect Name="DragRect" X="0" Y="75" Width="240" Height="1000" />
+    </General>
+    <Plugins Extends="Default">
+      <Plugin Name="Glow" Skin="misc/dpi144">
+        <BoundRect X="0" Y="65" Width="240" Height="36"/>
+      </Plugin>
+    </Plugins>
+  </Layout>
+
+</Layouts>

@@ -1,0 +1,522 @@
+ a few seconds| מספר שניות
+ day| יום
+ days| ימים
+ hour| שעה
+ hours| שעות
+ hr|שעה
+ hrs|שעות
+ lunar day|יום ירחי
+ min|דקה
+ mins| דקות
+ minute| דקה
+ minutes| דקות
+%d bought|%d נרכש
+%d day|%d יום
+%d days|%d ימים
+%d hour|%d שעה
+%d hours|%d שעות
+%d minute|%d דקה
+%d minutes|%d דקות
+%d more...|עוד %d...
+%i active channel|ערוץ פעיל %i
+%i active channels|%i ערוצים פעילים
+%i image|תמונה %i
+%i images|%i תמונות
+%i more today|עוד %i היום
+%i more...|עוד %i
+%i page|עמוד %i
+%i pages|%i עמודים
+%i%% of Full|%i%% ממלא
+%s 2007—2011 Yandex|%s 2007—2011 Yandex
+(<1 min)|(1> דקה)
+(in|(בעוד
+(in seconds)|(שניות)
+(No title)|(ללא כותרת)
+[ Loading images... ]|[ טוען תמונות... ]
+[ Tap here for images load ]|[ גע כאן לטעינת תמונות ]
+A few minutes ago|לפני כמה דקות
+About|אודות
+About SPB Shell 3D|אודות SPB Shell 3D
+Above horizon|מעל לאופק
+Activate|הפעל
+Activation|הפעלה
+Activation failed. Check your Internet connection.|הפעלה נכשלה. בדוק את חיבור האינטרנט
+Active Channels|ערוצים פעילים
+Active channels|ערוצים פעילים
+Add|הוסף
+Add category|הוסף קטגוריה
+Add city|הוסף עיר
+Add custom channel|הוסף ערוץ מותאם
+Add new city|הוסף עיר חדשה
+Add note|הוסף פתק
+Add Panel|הוסף פאנל
+Add to Home screen|הוסף למסך הבית
+Airplane|טיסה
+Airplane Mode|מצב טיסה
+All day|כל היום
+All pictures|כל התמונות
+Allow resizing of all Android widgets|אפשר שינוי גודל לווידג'טים
+An hour ago|לפני שעה
+Android Shortcut|קיצור דרך אנדרואיד
+Android Widget|ווידג'ט אנדרואיד
+Anniversary|יום נישואין
+Appearance|מראה
+Application|אפליקציה
+April|אפריל
+Aqua|מים
+Aquarius|דלי
+Aries|טלה
+as of %s|החל מתאריך %s
+at %s|ב%s
+atm|אטמ'
+Atmospheres|אטמוספירות
+Atmospheric pressure scale|יחידת מידה ללחץ אטמוספירי
+August|אוגוסט
+Auto|אוטומטי
+Auto (keyboard only)|אוטומטי (מקלדת בלבד)
+Auto arrange widgets|סדר ווידג'טים אוטומטית
+Automatic|אוטומטי
+Automatic naming|מתן שמות אוטומטי
+Backlight|תאורת מסך
+Battery|סוללה
+Below horizon|מתחת לאופן
+Birthday|יום הולדת
+Birthdays|ימי הולדת
+Black|שחור
+Blue|כחול
+Bluetooth|בלוטות'
+Bookmarks|סימניות
+Bookmarks Folder|ספריית סימניות
+Business|עסק
+Buy!|קנה!
+Cache size|גודל מטמון
+Calculator|מחשבון
+Calendar|לוח שנה
+Calendar Panel|פאנל לוח שנה
+Calendar Panel Settings|הגדרות פאנל לוח שנה
+Call|חייג
+Call Log|יומן שיחות
+Cancel|ביטול
+Cancer|סרטן
+Capricorn|גדי
+Categories|קטגוריות
+Category Name|שם קטגוריה
+Celsius (#short)|צלזיוס
+Change|שנה
+Change City|שנה עיר
+Change profile|שנה פרופיל
+Channels list|רשימת ערוצים
+Choose Color|בחר צבע
+Choose Program|בחר תוכנה
+Choose SPB Widget|בחר ווידג'ט SPB
+Choose widget|בחר ווידג'ט
+Clear|בהיר
+Clear cache|נקה מטמון
+Clock|שעון
+Cloudy|מעונן
+Cloudy, hail|מעונן, ברד
+Cloudy, heavy rain|מעונן, גשם כבד
+Cloudy, heavy snow|מעונן, שלג כבד
+Cloudy, rain|מעונן, גשם
+Cloudy, rain with snow|מעונן, גשם ושלג
+Cloudy, snow|מעונן, שלג
+Cloudy, thunder|מעונן, רעמים
+Color anaglyph (red/cyan)|אנגליף צבעוני (אדום/כחול)
+Communication|תקשורת
+Contact|איש קשר
+Contacts|אנשי קשר
+Contacts Folder|תיקיית אנשי קשר
+Copyright %s 2007-2011\nSPB Software|Copyright %s 2007-2011\nSPB Software
+Copyright %s 2007-2012\nSPB Software|Copyright %s 2007-2012\nSPB Software
+Create Folder|נקה תיקיה
+Current|נוכחי
+Current city|עיר נוכחית
+Current conditions|תנאים נוכחיים
+Current Conditions|תנאים נוכחיים
+Current skin|סקין נוכחי
+Day|יום
+Deal of the Day|עסקת היום
+Deal of the Day Panel|פאנל עסקת היום
+Deal of the Day Panel Settings|הגדרות פאנל עסקת היום
+Deals|עסקאות
+December|דצמבר
+Default|ברירת מחדל
+Default Action|פעולה בלחיצה
+Delete note|מחק פתק
+Dew point:|נקודת הטל
+Diagnostic tools|כלי אבחון
+Disabled|מופסק
+Discoverable|ניתן לגילוי
+Done|בוצע
+Download Original|הורד מקור
+Downloading images|מוריד תמונות
+E|מז'
+east|מזרח
+Edit note|ערוך פתק
+Edit panels|ערוך פאנלים
+Emergency only|חירום בלבד
+Empty Panel|פאנל ריק
+Enable live wallpapers|הפעל רקעים חיים
+Enabled|מופעל
+Enter RSS feed title|הכנס כותרת RSS
+Enter RSS feed URL|הכנס כתובת RSS
+Entertainment|בידור
+Error|שגיאה
+Evening|ערב
+Every 2 hours|כל שעתיים
+Every 24 hours|כל 24 שעות
+Every 30 Minutes|כל 30 דקות
+Every 30 minutes|כל 30 דקות
+Every 4 hours|כל 4 שעות
+Every hour|כל שעה
+Exit|יציאה
+Experimental|ניסיוני
+Experimental Settings|הגדרות נסיוניות
+Experimental settings|הגדרות נסיוניות
+Fahrenheit (#short)|פרנהייט
+Failed to load RSS|טעינת RSS נכשלה
+Favorite Contacts|אנשי קשר מועדפים
+Favorite contacts|אנשי קשר מועדפים
+February|פברואר
+Filter|מסנן
+First day of the week|יום ראשון בשבוע
+First Quarter|רבעון ראשון
+Flight|טיסה
+Folder|תיקיה
+Folder Name|שם תיקיה
+Forecast|תחזית
+from forecast|מהתחזית
+Full Moon|ירח מלא
+Gallery|גלריה
+Games|משחקים
+Gemini|תאומים
+Grayscale anaglyph (red/cyan)|אנגליף בגווני אפור (אדום/כחול)
+Green|ירוק
+G-Sensor|חיישן G
+Half an hour ago|לפני חצי שעה
+Hectopascals|הקטופסקלים
+Hide Duplicates|הסתר כפולים
+Hide SIM Contacts|הסתר אנשי קשר בסים
+Home|בית
+Home Settings|הגדרות בית
+Home settings|הגדרות בית
+hpa|ה"פ
+Humidity:|לחות
+in %u days|בעוד %u ימים
+in Home Settings|בהגדרות הבית
+inch|אינץ'
+Inches|אינצ'ים
+Increase Counter|הגדל מונה
+Interface mode|מצב ממשק
+Invisible|מוסתר
+January|ינואר
+July|יולי
+June|יוני
+Kilometers per hour|קילומטרים לשעה
+Knots|קשר
+knots|קשר
+kph|קמ"ש
+kts|קשר
+Landscape|אופקי
+Landscape orientation required to enable left-to-right stereo mode|נדרשת תצוגה לרוחב להפעלת מצב סטריאו שמאל-לימין
+Large|גדול
+Last Call|שיחה אחרונה
+Last Message|הודעה אחרונה
+Last Quarter|רבעון אחרון
+Last updated|עודכן לאחרונה
+Left-to-right (HTC EVO 3D)|שמאל-לימין (HTC EVO 3D)
+Legal information|מידע משפטי
+Legal notices|הודעה משפטית
+Leo|אריה
+Libra|מאזניים
+Lifestyle|לייף-סטייל
+Live wallpapers can cause performance degradation of your 3D home screen. Switching between live and static wallpapers can take up to a minute. Static wallpapers are recommended for the best experience.|רקעים חיים יכולים לגרום להורדת ביצועים במסך הבית התלת מימדי שלך. החלפה בין רקעים חיים ורקעים סטטיים יכול לקחת עד דקה. רקעים סטטיים מומלצים לחוויה הטובה ביותר.
+Loading failed|טעינה נכשלה
+Loading image for wallpaper|טוען תמונה לטפט
+Loading RSS feed %s...|טוען RSS %s
+Loading skin failed!|טעינת סקין נכשלה!
+Loading skins catalog failed!|טעינת קטלוג סקינים נכשלה!
+Loading...|טוען...
+Logging In...|מתחבר...
+Lunar Calendar|לוח שנה ירחי
+Lunar day %d|יום ירחי %d
+Manage apps|נהל אפליקציות
+Manage Apps|נהל אפליקציות
+Manage panels|נהל פאנלים
+Manage Panels|נהל פאנלים
+March|מרץ
+May|מאי
+Medium|בינוני
+Messaging|הודעות
+Meters per second|מטרים לשניה
+Miles per hour|מיילים לשעה
+Millimetres|מילימטרים
+Misc|שונות
+Miscellaneous|שונות
+mm|מ"מ
+Mobile|נייד
+Mode|מצב
+Monday|יום שני
+Moon|ירח
+Moon Calendar|לוח שנה ירחי
+Moon in %s,|הירח ב%s,
+Morning|בוקר
+mph|מל"ש
+mps|מ"ש
+Multimedia|מולטימדיה
+Music|מוזיקה
+Music albums|אלבומי מוזיקה
+N|צפ'
+N/A|לא קיים
+nd|
+NE|צפ' מז'
+Network Status|מצב רשת
+Never|לעולם לא
+New|חדש
+New Channel|ערוץ חדש
+New channel|ערוץ חדש
+New Contact|איש קשר חדש
+New Folder|תיקיה חדשה
+New Moon|ירח חדש
+News|חדשות
+News Panel|פאנל חדשות
+News Panel Settings|הגדרות פאנל חדשות
+next|הבא
+Next Alarm|התראה הבאה
+Night|לילה
+No|לא
+no|לא
+No Alarms|אין התראות
+No birthdays|אין ימי הולדת
+No calls|אין שיחות
+No Cities|אין ערים
+No conditions|אין תנאים
+No Contacts.|אין אנשי קשר.
+No Countries|אין מדינות
+No deals loaded|לא נטענו עסקאות
+No Images|אין תמונות
+No messages|אין הודעות
+No news|אין חדשות
+No rise/set info|אין נתוני זריחה/שקיעה
+No RSS feed found at|לא נמצא RSS ב
+No rss loaded|לא נטען RSS
+No SIM|אין סים
+No text messages|אין הודעות טקסט
+No title|אין כותרת
+No upcoming events|אין אירועים קרובים
+No upcoming events in a week|אין אירועים בשבוע הקרוב
+No updates|אין עדכונים
+No weather forecast|אין תחזית מזג אויר
+Normal|רגיל
+north|צפון
+north east|צפון מזרח
+north west|צפון מערב
+Not available|לא זמין
+Not connected|לא מחובר
+Notes|פתקים
+Note's default color|צבע ברירת מחדל לפתק
+Note's font|פונט פתק
+Notes Panel|פאנל פתקים
+Notes Panel Settings|הגדרות פאנל פתקים
+November|נובמבר
+NW|צפ' מע'
+October|אוקטובר
+Off|כבוי
+Offer|הצע
+On|מופעל
+One Touch Share|One Touch Share
+Only on free connections|רק בחיבורים חינמיים
+Open Contact|פתח איש קשר
+Open in Browser|פתח בדפדפן
+OpenGL 2.0 is required to run SPB Shell 3D|OpenGL 2.0 נדרש כדי להריץ את SPB Shell 3D
+Optimized anaglyph (red/cyan)|אנגליף אופטימלי (אדום/כחול)
+Other (assistant)|אחר (עוזר)
+Page|עמוד
+Pages: %d, images: %d|עמודים: %d, תמונות: %d
+Panel Name|שם פאנל
+Parsing skins catalog failed!|עיבוד קטלוג הסקינים נכשל!
+Partly cloudy|מעונן חלקית
+Partly cloudy, rain|מעונן חלקית, גשם
+Partly cloudy, snow|מעונן חלקית, שלג
+Partly cloudy, thunder|מעונן חלקית, רעמים
+People|אנשים
+Performance Warning|התראת ביצועים
+Performance Warning dialog|דיאלוג התראת ביצועים
+Personal|אישי
+Phone|טלפון
+Photo folder for gallery widgets|תיקיית תמונות לווידג'ט גלריה
+Picture Gallery|גלריית תמונות
+Picture of the Day|תמונת היום
+Picture Panel Settings|הגדרות פאנל תמונות
+Pictures|תמונות
+Pictures Of The Day|תמונת היום
+Pictures Panel|פאנל תמונות
+Pictures Panel Settings|הגדרות פאנל תמונות
+Pictures Settings|הגדרות תמונות
+Pisces|דגים
+Please Log In|אנא התחבר
+Please wait...|אנא המתן...
+Portrait|אנכי
+Pressure:|לחץ
+Problem loading widget|בעיה בטעינת ווידג'ט
+Productivity|פרודוקטיביות
+Program|תוכנה
+Pulkovo|פולקובו
+Purchase|רכוש
+Purple|ארגמן
+Radio off|רדיו כבוי
+rd_loc|
+Reading appointments...|קורא פגישות
+Recycle Bin|סל מחזור
+Red|אדום
+Reduced|מצומצם
+Reload skin list|טען מחדש רשימת סקינים
+Remove All|הסר הכל
+Rename|שנה שם
+Rename Panel|שנה שם פאנל
+Requesting images|מבקש תמונות
+Retry|נסה שנית
+Rise: %s|זריחה: %s
+RSS Feed|הזנת RSS
+RSS Panel|פאנל RSS
+RSS Panel Settings|הגדרות פנל RSS
+S|דר'
+Safe mode|מצב בטוח
+Sagittarius|קשת
+Saint-Petersburg|סט. פטרסבורג
+Save as New|שמור חדש
+Save to Existing|שמור לקיים
+Scorpio|עקרב
+Screen orientation|כיוון מסך
+SE|דר' מז'
+Searching|מחפש
+Select Channel|בחר ערוץ
+Select cities|בחר ערים
+Select e-mail address|בחר כתובת דוא"ל
+Select phone number:|בחר מספר טלפון
+Select shortcut|בחר קיצור דרך
+Select Skin|בחר סקין
+Select wallpaper from|בחר טפט מ
+Selected cities|ערים נבחרות
+Selected City|עיר שנבחרה
+Selected city|עיר שנבחרה
+Send E-mail|שלח דוא"ל
+Send E-Mail|שלח דוא"ל
+Send Message|שלח הודעה
+Send MMS|שלח MMS
+Send SMS|שלח SMS
+September|ספטמבר
+Serial number:|מספר סידורי
+Set as Home|הגדר כבית
+Set as Wallpaper|הגדר כטפט
+Set wallpaper|הגדר טפט
+Set: %s|שקיעה: %s
+Settings|הגדרות
+Show all|הצג הכל
+Show all day events|הצג אירועים של יום שלם
+Show all day events in calendar widgets|הצג אירועים של יום שלה בווידג'ט לוח שנה
+Show full news|הראה חדשות מלאות
+Show images in news|הראה תמונות בחדשות
+Silent|שקט
+Skin loading|הסקין נטען
+Small|קטן
+Smartphone|סמרטפון
+Smog|ערפיח
+Social|חברתי
+Sound Profile|פרופיל צליל
+south|דרום
+south east|דרום מזרח
+south west|דרום מערב
+SPB Shell 3D is loading...|טוען את SPB Shell 3D
+SPB Wallpapers|טפטי SPB
+SPB Widget|ווידג'ט SPB
+st|
+Standard Edition [Beta]|Standard Edition [Beta]
+Stereoscopic 3D mode|מצב 3D סטריאופוני
+Stereoscopic 3D mode will be disabled|מצב תלת מימד סטריאוסקופי יבוטל
+Stereoscopic 3D Settings|הגדרות 3D סטריאופוני
+Sun in %s,|השמש ב%s,
+Sunday|יום ראשון
+SW|דר' מע'
+Switching the interface mode can take up to a minute. Screen orientation will be changed to '%s'.|החלפת מצב הממשק יכולה לקחת עד כדקה. כיוון המסך ישונה ל%s.
+System|מערכת
+Tablet|טאבלט
+Taurus|שור
+Temperatur scale|יחידת מידה לטמפרטורה
+Temperature scale|יחידת מידה לטמפרטורה
+Test Battery|בדוק סוללה
+th|
+Thank you for your support. Your copy is now registered.|תודה על תמיכתך. העותק שברשותך נרשם.
+The experimental features below are not ready to be shipped in the core of SPB Shell 3D. They may contain severe defects and cause system instability. Use them at your own risk.|האפשרויות הניסיוניות למטה עדיין לא מוכנות לשילוב באופן מובנה ב-SPB Shell 3D. הן עלולות להכיל תקלות רציניות ולגרום לאי יציבות של המערכת. השתמש בהם על אחריותך בלבד.
+The maximum number of panels is reached|הגעת למספר הפאנלים המקסימלי
+The name cannot be changed.|לא ניתן לשנות את השם.
+The previous launch of SPB Shell 3D was unsuccessful. Please tap "Retry" to launch it again or "Home" to activate a different Home screen.|הטעינה הקודמת של SPB Shell 3D לא הצליחה. הקש על "נסה שנית" לטעינה חוזרת או על "בית" להפעלת מסך בית אחר.
+Time|זמן
+Time Panel|פאנל זמן
+Time Panel Settings|הגדרות פאנל זמן
+Today|היום
+Toggle|מתגים
+Tomorrow|מחר
+Tools|כלים
+Travel|נסיעות
+Unfortunately, we could not locate your purchase in Android Market. Please uninstall this copy before installing a new one.|לצערנו, לא הצלחנו לאתר את הרכישה שלך באנדרואיד מרקט. אנא הסר את העותק הזה לפני שתתקין אחד חדש.
+Unfortunately, we could not locate your purchase. Please uninstall this copy before installing a new one.|לצערנו, לא הצלחנו לאתר את הרכישה שלך. אנא הסר את העותק הזה לפני שתתקין אחד חדש
+Uninstall|הסר התקנה
+Uninstall apps|הסרת אפליקציות
+Unknown|לא ידוע
+Unknown location|מיקום לא ידוע
+Upcoming events|אירועים קרובים
+Update|עדכן
+Update deals list automatically|עדכן רשימת עסקאות אוטומטית
+Update Now|עדכן כעת
+Update pictures page automatically|עדכן עמוד תמונות באופן אוטומטי
+Update weather forecasts automatically|עדכן מזג אויר באופן אוטומטי
+Updated|עודכן
+Updated:|עודכן:
+Updating image|מעדכן תמונה
+Updating...|מעדכן...
+Use 3D in application list|השתמש בתלת מימד ברשימת האפליקציות
+Use 3D in edit mode|השתמש ב-3D במצב עריכה
+Use cellular connection for updating deals list|השתמש בחיבור סלולרי לעדכון רשימת העסקאות
+Use cellular connection for updating deals list automatically|השתמש בחיבור סלולרי לעדכון רשימת עסקאות באופן אוטומטי
+Use cellular connection for updating pictures automatically|השתמש בחיבור סלולרי לעדכון תמונות אוטומטי
+Use cellular connection for updating weather automatically|השתמש בחיבור סלולרי לעדכון אוטומטי של מזג אוויר
+Use new color every time|השתמש בצבע חדש בכל פעם
+Use previous note's color|השתמש בצבע של הפתק הקודם
+Value|ערך
+variable|משתנה
+Version %s, Build %s|גרסא %s, בילד %s
+Vibro|רטט
+Video Call|שיחת וידאו
+View Duplicates|הצג כפולים
+View SIM Contacts|הצג אנשי קשר בסים
+Virgo|בתולה
+W|מע'
+Wallpaper|טפט
+Wallpapers|טפטים
+Waning Crescent|חצי סהר מתמעט
+Waning Gibbous|גבנוני מתמעט
+Waxing Crescent|חצי סהר מתמלא
+Waxing Gibbous|גבנוני מתמלא
+Weather|מזג אויר
+Weather and Clock|מזג אוויר ושעון
+Weather Forecast|תחזית מזג אוויר
+Weather Settings|הגדרות מזג אויר
+Welcome to notes panel|ברוך הבא לפאנל פתקים
+west|מערב
+Widget is too big to be added.|הווידג'ט גדול מידי להוספה.
+Widgets|ווידג'טים
+Widgets Settings|הגדרות ווידג'טים
+Wind direction:|כיוון רוח
+Wind speed scale|יחידת מידה למהירות רוח
+Wind speed:|מהירות רוח:
+Wind:|רוח
+Work|עבודה
+World Time|שעון עולמי
+Wrong serial number. Please check it again.|מספר סידורי שגוי. אנא בדוק שוב.
+Yandex.Search|Yandex.Search
+Yellow|צהוב
+Yes|כן
+Yesterday|אתמול
+You save|החיסכון שלך
+Your video system isn't compatible with Shell 3D.|מערכת הוידאו שלך לא תומכת ב-Shell 3D

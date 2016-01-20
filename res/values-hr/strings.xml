@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SPB Shell 3D</string>
+    <string name="dialog_shell_loading">SPB Shell 3D se učitava...</string>
+    <string name="gadget_error_text">Problem s učitavanjem dodatka</string>
+    <string name="dialog_select_shortcut">Odaberite prečac</string>
+    <string name="dialog_choose_widget">Izaberite dodatak</string>
+    <string name="chooser_wallpaper">Odaberite pozadinu od</string>
+    <string name="wallpaper_instructions">Postavljanje pozadine</string>
+    <string name="pick_wallpaper">Pozadine</string>
+    <string name="wallpapers_spb">SPB pozadine</string>
+    <string name="yes">Da</string>
+    <string name="no">Ne</string>
+    <string name="wait">Pričekajte...</string>
+    <string name="home_widget_error">Dodatak je prevelik za dodavanje.</string>
+    <string name="cancel">Zatvori</string>
+    <string name="error">error</string>
+    <string name="infinity">infinity</string>
+    <string name="dialog_unsupported_devices_title">Pogreška</string>
+    <string name="dialog_unsupported_devices_message">Da biste pokrenuli SPB Shell 3D, potrebno je otvoriti GL 2.0.</string>
+    <string name="license_fail">Nažalost, ne možemo pronaći Vaše podatke o kupnji u prodavaonici androida. Molimo da deinstalirate ovu kopiju prije instaliranja nove.</string>
+    <string name="purchase">Kupnja</string>
+    <string name="exit">Izlaz</string>
+    <string name="legal_notices_title">Pravne napomene</string>
+    <string name="license_fail_handango">Nažalost, ne možemo pronaći Vaše podatke o kupnji. Molimo da deinstalirate ovu kopiju prije instaliranja nove.</string>
+    <string name="safe_mode_title">Sigurnosni način rada</string>
+    <string name="safe_mode_text">Prethodno pokretanje proizvoda SPB Shell 3D nije bilo uspješno. Dodirnite \"Pokušaj ponovno\" da biste ga ponovno pokrenuli ili \"Početna\" za aktiviranje drugog početnog zaslona.</string>
+    <string name="safe_mode_retry">Pokušaj ponovno</string>
+    <string name="safe_mode_home">Početna</string>
+    <string name="sd_install_title">Pogreška</string>
+    <string name="sd_install_text">Installation to a storage card is not supported. Please install SPB Shell 3D to the main memory</string>
+    <string name="contacts_failed_pick">Failed to load the selected contact. Try to link the contact to Google account or save it to phone.</string>
+</resources>

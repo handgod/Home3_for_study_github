@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<skin Name="Groupon Panel" Type="panel">
+  <items>
+    <item>
+      <Image Name="defimage" File="defimage.png"/>
+      <Image Name="defthumb" File="defthumb.png"/>
+      <Image Name="noimage"  File="noimage.png"/>
+      <Image Name="nothumb"  File="nothumb.png"/>
+      <Image Name="label"    File="label.png"/>
+
+      <Image Name="sold"   File="sold.png"/>
+      <Image Name="expire" File="expire.png"/>
+
+      <Image Name="frame"  File="frame.png"/>
+      <Image Name="arrow"  File="arrow.png"/>
+      <Image Name="show"   File="show.png"/>
+
+      <Image Name="button_on"  File="button_on.png"/>
+      <Image Name="button_off" File="button_off.png"/>
+    </item>
+  </items>
+</skin>

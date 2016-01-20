@@ -1,0 +1,405 @@
+<?xml version="1.0"?>
+
+<Layouts Name="Yandex.Search Widget" Type="widget">
+
+  <Rules>
+		<!-- default tablets layout -->
+    <PlatformCondition Platform="tablets">
+			<Condition Name="VoiceEnabled" Value="1">
+			  <Condition Name="VoiceSelected" Value="1">
+			    <UseLayout Name="VoiceSel_mini"/>
+			  </Condition>
+			  <Default>
+					<UseLayout Name="VoiceDef_mini"/>
+			  </Default>
+			</Condition>
+			<Default>
+				<UseLayout Name="TextDef_mini"/>
+			</Default>
+    </PlatformCondition>
+		
+    <ScreenCondition Width="320" Height="480">
+			<Condition Name="VoiceEnabled" Value="1">
+			  <Condition Name="VoiceSelected" Value="1">
+			    <UseLayout Name="VoiceSel_mini"/>
+			  </Condition>
+			  <Default>
+					<UseLayout Name="VoiceDef_mini"/>
+			  </Default>
+			</Condition>
+			<Default>
+				<UseLayout Name="TextDef_mini"/>
+			</Default>
+    </ScreenCondition>
+		
+    <ScreenCondition Width="480" Height="320">
+			<Condition Name="VoiceEnabled" Value="1">
+			  <Condition Name="VoiceSelected" Value="1">
+			    <UseLayout Name="VoiceSel_mini"/>
+			  </Condition>
+			  <Default>
+					<UseLayout Name="VoiceDef_mini"/>
+			  </Default>
+			</Condition>
+			<Default>
+				<UseLayout Name="TextDef_mini"/>
+			</Default>
+    </ScreenCondition>
+		
+    <ScreenCondition Width="1280" Height="800">
+			<Condition Name="VoiceEnabled" Value="1">
+			  <Condition Name="VoiceSelected" Value="1">
+			    <UseLayout Name="VoiceSel"/>
+			  </Condition>
+			  <Default>
+					<UseLayout Name="VoiceDef"/>
+			  </Default>
+			</Condition>
+			<Default>
+				<UseLayout Name="TextDef"/>
+			</Default>
+    </ScreenCondition>
+		
+    <ScreenCondition Width="800" Height="1280">
+			<Condition Name="VoiceEnabled" Value="1">
+			  <Condition Name="VoiceSelected" Value="1">
+			    <UseLayout Name="VoiceSel"/>
+			  </Condition>
+			  <Default>
+					<UseLayout Name="VoiceDef"/>
+			  </Default>
+			</Condition>
+			<Default>
+				<UseLayout Name="TextDef"/>
+			</Default>
+    </ScreenCondition>
+		
+    <ScreenCondition Width="1024" Height="600">
+			<Condition Name="VoiceEnabled" Value="1">
+			  <Condition Name="VoiceSelected" Value="1">
+			    <UseLayout Name="VoiceSel_mini"/>
+			  </Condition>
+			  <Default>
+					<UseLayout Name="VoiceDef_mini"/>
+			  </Default>
+			</Condition>
+			<Default>
+				<UseLayout Name="TextDef_mini"/>
+			</Default>
+    </ScreenCondition>
+		
+    <ScreenCondition Width="600" Height="1024">
+			<Condition Name="VoiceEnabled" Value="1">
+			  <Condition Name="VoiceSelected" Value="1">
+			    <UseLayout Name="VoiceSel_mini"/>
+			  </Condition>
+			  <Default>
+					<UseLayout Name="VoiceDef_mini"/>
+			  </Default>
+			</Condition>
+			<Default>
+				<UseLayout Name="TextDef_mini"/>
+			</Default>
+    </ScreenCondition>
+		
+    <ScreenCondition Width="1280" Height="720">
+			<Condition Name="VoiceEnabled" Value="1">
+			  <Condition Name="VoiceSelected" Value="1">
+			    <UseLayout Name="VoiceSel"/>
+			  </Condition>
+			  <Default>
+					<UseLayout Name="VoiceDef"/>
+			  </Default>
+			</Condition>
+			<Default>
+				<UseLayout Name="TextDef"/>
+			</Default>
+    </ScreenCondition>
+		
+    <ScreenCondition Width="720" Height="1280">
+			<Condition Name="VoiceEnabled" Value="1">
+			  <Condition Name="VoiceSelected" Value="1">
+			    <UseLayout Name="VoiceSel"/>
+			  </Condition>
+			  <Default>
+					<UseLayout Name="VoiceDef"/>
+			  </Default>
+			</Condition>
+			<Default>
+				<UseLayout Name="TextDef"/>
+			</Default>
+    </ScreenCondition>
+		
+    <ScreenCondition Width="720" Height="1184">
+			<Condition Name="VoiceEnabled" Value="1">
+			  <Condition Name="VoiceSelected" Value="1">
+			    <UseLayout Name="VoiceSel_xvga"/>
+			  </Condition>
+			  <Default>
+					<UseLayout Name="VoiceDef_xvga"/>
+			  </Default>
+			</Condition>
+			<Default>
+				<UseLayout Name="TextDef_xvga"/>
+			</Default>
+    </ScreenCondition>
+		
+    <ScreenCondition Width="1184" Height="720">
+			<Condition Name="VoiceEnabled" Value="1">
+			  <Condition Name="VoiceSelected" Value="1">
+			    <UseLayout Name="VoiceSel_xvga_l"/>
+			  </Condition>
+			  <Default>
+					<UseLayout Name="VoiceDef_xvga_l"/>
+			  </Default>
+			</Condition>
+			<Default>
+				<UseLayout Name="TextDef_xvga_l"/>
+			</Default>
+    </ScreenCondition>
+		
+		<!-- default smartphone layout -->
+    <Condition Name="VoiceEnabled" Value="1">
+	    <Condition Name="VoiceSelected" Value="1">
+	      <UseLayout Name="VoiceSel"/>
+	    </Condition>
+	    <Default>
+				<UseLayout Name="VoiceDef"/>
+	    </Default>
+    </Condition>
+    <Default>
+			<UseLayout Name="TextDef"/>
+    </Default>
+  </Rules>
+	
+  <General>
+    <Skin AutoSkin="wgt_yasearch"/>
+  </General>
+	
+  <Layout Name="EditBox" BaseDpi="192" DontScale="1">
+	  	<Fix Width="fill" Height="fill" Name="editbox">			
+			<Plugin Class="Spb.LSP.9Patch" Name="edit" Width="fill" Height="fill" 
+						Align="center" ID="0">
+				<String Name="ImageName" Value="edit"/>
+				<String Name="ImageNameSel" Value="edit_s"/>
+			</Plugin>
+			<Plugin Class="Spb.LSP.Image" Name="yatext" Width="auto" Height="auto"
+						Align="center_vert|right" Margins="13 5 38 12" ID="2">
+				<Int Name="DialogData" Value="1"/>
+			</Plugin>
+		</Fix>
+	</Layout>
+	
+  <Layout Name="VoiceBtn" BaseDpi="192" DontScale="1">
+		<Fix Width="auto" Height="auto" Align="center_vert" Margins="0 0 8 0">
+			<Plugin Class="Spb.LSP.Image" Name="button" Width="auto" Height="auto"
+						Align="center" ID="1">
+				<String Name="ImageName" Value="button"/>
+				<Int Name="Stretch" Value="1"/>
+      </Plugin>
+			<Plugin Class="Spb.LSP.Image" Name="voice" Width="auto" Height="auto"
+						Align="center" Margins="2 0 0 0">
+				<String Name="ImageName" Value="voice"/>
+				<Int Name="Stretch" Value="1"/>
+      </Plugin>
+		</Fix>
+	</Layout>
+	
+  <Layout Name="Container" BaseDpi="192" DontScale="1">
+		<Fix Width="fill" Height="fill">
+	    <Fix Width="fill" Height="auto" Name="btn" Margins="0 16 18 0" Align="center">
+				<Plugin Class="Spb.LSP.9Patch" Name="back" Width="fill" Height="fill"
+						Align="center" >
+					<String Name="ImageName" Value="back"/>
+				</Plugin>
+			<Row Width="fill" Height="auto" Margins="13" Align="center" Name="content">
+					<Fix Name="voice_box" Width="auto" Height="auto" Align="center"/>
+					<Plugins Extends="EditBox" Align="center" Height="fill"/>
+				</Row>
+			</Fix>
+		</Fix>
+	</Layout>
+	
+  <Layout Name="TextDef">
+		<Plugins Extends="Container"/>
+	</Layout>
+
+  <Layout Name="VoiceDef" BaseDpi="192" DontScale="1">
+	<Plugins Extends="Container">
+		<Fix Name="btn">
+			<Row Name="content">	
+				<Fix Name="voice_box">
+					<!-- voice button was added -->
+					<Plugins Extends="VoiceBtn"/>
+				</Fix>
+			</Row>
+		</Fix>
+	</Plugins>
+  </Layout>
+
+  <Layout Name="VoiceSel" BaseDpi="192" DontScale="1">
+	<Plugins Extends="VoiceDef">
+		<Fix Name="btn">
+			<Row Name="content">	
+				<Fix Name="voice_box">
+					<Plugins Extends="VoiceBtn">
+						<!-- voice button "pressed" images -->
+						<Plugin Name="button">
+							<String Name="ImageName" Value="button_s"/>
+						</Plugin>
+						<Plugin Name="voice">
+							<String Name="ImageName" Value="voice_s"/>
+						</Plugin>
+					</Plugins>
+				</Fix>
+			</Row>
+		</Fix>
+	</Plugins>
+  </Layout>
+	
+  <Layout Name="TextDef_mini" DontScale="1">
+		<Plugins Extends="TextDef">
+			<Fix Name="btn" Margins="0 10 10 0">
+				<Row Name="content" Margins="9 10 10 11">
+					<Plugins Extends="EditBox" Width="fill" Height="fill">
+						<Fix Name="editbox">
+							<Plugin Name="yatext" Margins="0 0 25 0"/>
+						</Fix>
+					</Plugins>
+				</Row>
+			</Fix>
+		</Plugins>
+  </Layout>
+	
+  <Layout Name="VoiceDef_mini" DontScale="1">
+		<Plugins Extends="TextDef_mini">
+			<Fix Name="btn">
+				<Row Name="content">
+	  			<Fix Name="voice_box">
+						<!-- voice button was added -->
+						<Plugins Extends="VoiceBtn" Margins="0 0 5 0">
+							<Plugin Name="voice" Margins="1 1 0 0"/>
+						</Plugins>
+					</Fix>
+				</Row>
+			</Fix>
+		</Plugins>
+  </Layout>
+	
+  <Layout Name="VoiceSel_mini" DontScale="1">
+		<Plugins Extends="VoiceDef_mini">
+			<Fix Name="btn">
+				<Row Name="content">
+	  			<Fix Name="voice_box">
+						<Plugins Extends="VoiceBtn">
+							<!-- voice button "pressed" images -->
+							<Plugin Name="button">
+								<String Name="ImageName" Value="button_s"/>
+							</Plugin>
+							<Plugin Name="voice">
+								<String Name="ImageName" Value="voice_s"/>
+							</Plugin>
+						</Plugins>
+					</Fix>
+				</Row>
+			</Fix>
+		</Plugins>
+  </Layout>
+	
+  <Layout Name="TextDef_xvga" DontScale="1">
+		<Plugins Extends="TextDef">
+			<Fix Name="btn" Margins="0 23 23 0">
+				<Row Name="content" Margins="17">
+					<Plugins Extends="EditBox">
+							<Plugin Name="yatext" Margins="13 5 50 12"/>
+					</Plugins>
+				</Row>
+			</Fix>
+		</Plugins>
+  </Layout>
+	
+  <Layout Name="TextDef_xvga_l" DontScale="1">
+		<Plugins Extends="TextDef">
+			<Fix Name="btn" Margins="0 20 14 0">
+				<Row Name="content" Margins="17">
+					<Plugins Extends="EditBox">
+							<Plugin Name="yatext" Margins="13 5 50 12"/>
+					</Plugins>
+				</Row>
+			</Fix>
+		</Plugins>
+  </Layout>
+	
+  <Layout Name="VoiceDef_xvga" DontScale="1">
+		<Plugins Extends="TextDef_xvga">
+			<Fix Name="btn">
+				<Row Name="content">
+	  			<Fix Name="voice_box">
+						<!-- voice button was added -->
+						<Plugins Extends="VoiceBtn">
+							<Plugin Name="voice"/>
+						</Plugins>
+					</Fix>
+				</Row>
+			</Fix>
+		</Plugins>
+  </Layout>
+	
+  <Layout Name="VoiceDef_xvga_l" DontScale="1">
+		<Plugins Extends="TextDef_xvga_l">
+			<Fix Name="btn">
+				<Row Name="content">
+	  			<Fix Name="voice_box">
+						<!-- voice button was added -->
+						<Plugins Extends="VoiceBtn">
+							<Plugin Name="voice"/>
+						</Plugins>
+					</Fix>
+				</Row>
+			</Fix>
+		</Plugins>
+  </Layout>
+	
+  <Layout Name="VoiceSel_xvga" DontScale="1">
+		<Plugins Extends="VoiceDef_xvga">
+			<Fix Name="btn">
+				<Row Name="content">
+	  			<Fix Name="voice_box">
+						<Plugins Extends="VoiceBtn">
+							<!-- voice button "pressed" images -->
+							<Plugin Name="button">
+								<String Name="ImageName" Value="button_s"/>
+							</Plugin>
+							<Plugin Name="voice">
+								<String Name="ImageName" Value="voice_s"/>
+							</Plugin>
+						</Plugins>
+					</Fix>
+				</Row>
+			</Fix>
+		</Plugins>
+  </Layout>
+	
+  <Layout Name="VoiceSel_xvga_l" DontScale="1">
+		<Plugins Extends="VoiceDef_xvga_l">
+			<Fix Name="btn">
+				<Row Name="content">
+	  			<Fix Name="voice_box">
+						<Plugins Extends="VoiceBtn">
+							<!-- voice button "pressed" images -->
+							<Plugin Name="button">
+								<String Name="ImageName" Value="button_s"/>
+							</Plugin>
+							<Plugin Name="voice">
+								<String Name="ImageName" Value="voice_s"/>
+							</Plugin>
+						</Plugins>
+					</Fix>
+				</Row>
+			</Fix>
+		</Plugins>
+  </Layout>
+	
+</Layouts>
+
+

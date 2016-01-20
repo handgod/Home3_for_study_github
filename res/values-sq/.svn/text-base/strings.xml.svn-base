@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SPB Shell 3D</string>
+    <string name="dialog_shell_loading">Po ngarkohet SPB Shell 3D...</string>
+    <string name="gadget_error_text">Problem me ngarkimin e miniaplikacionit</string>
+    <string name="dialog_select_shortcut">Zgjidh shkurtoren</string>
+    <string name="dialog_choose_widget">Zgjidh miniaplikacionin</string>
+    <string name="chooser_wallpaper">Zgjidh sfond nga</string>
+    <string name="wallpaper_instructions">Vendos sfond</string>
+    <string name="pick_wallpaper">Sfondet</string>
+    <string name="wallpapers_spb">Sfondet SPB</string>
+    <string name="yes">Po</string>
+    <string name="no">Jo</string>
+    <string name="wait">Lutemi prisni...</string>
+    <string name="home_widget_error">"Miniaplikacioni është tepër i madh për t'u shtuar"</string>
+    <string name="cancel">Anulo</string>
+    <string name="error">error</string>
+    <string name="infinity">infinity</string>
+    <string name="dialog_unsupported_devices_title">Gabim</string>
+    <string name="dialog_unsupported_devices_message">Për të ekzekutuar SPB Shell 3D kërkohet OpenGL 2.0</string>
+    <string name="license_fail">Fatkeqësisht, nuk mundëm ta lokalizojmë blerjen në Android Market. Çinstalo këtë kopje përpara se të instalosh një të re.</string>
+    <string name="purchase">Blerje</string>
+    <string name="exit">Dil</string>
+    <string name="legal_notices_title">Njoftime ligjore</string>
+    <string name="license_fail_handango">Fatkeqësisht, nuk mundëm ta lokalizojmë blerjen. Çinstalo këtë kopje përpara se të instalosh një të re.</string>
+    <string name="safe_mode_title">Modaliteti i sigurt</string>
+    <string name="safe_mode_text">Nisja e mëparshme e SPB Shell 3D ishte e pasuksesshme. Trokit mbi \"Provo sërish\" për ta nisur sërish, ose \"Kryesor\" për të aktivizuar një ekran tjetër Kryesor.</string>
+    <string name="safe_mode_retry">Provo sërish</string>
+    <string name="safe_mode_home">Kryesor</string>
+    <string name="sd_install_title">Gabim</string>
+    <string name="sd_install_text">Installation to a storage card is not supported. Please install SPB Shell 3D to the main memory</string>
+    <string name="contacts_failed_pick">Failed to load the selected contact. Try to link the contact to Google account or save it to phone.</string>
+</resources>

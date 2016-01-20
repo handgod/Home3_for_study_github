@@ -1,0 +1,544 @@
+ a few seconds| 몇 초
+ day|일
+ days|일
+ hour|시간
+ hours|시간
+ hr| 시간
+ hrs|시간
+ lunar day| 음력일
+ min|분
+ mins| 분
+ minute|분
+ minutes|분
+%d bought|%d 구매
+%d day|%d일
+%d days|%d일
+%d hour|%d시간
+%d hours|%d시간
+%d minute|%d분
+%d minutes|%d분
+%d more...|%d 이상...
+%i active channel|%i 활성화 채널
+%i active channels|%i 활성화 채널
+%i image|%i 이미지
+%i images|%i 이미지
+%i more today|오늘 %i개+
+%i more...|%i개+...
+%i page|%i쪽
+%i pages|%i쪽
+%i%% of Full|%i%% / 보름달
+%s 2007—2011 Yandex|%s 2007—2011 Yandex
+(<1 min)|(<1 분)
+(in|(다음:
+(in seconds)|(<10 초)
+(No title)|(제목 없음)
+[ Loading images... ]|[ 이미지 불러오는 중... ]
+[ Tap here for images load ]|[ 이미지를 불러오려면 여기를 누르세요 ]
+A few minutes ago|몇 분 전
+About|정보
+About SPB Shell 3D|SPB Shell 3D 정보
+Above horizon|지평선 위
+Accelerometer|가속도계
+Activate|활성화
+Activation|인증
+Activation failed. Check your Internet connection.|인증을 실패했습니다. 인터넷 연결을 확인해주세요.
+Active Channels|활성화 채널
+Active channels|채널 활성화
+Add|추가
+Add category|카테고리 추가
+Add channel|채널 추가
+Add city|도시 추가
+Add custom channel|사용자 지정 채널 추가
+Add new city|새 도시 추가
+Add note|메모 추가
+Add Panel|패널 추가
+Add to Home screen|초기 화면에 추가
+Airplane|비행기
+Airplane Mode|비행기 모드
+Alcatel Widget|Alcatel 위젯
+All day|하루 종일
+All pictures|모든 그림
+Allow resizing of all Android widgets|모든 안드로이드 위젯 크기 조정 사용
+An hour ago|한 시간 전
+Android Shortcut|안드로이드 바로 가기
+Android Widget|안드로이드 위젯
+Anniversary|기념일
+Appearance|모양
+Application|응용 프로그램
+April|4월
+Aqua|아쿠아
+Aquarius|Aquarius
+Aries|Aries
+as of %s|/날짜: %s
+at %s|/장소: %s
+atm|atm
+Atmospheres|대기
+Atmospheric pressure scale|대기 압력 단위
+August|8월
+Auto|자동
+Auto (keyboard only)|자동 (키보드)
+Auto arrange widgets|위젯 자동 정렬
+Automatic|자동
+Automatic naming|자동 이름 짓기
+Backlight|조명
+Battery|배터리
+Below horizon|지평선 아래
+Birthday|생일
+Birthdays|생일
+Black|검은색
+Blue|파란색
+Bluetooth|Bluetooth
+Bookmarks|북마크
+Bookmarks Folder|북마크 폴더
+Business|비지니스
+Buy!|구매!
+Cache size|캐시 크기
+Calculator|계산기
+Calendar|달력
+Calendar Panel|달력 패널
+Calendar Panel Settings|달력 패널 설정
+Call|전화 걸기
+Call Log|통화 기록
+Cancel|취소
+Cancer|Cancer
+Capricorn|Capricorn
+Categories|범주
+Category Name|범주 이름
+Celsius (#short)|섭씨
+Change|바꾸기
+Change City|도시 변경
+Change profile|프로파일 변경
+Channels list|채널 목록
+Choose Alcatel Widget|Alcatel 위젯 선택
+Choose Color|색 선택
+Choose Program|프로그램 선택
+Choose SPB Widget|SPB Widget 선택
+Choose widget|위젯 선택
+Clear|맑음
+Clear cache|캐시 지우기
+Clock|시계
+Cloudy|흐림
+Cloudy, hail|흐림, 우박
+Cloudy, heavy rain|흐림, 큰비
+Cloudy, heavy snow|흐림, 큰눈
+Cloudy, rain|흐림, 비
+Cloudy, rain with snow|흐림, 눈비
+Cloudy, snow|흐림, 눈
+Cloudy, thunder|흐림, 천둥
+Color anaglyph (red/cyan)|색 애너글리프 (빨강/녹청)
+Communication|통신
+Contact|연락처
+Contact Settings|연락처 설정
+Contact Size|연락처 크기
+Contacts|연락처
+Contacts Folder|연락처 폴더
+Copyright %s 2007-2011\nSPB Software|Copyright %s 2007-2011\nSPB Software
+Copyright %s 2007-2012\nSPB Software|Copyright %s 2007-2012\nSPB Software
+Create Folder|폴더 생성
+Current|현재
+Current city|현재 도시
+Current conditions|현재 상태
+Current Conditions|현재 상태
+Current skin|현재 스킨
+Custom channel|사용자 지정 채널
+Day|낮
+Deal of the Day|Deal of the Day
+Deal of the Day Panel|Deal of the Day 패널
+Deal of the Day Panel Settings|Deal of the Day 패널 설정
+Deals|Deals
+December|12월
+Default|기본값
+Default Action|기본 동작
+Delete note|노트 삭제
+Dew point:|이슬점:
+Diagnostic tools|진단 도구
+Disabled|사용 안 함
+Discoverable|외부검색가능
+Done|완료
+Download Original|원본 다운로드
+Downloading images|이미지 내려받는 중
+E|동
+east|동쪽
+Edit channel|채널 수정
+Edit Contact|연락처 편집
+Edit note|노트 편집
+Edit panels|패널 편집
+Emergency only|긴급통화만 가능
+Empty Panel|빈 패널 추가
+Enable live wallpapers|라이브 배경화면 사용
+Enabled|사용
+Enter RSS feed title|RSS 피드 제목 입력
+Enter RSS feed URL|RSS 피드 URL 입력
+Entertainment|오락
+Error|오류
+Evening|저녁
+Every 2 hours|매 2시간
+Every 24 hours|매 24시간
+Every 30 Minutes|매 30분
+Every 30 minutes|매 30분
+Every 4 hours|매 4시간
+Every hour|매 시간
+Exit|끝내기
+Experimental|실험적
+Experimental Settings|실험적 설정
+Experimental settings|실험적 설정
+Fahrenheit (#short)|화씨
+Failed to add contact|연락처 추가 실패
+Failed to load RSS|RSS 불러오기 실패
+Failed to load the selected contact. Try to link the contact to Google account or save it to phone.|선택한 연락처를 불러올 수 없습니다. 해당 연락처를 Google 계정에 연결하거나 휴대폰 자체에 저장하세요.
+Favorite Contacts|연락처 즐겨찾기
+Favorite contacts|연락처 즐겨찾기
+Favorites|즐겨찾기
+February|2월
+Filter|필터
+First day of the week|한 주의 첫 번째 일
+First Quarter|상현달
+Flight|비행
+Folder|폴더
+Folder Name|폴더 이름
+Forecast|날씨 예보
+from forecast|날씨 예보 기준
+Full Moon|보름달
+Gallery|갤러리
+Games|게임
+Gemini|Gemini
+Gravity|중력
+Grayscale anaglyph (red/cyan)|그레이스케일 애너글리프 (빨강/녹청)
+Green|초록색
+G-Sensor|G-Sensor
+Half an hour ago|30분 전
+Hectopascals|헥토파스칼
+Hide Duplicates|중복 숨기기
+Hide SIM Contacts|SIM 연락처 숨기기
+Home|초기 화면
+Home Settings|홈 설정
+Home settings|홈 설정
+hpa|hPa
+Humidity:|습도:
+in %u days|%u일 후
+in Home Settings|/ 기본 화면 설정
+inch|인치
+Inches|인치
+Increase Counter|카운터 늘리기
+Interface mode|인터페이스 모드
+Invisible|숨김
+January|1월
+July|7월
+June|6월
+Kilometers per hour|킬로미터/시간
+Knots|노트
+knots|노트
+kph|kph
+kts|kts
+Landscape|가로
+Landscape orientation required to enable left-to-right stereo mode|가로 방향은 left-to-right 스트레오 모드 사용이 필요합니다.
+Large|크게
+Last Call|마지막 통화
+Last Message|마지막 메시지
+Last Quarter|하현달
+Last updated|마지막 업데이트
+Left-to-right (HTC EVO 3D)|Left-to-right (HTC EVO 3D)
+Legal information|법률 정보
+Legal notices|법적 공지
+Leo|Leo
+Libra|Libra
+Lifestyle|라이프스타일
+Live wallpapers can cause performance degradation of your 3D home screen. Switching between live and static wallpapers can take up to a minute. Static wallpapers are recommended for the best experience.|라이브 배경화면은 3D 홈 화면의 성능 저하를 유발할 수도 있습니다. 라이브 배경화면과 일반 배경화면 사이의 변경은 최대 1분이 걸릴 수도 있습니다. 최상의 경험을 위해 일반 배경화면 사용을 권장합니다.
+Loading failed|불러오기 실패
+Loading image for wallpaper|배경화면 이미지 불러오는 중
+Loading RSS feed %s...|RSS 피드 %s 불러오는 중...
+Loading skin failed!|스킨을 불러올 수 없습니다!
+Loading skins catalog failed!|스킨 카탈로그를 불러올 수 없습니다!
+Loading...|불러오는 중...
+Logging In...|로그인 중...
+Lunar Calendar|음력 달력
+Lunar day %d|음력 %d일
+Manage apps|어플 관리
+Manage Apps|어플 관리
+Manage panels|패널 관리
+Manage Panels|패널 관리
+March|3월
+May|5월
+Medium|중간
+Messaging|메시지
+Meters per second|미터/초
+Miles per hour|마일/시간
+Millimetres|밀리미터
+Misc|기타
+Miscellaneous|기타
+mm|mm
+Mobile|휴대폰
+Mode|모드
+Monday|월요일
+Moon|달
+Moon Calendar|달 달력
+Moon in %s,|달: %s,
+Morning|아침
+mph|mph
+mps|mps
+Multimedia|멀티미디어
+Music|음악
+Music albums|음악 앨범
+N|북
+N/A|N/A
+nd|번째
+NE|북동
+Network Status|네트워크 상태
+Never|안 함
+New|새로 만들기
+New Channel|새 채널
+New channel|새 채널
+New Contact|새 연락처
+New Folder|새 폴더
+New Moon|초승달
+News|뉴스
+News Panel|뉴스 패널
+News Panel Settings|뉴스 패널 설정
+next|다음
+Next Alarm|다음 경보
+Night|밤
+No|아니오
+no|없음
+No Alarms|경보 없음
+No birthdays|생일 없음
+No calls|통화 기록 없음
+No Cities|도시 없음
+No conditions|조건 없음
+No Contacts.|연락처가 없습니다.
+No Countries|국가 없음
+No deals loaded|불러온 deal이 없음
+No Images|이미지 없음
+No messages|메시지 없음
+No news|뉴스 없음
+No rise/set info|오름/설정 정보 없음
+No RSS feed found at|RSS 피드를 찾을 수 없음 -
+No rss loaded|불러온 RSS 없음
+No SIM|SIM 카드 없음
+No text messages|문자 메시지 없음
+No title|제목 없음
+No upcoming events|일정 없음
+No upcoming events in a week|1주일간 일정 없음
+No updates|업데이트 없음
+No weather forecast|날씨 예보 없음
+Normal|보통
+north|북쪽
+north east|북동쪽
+north west|북서쪽
+Not available|이용할 수 없음
+Not connected|연결되지 않음
+Notes|노트
+Note's default color|메모 기본 색
+Note's font|메모 글꼴
+Notes Panel|메모 패널
+Notes Panel Settings|메모 패널 설정
+November|11월
+NW|북서
+October|10월
+Off|끄기
+Offer|제공
+On|켜기
+One Touch Share|One Touch Share
+Only on free connections|무료 연결만 사용
+Open Contact|연락처 열기
+Open in Browser|브라우저로 열기
+OpenGL 2.0 is required to run SPB Shell 3D|SPB Shell 3D을 실행하려면 OpenGl 2.0이 필요합니다.
+Optimized anaglyph (red/cyan)|최적화된 애너글리프 (빨강/녹청)
+Other (assistant)|기타 (비서)
+Page|페이지
+Pages: %d, images: %d|쪽: %d, 이미지: %d
+Panel Name|패널 이름
+Panels|패널
+Panels Settings|패널 설정
+Parsing skins catalog failed!|스킨 구문 분석 실패!
+Partly cloudy|부분 흐림
+Partly cloudy, rain|부분 흐림, 비
+Partly cloudy, snow|부분 흐림, 눈
+Partly cloudy, thunder|부분 흐림, 천둥
+People|사람
+Performance Warning|성능 경고
+Performance Warning dialog|성능 경고 대화 상자
+Personal|개인
+Phone|전화
+Photo folder for gallery widgets|갤러리 위젯 사진 폴더
+Picture Gallery|그림 갤러리
+Picture of the Day|오늘의 그림
+Picture Panel Settings|그림 패널 설정
+Pictures|그림
+Pictures Of The Day|오늘의 그림들
+Pictures Panel|그림 패널
+Pictures Panel Settings|그림 패널 설정
+Pictures Settings|그림 설정
+Pisces|Pisces
+Please Log In|로그인해주세요
+Please wait...|기다려 주세요.
+Portrait|세로
+Pressure:|압력:
+Problem loading widget|위젯 불러오는 중 문제
+Productivity|생산성
+Program|프로그램
+Pulkovo|Pulkovo
+Purchase|구매
+Purple|보라색
+Quick Setting|빠른 설정
+Radio off|무선 꺼짐
+rd_loc|번째
+Reading appointments...|일정 읽는 중...
+Recycle Bin|휴지통
+Red|빨간색
+Reduced|줄어듬
+Reload skin list|스킨 목록 다시 불러오기
+Remove All|모두 제거
+Rename|이름 바꾸기
+Rename Panel|패널 이름 바꾸기
+Requesting images|이미지 요청 중
+Retry|다시 시도
+Rise: %s|오름: %s
+RSS Feed|RSS 피드
+RSS Panel|RSS 패널
+RSS Panel Settings|RSS 패널 설정
+S|남
+Safe mode|안전 모드
+Sagittarius|Sagittarius
+Saint-Petersburg|Saint-Petersburg
+Save as New|새로 저장
+Save to Existing|기존 파일에 저장
+Scorpio|Scorpio
+Screen orientation|화면 방향
+Screen orientation will be changed to Landscape|화면 방향이 가로로 바뀝니다.
+SE|남동
+Searching|검색 중
+Select Channel|채널 선택
+Select cities|도시 선택
+Select Contact Action|연락처 동작 선택
+Select Contact Size|연락처 크기 선택
+Select e-mail address|전자 메일 주소 선택
+Select phone number:|전화 번호 선택:
+Select shortcut|바로 가기 선택
+Select Skin|스킨 선택
+Select wallpaper from|배경화면 선택:
+Selected cities|선택된 도시
+Selected City|선택된 도시
+Selected city|선택된 도시
+Send Email|전자 메일 보내기
+Send E-mail|전자 메일 보내기
+Send E-Mail|전자 메일 보내기
+Send Message|메시지 보내기
+Send MMS|MMS 보내기
+Send SMS|SMS 보내기
+September|9월
+Serial number:|제품 번호:
+Set as Home|기본 화면으로 설정
+Set as Wallpaper|배경화면으로 설정
+Set wallpaper|배경화면 설정
+Set: %s|설정: %s
+Settings|설정
+Show all|모두 표시
+Show all day events|종일 행사 표시
+Show all day events in calendar widgets|달력 위젯에 종일 행사 표시
+Show full news|전체 뉴스 표시
+Show images in news|뉴스에 이미지 표시
+Silent|무음
+Skin loading|스킨 불러오는 중
+Small|작게
+Smartphone|스마트폰
+Smog|스모그
+Social|사회
+Social Network|소셜 네트워크
+Sound Profile|소리 프로파일
+south|남쪽
+south east|남동쪽
+south west|남서쪽
+SPB Shell 3D is loading...|SPB Shell 3D 불러오는 중...
+SPB Wallpapers|SPB 배경화면
+SPB Widget|SPB 위젯
+st|번째
+Standard Edition [Beta]|스탠다드 버전 [베타]
+Stereoscopic 3D mode|입체 3D 모드
+Stereoscopic 3D mode will be disabled|입체 3D 모드가 해제됩니다.
+Stereoscopic 3D Settings|입체 3D 설정
+Sun in %s,|해: %s,
+Sunday|일요일
+SW|남서
+Switching the interface mode can take up to a minute. Screen orientation will be changed to '%s'.|인터페이스 모드로 전환하는데 1분 정도 걸릴 수 있습니다. 화면 방향이 '%s'로 변경됩니다.
+System|시스템
+Tablet|태블릿
+Taurus|Taurus
+Temperatur scale|온도 단위
+Temperature scale|온도 단위
+Test Battery|테스트 배터리
+th|번째
+Thank you for your support. Your copy is now registered.|감사합니다. 등록되었습니다.
+The experimental features below are not ready to be shipped in the core of SPB Shell 3D. They may contain severe defects and cause system instability. Use them at your own risk.|아래의 실험적 기능들은 SPB Shell 3D에 포함될 준비가 되어있지 않습니다. 이 기능들은 심각한 결점을 가지고 있을 수도 있고 시스템 불안을 야기할 수도 있습니다. 이 기능들을 사용하는 것은 사용자의 책임입니다.
+The maximum number of panels is reached|패널 최대 숫자에 도달했습니다.
+The name cannot be changed.|이름을 변경할 수 없습니다.
+The previous launch of SPB Shell 3D was unsuccessful. Please tap "Retry" to launch it again or "Home" to activate a different Home screen.|이전의 SPB Shell 3D 실행이 성공적이지 않았습니다. "다시 시도"를 눌러서 다시 실행하거나 "초기 화면"을 눌러 다른 기본 화면을 실행하세요.
+Time|시간
+Time Panel|시간 패널
+Time Panel Settings|시간 패널 설정
+Today|오늘
+Toggle|설정/해제
+Tomorrow|내일
+Tools|도구
+Travel|여행
+Unfortunately, we could not locate your purchase in Android Market. Please uninstall this copy before installing a new one.|안타깝게도, 안드로이드 마켓에서 구매 내역을 찾을 수 없습니다. 새 어플을 설치하기 전에 이 어플을 지워주세요.
+Unfortunately, we could not locate your purchase. Please uninstall this copy before installing a new one.|안타깝게도, 구매 내역을 찾을 수 없습니다. 새 어플을 설치하기 전에 이 어플을 지워주세요.
+Uninstall|설치 제거
+Uninstall apps|어플 제거
+Unknown|알 수 없음
+Unknown location|알 수 없는 위치
+Upcoming events|다가오는 일정
+Update|업데이트
+Update deals list automatically|Deal 목록 자동 업데이트
+Update Now|지금 업데이트
+Update pictures page automatically|그림 페이지 자동 업데이트
+Update weather forecasts automatically|날씨 예보 자동 업데이트
+Updated|업데이트
+Updated:|업데이트:
+Updating image|이미지 업데이트 중
+Updating...|업데이트 중...
+Use 3D in application list|응용 프로그램 목록에서 3D 사용
+Use 3D in edit mode|편집 모드에서 3D 사용
+Use cellular connection for updating deals list|Deal 목록 업데이트에 전화 연결 사용
+Use cellular connection for updating deals list automatically|Deal 목록 자동 업데이트에 데이터 연결 사용
+Use cellular connection for updating pictures automatically|그림 페이지 자동 업데이트에 3G 데이터 연결 사용
+Use cellular connection for updating weather automatically|날씨 자동 업데이트에 데이터 연결 사용
+Use new color every time|매번 새 색을 사용
+Use previous note's color|이전의 메모 색 사용
+Value|값
+variable|변수
+Version %s, Build %s|버전 %s, 빌드 %s
+Vibro|진동
+Video Call|영상 통화
+View Duplicates|중복 보기
+View SIM Contacts|SIM 연락처 보기
+Virgo|Virgo
+W|서
+Wallpaper|배경화면
+Wallpapers|배경화면
+Waning Crescent|그믐달
+Waning Gibbous|줄어드는 볼록달
+Waxing Crescent|초승달
+Waxing Gibbous|차오르는 볼록달
+Weather|날씨
+Weather and Clock|날씨와 시계
+Weather Forecast|날씨 예보
+Weather Panel Settings|날씨 패널 설정
+Weather Settings|날씨 설정
+Welcome to notes panel|메모 패널 시작!
+west|서쪽
+Widget is too big to be added.|위젯이 너무 큽니다.
+Widgets|위젯
+Widgets Settings|위젯 설정
+Wind direction:|바람 방향:
+Wind speed scale|바람 속도 단위
+Wind speed:|바람 속도:
+Wind:|바람:
+Work|직장
+World Time|세계 시간
+Wrong serial number. Please check it again.|제품 번호 오류입니다. 다시 확인해주세요.
+Yandex.Search|Yandex.Search
+Yellow|노란색
+Yes|예
+Yesterday|어제
+You save|절약:
+Your video system isn't compatible with Shell 3D.|비디오 시스템이 Shell 3D와 호환되지 않습니다.

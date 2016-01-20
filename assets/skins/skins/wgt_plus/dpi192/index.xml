@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<skin Name="Plus Widget" Type="widget">
+  <items>
+    <item>
+      <Image Name="plus" File="plus.png"/>
+      <Image Name="plus18" File="plus18.png"/>
+    </item>
+  </items>
+</skin>

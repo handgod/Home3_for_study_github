@@ -1,0 +1,169 @@
+<?xml version="1.0"?>
+
+<Layouts Name="Weather Widget" Type="widget">
+
+  <Rules>
+    <PlatformCondition Platform="tablets">
+      <ScreenCondition Orientation="portrait">
+        <UseLayout Name="TP"/>
+      </ScreenCondition>
+      <Default>
+        <UseLayout Name="LP"/>
+      </Default>
+    </PlatformCondition>
+    <PlatformCondition Platform="smartphone">
+      <ScreenCondition Orientation="landscape">
+        <UseLayout Name="SL"/>
+      </ScreenCondition>
+    </PlatformCondition>
+    <Default>
+      <UseLayout Name="Default"/>
+    </Default>
+  </Rules>
+
+  <General>
+    <Skin AutoSkin="wgt_weather"/>
+    <DefaultFont Face="Droid Sans" HeightPxl="10" Bold="n" Color="FFFFFFFF"/>    
+    <Int Name="DialogData" Value="1"/>
+    
+    <String Name="CurrCName" Value="096"/>
+  </General>
+
+
+  <Layout Name="TP">
+
+    <General>
+      <String Name="CurrCName" Value="096"/>
+    </General>
+
+    <Fix Width="fill" Height="fill">
+      <Plugin Name="wgt_frame" Class="Spb.LSP.StdFrame" Width="fill" Height="fill"/>
+
+      <Frame Name="header_backgrd" Width="fill" Height="24">
+        <Plugins Extends="common:WidgetHeader"/>
+        <Plugin Name="CurCity" Class="Spb.LSP.Text" ID="8" Width="fill" Height="fill"
+                Align="center" Margins="0 5 5 0">
+          <DefaultFont Face="Droid Sans" HeightPxl="10" Bold="y" Color="FFFFFFFF"/>
+        </Plugin>
+      </Frame>
+
+      <Col Width="fill" Height="fill" Margins="3">
+
+        <Plugin Name="Padding" Width="fill" Height="0" Factor="1"/>
+
+        <Row Width="fill" Height="0" Align="center_horz" Margins="2" Factor="2">
+          <Col Width="auto" Height="auto" Align="center" Factor="1">
+            <Plugin Name="TempCur" Class="Spb.LSP.Text" ID="6"
+                    Width="auto" Height="auto" Align="center">
+              <DefaultFont Face="Droid Sans" HeightPxl="18" Bold="n" Color="FFFFFFFF"/>
+            </Plugin>
+            <Plugin Name="TempSpan" Class="Spb.LSP.Text" ID="7" Margins="3"
+                    Width="auto" Height="auto" Align="center"/>
+          </Col>
+          <Plugin Name="IconNow" ID="5" Class="Spb.LSP.Image"
+                  Width="auto" Height="auto" Align="center_vert" Factor="1"/>
+        </Row>
+        
+        <Col Width="fill" Height="0" Align="right" Margins="2" Factor="1">
+          <Plugin Name="UpdDate" Class="Spb.LSP.Text" ID="30"
+                Width="auto" Height="auto" Align="right" Margins="2"/>
+
+
+          <Row Width="auto" Height="auto" Align="right">
+            <Plugin Name="UpdLbl" Class="Spb.LSP.Text" ID="32"
+                  Width="auto" Height="auto" Align="right" Margins="2">
+              <DefaultFont Face="Droid Sans" HeightPxl="10" Bold="n" Color="FFA9A9A9"/>
+            </Plugin>
+            <Plugin Name="UpdTime" Class="Spb.LSP.Text" ID="31"
+                  Width="auto" Height="auto" Align="right" Margins="2">
+              <DefaultFont Face="Droid Sans" HeightPxl="10" Bold="n" Color="FFA9A9A9"/>
+            </Plugin>
+          </Row>
+        </Col>
+
+      </Col>
+    </Fix>
+  </Layout>
+
+
+  <Layout Name="LP">
+
+    <General>
+      <String Name="CurrCName" Value="096"/>
+    </General>
+
+    <Fix Width="fill" Height="fill" Name="Default">
+      <Plugin Name="wgt_frame" Class="Spb.LSP.StdFrame" Width="fill" Height="fill"/>
+
+      <Frame Name="header_backgrd" Width="fill" Height="24">
+        <Plugins Extends="common:WidgetHeader"/>
+        <Plugin Name="CurCity" Class="Spb.LSP.Text" ID="8" Width="fill" Height="fill"
+                Align="center" Margins="0 5 5 0">
+          <DefaultFont Face="Droid Sans" HeightPxl="10" Bold="y" Color="FFFFFFFF"/>
+        </Plugin>
+      </Frame>
+
+      <Col Width="fill" Height="fill" Margins="0">
+
+        <Plugin Name="Padding" Width="fill" Height="0" Factor="1"/>
+
+        <Row Width="fill" Height="0" Align="center_horz" Factor="3">
+          <Plugin Name="IconNow" ID="5" Class="Spb.LSP.Image"
+                  Width="auto" Height="auto" Align="center_vert" Factor="1"/>
+          <Col Width="auto" Height="auto" Align="center" Factor="1">
+            <Plugin Name="TempCur" Class="Spb.LSP.Text" ID="6"
+                    Width="auto" Height="auto" Align="center">
+              <DefaultFont Face="Droid Sans" HeightPxl="18" Bold="n" Color="FFFFFFFF"/>
+            </Plugin>
+            <Plugin Name="TempSpan" Class="Spb.LSP.Text" ID="7"
+                    Width="auto" Height="auto" Align="center" Margins="1 0 0 3"/>
+          </Col>
+        </Row>
+
+      </Col>
+    </Fix>
+  </Layout>
+
+
+  <Layout Name="Default">
+
+    <General>
+      <String Name="CurrCName" Value="096"/>
+    </General>
+
+    <Fix Width="fill" Height="fill" Name="Default">
+      <Plugin Name="wgt_frame" Class="Spb.LSP.StdFrame" Width="fill" Height="fill"/>
+
+      <Col Width="fill" Height="fill" Margins="3">
+        <Plugin Name="CurCity" Class="Spb.LSP.Text" ID="8" Factor="1"
+                Width="fill" Height="0" Align="center_horz" Margins="0 3 3 0"/>
+        <Plugin Name="Separat" Class="Spb.LSP.Separator" Width="fill" Height="1" Margins="0 5 5 0">
+          <Int Name="Side" Value="3"/>
+        </Plugin>
+
+        <Row Width="fill" Height="0" Align="center_horz" Factor="3">
+          <Plugin Name="IconNow" ID="5" Class="Spb.LSP.Image"
+                  Width="auto" Height="auto" Align="center_vert" Factor="1"/>
+          <Col Width="auto" Height="auto" Align="center" Factor="1">
+            <Plugin Name="TempCur" Class="Spb.LSP.Text" ID="6"
+                    Width="auto" Height="auto" Align="center">
+              <DefaultFont Face="Droid Sans" HeightPxl="18" Bold="n" Color="FFFFFFFF"/>
+            </Plugin>
+            <Plugin Name="TempSpan" Class="Spb.LSP.Text" ID="7"
+                    Width="auto" Height="auto" Align="center" Margins="1 0 0 3"/>
+          </Col>
+        </Row>
+
+      </Col>
+    </Fix>
+  </Layout>
+
+  <Layout Name="SL">
+    <General>
+      <String Name="CurrCName" Value="072"/>
+    </General>
+		<Fix Name="DefaultSL" Extends="Default"/>
+	</Layout>
+</Layouts>
+
+

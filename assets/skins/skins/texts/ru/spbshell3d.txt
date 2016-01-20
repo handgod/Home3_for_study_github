@@ -1,0 +1,546 @@
+ a few seconds| неск. секунд
+ day| день
+ days| дн.
+ hour| час
+ hours| час.
+ hr| ч
+ hrs| ч.
+ lunar day| лунный день
+ min| мин.
+ mins| мин.
+ minute| мин.
+ minutes| мин.
+%d bought|%d куплено
+%d day|%d день
+%d days|%d дн.
+%d hour|%d час
+%d hours|%d час.
+%d minute|%d мин.
+%d minutes|%d мин.
+%d more...|еще %d...
+%i active channel|%i активный канал
+%i active channels|%i активных каналов
+%i image|%i изображ.
+%i images|%i изображ.
+%i more today|Еще %i сегодня
+%i more...|еще %i...
+%i page|%i стр.
+%i pages|%i стр.
+%i%% of Full|Луна освещена на %i%%
+%s 2007—2011 Yandex|%s 2007—2011 «Яндекс»
+(<1 min)|(< 1 мин.)
+(in|(через
+(in seconds)|(через неск. секунд)
+(No title)|Нет заголовка
+[ Loading images... ]|[ Загрузка изображений... ]
+[ Tap here for images load ]|[ Нажмите здесь для загрузки изображений ]
+A few minutes ago|Несколько минут назад
+About|О программе
+About SPB Shell 3D|О программе SPB Shell 3D
+Above horizon|Над горизонтом
+Accelerometer|Акселерометр
+Activate|Активировать
+Activation|Активация
+Activation failed. Check your Internet connection.|Активация не прошла. Проверьте Интернет-соединение.
+Active Channels|Активные каналы
+Active channels|Активные каналы
+Add|Добавить
+Add category|Добавить категорию
+Add channel|Добавить канал
+Add city|Добавить город
+Add custom channel|Добавить канал
+Add new city|Добавить город
+Add note|Добавить заметку
+Add Panel|Добавить панель
+Add to Home screen|Добавить на главную
+Airplane|Режим полета
+Airplane Mode|Режим полета
+Alcatel Widget|Виджет для Alcatel
+All day|Весь день
+All pictures|Все картинки
+Allow resizing of all Android widgets|Разрешить изменение размера всех Android-виджетов
+An hour ago|Час назад
+Android Shortcut|Ярлык Android
+Android Widget|Виджет Android
+Anniversary|Годовщина
+Appearance|Внешний вид
+Application|Приложение
+April|Апрель
+Aqua|Циан
+Aquarius|Водолее
+Aries|Овне
+as of %s|на момент %s
+at %s|в %s
+atm|атм.
+Atmospheres|Атмосферы
+Atmospheric pressure scale|Шкала атмосферного давления
+August|Август
+Auto|Авто
+Auto (keyboard only)|Авто (только клавиатура)
+Auto arrange widgets|Автоупорядочивание виджетов
+Automatic|Автоматически
+Automatic naming|Автоимя
+Backlight|Подсветка
+Battery|Батарея
+Below horizon|Под горизонтом
+Birthday|День рождения
+Birthdays|Дни рождения
+Black|Чёрный
+Blue|Синий
+Bluetooth|Bluetooth
+Bookmarks|Закладки
+Bookmarks Folder|Папка с закладками
+Business|Бизнес
+Buy!|Купить!
+Cache size|Размер кэша
+Calculator|Калькулятор
+Calendar|Календарь
+Calendar Panel|Панель календаря
+Calendar Panel Settings|Настройки календаря
+Call|Позвонить
+Call Log|Журнал звонков
+Cancel|Отмена
+Cancer|Раке
+Capricorn|Козероге
+Categories|Категории
+Category Name|Название категории
+Celsius (#short)|по Цельсию
+Change|Изменить
+Change City|Изменить город
+Change profile|Смена профиля
+Channels list|Список каналов
+Choose Alcatel Widget|Выбрать виджет для Alcatel
+Choose Color|Сменить цвет
+Choose Program|Выберите программу
+Choose SPB Widget|Выбрать SPB-виджет
+Choose widget|Выбрать виджет
+Clear|Безоблачно
+Clear cache|Очистить
+Clock|Часы
+Cloudy|Облачно
+Cloudy, hail|Облачно, град
+Cloudy, heavy rain|Облачно, сильный дождь
+Cloudy, heavy snow|Облачно, сильный снег
+Cloudy, rain|Облачно, дождь
+Cloudy, rain with snow|Облачно, снег с дождем
+Cloudy, snow|Облачно, снег
+Cloudy, thunder|Облачно, гроза
+Color anaglyph (red/cyan)|Цветной анаглиф (red/cyan очки)
+Communication|Связь
+Contact|Контакт
+Contact Settings|Настройки контактов
+Contact Size|Размер контакта
+Contacts|Контакты
+Contacts Folder|Папка контактов
+Copyright %s 2007-2011\nSPB Software|%s 2007-2011 SPB Software
+Copyright %s 2007-2012\nSPB Software|%s 2007-2012 SPB Software
+Create Folder|Создать папку
+Current|Текущий
+Current city|Текущий город
+Current conditions|Текущая погода
+Current Conditions|Текущая погода
+Current skin|Текущий скин
+Custom channel|Пользовательский канал
+Day|День
+Deal of the Day|Предложение дня
+Deal of the Day Panel|Предложение дня
+Deal of the Day Panel Settings|Настройки панели предложения дня
+Deals|Предложение дня
+December|Декабрь
+Default|По умолчанию
+Default Action|Действ. по умолч.
+Delete note|Удалить заметку
+Dew point:|Точка росы:
+Diagnostic tools|Отладка
+Disabled|Отключено
+Discoverable|Видимый
+Done|Готово
+Download Original|Загрузить оригинал
+Downloading images|Загрузка изображений
+E|В
+east|В
+Edit channel|Редактировать канал
+Edit Contact|Править контакт
+Edit note|Изменить заметку
+Edit panels|Правка панелей
+Emergency only|Только экстренные звонки
+Empty Panel|Пустая панель
+Enable live wallpapers|Включить живые обои
+Enabled|Включено
+Enter RSS feed title|Введите заголовок RSS-канала
+Enter RSS feed URL|Введите адрес RSS-канала
+Entertainment|Развлечения
+Error|Ошибка
+Evening|Вечер
+Every 2 hours|Каждые 2 часа
+Every 24 hours|Каждые 24 часа
+Every 30 Minutes|Каждые 30 минут
+Every 30 minutes|Каждые 30 минут
+Every 4 hours|Каждые 4 часа
+Every hour|Каждый час
+Exit|Выход
+Experimental|Экспериментальные настройки
+Experimental Settings|Экспериментальные настройки
+Experimental settings|Экспериментальные настройки
+Fahrenheit (#short)|по Фаренгейту
+Failed to add contact|Ошибка при добавлении контакта
+Failed to load RSS|Ошибка загрузки ленты новостей
+Failed to load the selected contact. Try to link the contact to Google account or save it to phone.|Не удалось загрузить выбранный контакт. Попробуйте связать контакт с Google-профилем или сохраните его в телефоне.
+Favorite Contacts|Контакты
+Favorite contacts|Контакты
+Favorites|Избранное
+February|Февраль
+Filter|Фильтр
+First day of the week|Первый день недели
+First Quarter|Первая четверть
+Flight|Перелет
+Folder|Папка
+Folder Name|Имя папки
+Forecast|Прогноз
+from forecast|согласно прогнозу
+Full Moon|Полнолуние
+Gallery|Галерея
+Games|Игры
+Gemini|Близнецах
+Gravity|Гравитация
+Grayscale anaglyph (red/cyan)|Чёрно-белый анаглиф (red/cyan очки)
+Green|Зелёный
+G-Sensor|G-сенсор
+Half an hour ago|Полчаса назад
+Hectopascals|Гектопаскали
+Hide Duplicates|Скрыть дубликаты
+Hide SIM Contacts|Скрыть SIM контакты
+Home|Домашний экран
+Home Settings|Настройки Shell 3D
+Home settings|Настройки Shell 3D
+hpa|гПа
+Humidity:|Влажность:
+in %u days|через %u дн.
+in Home Settings|в настройках главного экрана
+inch|дюйм
+Inches|Дюймы
+Increase Counter|Увеличить счётчик
+Interface mode|Режим интерфейса
+Invisible|Невидимый
+January|Январь
+July|Июль
+June|Июнь
+Kilometers per hour|Километры в час
+Knots|Узлы
+knots|узл.
+kph|км/ч
+kts|узлов
+Landscape|Гориз.
+Landscape orientation required to enable left-to-right stereo mode|Для включения стереорежима 'слева направо' необходима горизонтальная ориентация
+Large|Большой
+Last Call|Последний звонок
+Last Message|Последнее сообщение
+Last Quarter|Последняя четверть
+Last updated|Последнее обновление
+Left-to-right (HTC EVO 3D)|Слева направо (HTC EVO 3D)
+Legal information|Правовая информация
+Legal notices|Правовая информация
+Leo|Льве
+Libra|Весах
+Lifestyle|Стиль жизни
+Live wallpapers can cause performance degradation of your 3D home screen. Switching between live and static wallpapers can take up to a minute. Static wallpapers are recommended for the best experience.|Живые обои могут вызвать существенное ухудшение производительности. Переключение между живыми и статичными обоями может длиться около минуты. Для лучшей производительности мы рекомендуем статичные обои.
+Loading failed|Загрузка не удалась
+Loading image for wallpaper|Загрузка изображения для обоев
+Loading RSS feed %s...|Загрузка RSS-ленты %s...
+Loading skin failed!|Ошибка загрузки скина
+Loading skins catalog failed!|Ошибка загрузки каталога скинов!
+Loading...|Загрузка...
+Logging In...|Авторизация...
+Lunar Calendar|Лунный календарь
+Lunar day %d|%d лунный день
+Manage apps|Приложения
+Manage Apps|Приложения
+Manage panels|Правка панелей
+Manage Panels|Правка панелей
+March|Март
+May|Май
+Medium|Средний
+Messaging|Сообщения
+Meters per second|Метры в секунду
+Miles per hour|Мили в час
+Millimetres|Миллиметры
+Misc|Разное
+Miscellaneous|Разное
+mm|мм
+Mobile|Мобильный
+Mode|Режим
+Monday|Понедельник
+Moon|Луна
+Moon Calendar|Лунный календарь
+Moon in %s,|Луна в %s
+Morning|Утро
+mph|миль/ч
+mps|м/сек
+Multimedia|Мультимедиа
+Music|Музыка
+Music albums|Альбомы
+N|С
+N/A|Нет
+nd|-й
+NE|СВ
+Network Status|Статус сети
+Never|Никогда
+New|Создать
+New Channel|Новый канал
+New channel|Новый канал
+New Contact|Новый контакт
+New Folder|Новая папка
+New Moon|Новолуние
+New update available|Доступно новое обновление
+News|Новости
+News Panel|Панель новостей
+News Panel Settings|Настройки новостей
+next|след.
+Next Alarm|Будильник
+Night|Ночь
+No|Нет
+no|нет
+No Alarms|Нет будильников
+No birthdays|Нет дней рождения
+No calls|Нет звонков
+No Cities|Города не найдены
+No conditions|Нет погоды
+No Contacts.|Нет контактов.
+No Countries|Страны не найдены
+No deals loaded|Предложения не загружены
+No Images|Нет изображений
+No messages|Нет сообщений
+No news|Новостей нет
+No rise/set info|Восход/закат не рассчитан
+No RSS feed found at|RSS лента не найдена на
+No rss loaded|Новости не загружены
+No SIM|Нет SIM
+No text messages|Нет сообщений
+No title|Без названия
+No upcoming events|Нет предстоящих событий
+No upcoming events in a week|Нет событий на этой неделе
+No updates|Обновлений нет
+No weather forecast|Нет прогноза погоды
+Normal|Обычн.
+north|С
+north east|С-В
+north west|С-З
+Not available|Недоступно
+Not connected|Нет соединения
+Notes|Заметки
+Note's default color|Цвет заметки по умолчанию
+Note's font|Шрифт заметки
+Notes Panel|Панель заметок
+Notes Panel Settings|Настройки заметок
+November|Ноябрь
+NW|СЗ
+October|Октябрь
+Off|Выключено
+Offer|Предложение
+On|Включено
+One Touch Share|One Touch Share
+Only on free connections|Только при бесплатном соединении
+Open Contact|Открыть контакт
+Open in Browser|Открыть в браузере
+OpenGL 2.0 is required to run SPB Shell 3D|Для запуска SPB Shell 3D требуется OpenGL 2.0.
+Optimized anaglyph (red/cyan)|Оптимизированный анаглиф (red/cyan очки)
+Other (assistant)|Другой
+Page|Страница
+Pages: %d, images: %d|Страниц: %d, картинок: %d
+Panel Name|Имя панели
+Panels|Панели
+Panels Settings|Настройки панелей
+Parsing skins catalog failed!|Ошибка разбора каталога скинов!
+Partly cloudy|Временами облачно
+Partly cloudy, rain|Временами облачно, дождь
+Partly cloudy, snow|Временами облачно, снег
+Partly cloudy, thunder|Временами облачно, гроза
+People|Люди
+Performance Warning|Оповещение о производительности
+Performance Warning dialog|Диалог оповещения о производительности
+Personal|Личное
+Phone|Телефон
+Photo folder for gallery widgets|Папка фотографий для виджета галерея
+Picture Gallery|Галерея
+Picture of the Day|Фотография дня
+Picture Panel Settings|Настройки фотографий
+Pictures|Фотографии
+Pictures Of The Day|Фотографии дня
+Pictures Panel|Панель картинок
+Pictures Panel Settings|Настройки картинок
+Pictures Settings|Настройки фотографий
+Pisces|Рыбах
+Please Log In|Пожалуйста авторизуйтесь
+Please wait...|Пожалуйста, подождите...
+Portrait|Верт.
+Pressure:|Давление:
+Problem loading widget|Проблемы при загрузке виджета
+Productivity|Работа
+Program|Программа
+Pulkovo|Пулково
+Purchase|Купить
+Purple|Пурпурный
+Quick Setting|Быстрая настройка
+Radio off|Радио выключено
+rd_loc|-й
+Reading appointments...|Считывание встреч...
+Recycle Bin|Корзина
+Red|Красный
+Reduced|Уменьшенный
+Reload skin list|Обновить список скинов
+Remove All|Удалить все
+Rename|Изменить имя
+Rename Panel|Изменить имя панели
+Requesting images|Загрузка изображений
+Retry|Повторить
+Rise: %s|Восход: %s
+RSS Feed|RSS Лента
+RSS Panel|Панель RSS
+RSS Panel Settings|Настройки RSS
+S|Ю
+Safe mode|Безопасный режим
+Sagittarius|Стрельце
+Saint-Petersburg|Санкт-Петербург
+Save as New|Сохр. как новый
+Save to Existing|Сохр. в существ.
+Scorpio|Скорпионе
+Screen orientation|Ориентация
+Screen orientation will be changed to Landscape|Экран будет переведен в горизонтальный режим
+SE|ЮВ
+Searching|Поиск
+Select Channel|Выберите канал
+Select cities|Выбрать города
+Select Contact Action|Действие для контакта
+Select Contact Size|Выбрать размер контакта
+Select e-mail address|Выберите E-mail
+Select phone number:|Выберите номер телефона:
+Select shortcut|Выбрать ярлык
+Select Skin|Выберите скин
+Select wallpaper from|Выбрать обои из
+Selected cities|Выбранные города
+Selected City|Выбранный город
+Selected city|Выбранный город
+Send Email|Отправить e-mail
+Send E-mail|Отправить E-mail
+Send E-Mail|Отправить письмо
+Send Message|Отправить SMS
+Send MMS|Отпр. MMS
+Send SMS|Отпр. SMS
+September|Сентябрь
+Serial number:|Серийный номер:
+Set as Home|Сделать главной
+Set as Wallpaper|Установить как обои
+Set wallpaper|Установить обои
+Set: %s|Закат: %s
+Settings|Настройки
+Show all|Показать все
+Show all day events|Показывать встречи, занимающие весь день
+Show all day events in calendar widgets|Показывать в виджетах календаря встречи, занимающие весь день
+Show full news|Показывать новости полностью
+Show images in news|Показывать изображения в новостях
+Silent|Тишина
+Skin loading|Загрузка скина
+Small|Маленький
+Smartphone|Смартфон
+Smog|Смог
+Social|Социальные
+Social Network|Соц. сеть
+Sound Profile|Звуковой профиль
+south|Ю
+south east|Ю-В
+south west|Ю-З
+SPB Shell 3D is loading...|Загружается SPB Shell 3D...
+SPB Wallpapers|Обои SPB
+SPB Widget|Виджет SPB
+st|-й
+Standard Edition [Beta]|Стандартная версия [Бета]
+Stereoscopic 3D mode|Стереоскопическое 3D
+Stereoscopic 3D mode will be disabled|Режим стереоскопического 3D будет выключен
+Stereoscopic 3D Settings|Настройки стереоскопического 3D
+Sun in %s,|Солнце в %s
+Sunday|Воскресенье
+SW|ЮЗ
+Switching the interface mode can take up to a minute. Screen orientation will be changed to '%s'.|Переключение режима интерфейса может занять до минуты. Ориентация экрана будет переключена на '%s'.
+System|Системная
+Tablet|Планшет
+Tap here to download|Нажмите здесь для загрузки
+Taurus|Тельце
+Temperatur scale|Шкала температуры
+Temperature scale|Шкала температуры
+Test Battery|Тест батареи
+th|-й
+Thank you for your support. Your copy is now registered.|Спасибо за покупку. Ваша копия зарегистрирована.
+The experimental features below are not ready to be shipped in the core of SPB Shell 3D. They may contain severe defects and cause system instability. Use them at your own risk.|Ниже находятся экспериментальные настройки, которые не готовы к включению в ядро SPB Shell 3D. Они могут содержать ошибки и привести к нестабильной работе системы. Используйте на свой страх и риск.
+The maximum number of panels is reached|Достигнуто максимальное число панелей
+The name cannot be changed.|Невозможно изменить название.
+The previous launch of SPB Shell 3D was unsuccessful. Please tap "Retry" to launch it again or "Home" to activate a different Home screen.|Предыдущий запуск SPB Shell 3D завершился неудачно. Нажмите "Повторить" для повторного запуска или "Домашний экран" для выбора другого домашнего экрана.
+Time|Время
+Time Panel|Панель времени
+Time Panel Settings|Настройки часов
+Today|Сегодня
+Toggle|Переключить
+Tomorrow|Завтра
+Tools|Инструменты
+Travel|Путешествия
+Unfortunately, we could not locate your purchase in Android Market. Please uninstall this copy before installing a new one.|К сожалению, невозможно найти вашу покупку в Android Market. Пожалуйста, удалите эту копию перед установкой новой.
+Unfortunately, we could not locate your purchase. Please uninstall this copy before installing a new one.|К сожалению, мы не можем обнаружить информацию о вашей покупке. Пожалуйста, удалите эту копию перед установкой новой.
+Uninstall|Удалить
+Uninstall apps|Удалить приложения
+Unknown|Неизвестный
+Unknown location|Город неизвестен
+Upcoming events|Предстоящие события
+Update|Обновить
+Update deals list automatically|Автоматически обновлять предложения дня
+Update Now|Обновить сейчас
+Update pictures page automatically|Обновлять фотографии автоматически
+Update weather forecasts automatically|Автоматически обновлять прогноз
+Updated|Обновлено
+Updated:|Обновлено
+Updating image|Обновление изображения
+Updating...|Обновление...
+Use 3D in application list|Использовать 3D в списке приложений
+Use 3D in edit mode|Использовать 3D в режиме редактирования
+Use cellular connection for updating deals list|Использовать платные подключения для обновления предложений
+Use cellular connection for updating deals list automatically|Использовать платные подключения для автоматического обновления предложений
+Use cellular connection for updating pictures automatically|Использовать платные подключения для автоматического обновления фотографий
+Use cellular connection for updating weather automatically|Использовать платные подключения для автоматического обновления погоды
+Use new color every time|Использовать разные цвета
+Use previous note's color|Использовать цвет предыдущей заметки
+Value|Стоимость
+variable|Переменный
+Version %s, Build %s|Версия %s, Сборка %s
+Vibro|Вибро
+Video Call|Видео звонок
+View Duplicates|Показать дубликаты
+View SIM Contacts|Показ. SIM контакты
+Virgo|Деве
+W|З
+Wallpaper|Обои
+Wallpapers|Обои
+Waning Crescent|Предноволуние
+Waning Gibbous|Убывающая Луна
+Waxing Crescent|Растущая 1-я четверть
+Waxing Gibbous|Растущая Луна
+Weather|Погода
+Weather and Clock|Погода и Часы
+Weather Forecast|Прогноз погоды
+Weather Panel Settings|Настройки погоды
+Weather Settings|Настройки погоды
+Welcome to notes panel|Добро пожаловать в панель заметок
+west|З
+Widget is too big to be added.|Виджет не помещается.
+Widgets|Виджеты
+Widgets Settings|Настройки виджетов
+Wind direction:|Направление ветра:
+Wind speed scale|Шкала скорости ветра
+Wind speed:|Скорость ветра:
+Wind:|Ветер:
+Work|Рабочий
+World Time|Мировое время
+Wrong serial number. Please check it again.|Неверный серийный номер. Пожалуйста, повторите ввод.
+Yandex.Search|Яндекс.Поиск
+Yellow|Жёлтый
+Yes|Да
+Yesterday|Вчера
+You save|Скидка
+Your video system isn't compatible with Shell 3D.|Ваша видеосистема не совместима с Shell 3D.

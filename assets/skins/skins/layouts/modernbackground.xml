@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Layouts>
+  <Rules>
+	<Default>
+      <UseLayout Name="Default"/>
+	</Default>
+  </Rules>
+
+  <General>
+    <Skin AutoSkin="modernbackground"/>
+  </General>
+
+  <Layout Name="Default">
+    <Frame Width="fill" Height="fill">
+      <Plugin Name="Background" Class="Spb.LSP.ModernBackground" Width="fill" Height="fill" />
+	</Frame>
+  </Layout>
+  
+</Layouts>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<skin Name="Last Call Widget" Type="widget">
+  <items>
+    <item>
+      <Image Name="frame"    File="frame.png"/>
+      <Image Name="bubble"   File="bubble.png"/>
+      <Image Name="empty"    File="empty.png"/>
+
+      <Image Name="missed"   File="missed.png"/>
+      <Image Name="incoming" File="incoming.png"/>
+      <Image Name="outgoing" File="outgoing.png"/>
+    </item>
+  </items>
+</skin>

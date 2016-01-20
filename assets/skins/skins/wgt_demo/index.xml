@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<skin Name="Demo Widget" Type="widget" HideInUib="1">
+  <items>
+    <item>
+      <Image Name="1_1" File="1_1.png"/>
+      <Image Name="2_1" File="2_1.png"/>
+      <Image Name="3_1" File="3_1.png"/>
+      <Image Name="4_1" File="4_1.png"/>
+      <Image Name="5_1" File="5_1.png"/>
+      <Image Name="6_1" File="6_1.png"/>
+
+      <Image Name="1_2" File="1_2.png"/>
+      <Image Name="2_2" File="2_2.png"/>
+      <Image Name="3_2" File="3_2.png"/>
+      <Image Name="4_2" File="4_2.png"/>
+      <Image Name="5_2" File="5_2.png"/>
+      <Image Name="6_2" File="6_2.png"/>
+
+      <Image Name="1_3" File="1_3.png"/>
+      <Image Name="2_3" File="2_3.png"/>
+      <Image Name="3_3" File="3_3.png"/>
+      <Image Name="4_3" File="4_3.png"/>
+      <Image Name="5_3" File="5_3.png"/>
+      <Image Name="6_3" File="6_3.png"/>
+
+      <Image Name="1_4" File="1_4.png"/>
+      <Image Name="2_4" File="2_4.png"/>
+      <Image Name="3_4" File="3_4.png"/>
+      <Image Name="4_4" File="4_4.png"/>
+      <Image Name="5_4" File="5_4.png"/>
+      <Image Name="6_4" File="6_4.png"/>
+
+      <Image Name="1_5" File="1_5.png"/>
+      <Image Name="2_5" File="2_5.png"/>
+      <Image Name="3_5" File="3_5.png"/>
+      <Image Name="4_5" File="4_5.png"/>
+      <Image Name="5_5" File="5_5.png"/>
+      <Image Name="6_5" File="6_5.png"/>
+    </item>
+  </items>
+</skin>

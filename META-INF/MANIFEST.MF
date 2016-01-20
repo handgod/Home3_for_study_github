@@ -1,0 +1,5378 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_29 (Apple Inc.)
+
+Name: assets/skins/skins/shaders/bbt0c_v.glsl
+SHA1-Digest: GNFhg8HU2Usun+bWSUriFmYHuyw=
+
+Name: assets/skins/skins/wgt_smsmms/dpi192/sep_v41.png
+SHA1-Digest: LiqYm5kfxzTg+WnelJn08YOgdHw=
+
+Name: assets/skins/skins/texts/lt/spbshell3d.txt
+SHA1-Digest: S9TPRdGJyh2Dgn/HLVx8V+lNmGc=
+
+Name: assets/skins/skins/shaders/ucp_v.glsl
+SHA1-Digest: GpapbrFwemQrLPmioOvidIR6vNs=
+
+Name: assets/skins/skins/wgt_weather/dpi96/96_15.png
+SHA1-Digest: LcLCM70IdRr+wzQYgA1MGjHUq1g=
+
+Name: assets/skins/skins/wgt_worldtime/dpi192/index.xml
+SHA1-Digest: eksHQ8zwjhF4ZC0IyJhx0UU2Csg=
+
+Name: assets/skins/skins/layouts/wgt_weather.full.xml
+SHA1-Digest: 1mQRbYXv24Q6VDVuwDTMElcku1U=
+
+Name: assets/skins/skins/texts/ro/spbshell3d.htm
+SHA1-Digest: tjSFZQWeZOz9+O47gr/iPS7r2gA=
+
+Name: assets/skins/skins/misc/lighten.png
+SHA1-Digest: 5sXU55vWH+BeKSrLOzegh3ypw1I=
+
+Name: res/drawable/voice_grey_default.png
+SHA1-Digest: TA6UtuFsesk+Bvw60/qFYq3oiQw=
+
+Name: assets/skins/skins/layouts/rsschanlist.xml
+SHA1-Digest: zV4YOvSV0hOWsN8dHJrwNkK9SSA=
+
+Name: res/drawable-hdpi-v4/ya_selected.png
+SHA1-Digest: plvDCT2MTPQGxs9brMRBbzyxbMk=
+
+Name: assets/skins/skins/wgt_demo/3_1.png
+SHA1-Digest: 5hrBMKOCXZCYixH2xjHU8z5MRx8=
+
+Name: assets/skins/skins/res_contact/dpi192/pile.png
+SHA1-Digest: dqRHyi+LGrgGvEiJjWIWBCv4GFg=
+
+Name: assets/skins/skins/pnl_pictures/dpi192/thumb.dds
+SHA1-Digest: J/+/CglHcpbta1+UXs0Pl+91xUU=
+
+Name: assets/skins/skins/menubar_tablets/dpi192/menubarbtns.png
+SHA1-Digest: uThbG0rsUSECBrc4JMgRqhSaWt0=
+
+Name: res/layout/z_search_sources.xml
+SHA1-Digest: l7FviC9TotKa6DKnfYwxWhZ03Dw=
+
+Name: assets/skins/skins/wgt_yasearch/dpi128/yandex_text_en.png
+SHA1-Digest: jYilkatzbWgSVKqEBFxQqTRdbzo=
+
+Name: res/drawable-ldpi-v4/button_grey_default.png
+SHA1-Digest: GltvU+iQBjucuduUGpgVo0l7weQ=
+
+Name: assets/skins/skins/pnl_pictures/dpi192/back.dds
+SHA1-Digest: tZO95dB406fMFueWlb7yV1OxH/0=
+
+Name: assets/skins/skins/res_contact/dpi192/contact_mirr.png
+SHA1-Digest: ysuxt3xnXeyrP9RfkiWHhoHa6Ss=
+
+Name: assets/skins/skins/wgt_smsmms/dpi192/icon-unread.png
+SHA1-Digest: 95OErCPNPmIec5/I0b/GTVOUA0Y=
+
+Name: assets/skins/skins/wgt_smsmms/dpi96/photoframe.png
+SHA1-Digest: iT7LLd77JuzlMcIiNTg+w2wfqUs=
+
+Name: assets/skins/skins/texts/da/spbspbshell3d.htm
+SHA1-Digest: nMIksLpFBb3s1tovzBLJAVMFvT0=
+
+Name: assets/skins/skins/shaders/stereo_interlacedv_v.glsl
+SHA1-Digest: HbbCXfo2ZzLuHUnyqf2sCT4OP6Q=
+
+Name: res/drawable-ldpi-v4/item_browser.png
+SHA1-Digest: ggtuggXsLSbditGWD55d35vRmus=
+
+Name: assets/skins/skins/wgt_clock/dpi192/frame.png
+SHA1-Digest: iLq6MQXNxe07+FNsJvzqdCTfa2I=
+
+Name: assets/skins/skins/wgt_folder/dpi192/ico_games.png
+SHA1-Digest: 2vd6SAR8ws1bVphvk/+ZEWiJXOA=
+
+Name: res/drawable-tr-ldpi-v4/icon.png
+SHA1-Digest: eAHBjMKEBvwXTqA302EdWwcQZMg=
+
+Name: assets/skins/skins/grouponpanel/label.png
+SHA1-Digest: v5JL+Yp9ABVmUDK/rsC6mcPwnTI=
+
+Name: res/drawable/service_map.png
+SHA1-Digest: rkx6wqx/t2shf+rSscCqFH2FBb8=
+
+Name: assets/skins/skins/layouts/empty.xml
+SHA1-Digest: mzoap4l11KF6cT8F3xJ3C9VIpwc=
+
+Name: res/drawable-hdpi-v4/search_icon_default.png
+SHA1-Digest: BkRQpc7NOqqRytbENkdsnBLboYc=
+
+Name: assets/skins/skins/layouts/p_choose.xml
+SHA1-Digest: gR6a5Spa4lftKnQED8z+Wb/LE/k=
+
+Name: assets/skins/skins/texts/hr/spbshell3d.htm
+SHA1-Digest: r/ZuGNY4kYGB9LvJFFQZCzDPN3s=
+
+Name: assets/skins/skins/extensions_tablets/dpi192/settings_phone.png
+SHA1-Digest: t7tm51kehxYgJskOBGdOLVHwADo=
+
+Name: assets/skins/skins/wgt_weather/dpi96/96_12.png
+SHA1-Digest: nE3kRV/F75kjs1BRi0OEMoeT+7E=
+
+Name: res/drawable/input_classic.xml
+SHA1-Digest: T+Eodd8ddl6qd0tdKcUITTMC3QM=
+
+Name: assets/skins/skins/wgt_smsmms/dpi128/bubble.png
+SHA1-Digest: 438ElvfcW2IWaN4x7RoHjjR9v60=
+
+Name: res/drawable-hdpi/btn_circle_disable.png
+SHA1-Digest: PBuv91lzyYPpI43IOEwf0a4RQRo=
+
+Name: res/drawable-mdpi/weather_wind_speed.png
+SHA1-Digest: 4SRfDAIY4M5gNu8gzHGqnwp4JpU=
+
+Name: assets/skins/skins/texts/hu/spbspbshell3d.htm
+SHA1-Digest: nMIksLpFBb3s1tovzBLJAVMFvT0=
+
+Name: assets/skins/skins/wgt_weather/dpi128/96_17.png
+SHA1-Digest: P+qsfH8eZb90EIvLRtPp28BYEPE=
+
+Name: assets/skins/skins/wgt_weather/dpi128/96_10.png
+SHA1-Digest: wuvJmTxRfMBgEj1/nltqdqmhLco=
+
+Name: assets/skins/skins/texts/am/spbshell3d.txt
+SHA1-Digest: 2DgyImUepyrgc4zy55G8/79Q2T8=
+
+Name: assets/skins/skins/misc/right.png
+SHA1-Digest: rJwntz6AD/S0WVvHpYZnleihdQI=
+
+Name: res/drawable-hdpi/ic_menu_change.png
+SHA1-Digest: bXd0BqRNfpzjK6OxhDR66D4kDS4=
+
+Name: assets/skins/skins/wgt_profile/dpi192/sep_v41.png
+SHA1-Digest: XA0Ta09fUrWfx3wwNgs54n4GnDo=
+
+Name: assets/skins/skins/wgt_weather/dpi96/32_3.png
+SHA1-Digest: TlfL8CBz8UcZeBLsKHr+LeVaciw=
+
+Name: res/drawable-hdpi-v4/item_contact_call_button.png
+SHA1-Digest: PCQerrdXhdxqKsx/rOQeEPlxl7Q=
+
+Name: assets/skins/skins/wgt_weather/dpi128/32_4.png
+SHA1-Digest: mB4QhLg8pNwjTRpDBy0yYJSt8rw=
+
+Name: assets/skins/skins/calendar/dpi192/today.png
+SHA1-Digest: HH8H8Qc5mn651k5ZkPiF6VcPiz8=
+
+Name: res/drawable/item_suggest.png
+SHA1-Digest: CUXre/tD8bdEcNqj0MYADJieihs=
+
+Name: assets/skins/skins/misc/dpi192/upperglow.png
+SHA1-Digest: BNdALy9aaA0CTpkHfT+mvnlzuYk=
+
+Name: assets/skins/skins/res_contact/dpi192/movearrow_bottom.png
+SHA1-Digest: yvPLOM6AqZCPATHg51I11niuoyI=
+
+Name: assets/skins/skins/layouts/calllog.xml
+SHA1-Digest: TZf3idueLRt8mHfqSnbyuJ4nXOU=
+
+Name: assets/skins/skins/timepanel_moon/dpi192/uv-solar.png
+SHA1-Digest: zfEk3qP4iE5kfvweIWDSeDsaIwE=
+
+Name: assets/skins/skins/texts/hr/spbshell3d.txt
+SHA1-Digest: zNhBCYJngC+G4Df3wGiuEQ47GDA=
+
+Name: assets/skins/skins/grouponpanel/noimage.png
+SHA1-Digest: nuYwz7joMyI52wCKN1H1Tc6c3RM=
+
+Name: assets/skins/skins/calendar_tablet/dpi192/p/index.xml
+SHA1-Digest: ldUVM+/A2S4LeWq0+V+IY20cDz0=
+
+Name: assets/skins/skins/wgt_weather/dpi96/72_18.png
+SHA1-Digest: VPmpc0UtqoQvd0PiENXR/xfcx34=
+
+Name: assets/skins/skins/texts/ko/spbspbshell3d.htm
+SHA1-Digest: nMIksLpFBb3s1tovzBLJAVMFvT0=
+
+Name: assets/skins/skins/wgt_worldtime/dpi192/custom-background.png
+SHA1-Digest: wdZZQWt7TaQCgICU4dk9YQz9EiU=
+
+Name: assets/skins/skins/widgeticons/dpi192/bluetooth.png
+SHA1-Digest: yLuq5FuMsOWKQyF8g7wapwpXIVE=
+
+Name: res/drawable/voice_modern_pressed.png
+SHA1-Digest: oZvTixtTmduP6m+Y0JVf/fLQ8Go=
+
+Name: assets/skins/skins/layouts/l_folderw4x2.xml
+SHA1-Digest: LPnnTRxSefS8F9tybPm9wYJnxG0=
+
+Name: assets/skins/skins/layouts/addchannel.xml
+SHA1-Digest: VkQr3QJvE7VSOOiAiDQMUZDbeSw=
+
+Name: assets/skins/skins/wgt_weather/dpi96/icon_press.png
+SHA1-Digest: foC6St0MMY/gbfmzXorhP2e55RM=
+
+Name: assets/skins/skins/wgt_frame/dpi192/gloss2x.png
+SHA1-Digest: ag8sUaVpfKhE80Auxrw4KV6H1U8=
+
+Name: assets/skins/skins/wgt_folder/dpi192/small_folder_land.png
+SHA1-Digest: el/QuXuQTC6P4NPYz0KvyLyqYX8=
+
+Name: assets/skins/skins/wgt_clock/dpi192/custom-background.png
+SHA1-Digest: wdZZQWt7TaQCgICU4dk9YQz9EiU=
+
+Name: assets/skins/skins/wgt_smsmms/dpi96/photoframeshadow.png
+SHA1-Digest: lgNGcGDwdDvQT9xdrQftHrsT/pA=
+
+Name: res/drawable/item_contact.png
+SHA1-Digest: 5cW5iYbaITRAzuW8Hod1wZus988=
+
+Name: assets/skins/skins/widgeticons/dpi192/clock.png
+SHA1-Digest: XMjX44R5h/4DyIHuwwo+VxxKEYA=
+
+Name: assets/skins/skins/calendar_tablet/dpi192/l/index.xml
+SHA1-Digest: 3kXeDSo5jYSttlcTA6RwnTWmbKw=
+
+Name: assets/skins/skins/shaders/t0c_f.glsl
+SHA1-Digest: BUL2LVQnxsXVDOg52EJ5dNW+4fg=
+
+Name: assets/skins/skins/wgt_plus/dpi192/plus18.png
+SHA1-Digest: FKZMERenFNAGVXRF1sTjH4nx7ew=
+
+Name: assets/skins/skins/wgt_weather/dpi192/72_24.png
+SHA1-Digest: rZ9Qdzuw8fyOZcW0DMNJliUVzBY=
+
+Name: assets/skins/skins/timepanel_moon/dpi192/phases.bin
+SHA1-Digest: o0w5lso30l/QyUoR9Vl6JsogZ+Y=
+
+Name: res/drawable-hdpi/dummy_icon.png
+SHA1-Digest: Vj/qhxk8ic8FE0/kT6E3vgRJ4mE=
+
+Name: assets/skins/skins/menubar_tablets/dpi192/menubarnor.png
+SHA1-Digest: 4PdYaylR7MkbbrGa41a+xIyMNrA=
+
+Name: res/drawable/button_grey.xml
+SHA1-Digest: dRlZSDSBM1DXrXBVJXU36dmkcXU=
+
+Name: assets/skins/skins/layouts/l_addwidget.xml
+SHA1-Digest: Z8piViztHoVHg3y8ebsyNxr/Ybs=
+
+Name: assets/skins/skins/wgt_weather/dpi128/32_9.png
+SHA1-Digest: /qxMZ2w97RuZfnbOhK8rwELIgaQ=
+
+Name: assets/skins/skins/extensions_tablets/dpi192/index.xml
+SHA1-Digest: 6LEi+Y6WTr6Put2kicTOLJ4Wkn8=
+
+Name: assets/skins/skins/widgeticons/dpi192/backlight.png
+SHA1-Digest: JLOar6Tfqr62eywzNKxD7d3f8to=
+
+Name: assets/skins/skins/grouponpanel/button_off.png
+SHA1-Digest: eo9RAVGkCrZt8pUeSngK+HEAXew=
+
+Name: assets/skins/skins/notespanel/border.png
+SHA1-Digest: 4gYBL+wATc1S8RkPRmYm5mR6g9c=
+
+Name: assets/skins/skins/wgt_weather/dpi192/72_15.png
+SHA1-Digest: +hOJboBkD5FQ5SfXAVSmQAEYM4w=
+
+Name: assets/skins/skins/launcher/index.xml
+SHA1-Digest: yAPw6ZANkaTBDHIRmQIgsEL3z+o=
+
+Name: assets/skins/skins/wgt_weather/dpi128/32_17.png
+SHA1-Digest: pX01pmne7GlBxU+ROfzEAFQbs3g=
+
+Name: assets/skins/skins/layouts/menubarcalllog.xml
+SHA1-Digest: SypKoiV5zM+HecyD0tgE2j7/2xg=
+
+Name: assets/skins/skins/wgt_frame_tablets/dpi154/frame_small.png
+SHA1-Digest: yPipJ7JzTp9jQkaTGYi6wC2CS60=
+
+Name: assets/files/licenses/copyright.txt
+SHA1-Digest: s2LD2JbEZPb3G/IJ7nWpGqvYhtE=
+
+Name: assets/skins/skins/wgt_weather/dpi192/72_28.png
+SHA1-Digest: VCQXUeBA2YDPSWhYIUp1GElVQ8Q=
+
+Name: assets/skins/skins/wgt_yasearch/dpi128/input_modern_grey_default
+ .png
+SHA1-Digest: odDtfPcERsnFrZgkQqQJn9zSpLI=
+
+Name: res/drawable-ldpi-v4/search_icon_pressed.png
+SHA1-Digest: LCGGG64YgolPzoO2ifS1IlciQXw=
+
+Name: assets/skins/skins/wgt_weather/dpi128/72_29.png
+SHA1-Digest: oSmYx6ukAI+NOn6zvCw0ocOIAvI=
+
+Name: assets/skins/skins/gallery/0.png
+SHA1-Digest: b+VsqQ3KIC7qz1yNH28tTDmhvl4=
+
+Name: assets/skins/skins/wgt_weather/dpi96/96_26.png
+SHA1-Digest: 39bX4F6/pTbWOFF9Rvnc5fc7Um8=
+
+Name: assets/skins/skins/launcher/dpi192/menuaction.png
+SHA1-Digest: IjjnfBpUMrK5BU3S27P/j8jqvPU=
+
+Name: assets/skins/skins/wgt_weather/dpi96/tab_left.png
+SHA1-Digest: z79JKPvAaW7LYASfBfR/T0vNvrk=
+
+Name: assets/skins/skins/tray/dpi192/index.xml
+SHA1-Digest: UswqYIOS6q7ok93FFzwywEAhtm0=
+
+Name: res/drawable-hdpi-v4/input_modern_grey_pressed.9.png
+SHA1-Digest: xmMK/LbhDsjw5oYIqbXXK8tIfYU=
+
+Name: res/drawable-hdpi-v4/button_grey_pressed.png
+SHA1-Digest: SamAM6Kj2oEix1Dyg4RQn4kZ0nQ=
+
+Name: assets/skins/skins/misc/darken_inner.png
+SHA1-Digest: R16Twt9sCs965agmJLeSnlmf+9k=
+
+Name: assets/skins/skins/wgt_weather/dpi96/32_4.png
+SHA1-Digest: Y6tX/fBYq2ao64k+MA86SWe8djs=
+
+Name: assets/skins/skins/wgt_weather/dpi96/32_21.png
+SHA1-Digest: nZipekc7iJFFhb/qOUubrrOVTGU=
+
+Name: assets/skins/skins/wgt_profile/dpi192/mode.png
+SHA1-Digest: 4k4iP4qMx+xyOmXocqLVipPE9x4=
+
+Name: assets/skins/skins/wgt_agenda/ringtex.png
+SHA1-Digest: NfAd0Y4MB+lWgovdsTMlkXmIzuk=
+
+Name: res/drawable/input_classic_pressed.9.png
+SHA1-Digest: psw9+9vttstIUOX9tmWs9C1mbrA=
+
+Name: assets/skins/skins/misc/contacts.png
+SHA1-Digest: Xmzyzow3cGALHTIqbyEb/UCURu0=
+
+Name: assets/skins/skins/texts/th/spbspbshell3d.htm
+SHA1-Digest: nMIksLpFBb3s1tovzBLJAVMFvT0=
+
+Name: res/drawable-ldpi/weather_wind_speed.png
+SHA1-Digest: Xu1PHOdKPJgFSNGi1DyGGiLBACc=
+
+Name: assets/skins/skins/wgt_weather/dpi192/32_7.png
+SHA1-Digest: 6R7NM1zqoh7cJrS4iEd8FBLK77s=
+
+Name: assets/skins/skins/wgt_demo/6_5.png
+SHA1-Digest: RpSO7BV+UhOdj60wCdLCgMzdl3U=
+
+Name: assets/skins/skins/wgt_album/index.xml
+SHA1-Digest: IrgR/6b1d22aYjj9a1QxXmck0QE=
+
+Name: assets/skins/skins/grouponpanel/defimage.png
+SHA1-Digest: aHz6LP9l5JC1YJrg8ekrTdjtk30=
+
+Name: assets/skins/skins/wgt_weather/dpi128/32_30.png
+SHA1-Digest: /EDNWBtjx8eLEnfiXIKjRuQzwHc=
+
+Name: assets/skins/skins/misc/deals.png
+SHA1-Digest: qqNuNx+xU3j+fxDp2bRo13wDDe0=
+
+Name: assets/skins/skins/wgt_weather/dpi192/96_21.png
+SHA1-Digest: gKT7HtVa/5+FIEWIPzSDdQGaFg0=
+
+Name: assets/skins/skins/weatherscene/rain_1.dds
+SHA1-Digest: lCYSwVK8Bka5I2iuSq+IfhbZBIg=
+
+Name: assets/skins/skins/menubar/dpi192/callog.png
+SHA1-Digest: RD10SQozDtsw3As6jec5fyxIXYE=
+
+Name: assets/skins/skins/wgt_weather/dpi128/72_21.png
+SHA1-Digest: 72MNr4Z3lb1J394Bm9yx2+/fFoc=
+
+Name: assets/skins/skins/weatherscene/index.xml
+SHA1-Digest: cGtjvh4vUpiNpdil0vkuV+7LkCw=
+
+Name: res/drawable/item_application.png
+SHA1-Digest: pXkc2JxurTSj1CtyqBEg1qA88tE=
+
+Name: assets/skins/skins/wgt_weather/dpi192/32_3.png
+SHA1-Digest: g6mWnSzThnGzjU4fCMiIIDgqE5Y=
+
+Name: assets/skins/skins/layouts/selectcategories.xml
+SHA1-Digest: 3HA1KEVIN6WaNEuOEXLEiBEvO9o=
+
+Name: assets/skins/skins/layouts/smsmmspopup.xml
+SHA1-Digest: ka7ZavRp20BCIqvzab59LM4fbYo=
+
+Name: assets/skins/skins/wgt_yasearch/dpi192/input_modern_grey_default
+ .png
+SHA1-Digest: 4GEr4Z0UbXt9fvAqyyXNjMOOYQk=
+
+Name: res/drawable/voice_classic_default.png
+SHA1-Digest: xnZbQtsY6wZWss795hkfY+zVwS4=
+
+Name: assets/skins/skins/wgt_worldtime/dpi192/panel.png
+SHA1-Digest: dEtmKTIK9+PdAgzvSL3lv1FJpFM=
+
+Name: assets/skins/skins/wgt_yasearch/dpi128/index.xml
+SHA1-Digest: wcjB1muqWTsh1E9cfxPSJmGjVHY=
+
+Name: assets/skins/skins/texts/si/spbshell3d.htm
+SHA1-Digest: r/ZuGNY4kYGB9LvJFFQZCzDPN3s=
+
+Name: assets/skins/skins/grouponpanel/arrow.png
+SHA1-Digest: ef4gr6V7IsQun3SKv/QTyCLPWyE=
+
+Name: assets/skins/skins/wgt_gallery/dpi192/icon.png
+SHA1-Digest: Te64V4Z0VM/tVhS8uiNPysJgYsc=
+
+Name: assets/skins/skins/launcher/launcherinit.xml
+SHA1-Digest: 2Xr4/wX5CDYvjr2mJ1r6//c1y9Y=
+
+Name: assets/skins/skins/zodiac/pisces.png
+SHA1-Digest: xqWvAMHPL9J0FkZNSAtATNq+NNQ=
+
+Name: assets/skins/skins/misc/dpi192/choosecolor.png
+SHA1-Digest: O4c8IkW2YtVWVtN6ToYpYvK56Fs=
+
+Name: assets/skins/skins/wgt_operator/dpi192/operator.png
+SHA1-Digest: 8CAM8hC636xQ+wM/imuYNNBaq+c=
+
+Name: assets/skins/skins/texts/sv/spbspbshell3d.htm
+SHA1-Digest: nMIksLpFBb3s1tovzBLJAVMFvT0=
+
+Name: assets/skins/skins/wgt_demo/4_3.png
+SHA1-Digest: V+pbCiGgPAuxso3FAj5B90NCFBM=
+
+Name: assets/skins/skins/wgt_frame_tablets/index.xml
+SHA1-Digest: EKfMNcrTYRrCKEmRJsWvZeYoriI=
+
+Name: assets/skins/skins/textures/spiralpart.dds
+SHA1-Digest: Pm7kWgWT5DBrFvryAogDf3GM9Go=
+
+Name: assets/skins/skins/widgeticons/dpi192/deals.png
+SHA1-Digest: edqg0gfDOJzMclNnA6BxHFRyNyk=
+
+Name: assets/skins/skins/widgeticons/dpi192/calendar.png
+SHA1-Digest: QsoHzGULa0TlNaoKHB/Dbs/KHBk=
+
+Name: assets/skins/skins/layouts/foldershade.xml
+SHA1-Digest: OGcxgBmGEjw00i4B7BBw+vHrkDE=
+
+Name: assets/skins/skins/texts/id/spbshell3d.htm
+SHA1-Digest: r/ZuGNY4kYGB9LvJFFQZCzDPN3s=
+
+Name: assets/skins/skins/wgt_agenda/bubbletex.png
+SHA1-Digest: FrXC7QW1jl1OWmRo3wkya4HyBeI=
+
+Name: res/drawable/clear_pressed.png
+SHA1-Digest: VvK+iH/c1ETNSfE4/seSUOj+cVA=
+
+Name: assets/skins/skins/shaders/anaglyph_optimized_v.glsl
+SHA1-Digest: HbbCXfo2ZzLuHUnyqf2sCT4OP6Q=
+
+Name: assets/skins/skins/wgt_weather/dpi96/32_13.png
+SHA1-Digest: NqQJUQoXaO436CrRubpU4rNbT4Y=
+
+Name: assets/skins/skins/weatherscene/clouds_1.dds
+SHA1-Digest: WlnqRneDvI16RseIsGFdAowZGys=
+
+Name: assets/skins/skins/wgt_weather/dpi128/tab_highlight.png
+SHA1-Digest: YMm8Bw6WoBLVh0JjYabyLQwYquo=
+
+Name: res/drawable-hdpi/ic_shell_edit_panels.png
+SHA1-Digest: u/AGordBfoi8hnWMI/rhyMVH5TU=
+
+Name: assets/skins/skins/shaders/line_v.glsl
+SHA1-Digest: s14twl38MmGABTLgEghZTWM5cGI=
+
+Name: res/drawable-hdpi-v4/voice_classic_default.png
+SHA1-Digest: LuOqkhaxPvFsj+Fe30iGJxwC0kA=
+
+Name: assets/skins/skins/frame/frame.png
+SHA1-Digest: Rm28tBvhnvdki+UHnD40C3HJ3io=
+
+Name: assets/skins/skins/layouts/moonpopup.xml
+SHA1-Digest: uvBfTNQhuy3gZ3envE6nYltZdAM=
+
+Name: res/drawable/service_search.png
+SHA1-Digest: ZKe6eOPDzgYo1T7SDJuT1Gcf9H8=
+
+Name: assets/skins/skins/weatherchart/floor.png
+SHA1-Digest: 1R8u4undkXPJsHfYnqCJl5XMsO4=
+
+Name: assets/skins/skins/menubar_tablets/dpi192/selector-dot.dds
+SHA1-Digest: yzmhH9dOsZXEMZaDSrV4IVfBi+I=
+
+Name: assets/skins/skins/layouts/selectcolor.xml
+SHA1-Digest: gQryQbAWFsJ+zfahAS90aIHKHZY=
+
+Name: assets/skins/skins/textures/hue.dds
+SHA1-Digest: rcy4z1ih9s/tJAg4RwbOMXj8IKo=
+
+Name: assets/skins/skins/menubar_tablets/dpi192/ico-launcher.dds
+SHA1-Digest: 82kl9GnXFNNzZi/wJPJOzdl3afY=
+
+Name: assets/skins/skins/wgt_weather/dpi192/96_30.png
+SHA1-Digest: 6ntEraF3o0R70SE9PI4vRDP+17s=
+
+Name: res/drawable-hdpi-v4/clear_default.png
+SHA1-Digest: t2kuPk9ugUrvnCqrwqRAsuvKJKc=
+
+Name: res/layout/z_item_sms.xml
+SHA1-Digest: ZqZdjqGWZs/oSwDwifxQkZTGs/8=
+
+Name: assets/skins/skins/tray/dpi192/okbtn.png
+SHA1-Digest: EbjYh1a6oM/qordy65T8Z4sE6sg=
+
+Name: assets/skins/skins/calendar_tablet/dpi192/tabs-0.png
+SHA1-Digest: OJD0ujqGio6OqNpVdApNvhXpZ84=
+
+Name: assets/skins/skins/wgt_weather/dpi96/72_5.png
+SHA1-Digest: jaofwVpdVpOAc7JCGD7kHiGJkrc=
+
+Name: assets/skins/skins/texts/br/spbshell3d.htm
+SHA1-Digest: tjSFZQWeZOz9+O47gr/iPS7r2gA=
+
+Name: assets/skins/skins/shaders/texmix_f.glsl
+SHA1-Digest: TIj/n3DU2eymR+4v62i7TNgFNXA=
+
+Name: assets/skins/skins/widgeticons/dpi192/calllog.png
+SHA1-Digest: 51qmJjftvGwwNXU4tVmWbud+fL8=
+
+Name: assets/skins/skins/wgt_weather/dpi192/96_11.png
+SHA1-Digest: dOTndhwVtl6VaGymo2xVLfGfHt0=
+
+Name: assets/skins/skins/wgt_worldtime/dpi192/globe_big.png
+SHA1-Digest: btPacf0KeCC/5mFQFEWj3C0+BdA=
+
+Name: assets/skins/skins/weather.dat
+SHA1-Digest: s5kTOHlEEcXGQZ3PxElWGPCbKWE=
+
+Name: res/drawable-hdpi/btn_circle_selected.png
+SHA1-Digest: hSXWurxkIgcrkKO4S6B3iXV/I4o=
+
+Name: assets/skins/skins/wgt_weather/dpi128/96_8.png
+SHA1-Digest: Papq1g/93NqXxh4xqtfgFXNmgCo=
+
+Name: assets/skins/skins/wgt_weather/dpi96/index.xml
+SHA1-Digest: KEbMcWZMyo/wsNvhlBSwwhm4LEU=
+
+Name: assets/skins/skins/wgt_frame_tablets/dpi154/index.xml
+SHA1-Digest: IVOw/qz5wSXI74vYwhnjilD9txg=
+
+Name: assets/skins/skins/wgt_clock/dpi192/icon.png
+SHA1-Digest: 3DjYRjBp8DEPRGKSOWgFtrNv+h8=
+
+Name: assets/skins/skins/res_contact/dpi192/sms_action_btn.png
+SHA1-Digest: Tt2MtDHlkZCei5T/Ny/foXtLBuQ=
+
+Name: assets/skins/skins/texts/md/spbshell3d.htm
+SHA1-Digest: r/ZuGNY4kYGB9LvJFFQZCzDPN3s=
+
+Name: res/drawable-ldpi-v4/search_panel_bg.png
+SHA1-Digest: ASwmneedLBFiWUB7tQHhBOXESl0=
+
+Name: assets/skins/skins/wgt_folder/dpi192/folder_window.png
+SHA1-Digest: h/5/wr1TRpDHrX+Ys3J7UGjeJQw=
+
+Name: assets/skins/skins/texts/ca/spbshell3d.htm
+SHA1-Digest: r/ZuGNY4kYGB9LvJFFQZCzDPN3s=
+
+Name: assets/skins/skins/wgt_weather/dpi192/96_8.png
+SHA1-Digest: 0hSeFfUyXzidO4wJaRmp4ao7Y7U=
+
+Name: res/drawable-ldpi-v4/yandex_bar_grey_bg.9.png
+SHA1-Digest: F1WiBx6HCjVV7BfDlcRoet8JRZo=
+
+Name: assets/skins/skins/wgt_weather/dpi192/32_0.png
+SHA1-Digest: O38jWmQMJyCkk6XeHX2IGWcE2YM=
+
+Name: assets/skins/skins/extensions_tablets/dpi192/settings_wifi.png
+SHA1-Digest: c5PxNetu5W9QIOgX7NrZcQFNXEY=
+
+Name: assets/skins/skins/shaders/bbc_v.glsl
+SHA1-Digest: L9rBVs+K26CjERFx4cKT6fSuijE=
+
+Name: res/drawable-mdpi/ic_shell_launch.png
+SHA1-Digest: zSs+V89flLk6ftKah0M6ipjosvg=
+
+Name: assets/skins/skins/texts/en/spbspbshell3d.htm
+SHA1-Digest: nMIksLpFBb3s1tovzBLJAVMFvT0=
+
+Name: assets/skins/skins/timepanel_moon/dpi192/marker_pos.png
+SHA1-Digest: Nv12+6EY88eHwbTd8EVZnU6OHgk=
+
+Name: assets/skins/skins/gallery/4.png
+SHA1-Digest: Ssc/8UMf7g7YnB84dvEO4qzHxZ8=
+
+Name: assets/skins/skins/wgt_weather/dpi128/72_26.png
+SHA1-Digest: jnCb8tJTnq0NQyRFeCEgeMAGVG0=
+
+Name: res/drawable/service_pattern_tile.xml
+SHA1-Digest: DPFgcXA2IDtkxnnum9vOAZo5FjU=
+
+Name: assets/skins/skins/custom_backgrounds/dpi192/background_3.png
+SHA1-Digest: wdZZQWt7TaQCgICU4dk9YQz9EiU=
+
+Name: assets/skins/skins/layouts/contactspanel.xml
+SHA1-Digest: sK+Rj0FZb7HZJ0hRWsWW3vufVsc=
+
+Name: assets/skins/skins/wgt_weather/dpi96/96_29.png
+SHA1-Digest: 3ezRUxGqKGArR+PrQuZuF4wSchE=
+
+Name: assets/skins/skins/wgt_frame_tablets/dpi128/header.png
+SHA1-Digest: hQ0umRJpD8bVVNfRX1JpRlw9U64=
+
+Name: res/drawable-tr-hdpi-v4/yandex_text.png
+SHA1-Digest: c1fi2A6XBj/CiyrUxSu7pP5jZ2M=
+
+Name: assets/skins/skins/custom_backgrounds/dpi192/background_1.png
+SHA1-Digest: wdZZQWt7TaQCgICU4dk9YQz9EiU=
+
+Name: assets/skins/skins/wgt_yasearch/dpi128/voice_modern_pressed.png
+SHA1-Digest: zjcdCaVB88unmV6xwmT1BzR2+jg=
+
+Name: assets/skins/skins/wgt_weather/dpi128/32_15.png
+SHA1-Digest: cvNLtzIULh0cCrYERpSElXUZ5tY=
+
+Name: assets/skins/skins/wgt_plus/index.xml
+SHA1-Digest: Z356u0qDJz0aDnNrgSTEEN6ZUR0=
+
+Name: assets/skins/skins/custom_backgrounds/dpi192/background_7.png
+SHA1-Digest: wdZZQWt7TaQCgICU4dk9YQz9EiU=
+
+Name: assets/skins/skins/wgt_weather/dpi192/96_14.png
+SHA1-Digest: CfK75zNfVUuEsEZq0zavN1u6Ykw=
+
+Name: assets/skins/skins/wgt_weather/dpi192/sep_v1.png
+SHA1-Digest: NB96uoiMEXORyVFIIiyrCQ1lP58=
+
+Name: assets/skins/skins/texts/pl/spbspbshell3d.htm
+SHA1-Digest: nMIksLpFBb3s1tovzBLJAVMFvT0=
+
+Name: assets/skins/skins/texts/id/spbshell3d.txt
+SHA1-Digest: 17l7qzKyDkfg5AhECh87BU2Zeps=
+
+Name: assets/skins/skins/wgt_weather/dpi192/96_27.png
+SHA1-Digest: BIUJL1J0JFlpJ5Ic2r1R18csWx0=
+
+Name: assets/skins/skins/launcher/templates.xml
+SHA1-Digest: 76ut5BpTLcykiuTwD+bL6SsKbSc=
+
+Name: assets/skins/skins/shaders/stereo_lefttoright_f.glsl
+SHA1-Digest: OyUN0IPgps+hUqCmVqMc97DJ1xM=
+
+Name: res/drawable/yandex_bar_classic_bg.9.png
+SHA1-Digest: vojaWmVzVwPASb6nrTbl1p76wqk=
+
+Name: assets/skins/skins/timepanel_moon/dpi192/moonnew.png
+SHA1-Digest: UYwLOxxZp420qwiwiiaj7SoubvI=
+
+Name: assets/skins/skins/shaders/t0a_v.glsl
+SHA1-Digest: 9M3gFGgKcACmCTF9rdpHbsqETQw=
+
+Name: assets/skins/skins/layouts/wgt_contact_panel.xml
+SHA1-Digest: /PVUZSQCy8t1boaM/kWhYaABVAA=
+
+Name: assets/skins/skins/wgt_clock/dpi192/column.png
+SHA1-Digest: lOATHw89RApBuzOEB1bvnDAZMaY=
+
+Name: res/drawable-ldpi-v4/clear_default.png
+SHA1-Digest: gVgBkvzzQdHr8G5ROe0dhVKlG5c=
+
+Name: assets/skins/skins/frame_tablets/index.xml
+SHA1-Digest: 6opaUOw8xN/t7jut0CzMoWtEErE=
+
+Name: assets/skins/skins/calculatorpanel/index.xml
+SHA1-Digest: LKqS9uh8W1WvTFzRbXw26RCXRKo=
+
+Name: assets/skins/skins/wgt_rss/dpi192/news_icon.png
+SHA1-Digest: w7ql2ssP4gwfRdKDp6KOSPu+PIU=
+
+Name: assets/skins/skins/wgt_weather/dpi192/96_1.png
+SHA1-Digest: /ijnzqmcRnJC67TXsbTIduTtNOs=
+
+Name: assets/skins/skins/wgt_weather/dpi192/96_28.png
+SHA1-Digest: qkssI2szHbCNWr0hAsz9+ZPC+tM=
+
+Name: assets/skins/skins/wgt_weather/dpi96/96_4.png
+SHA1-Digest: d5qUOcCX7UGd7j1AFC6hv18SfPw=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: OPUfVWcI42Jpmyv/ymx8LSVul1E=
+
+Name: assets/skins/skins/misc/dpi192/browser.png
+SHA1-Digest: cmQu89Gw2/UHRGe03LGHcChzDPw=
+
+Name: assets/skins/skins/wgt_weather/dpi96/72_8.png
+SHA1-Digest: cyQFb/LR1W19Z4dHmAp7QTWYIWw=
+
+Name: assets/skins/skins/timepanel_moon/dpi192/sunrune.png
+SHA1-Digest: KyrmRydsOQBIvNXKglQiagb+YmE=
+
+Name: res/drawable-hdpi-v4/voice_grey_default.png
+SHA1-Digest: G3k/LjLsFo/ZVBliN5GHhBuIGnw=
+
+Name: res/layout-ldpi/yandex_bar_classic.xml
+SHA1-Digest: 1VQ4/TzxWteOPFvXRfZK4xCuwD0=
+
+Name: assets/skins/skins/wgt_smsmms/dpi96/bubble.png
+SHA1-Digest: w82Lvdw94Y0wsRnLpoqUrUtLYvE=
+
+Name: assets/skins/skins/texts/jp/spbspbshell3d.htm
+SHA1-Digest: nMIksLpFBb3s1tovzBLJAVMFvT0=
+
+Name: assets/skins/skins/weatherscene/bgday.dds
+SHA1-Digest: MYAu8YlBPewk2zfQVSANjUB2PLs=
+
+Name: assets/skins/skins/wgt_demo/2_2.png
+SHA1-Digest: U1spL6mvMFPg+7kozwi87xPR6Pc=
+
+Name: assets/skins/skins/shaders/texmix1_f.glsl
+SHA1-Digest: SkvK793RbhDncTRmmclzqokYDF8=
+
+Name: assets/skins/skins/grouponpanel/frame.png
+SHA1-Digest: K+xzCvh39wIs3TnRFG8/7/aSAMI=
+
+Name: assets/skins/skins/wgt_demo/1_3.png
+SHA1-Digest: Q2/dob35eaY3ZQaixUCGnSaU2bA=
+
+Name: assets/skins/skins/wgt_yasearch/dpi192/icon.png
+SHA1-Digest: KnD1cYzuRiSJrs3+BQ53tpGlXMI=
+
+Name: assets/skins/skins/wgt_weather/dpi96/96_27.png
+SHA1-Digest: f+uPmM4S2pGwclZobxM2nLv/Z3E=
+
+Name: assets/skins/skins/menubar_tablets/dpi192/selector-home.dds
+SHA1-Digest: QppXHHNcy+XkwE4H0Em/qhR450w=
+
+Name: assets/skins/skins/wgt_weather/dpi96/96_1.png
+SHA1-Digest: BjLtTjD5VzDHnGfkTA0SU65OxC0=
+
+Name: assets/skins/skins/wgt_folder/dpi192/index.xml
+SHA1-Digest: HcLy4hDUCbHtOM+fo2LemRVT5w0=
+
+Name: assets/skins/skins/texts/am/spbshell3d.htm
+SHA1-Digest: r/ZuGNY4kYGB9LvJFFQZCzDPN3s=
+
+Name: assets/skins/skins/notespanel/notesbg.png
+SHA1-Digest: 8GTTWpOwn5eNJeNz9St/+M74/JA=
+
+Name: assets/skins/skins/wgt_weather/dpi128/96_2.png
+SHA1-Digest: QPIas0siiZNd7OSUAcwnCgNqX/k=
+
+Name: assets/skins/skins/wgt_weather/dpi192/72_30.png
+SHA1-Digest: oBXHMh0Jo17gk1I4lLTwCQGZ5IQ=
+
+Name: res/drawable-mdpi/ic_launcher_shortcut.png
+SHA1-Digest: wmcqrCCmHm0e98kiDCiG3aNRilE=
+
+Name: res/drawable/search_icon_pressed.png
+SHA1-Digest: yJqU/bYo5cv/c1gCnz9bFAiCsh0=
+
+Name: assets/skins/skins/wgt_worldtime/dpi192/globe.png
+SHA1-Digest: 61uDmULdPGyhfMTi7MvZPz1fbBI=
+
+Name: res/layout/logger_list_separator.xml
+SHA1-Digest: h/JEjR8glHDE6h110JSv7ir6sAA=
+
+Name: assets/skins/skins/wgt_weather/dpi128/32_2.png
+SHA1-Digest: XopIshQxocsHGicl+pLJqD8E9uI=
+
+Name: assets/skins/skins/timepanel_moon/index.xml
+SHA1-Digest: yPFsc1uS8bM0NpvKrY8AF9oHxAw=
+
+Name: assets/skins/skins/texts/th/spbshell3d.txt
+SHA1-Digest: RVFRgd8ywdI4UCsOuEEsVgLp5RY=
+
+Name: assets/skins/skins/shaders/cp_f.glsl
+SHA1-Digest: T4bTpHkyHaCx6VsInQZXA7y1ltI=
+
+Name: res/drawable-ldpi-v4/icon.png
+SHA1-Digest: PW7Vf2Sa6DGOSUVxO6tBU8PW3u0=
+
+Name: assets/skins/skins/misc/dpi192/contacts_action.png
+SHA1-Digest: Keu9Vl4EcWj+Eq46v5xGRwZcKiU=
+
+Name: assets/skins/skins/wgt_weather/dpi128/32_28.png
+SHA1-Digest: krz+J6U5QECtQjriLTUDbIGcYIo=
+
+Name: assets/skins/skins/wgt_weather/dpi192/custom-background.png
+SHA1-Digest: wdZZQWt7TaQCgICU4dk9YQz9EiU=
+
+Name: assets/skins/skins/texts/br/spbspbshell3d.htm
+SHA1-Digest: nMIksLpFBb3s1tovzBLJAVMFvT0=
+
+Name: assets/skins/skins/launcher/dpi192/home_icon.png
+SHA1-Digest: FiRW4CAj/CZUBdbrxTx4GAL3msg=
+
+Name: res/drawable-hdpi-v4/ya.png
+SHA1-Digest: W4xPV6VlR98usicAs/SydyOstvI=
+
+Name: res/drawable-ldpi-v4/ya_selected.png
+SHA1-Digest: V/XEbxA+k6wmT8AiEuxIbos8pr4=
+
+Name: assets/skins/skins/wgt_weather/dpi192/32_9.png
+SHA1-Digest: K+aFhEW0nDbYusimO+vas3HdyZM=
+
+Name: res/drawable-hdpi-v4/clear_pressed.png
+SHA1-Digest: XjmmkhJgyGCbyzoq01GbUySvYoI=
+
+Name: assets/skins/skins/wgt_weather/dpi128/tab_right.png
+SHA1-Digest: 3CETh95xqEPC1ortmAM5Asvn5+4=
+
+Name: res/xml/widget_info.xml
+SHA1-Digest: 0KxUQacxc0dKsDSm49cwzBrSfE4=
+
+Name: assets/skins/skins/weatherchart/index.xml
+SHA1-Digest: Zi5DdwvwtQKvd5hg5Ux20zx9IRA=
+
+Name: assets/skins/skins/wgt_demo/4_2.png
+SHA1-Digest: UUhLhjlsN/M9fUMfyXkIRhEienI=
+
+Name: assets/skins/skins/menubar/dpi192/ico-editpanels.png
+SHA1-Digest: vmStRP9OMGiDMViVuIVTSjCuvqE=
+
+Name: res/drawable-ldpi/dummy_icon.png
+SHA1-Digest: i7vxaosoiS+9HzKB7ZgIsXMYRLY=
+
+Name: assets/skins/skins/wgt_weather/dpi96/72_0.png
+SHA1-Digest: S+pa13LSSB66mJv2znySahz+a1Y=
+
+Name: assets/skins/skins/notespanel/cork.png
+SHA1-Digest: 0nB2GDpYcL1o3b20cn4TFVNUVtk=
+
+Name: assets/skins/skins/menubar/dpi192/index.xml
+SHA1-Digest: RA7piEpZBh2jkECWgdHdjS76kBg=
+
+Name: assets/skins/skins/wgt_folder/dpi192/ico_albums.png
+SHA1-Digest: r9umLmXJjW8Ehrm0KFCxcP+Tufw=
+
+Name: res/drawable-hdpi-v4/yandex_bar_classic_bg.9.png
+SHA1-Digest: WLNamvwOqLdRGDZvZJxt8K6q0YI=
+
+Name: res/drawable-ldpi-v4/ya.png
+SHA1-Digest: xWxLpaqAgKmt1XyH8eZCZkahw2s=
+
+Name: res/drawable-hdpi/ic_shell_notification.png
+SHA1-Digest: ND3SL3FTd4gJ2wLQaOG3aVkqYbQ=
+
+Name: assets/skins/skins/wgt_weather/dpi96/32_29.png
+SHA1-Digest: nCcPoCjY47SK2dD5uLUKK0pQ5QI=
+
+Name: assets/skins/skins/wgt_weather/dpi96/96_19.png
+SHA1-Digest: gekPBtufizP/nDOsuXICf/sdul4=
+
+Name: res/layout/audio_search_list.xml
+SHA1-Digest: UenDOC1c6bNTcwWR2gsY02G7BF4=
+
+Name: assets/skins/skins/widgeticons/dpi192/gallery.png
+SHA1-Digest: zGqfI2QzXkNAKr37LPoJYuTSp94=
+
+Name: res/layout/z_main.xml
+SHA1-Digest: SAAz7t7FTH6J/F1DwZZNATDKxjc=
+
+Name: assets/skins/skins/wgt_weather/dpi128/custom-background.png
+SHA1-Digest: mDwEo2HW4UsWLAABzDLodtx9f3Q=
+
+Name: assets/skins/skins/wgt_weather/dpi128/32_12.png
+SHA1-Digest: 9MTJOfkWwhg+WTxuG7Fu1LTUCnE=
+
+Name: assets/skins/skins/notespanel/dot_off.png
+SHA1-Digest: NTqwdeD2chxxdcWaHdz7UF91/s8=
+
+Name: res/drawable/search_edit_focused.9.png
+SHA1-Digest: 1fdg/WXIadWq2DOFeSc24aNi8b4=
+
+Name: assets/skins/skins/res_contact/dpi192/sep_h21.png
+SHA1-Digest: pV/mD2jiGAAFnRGoTMJ6bpOFhco=
+
+Name: assets/skins/skins/wallpapers/default/panel_small_black.png
+SHA1-Digest: X3MPAMPlay7RfH9dVTwP2Biym84=
+
+Name: assets/skins/skins/wgt_weather/dpi192/72_27.png
+SHA1-Digest: IVSYm2QzrtdSIi0UZarKXMh9doY=
+
+Name: assets/skins/skins/wgt_weather/dpi128/32_21.png
+SHA1-Digest: R8yvFzkqNTLNMsITWo+7ybddGOk=
+
+Name: assets/skins/skins/layouts/wgt_contact_m.xml
+SHA1-Digest: sOiGNH1nIbjOy3ZJwrrVk97o6sc=
+
+Name: assets/skins/skins/wgt_weather/dpi192/96_7.png
+SHA1-Digest: cY7gB0+aTJNZ9703VXfDettu+6o=
+
+Name: assets/skins/skins/res_contact/dpi192/calldir2.png
+SHA1-Digest: Pm74wmV+uErEgdohdWjmIJiqBS4=
+
+Name: assets/skins/skins/misc/dpi192/rename.png
+SHA1-Digest: AkmNibg3GzJjvTsSdmxYc6IbN8o=
+
+Name: assets/skins/skins/wgt_weather/dpi192/72_2.png
+SHA1-Digest: zn/rzgt/2hUgNzicPTXKx7oTMz8=
+
+Name: assets/skins/skins/shaders/bbt0a_f.glsl
+SHA1-Digest: hqRczH+/N/GgjWdD4NOmy5lUUCM=
+
+Name: res/layout/generic_dialog_box.xml
+SHA1-Digest: 9fGQjzE3trcJ1PDq3TXSlcLk+Lk=
+
+Name: assets/skins/skins/wgt_weather/dpi96/icon_wind.png
+SHA1-Digest: stZHiEdUFANLEJxKuedh8G1cqn0=
+
+Name: res/layout/audio_search_dialog.xml
+SHA1-Digest: paHcSgypUiqTEnf1OmWHnqrxT2w=
+
+Name: assets/skins/skins/wgt_weather/dpi96/96_0.png
+SHA1-Digest: txDsD2TuMO36/tBhX2wAsOf8xm4=
+
+Name: assets/skins/skins/misc/dpi192/spbwidget.png
+SHA1-Digest: oVxrfEgwCPqt/QP1c+EXpU12lpY=
+
+Name: assets/skins/skins/wgt_frame_tablets/dpi96/frame.png
+SHA1-Digest: E8oXCkc114i71Z48nKI8dBpGoXw=
+
+Name: assets/skins/skins/layouts/index.xml
+SHA1-Digest: ooNBtFi9dcdJX3HB9jgbLKDxTsY=
+
+Name: assets/skins/skins/shaders/bkgbbt0_v.glsl
+SHA1-Digest: dgEC06tW+1ecLl77mMA2+xU3YLo=
+
+Name: res/drawable-tr/icon.png
+SHA1-Digest: eVPmsdDjtEJCr20CER0/iq48W6w=
+
+Name: assets/skins/skins/settings/dpi192/appearance.png
+SHA1-Digest: TcGqW6oDktYLYE/hPzp6SlviSJ0=
+
+Name: assets/skins/skins/texts/fa/spbshell3d.txt
+SHA1-Digest: WxDKCwTEdjxBP4Zz8G6P5+wO8Ec=
+
+Name: assets/skins/skins/wgt_weather/dpi192/32_27.png
+SHA1-Digest: Ree+l7scBRATXKA2XsepWpC3TxQ=
+
+Name: assets/skins/skins/shaders/anaglyph_optimized_f.glsl
+SHA1-Digest: IjMtPkgR+LahMRPXiSaGmv5+Urw=
+
+Name: res/layout/z_services_item.xml
+SHA1-Digest: gsQ40fceTBXjqQDqaejzYpwXXg4=
+
+Name: assets/skins/skins/wgt_weather/dpi192/tab_highlight.png
+SHA1-Digest: bbn2Kf8r7Gn7OF0eI/Y3No3dZ0Q=
+
+Name: assets/skins/skins/wgt_weather/dpi128/96_21.png
+SHA1-Digest: /olR+aViZfIzCC816/He2Rm+bFs=
+
+Name: assets/skins/skins/wgt_weather/dpi192/96_4.png
+SHA1-Digest: hYENxrcEBedGqTRgTajGzfuYVlY=
+
+Name: assets/skins/skins/wgt_demo/5_4.png
+SHA1-Digest: 69TiE2rI8Lktb5OqMZL8BKH5OTE=
+
+Name: assets/skins/skins/wgt_plus/dpi192/plus.png
+SHA1-Digest: 5HIwiQkQ8SEzm4onqJq1mq89Iy4=
+
+Name: assets/skins/skins/menubar_tablets/dpi192/calllog.dds
+SHA1-Digest: ZpbIF+ex9WxwMdbm1IatKOImXm8=
+
+Name: assets/skins/skins/contact_card/dpi192/video_icon.png
+SHA1-Digest: 3OlIZFT3QM/3CTHA/DH304ZOmUo=
+
+Name: assets/skins/skins/wgt_weather/dpi192/32_13.png
+SHA1-Digest: D6GeBneThLH1csFbheg4XJBGrSA=
+
+Name: assets/skins/skins/wgt_weather/dpi96/32_6.png
+SHA1-Digest: E/op/GioM5RoU4eNoJfiwziF5rA=
+
+Name: assets/skins/skins/wgt_frame_tablets/dpi96/frame_small.png
+SHA1-Digest: UPXRB1Csiw0ft3pA6PYKaphSx/M=
+
+Name: assets/skins/skins/wgt_demo/3_3.png
+SHA1-Digest: YOzCKKQDtS1a4O7KxIZODNvSmzY=
+
+Name: assets/skins/skins/wgt_wireless/dpi192/index.xml
+SHA1-Digest: rqo4fdms8zUhX5dvliVk66+hKo0=
+
+Name: assets/skins/skins/texts/ro/spbspbshell3d.htm
+SHA1-Digest: nMIksLpFBb3s1tovzBLJAVMFvT0=
+
+Name: assets/skins/skins/zodiac/scorpio.png
+SHA1-Digest: qrPc+hG3ElaeTXV80HWOolrvYlk=
+
+Name: assets/skins/skins/layouts/menubtnscar.xml
+SHA1-Digest: 2xLegskvVrcVVmV55+O9eetE3CM=
+
+Name: assets/skins/skins/layouts/worldtimepopup.xml
+SHA1-Digest: N27BLH3imH7iirykrvZjj8Biq/c=
+
+Name: assets/skins/skins/wgt_weather/dpi192/96_9.png
+SHA1-Digest: fPkCeUp8dq8irTkkAJ8UztEatmU=
+
+Name: assets/skins/skins/timepanel_moon/dpi192/moon_map.png
+SHA1-Digest: xaMZzZzVse4X3fTWHJbZTDARK7E=
+
+Name: assets/skins/skins/texts/uk/spbshell3d.htm
+SHA1-Digest: r/ZuGNY4kYGB9LvJFFQZCzDPN3s=
+
+Name: assets/skins/skins/widgeticons/dpi192/flight.png
+SHA1-Digest: GbpJiMa3rYhqAteNqR3DKvMY9XI=
+
+Name: assets/skins/skins/timepanel_moon/dpi192/star.png
+SHA1-Digest: xqqy8mVu9i9+4q4uRHDgZguxJZ4=
+
+Name: assets/skins/skins/wgt_weather/dpi128/72_17.png
+SHA1-Digest: ZvdiygfSmhAvewT1Wps5+SHanEo=
+
+Name: assets/skins/skins/textures/innerglow.dds
+SHA1-Digest: dzNlsZ8WwNF92zaicNWImu2xL5o=
+
+Name: assets/skins/skins/wgt_weather/dpi128/32_16.png
+SHA1-Digest: FBB6qtVPnOwG5H6g2xQ3nRl7KxA=
+
+Name: assets/skins/skins/misc/dpi192/popupheader_b.png
+SHA1-Digest: tYrjE7QiWyZtfh+AMh0l7mzTlpU=
+
+Name: assets/skins/skins/wgt_weather/dpi96/96_30.png
+SHA1-Digest: fVSY75cyMPcj0mZfriMut45MyDM=
+
+Name: assets/skins/skins/texts/ca/spbshell3d.txt
+SHA1-Digest: X7xA/NMCoo0pv3aRUjZkw+nFJ68=
+
+Name: assets/skins/skins/wgt_smsmms/dpi128/sep_v41.png
+SHA1-Digest: qVr2aVWt+xfLsiMliHvaPkQpjis=
+
+Name: res/layout/yandex_bar_grey.xml
+SHA1-Digest: knuQlnJ/qmZMD/dlFV00XewMSXI=
+
+Name: assets/skins/skins/wgt_weather/dpi128/96_27.png
+SHA1-Digest: zVB2iwPJO8jGwt3BCoajzdWtKuY=
+
+Name: assets/skins/skins/wgt_icon_tablets/dpi192/badge_bg.png
+SHA1-Digest: bQsS/jwlYnWbKZp3WD4rrttTbJc=
+
+Name: assets/skins/skins/misc/clock.png
+SHA1-Digest: rcYzAmdmDIQFOTrbZszFszaHjOc=
+
+Name: assets/skins/skins/timepanel_moon/dpi192/fullmoon_icon90.png
+SHA1-Digest: S7NU643nmzYUaXD10gtA6WJkwso=
+
+Name: assets/skins/skins/texts/ro/spbshell3d.txt
+SHA1-Digest: RWGjp+w5fQiiZb5BSu4StMfIzX8=
+
+Name: assets/skins/skins/shaders/anaglyph_gray_v.glsl
+SHA1-Digest: HbbCXfo2ZzLuHUnyqf2sCT4OP6Q=
+
+Name: res/drawable-hdpi-v4/voice_grey_pressed.png
+SHA1-Digest: oHeVveOIp8AAzbeb6H+640YZ4XE=
+
+Name: assets/skins/skins/wgt_folder/dpi192/folder_closed_small.png
+SHA1-Digest: x6M9CL801EuR/+Rni32Jkm8OHCE=
+
+Name: res/drawable/pencil.png
+SHA1-Digest: Q41jACuIIRvvAwIWKsulxXz/j7I=
+
+Name: assets/skins/skins/texts/es/spbshell3d.txt
+SHA1-Digest: oGCDL514G8uS3bJ931SdC93668k=
+
+Name: assets/skins/skins/wgt_frame_tablets/dpi154/header.png
+SHA1-Digest: WkOYnbhdT/kkOSp4JLPecIKQSMI=
+
+Name: assets/skins/skins/wgt_weather/dpi96/72_1.png
+SHA1-Digest: L+5BteJFu5i5HPiZr82Tx2M/Zgs=
+
+Name: res/drawable-hdpi/ic_menu_add_folders.png
+SHA1-Digest: B4jfKKakUfTvLKXI4yVq9tdB2no=
+
+Name: assets/skins/skins/wgt_weather/dpi192/32_17.png
+SHA1-Digest: ypAlez5wZHUXNcxuFM0jPHBrmKE=
+
+Name: assets/skins/skins/wgt_weather/dpi96/72_30.png
+SHA1-Digest: 1qVqriZwlR6ZUAW/AN6pik6PNNs=
+
+Name: res/drawable-ldpi-v4/button_grey_pressed.png
+SHA1-Digest: JCzvVFCoZSMOaUDAAWifKWv1ck8=
+
+Name: assets/skins/skins/wgt_weather/dpi96/72_26.png
+SHA1-Digest: 5tY/pRFRO4ZRP+9/UVGQ0e5I71w=
+
+Name: assets/skins/skins/timepanel_moon/dpi192/moonfull.png
+SHA1-Digest: RoNW4iHPmR5PBul7LShj1NLQuLo=
+
+Name: assets/skins/skins/texts/tr/spbspbshell3d.htm
+SHA1-Digest: nMIksLpFBb3s1tovzBLJAVMFvT0=
+
+Name: assets/skins/skins/wgt_weather/dpi128/72_16.png
+SHA1-Digest: IyT0hTHNqngpxLe4C/14H/NP3h0=
+
+Name: assets/skins/skins/shaders/t0t1a_f.glsl
+SHA1-Digest: QzWbd1dF3by2ZhLOWfwLBL/SeA8=
+
+Name: assets/skins/skins/timepanel_moon/dpi192/solar.bin
+SHA1-Digest: R/gUliX+CwBDGjQvn5iZ0UcKx34=
+
+Name: assets/skins/skins/wgt_weather/dpi128/72_3.png
+SHA1-Digest: pa3DDfwRvpfdJwpVXrhgv/h03qE=
+
+Name: assets/skins/skins/layouts/wgt_clock.analog.xml
+SHA1-Digest: 09ItO0nALJPcvy553irUWSwQ94I=
+
+Name: assets/skins/skins/wgt_weather/dpi96/32_18.png
+SHA1-Digest: FzELQTqNRwD/o8B8a6c/vWSFVVw=
+
+Name: res/drawable-hdpi-v4/input_modern_grey_default.9.png
+SHA1-Digest: saJud+KQBv13ejj3k3W5spI1YwA=
+
+Name: assets/skins/skins/wgt_birthdays/empty.png
+SHA1-Digest: 2U4YyplRCI4GQOMrbidmUZ9Ck3I=
+
+Name: assets/skins/skins/shaders/bumpd0_f.glsl
+SHA1-Digest: asCqbcWA+oYhGPZG4q5qRhQK13M=
+
+Name: assets/skins/skins/misc/calculator.png
+SHA1-Digest: vFGSar3vpC+BeuBirZF5fjTFnLk=
+
+Name: assets/skins/skins/widgeticons/dpi192/index.xml
+SHA1-Digest: UYJb4OV6/vYQygrCwIBi82MkCLQ=
+
+Name: assets/skins/skins/wgt_demo/2_5.png
+SHA1-Digest: wstwUaCRGTQ05/4B7P7xyapOzt0=
+
+Name: assets/skins/skins/wgt_weather/dpi96/72_6.png
+SHA1-Digest: DH8X9LTg3KB1uy/n5A2HZDuxW2g=
+
+Name: assets/skins/skins/wgt_album/dpi192/empty.png
+SHA1-Digest: 2F9t3Hydbd9WQx6bukPGU4PbVXA=
+
+Name: res/drawable-mdpi/weather_large_humidity.png
+SHA1-Digest: jZCH5G/HhXLJKbZvngIT8Ud9O7k=
+
+Name: assets/skins/skins/texts/sc/spbspbshell3d.htm
+SHA1-Digest: nMIksLpFBb3s1tovzBLJAVMFvT0=
+
+Name: assets/skins/skins/layouts/birthdaypopup.xml
+SHA1-Digest: 5kGfgVnJrFQXV5be6HqR+Ae+FBs=
+
+Name: assets/skins/skins/wgt_weather/dpi96/32_16.png
+SHA1-Digest: AI9VTEeqKovLKQsSnAe4PTMMV2Q=
+
+Name: assets/skins/skins/wgt_weather/dpi96/sep_v1.png
+SHA1-Digest: RQ030EJSvsKSxqQA3La9Z1a6TAc=
+
+Name: assets/skins/skins/wgt_weather/dpi128/72_7.png
+SHA1-Digest: jWjWaEfg/yVIyo/mFd/XunAJEBQ=
+
+Name: assets/skins/skins/texts/es/spbshell3d.htm
+SHA1-Digest: tjSFZQWeZOz9+O47gr/iPS7r2gA=
+
+Name: assets/skins/skins/res_contact/dpi192/event.png
+SHA1-Digest: sdb9hkGxSGhuhIyEgopLOMciLXo=
+
+Name: assets/skins/skins/wgt_weather/dpi96/32_24.png
+SHA1-Digest: FOnJFq59Z6NNoWSUV+IRh7WLJTM=
+
+Name: assets/skins/skins/wgt_birthdays/bd_icon.png
+SHA1-Digest: rkqoz8jiEmBQq+NyCitSRCrfXtI=
+
+Name: assets/skins/skins/wgt_demo/5_3.png
+SHA1-Digest: e1OXNK8IfQcENaZKBIYvw+D/TxE=
+
+Name: assets/skins/skins/res_contact/dpi192/btday.png
+SHA1-Digest: sdb9hkGxSGhuhIyEgopLOMciLXo=
+
+Name: assets/skins/skins/timepanel_moon/dpi192/zodiac.bin
+SHA1-Digest: 5W0Cr6NjL6fpDkEohV/XTK9c028=
+
+Name: res/layout/dialog_content_view.xml
+SHA1-Digest: UJkZuAjWBzUrE826m7N9FQ+LVPw=
+
+Name: assets/skins/skins/wgt_weather/dpi96/96_10.png
+SHA1-Digest: U/0CT9PEl4JyO6b3lnpr4GcbnHk=
+
+Name: assets/skins/skins/wgt_weather/dpi192/96_26.png
+SHA1-Digest: GdLnDmnMM6PoHutg6nWpBEnyXAo=
+
+Name: assets/skins/skins/res_contact/dpi192/sms_action_icon.png
+SHA1-Digest: SIn5/fci2xyuvxmCb1LgtmQYcQQ=
+
+Name: lib/armeabi/libshell3d.so
+SHA1-Digest: LOHnLZznk9D9JJmUvqTrn/jXk6E=
+
+Name: assets/skins/skins/wgt_weather/dpi96/32_28.png
+SHA1-Digest: 3FmySqu1wplCtWYOLOLHaT+L6Fc=
+
+Name: assets/skins/skins/zodiac/aries.png
+SHA1-Digest: A8HJD4F1o5wWy60rut0MK6ykywc=
+
+Name: assets/skins/skins/layouts/simplelist.xml
+SHA1-Digest: Mu0H9bf26edEajwTSnQVcVUU9KI=
+
+Name: assets/skins/skins/layouts/backgrdframe.xml
+SHA1-Digest: 6JcCx2zkW6UqR+Ej272x7+o2qRM=
+
+Name: assets/skins/skins/widgeticons/dpi192/messages.png
+SHA1-Digest: 1bQCOCXEzubuegPin2jwj508O9I=
+
+Name: assets/skins/skins/texts/it/spbshell3d.txt
+SHA1-Digest: Srmc1wZhP7QHoOAcl4nwW0406I8=
+
+Name: res/drawable-ldpi-v4/voice_classic_default.png
+SHA1-Digest: umHdBmRjUvRZFntu03W0a1t8DDk=
+
+Name: assets/skins/skins/misc/dpi192/settings.png
+SHA1-Digest: aDVwR1tc/zvmjKtNvpYC0yFUa80=
+
+Name: res/drawable-mdpi/weather_ic_menu_refresh.png
+SHA1-Digest: VLEX1uhZQd0g+9EKYxd8J3R4jsg=
+
+Name: assets/skins/skins/misc/dpi192/today.png
+SHA1-Digest: +SZ0bE1bDbNTFCR3hTe9Teflk74=
+
+Name: assets/skins/skins/misc/minus.png
+SHA1-Digest: kPyS7WHi7I94g0TEBsrpEGqbT5M=
+
+Name: assets/skins/skins/texts/it/spbshell3d.htm
+SHA1-Digest: tjSFZQWeZOz9+O47gr/iPS7r2gA=
+
+Name: assets/skins/skins/wgt_weather/dpi128/72_6.png
+SHA1-Digest: V6FFF1rqLgKcNJ5DPK4U5ebt+FA=
+
+Name: res/drawable-ldpi-v4/clear_pressed.png
+SHA1-Digest: y8w7LJ/xGWd3Q7ZigqMAyuLVY1M=
+
+Name: res/drawable-ldpi-v4/service_mail.png
+SHA1-Digest: sIXqBln33V6qAx6A5ek7nNYy3UI=
+
+Name: assets/skins/skins/calendar/dpi96/calendar.png
+SHA1-Digest: uCp0LmjUzJm2JNAlEEpOqc2qz6Q=
+
+Name: assets/skins/skins/misc/dpi192/settingswnd.png
+SHA1-Digest: oiRF5Vsl5WecANexZ71VgLc6SmM=
+
+Name: assets/skins/skins/wgt_yasearch/dpi192/voice_modern_default.png
+SHA1-Digest: vsv/Rjl233R8FgvxvO7iI/VuZcs=
+
+Name: assets/skins/skins/wgt_smsmms/dpi128/index.xml
+SHA1-Digest: mpu1Vt3dQezuwNnxZjREcoGZD3c=
+
+Name: assets/skins/skins/wgt_weather/dpi96/sep_h2.png
+SHA1-Digest: cS1Wzvc1G2KhCzIfjqfMiUwIWsg=
+
+Name: res/drawable-hdpi-v4/item_contact.png
+SHA1-Digest: YmqCV2XWux7Z5dF1DCGEs99HEMc=
+
+Name: assets/skins/skins/wgt_wireless/dpi192/states.png
+SHA1-Digest: Yk5d7PNiS9TLJTlsGbkORUjAYuQ=
+
+Name: assets/skins/skins/weatherscene/bgnight.dds
+SHA1-Digest: NSu7rgzUud2p7chYENwfK5NEYmE=
+
+Name: assets/skins/skins/shaders/anaglyph_halfcolor_f.glsl
+SHA1-Digest: Eilbcu626sVx/8IIszYYvpiDU8Q=
+
+Name: assets/skins/skins/misc/dpi192/sethome.png
+SHA1-Digest: tBd3nBca/BEu1U3lGs8CEZHmJaI=
+
+Name: assets/skins/skins/wgt_weather/dpi128/96_29.png
+SHA1-Digest: 5fE9ZCjPENVb5qOpey5wZGG++lk=
+
+Name: assets/skins/skins/res_contact/dpi192/userpic.png
+SHA1-Digest: aBPXTZkz7GhLmey6NGqcW/jhbsE=
+
+Name: res/drawable/bold_line.xml
+SHA1-Digest: 9AqfBykECTFGpkLlDt8xrvuRXJg=
+
+Name: assets/skins/skins/custom_backgrounds/dpi192/background_10.png
+SHA1-Digest: wdZZQWt7TaQCgICU4dk9YQz9EiU=
+
+Name: assets/skins/skins/wgt_icon/dpi192/index.xml
+SHA1-Digest: x857FTsyEp6ue7HJThdp5LG6kNU=
+
+Name: assets/skins/skins/wgt_weather/dpi128/32_0.png
+SHA1-Digest: NsiGhW2Gb9fnMX/N4qaSF3V5rrQ=
+
+Name: assets/skins/skins/texts/ru/spbshell3d.htm
+SHA1-Digest: tjSFZQWeZOz9+O47gr/iPS7r2gA=
+
+Name: assets/skins/skins/wgt_demo/2_1.png
+SHA1-Digest: lGvhLXRVjUf6BFUQpbts8GpD8iM=
+
+Name: res/drawable-ldpi/ic_menu_sort_by_size.png
+SHA1-Digest: 0APjY2L+Mv4Lh5lqMGNgs26jZJI=
+
+Name: assets/skins/skins/wgt_folder/index.xml
+SHA1-Digest: LA8qQ6UAHVV9+jGe8jSi15bNyHQ=
+
+Name: assets/skins/skins/textures/index.xml
+SHA1-Digest: ooNBtFi9dcdJX3HB9jgbLKDxTsY=
+
+Name: assets/skins/skins/wgt_worldtime/dpi192/icon.png
+SHA1-Digest: jsbvKvdXlxEH+qfDTyzWD0nzTt0=
+
+Name: assets/skins/skins/wgt_icon_tablets/dpi192/corners.png
+SHA1-Digest: /SI9VEa6/WEa9zLx0IWMFSEw/MQ=
+
+Name: assets/skins/skins/wgt_weather/dpi192/72_16.png
+SHA1-Digest: rd9YpD4/tWmDy164Dah8hHrC/KY=
+
+Name: assets/skins/skins/weatherscene/snow_2.dds
+SHA1-Digest: 8M2YH3T/sIwiXh5xh1rNKuaB5nE=
+
+Name: assets/skins/skins/shaders/t0acon_v.glsl
+SHA1-Digest: Up/r9mOITAUheOfaEF4uFPJ4DhA=
+
+Name: assets/skins/skins/texts/fa/spbshell3d.htm
+SHA1-Digest: r/ZuGNY4kYGB9LvJFFQZCzDPN3s=
+
+Name: assets/skins/skins/shaders/p0uc_f.glsl
+SHA1-Digest: wPVUd/GgvIqA/pFHcUwC5NQdlCk=
+
+Name: assets/skins/skins/layouts/notespanel.xml
+SHA1-Digest: TGVgzZbaAkFjWuEX2ORClY2hDB4=
+
+Name: assets/skins/skins/calculatorpanel/dpi192/background.png
+SHA1-Digest: FSG9TwuzI5Td7ckq+V7MxKebhJw=
+
+Name: assets/skins/skins/texts/fi/spbspbshell3d.htm
+SHA1-Digest: nMIksLpFBb3s1tovzBLJAVMFvT0=
+
+Name: res/drawable-ldpi-v4/button_modern_pressed.png
+SHA1-Digest: Ud2dUiigSYqEyM7JCA97LATcAUk=
+
+Name: res/drawable/yandex_bar_modern_bg.9.png
+SHA1-Digest: ULgWY8ZdPFimlTOy7UWFpK4I4LU=
+
+Name: assets/skins/skins/font8x16.bmp
+SHA1-Digest: 99VqNT7t7kpMsfsHKmYatcqa5M4=
+
+Name: res/drawable/voice_classic.xml
+SHA1-Digest: S8l78it8Qz7WSdrG9mWalnICaaY=
+
+Name: assets/skins/skins/rsspanel/dpi192/photo.png
+SHA1-Digest: eB0COdaZN2bJn4EA9PhAvkpBvq0=
+
+Name: assets/skins/skins/wgt_weather/dpi128/72_20.png
+SHA1-Digest: Xeszq7ngpjHWWR339Ng+e+lDL88=
+
+Name: assets/skins/skins/shaders/warp_v.glsl
+SHA1-Digest: CWjzsgZH5bFnvDDDEt23WBUOAcg=
+
+Name: assets/skins/skins/grouponpanel/show.png
+SHA1-Digest: GTMp12WDUzV5L0L9nSNZIzEthOE=
+
+Name: assets/skins/skins/res_contact/dpi192/addcontact.png
+SHA1-Digest: 0C2grnTTu7OOCLYvuv4pifl+bXM=
+
+Name: assets/skins/skins/wgt_weather/dpi128/72_13.png
+SHA1-Digest: H7eyXmv6ggCdsQPwVitD5cK/ego=
+
+Name: assets/skins/skins/wgt_weather/dpi96/72_22.png
+SHA1-Digest: bI6rA9IiMJaJnjdhzEv/4WxiJGo=
+
+Name: assets/skins/skins/widgeticons/index.xml
+SHA1-Digest: e5CB7VjSIiomJwhoxzumqFjrVLE=
+
+Name: assets/skins/skins/wgt_weather/dpi192/96_19.png
+SHA1-Digest: RlpR7iDXBwvUm/8pi2sF75o29jM=
+
+Name: assets/skins/skins/wgt_frame/dpi192/gloss.png
+SHA1-Digest: LKdD6LlU3mkoTj9dkFD1iIyWCXA=
+
+Name: assets/skins/skins/wgt_weather/dpi128/32_27.png
+SHA1-Digest: fi7i3MSBiWnCb2qqE64ZzeGz8oQ=
+
+Name: assets/skins/skins/wgt_weather/dpi192/sep_h2.png
+SHA1-Digest: nrPo9nljEhR5IG2UxwBt7SX8uIM=
+
+Name: assets/skins/skins/wgt_weather/dpi96/96_7.png
+SHA1-Digest: 8CcKzDAziWAY98DGuU9oxgd64+A=
+
+Name: res/xml/services.xml
+SHA1-Digest: BKWO+m3wb88JOl6b+B8+OsSjcdI=
+
+Name: assets/skins/skins/wallpapers/default/panel_icon.png
+SHA1-Digest: 4b32ngezXn9TaUGLubNm9HtQKfg=
+
+Name: assets/skins/skins/wgt_weather/dpi192/96_3.png
+SHA1-Digest: VFdu24qN3jYbAl5E2ExTpMxSoBE=
+
+Name: assets/skins/skins/wgt_weather/dpi192/bar.png
+SHA1-Digest: K9aKpemY8nfS7+jLL5r8P+kdKaY=
+
+Name: assets/skins/skins/gallery/index.xml
+SHA1-Digest: HbDja2967VKGRC+M/+7kTps/ceM=
+
+Name: assets/skins/skins/widgeticons/dpi192/battery.png
+SHA1-Digest: iYApg3cj0i6WPCZsGUCHaM0X70Y=
+
+Name: res/drawable/provider_shadow_hor.xml
+SHA1-Digest: l54R/Xagl5rjw+fR49o5gmmnwCQ=
+
+Name: assets/skins/skins/zodiac/aquarius.png
+SHA1-Digest: 0Y/DkShIMtRE6+IkH+nQTBaDPeo=
+
+Name: assets/skins/skins/wgt_weather/dpi192/32_26.png
+SHA1-Digest: jsBpxqG8EWOu6LOJ9k6aX0eUSDw=
+
+Name: assets/skins/skins/wgt_weather/dpi128/72_27.png
+SHA1-Digest: v6cVbzU9YCS8FnmBvWkG2KBJ2gw=
+
+Name: assets/skins/skins/wgt_demo/4_4.png
+SHA1-Digest: ert+mYSRwXJNPl0r7vUuF/OTpcg=
+
+Name: assets/skins/skins/wgt_weather/dpi96/32_26.png
+SHA1-Digest: qpcRIx7KeXnRJffBZIh/y0O0KSc=
+
+Name: assets/skins/skins/layouts/menubtnsweather.xml
+SHA1-Digest: 7v5HPWLO/KpgZ2xeV60mY9rK5VU=
+
+Name: assets/skins/skins/wgt_weather/dpi96/32_17.png
+SHA1-Digest: aWlUW6wYoUHUIiyl+bUN0BtJpaY=
+
+Name: assets/skins/skins/wgt_weather/dpi96/tab_right.png
+SHA1-Digest: esFAHqjL/mNd2Xrs83lneZPwTs8=
+
+Name: assets/skins/skins/wgt_weather/dpi192/96_2.png
+SHA1-Digest: fzBZora9u9EhkQ+Fl89m93uZXEc=
+
+Name: assets/skins/skins/shaders/ilace_v.glsl
+SHA1-Digest: UAIaQNH1WvGX3XH3ItU6VAgEwX4=
+
+Name: assets/skins/skins/calendar/dpi96/index.xml
+SHA1-Digest: oTFXds72gZ0jrV4xEbv5vS+QtqY=
+
+Name: assets/skins/skins/wgt_folder/dpi192/ico_bookmk.png
+SHA1-Digest: 4O/Vi/WzNuMYLo6Gf+4DI6WdC+U=
+
+Name: assets/skins/skins/layouts/weatherpanel_dock.xml
+SHA1-Digest: w8b+PzXgnGd7tQjyoOKsGFewDDQ=
+
+Name: assets/skins/skins/wgt_smsmms/dpi96/sep_v41.png
+SHA1-Digest: JJ6iNiKXlWMxQNWJ4OwcWnOS8Uk=
+
+Name: assets/skins/skins/wgt_weather/dpi128/graphbg.png
+SHA1-Digest: eKWxo6WH73Cmt8vrwVi28HWIJbQ=
+
+Name: assets/skins/skins/layouts/menu.xml
+SHA1-Digest: 8KaqdXN9Bv+xQ22yfBcmKlSm3cI=
+
+Name: assets/skins/skins/wgt_weather/dpi128/icon_humid.png
+SHA1-Digest: YQELDy7VBzOU7prN04jk+pYeSec=
+
+Name: res/drawable-ldpi-v4/service_market.png
+SHA1-Digest: FOLn/z9BK81enD0TeY45V4N3en4=
+
+Name: assets/skins/skins/menubar/dpi192/l/toolbar.png
+SHA1-Digest: qq6JKwO7+9kmLXyfKmNoZZRDm1c=
+
+Name: assets/skins/skins/wgt_demo/5_2.png
+SHA1-Digest: CR8A2pEJroOTFycxLLcY8FQFdfI=
+
+Name: assets/skins/skins/res_contact/dpi192/calldir3.png
+SHA1-Digest: vrmcGNPtoZeJFTLQlRjTDUS4gcA=
+
+Name: res/drawable/clear.xml
+SHA1-Digest: eFenMQ98XPeoTqo2tK0U0ttXH1A=
+
+Name: assets/skins/skins/layouts/tray.xml
+SHA1-Digest: YBb0EcIiTBAHXPmXWAoc1L4Bl6w=
+
+Name: assets/skins/skins/wgt_profile/dpi192/index.xml
+SHA1-Digest: 4Cn1VL7RenJYeB+fqnEqukJOe30=
+
+Name: assets/skins/skins/wgt_weather/dpi128/96_26.png
+SHA1-Digest: gw79+Rd/xWM03+v4Oejz5TTHQKw=
+
+Name: assets/skins/skins/wgt_weather/dpi96/72_2.png
+SHA1-Digest: G13x8l/YY4Hq0K3XZyJww6jeRdA=
+
+Name: assets/skins/skins/shaders/anaglyph_true_v.glsl
+SHA1-Digest: HbbCXfo2ZzLuHUnyqf2sCT4OP6Q=
+
+Name: assets/skins/skins/wgt_weather/dpi96/72_23.png
+SHA1-Digest: +xb/L7igfo6X+64WRODfn02zHv8=
+
+Name: res/drawable-hdpi-v4/service_market.png
+SHA1-Digest: YhJP2ozpOeBLIa2MrN1QsfRveUw=
+
+Name: assets/skins/skins/layouts/common.xml
+SHA1-Digest: 0heKNeyTg6De/9+YGBRZv39oh60=
+
+Name: assets/skins/skins/wgt_weather/dpi96/72_13.png
+SHA1-Digest: ctmu+C5KcJAmRMUJ//mLQ8JkJT8=
+
+Name: assets/skins/skins/misc/dpi192/downl.png
+SHA1-Digest: umXHiuVZpdUEYyDdpexuTER+pzA=
+
+Name: assets/skins/skins/texts/lv/spbshell3d.txt
+SHA1-Digest: jSBfGE/Z1x+iPhi56lyenK15IR8=
+
+Name: res/drawable-hdpi/ic_menu_delete.png
+SHA1-Digest: K6s1ElCqWMizmKN86eqeKk4pKwk=
+
+Name: assets/skins/skins/wgt_folder/dpi192/edit_title.png
+SHA1-Digest: zzePx6BwU1vmqREboiHiaisK/c4=
+
+Name: assets/skins/skins/layouts/optionspopup.xml
+SHA1-Digest: Z98YrXTYRwMyzpxl6HpDzUzJ64c=
+
+Name: assets/skins/skins/misc/dpi192/change.png
+SHA1-Digest: /vbpw37q8ONRxRGXvOw+fPAxjUE=
+
+Name: res/drawable/button_modern.xml
+SHA1-Digest: 5mA6jKSoOy7OPguew5rOLncxHRw=
+
+Name: assets/files/world-time-widget.xml
+SHA1-Digest: ACO0+mTdVHCKiWD0+M0bLadj4FE=
+
+Name: res/drawable-hdpi-v4/search_panel_bg.png
+SHA1-Digest: gRPSMNMzb/LwlLgU/+oRA9rXZ6w=
+
+Name: assets/skins/skins/wgt_agenda/index.xml
+SHA1-Digest: uXTKn+Lz/XmZ5dv4ZdWEawczf4Q=
+
+Name: assets/skins/skins/frame/360x614/frame.png
+SHA1-Digest: j0JhCS7hKuXd/CjFvMsupcZBlR0=
+
+Name: assets/skins/skins/wgt_weather/dpi96/32_5.png
+SHA1-Digest: ZWZM0O4W2O4BknHwN7FE+nw2y6o=
+
+Name: assets/skins/skins/calculatorpanel/dpi192/index.xml
+SHA1-Digest: N4eEpN7uJY7OZ4Ie435IFmU3GUw=
+
+Name: assets/skins/skins/zodiac/virgo.png
+SHA1-Digest: MQ/68G70P0Uqqq4DwPA559sJWcU=
+
+Name: assets/skins/skins/layouts/traydock.xml
+SHA1-Digest: uqr/nMm0s9vbRe++b7/MItpVKkc=
+
+Name: assets/skins/skins/wgt_weather/dpi192/96_17.png
+SHA1-Digest: BxOQn3Tdjp77SgS3t9WcQWq5s38=
+
+Name: assets/skins/skins/shaders/t0acpp_f.glsl
+SHA1-Digest: v1ngZL9eFjN+jZ838m696/U+Czw=
+
+Name: assets/skins/skins/custom_backgrounds/dpi192/background_8.png
+SHA1-Digest: wdZZQWt7TaQCgICU4dk9YQz9EiU=
+
+Name: assets/skins/skins/wgt_weather/dpi96/32_12.png
+SHA1-Digest: iKZnZwrTRbcvZapeephqb66/sL0=
+
+Name: assets/skins/skins/texts/mk/spbshell3d.txt
+SHA1-Digest: /9ZOBh8FmnTEaHWglSuulw09NvQ=
+
+Name: assets/skins/skins/texts/gb/spbspbshell3d.htm
+SHA1-Digest: nMIksLpFBb3s1tovzBLJAVMFvT0=
+
+Name: assets/skins/skins/wgt_weather/dpi192/72_13.png
+SHA1-Digest: y1HTwtWIcNI1nLtEFYhwcTLlWQA=
+
+Name: assets/skins/skins/wgt_wireless/dpi192/states_ext.png
+SHA1-Digest: jD4YpSByHENZxBcXX9BROXirlcY=
+
+Name: assets/skins/skins/wgt_demo/4_1.png
+SHA1-Digest: lb7Fj1jkidJjgXX35sm/eOEXPrM=
+
+Name: res/layout/dialog_check_box.xml
+SHA1-Digest: my+nvsHmmrJ/23siB0uIMl4HIq8=
+
+Name: assets/skins/skins/contact_card/dpi192/userpic_big.png
+SHA1-Digest: LdC3Ksn8TMNfRmkmUeoJnUVOXoI=
+
+Name: assets/skins/skins/wgt_weather/dpi96/32_9.png
+SHA1-Digest: K2quuI7UhcmfvZ9SR1CacRTKZ4o=
+
+Name: assets/skins/skins/androidwidgets/t/index.xml
+SHA1-Digest: z0ehaP1+HQYwa6tO63svbNQxvnY=
+
+Name: assets/skins/skins/wgt_weather/dpi96/32_19.png
+SHA1-Digest: a3nPRt0aEGNBXkVJLn6QR9WUdl4=
+
+Name: assets/skins/skins/menubar/dpi192/p/index.xml
+SHA1-Digest: 78CyX5sB3H68NYeeJO1st4Gspk4=
+
+Name: assets/skins/skins/wgt_weather/dpi192/72_25.png
+SHA1-Digest: 8OMelEMUjzyzsqYhkPElwgrLHyY=
+
+Name: assets/skins/skins/wgt_weather/dpi192/96_15.png
+SHA1-Digest: 9Jb2kzGHp49BNa8zmzESKV0ERGs=
+
+Name: assets/skins/skins/wgt_birthdays/newcaked.png
+SHA1-Digest: 5PXqMk6CZCOxaQuMZtO3Uy1K3bU=
+
+Name: assets/skins/skins/wgt_frame/dpi192/frame_small.png
+SHA1-Digest: E3WcPvU0LfUaBvvbs+3erGhmYnc=
+
+Name: assets/skins/skins/menubar_tablets/dpi192/ico-editpanels.dds
+SHA1-Digest: 4+hzCuEqDG3TSJx8n8RqcvDBL7E=
+
+Name: res/drawable/line.xml
+SHA1-Digest: NlYE8nCoE0DE7rTOCVpra//O9bg=
+
+Name: assets/skins/skins/misc/dpi192/panel_icon_auto.png
+SHA1-Digest: q22KGV9hHWipemFVJhJHHXtQDpU=
+
+Name: assets/skins/skins/wgt_worldtime/dpi192/tex_earth.png
+SHA1-Digest: TT4fAgtssDo735HlEUk2VaLJ+zo=
+
+Name: res/drawable-tr-ldpi-v4/service_search.png
+SHA1-Digest: eAHBjMKEBvwXTqA302EdWwcQZMg=
+
+Name: assets/skins/skins/menubar/index.xml
+SHA1-Digest: u/qdra1BRmx6eZlGqu0t3sMsW8c=
+
+Name: assets/skins/skins/wgt_weather/dpi128/32_10.png
+SHA1-Digest: yfkGOJGUImf0hfjk3KAUJ9vIYuw=
+
+Name: AndroidManifest.xml
+SHA1-Digest: EbF3gltumI2jo04n7QMBpi1l8sY=
+
+Name: assets/skins/skins/wgt_battery/dpi192/index.xml
+SHA1-Digest: nKyf8G+wakp9lj9PokHBJEPTJoo=
+
+Name: res/drawable-hdpi/btn_circle_pressed.png
+SHA1-Digest: th7v2NHUQUbYMOpC06ON8WqlWF0=
+
+Name: res/drawable-hdpi/ic_menu_close_clear_cancel.png
+SHA1-Digest: k6KIYB3NRpeTTwaqN4LD8xpSNpg=
+
+Name: res/drawable/voice_modern.xml
+SHA1-Digest: UqMYojfiT345i/PPReD9IbEmFIw=
+
+Name: res/layout/yandex_bar_modern.xml
+SHA1-Digest: P6WVRq2yAhLx5m1o4U8rmxDNST4=
+
+Name: assets/skins/skins/wgt_frame_tablets/dpi96/header.png
+SHA1-Digest: aAW1n0oDuUj2N1+abMBTZrQcSDI=
+
+Name: assets/skins/skins/wgt_weather/dpi192/32_12.png
+SHA1-Digest: k8+5XB7luxPRBcuLHRet+bGiQpg=
+
+Name: assets/skins/skins/wgt_weather/dpi96/96_8.png
+SHA1-Digest: ZMpRbWdffFm0LsLzS/rsnEOHmr4=
+
+Name: assets/skins/skins/layouts/gallerypopup.xml
+SHA1-Digest: dLWksJ2+RpRnkB5dVqSjiptRn9s=
+
+Name: assets/skins/skins/wgt_weather/dpi96/96_18.png
+SHA1-Digest: +yzCGOEygRfzDv9uFnj0fi0eElY=
+
+Name: assets/skins/skins/wgt_folder/dpi192/dummyico.png
+SHA1-Digest: GWcD+gyyOD1zRCxgiw5RJAjmQGI=
+
+Name: assets/skins/skins/misc/news.png
+SHA1-Digest: GzhmZFTe/q6Os+qSFfC9wsKDup8=
+
+Name: res/drawable/button_classic.xml
+SHA1-Digest: TSoior/2G1fQkwGtsMMnMqZ52pI=
+
+Name: assets/skins/skins/extensions/dpi192/settings_wifi.png
+SHA1-Digest: c5PxNetu5W9QIOgX7NrZcQFNXEY=
+
+Name: assets/skins/skins/wgt_weather/dpi192/72_8.png
+SHA1-Digest: HhoxvcJx+zxAEGxOxXv7Vcysjck=
+
+Name: assets/skins/skins/weatherscene/bgmoon.dds
+SHA1-Digest: qSRA1LCLta+8UDl4J1/X9KagiYQ=
+
+Name: assets/skins/skins/texts/rs/spbshell3d.htm
+SHA1-Digest: r/ZuGNY4kYGB9LvJFFQZCzDPN3s=
+
+Name: assets/skins/skins/misc/dpi192/bottom-glow.png
+SHA1-Digest: 3rCvn4RUpdl6wEvV+ce4UrPcy1Y=
+
+Name: assets/skins/skins/wgt_smsmms/dpi128/photoframeshadow.png
+SHA1-Digest: VNegTw4C/RipEMBzYGFeP8/T1Uk=
+
+Name: assets/skins/skins/shaders/bbt0_f.glsl
+SHA1-Digest: /2Lvo77OWwSF/wCFWNGIu3HA5fw=
+
+Name: assets/skins/skins/menubar/dpi192/menubarsel.png
+SHA1-Digest: 0BN2G33kyR0ZWg8ZqBfca/gqZEM=
+
+Name: assets/skins/skins/wgt_weather/dpi192/72_9.png
+SHA1-Digest: f/4rjo3jAIXkSpne5k5kVBOBY/s=
+
+Name: res/drawable-hdpi-v4/service_translate.png
+SHA1-Digest: lyxCxPdFZH5ZdmSy84qZKsdeIH4=
+
+Name: assets/skins/skins/layouts/pictures.xml
+SHA1-Digest: TxsJhJkL3WCtL1m8UJ0mjxzyzYE=
+
+Name: assets/skins/skins/res_contact/index.xml
+SHA1-Digest: jH93cXkAfuyK1ueZTljh2NqUl0k=
+
+Name: assets/skins/skins/wgt_weather/dpi96/32_2.png
+SHA1-Digest: Mb/ob6o4Dq1FeTL6GlPXrRv8+SA=
+
+Name: assets/skins/skins/wgt_weather/dpi96/72_14.png
+SHA1-Digest: VNQFAMtdUCcWRXRg7LKGkRgNJN0=
+
+Name: assets/skins/skins/texts/nb/spbshell3d.txt
+SHA1-Digest: DhUKiFy4ytTL8SdZB1zSZ/iyRJk=
+
+Name: assets/skins/skins/calendar/dpi128/index.xml
+SHA1-Digest: 3k/W6UcLs1r/0XyOiZ1bmxMzYBo=
+
+Name: assets/skins/skins/wgt_weather/dpi192/tab_left.png
+SHA1-Digest: jCE6dUrog9gIBAFonGXdlC+9zw4=
+
+Name: assets/skins/skins/timepanel_moon/dpi192/moon_bump.png
+SHA1-Digest: udGUXOkxKQzBLQ/xtNsE24u/zXU=
+
+Name: res/drawable/mic_button.png
+SHA1-Digest: /lk9KdtbNDgDzx1tIToXtLguDMw=
+
+Name: assets/skins/skins/menubar/dpi192/menubarnor.png
+SHA1-Digest: Xum+YE8JDp+Pit64EPlYYtnE0KM=
+
+Name: assets/skins/skins/misc/dpi192/wallppr.png
+SHA1-Digest: qzujbyvUGGMr735rmlzuOxhnpuo=
+
+Name: assets/skins/skins/wgt_weather/dpi192/32_8.png
+SHA1-Digest: OgJLiSnRKsNNdONabJT9RrkXOPY=
+
+Name: res/drawable/voice_grey.xml
+SHA1-Digest: +gb7v2paqdXRFLl1S1fPxhB634M=
+
+Name: res/drawable-hdpi-v4/item_browser.png
+SHA1-Digest: CRf7PTnErmsi1Un9wdpT7h3KqFg=
+
+Name: assets/skins/skins/weatherscene/rain_2.dds
+SHA1-Digest: OmwZO1ie8+1+3fPawrsbUKTjxqo=
+
+Name: res/drawable-hdpi-v4/input_classic_default.9.png
+SHA1-Digest: 7cez1DFKfXPcM04aYXJ5zfar+vI=
+
+Name: assets/skins/skins/shaders/d0uc_f.glsl
+SHA1-Digest: /V2sYPHGfYpcHsnZhY5gGAvgWxo=
+
+Name: assets/skins/skins/layouts/selectcities.xml
+SHA1-Digest: CplKxl60M9oNcbpw/X9tDoffEbk=
+
+Name: assets/skins/skins/misc/dpi192/delete_note.png
+SHA1-Digest: DHCXIVU4zVTBMABQsIZAN1C4smQ=
+
+Name: assets/skins/skins/layouts/wgt_clock.compact.xml
+SHA1-Digest: K0NpdFVvItFS5mrneAMQuvR5rnQ=
+
+Name: assets/skins/skins/shaders/t0acsw_f.glsl
+SHA1-Digest: K+h1DeYOtnjSgcyqgYQTNoQcgTw=
+
+Name: res/drawable-ldpi-v4/button_classic_pressed.png
+SHA1-Digest: Heb81rz8RQrwYDSpc42SUb46xl4=
+
+Name: res/drawable/voice_classic_pressed.png
+SHA1-Digest: hSyar8gPsJjSU9276F+JI9jvIss=
+
+Name: assets/skins/skins/wgt_yasearch/dpi192/yandex_text.png
+SHA1-Digest: G88QdzRc+SugmLqqcQRw9ZB6Fcg=
+
+Name: assets/skins/skins/wgt_weather/dpi192/tab_right.png
+SHA1-Digest: PK3tXB/Ysk9vAkd47SeZpVfeDN4=
+
+Name: assets/skins/skins/wgt_weather/dpi128/96_1.png
+SHA1-Digest: v7kWbNhAdwlGiHe4MYWtPjd4bzg=
+
+Name: assets/skins/skins/wgt_gallery/dpi192/program.png
+SHA1-Digest: Pa1xQwFWeXbrSXIKRWi5F2ADegg=
+
+Name: assets/skins/skins/texts/lt/spbshell3d.htm
+SHA1-Digest: r/ZuGNY4kYGB9LvJFFQZCzDPN3s=
+
+Name: assets/skins/skins/wgt_weather/dpi192/96_24.png
+SHA1-Digest: vwaJHD09TAc8nvppbPEtX7pctKY=
+
+Name: assets/skins/skins/texts/nb/spbshell3d.htm
+SHA1-Digest: tjSFZQWeZOz9+O47gr/iPS7r2gA=
+
+Name: assets/skins/skins/misc/dpi192/popupheader_s.png
+SHA1-Digest: Qcz/4Hkyh13SmgoCoqkndz8L2yg=
+
+Name: assets/skins/skins/wgt_weather/dpi128/72_18.png
+SHA1-Digest: NfjEy3Z3r3OLOESfQ7Byvm0ROuM=
+
+Name: assets/skins/skins/wgt_weather/dpi128/96_14.png
+SHA1-Digest: sNfm7iyKbooVQkfOlhUSEnOD1qs=
+
+Name: assets/skins/skins/layouts/modernbackground.xml
+SHA1-Digest: 2MZppsLgzE+WksriQpVQkwVuMQc=
+
+Name: assets/skins/skins/texts/tr/spbshell3d.htm
+SHA1-Digest: tjSFZQWeZOz9+O47gr/iPS7r2gA=
+
+Name: assets/skins/skins/layouts/calculatorpanel.xml
+SHA1-Digest: XLRnGCpii53ESJy+aeZ4WCXcUzI=
+
+Name: assets/skins/skins/pnl_pictures/dpi192/index.xml
+SHA1-Digest: rhxJCsgTCG6X0SG0/bcrWcjWH/4=
+
+Name: assets/skins/skins/wgt_weather/dpi192/graphbg.png
+SHA1-Digest: SPfYAJkYDqJEtyE7yUghwP53AmA=
+
+Name: res/layout/weather_city_selection.xml
+SHA1-Digest: yO/CpNW+frNT4bWWdHGh1GGDatw=
+
+Name: assets/skins/skins/res_contact/dpi192/callcnt1.png
+SHA1-Digest: QiVB2Io28WV353SClAR5ObAoPKg=
+
+Name: assets/skins/skins/timepanel_moon/dpi192/marker_sel.png
+SHA1-Digest: C2JqaOANgvGoDTRcMDM27XP4d3U=
+
+Name: assets/skins/skins/wgt_frame/dpi96/gloss.png
+SHA1-Digest: nKyHXcGVfaW1K+mtGuI/UHkDOto=
+
+Name: assets/skins/skins/menubar_tablets/dpi192/rotate.dds
+SHA1-Digest: o8B343h0NEikw+glrx5Id/GcQqw=
+
+Name: assets/skins/skins/wgt_weather/dpi192/32_4.png
+SHA1-Digest: vPwE1Qurc1+lVsHfgceyMB4wAJI=
+
+Name: assets/skins/skins/tray/dpi192/launcherbtn.png
+SHA1-Digest: 40vURZ78WH4fmBLxxk4Yc7iKF0Q=
+
+Name: assets/skins/skins/wgt_weather/dpi128/72_22.png
+SHA1-Digest: 6zwNtATL1/jkWO3qeAxDOHngmAc=
+
+Name: assets/skins/skins/shaders/anaglyph_halfcolor_v.glsl
+SHA1-Digest: HbbCXfo2ZzLuHUnyqf2sCT4OP6Q=
+
+Name: assets/skins/skins/wgt_weather/dpi192/96_20.png
+SHA1-Digest: plNYr4mUw5abPTDnfnWsfALmcZY=
+
+Name: assets/skins/skins/wgt_weather/dpi192/72_23.png
+SHA1-Digest: KP58/DoLluzURzostJERvPtnzXQ=
+
+Name: res/drawable-hdpi/ic_menu_preferences.png
+SHA1-Digest: wHdrtm9P4yxxgASZlCLqt9bWZek=
+
+Name: assets/skins/skins/texts/jp/spbshell3d.txt
+SHA1-Digest: oI5XQ/LYEMbQm1KiFg3B7/t64dM=
+
+Name: res/drawable-hdpi/ic_menu_add.png
+SHA1-Digest: 4j1x+R6oZaeHdRKB2TqJgyhK0Lk=
+
+Name: assets/skins/skins/zodiac/gemini.png
+SHA1-Digest: jBHzbAW6nnsm6wAUW2jiiMaQc6I=
+
+Name: assets/skins/skins/layouts/transition.xml
+SHA1-Digest: 1omuwDzyaACrQ+UM96wpaf/vXAc=
+
+Name: assets/skins/skins/wgt_weather/dpi192/32_10.png
+SHA1-Digest: 1B7FlRJcwmMzs8c1FyxmG4T1ArY=
+
+Name: assets/skins/skins/wgt_weather/dpi192/32_23.png
+SHA1-Digest: b8L3D7WgZcVBXLETxZAazcJ4hIQ=
+
+Name: res/drawable-hdpi-v4/yandex_bar_grey_bg.9.png
+SHA1-Digest: E3EzfAd7YVz309sp5WwsGOp/SlE=
+
+Name: res/drawable-ldpi-v4/item_suggest.png
+SHA1-Digest: xnUJU9GsaOfa9Kq7W7hg7ft5s/g=
+
+Name: assets/skins/skins/wgt_rss/dpi192/front.png
+SHA1-Digest: +4HgDWtuLIs+dZRIYv9oHhQrYgM=
+
+Name: assets/skins/skins/wgt_weather/dpi128/index.xml
+SHA1-Digest: Udah2QGuPzcsUe3aGwyVXsJNZTc=
+
+Name: assets/skins/skins/wgt_yasearch/dpi128/button_modern_pressed.png
+SHA1-Digest: SwuD+fcP+Zo0umJRD7JCqdGaQ0o=
+
+Name: assets/skins/skins/frame_tablets/800x1232/index.xml
+SHA1-Digest: XxjVAIe7oR/zivk6Mn8APqLIzTA=
+
+Name: res/layout/z_item_browser.xml
+SHA1-Digest: ZqZdjqGWZs/oSwDwifxQkZTGs/8=
+
+Name: assets/skins/skins/wgt_weather/dpi128/96_23.png
+SHA1-Digest: KEgr70gGw3UjNuKH2LPvTaarDDk=
+
+Name: assets/skins/skins/texts/ru/spbspbshell3d.htm
+SHA1-Digest: nMIksLpFBb3s1tovzBLJAVMFvT0=
+
+Name: assets/skins/skins/wgt_weather/dpi128/32_6.png
+SHA1-Digest: sZ5lqJYpK/taOyhvbTkGOP1JELI=
+
+Name: assets/skins/skins/wgt_weather/dpi128/32_3.png
+SHA1-Digest: VthLrewaolFGxm1S+mGB8lHWyMQ=
+
+Name: assets/skins/skins/settings/dpi192/panels.png
+SHA1-Digest: 2U61gmpGHCIL3lgD2rRi7INdGTk=
+
+Name: assets/skins/skins/custom_backgrounds/dpi192/background_6.png
+SHA1-Digest: wdZZQWt7TaQCgICU4dk9YQz9EiU=
+
+Name: assets/skins/skins/wgt_weather/dpi128/96_6.png
+SHA1-Digest: Gf1P4iacsz5lwY+vUC6EMhd8viw=
+
+Name: assets/skins/skins/widgeticons/dpi192/notes.png
+SHA1-Digest: RPX3lMcOtOeb/3Dduwmq1Y6RuvA=
+
+Name: assets/skins/skins/zodiac/leo.png
+SHA1-Digest: r1gxnpdUTfcFGXQiOgIzhHR9T5M=
+
+Name: assets/skins/skins/rsspanel/dpi192/index.xml
+SHA1-Digest: cbnoldAtSjyf96z7BDrPXR34TRw=
+
+Name: assets/skins/skins/wgt_yasearch/dpi192/yandex_text_en.png
+SHA1-Digest: ZFEvl+FLy8qtbra33MwtBxSmIS4=
+
+Name: assets/skins/skins/wgt_weather/dpi96/72_12.png
+SHA1-Digest: FWB08WG279bYp+D9c0mwU1kNrmA=
+
+Name: assets/skins/skins/launcher/dpi192/trash_bin_icon_act.png
+SHA1-Digest: cQZBhU81zkL22hPsK3UUjwgu5u4=
+
+Name: assets/skins/skins/wallpapers/default/preview.png
+SHA1-Digest: V+oJdGgAWbXXgznHnL9oZSDuJvQ=
+
+Name: assets/skins/skins/layouts/wgt_weather.graph.xml
+SHA1-Digest: 2p2VKTP8my3WUx78MJ5vRGcArd0=
+
+Name: assets/skins/skins/frame/320x455/frame.png
+SHA1-Digest: 9zEPgY3W0E6gDUsxi/rADHwE5PU=
+
+Name: assets/skins/skins/wgt_weather/dpi96/72_25.png
+SHA1-Digest: BqcIU+ftmc7Kj5mBsXRxJm1+zLU=
+
+Name: assets/skins/skins/wgt_frame_tablets/dpi128/frame.png
+SHA1-Digest: U4BqjEFCwEtDip5ciUtxGPQcK5k=
+
+Name: assets/skins/skins/texts/da/spbshell3d.htm
+SHA1-Digest: tjSFZQWeZOz9+O47gr/iPS7r2gA=
+
+Name: assets/skins/skins/wgt_weather/dpi128/96_28.png
+SHA1-Digest: LAGZVXsnlFKNZ/9H+QlBPdHEAbE=
+
+Name: assets/skins/skins/wallpapers/default/index.xml
+SHA1-Digest: 9eWED9YoBLG5RjEr7lwsME5KQmo=
+
+Name: assets/skins/skins/texts/tr/spbshell3d.txt
+SHA1-Digest: a5IAcKDeyTCMsvtEYpUK60RnJng=
+
+Name: assets/skins/skins/shaders/bkgbbc_v.glsl
+SHA1-Digest: HNVBtcc+40Dhmr4ovkmZESvjwPY=
+
+Name: assets/skins/skins/wgt_weather/dpi96/32_14.png
+SHA1-Digest: TNsFkFrfOZI7thAd/jNJHcnMhu0=
+
+Name: assets/skins/skins/wgt_weather/dpi96/72_29.png
+SHA1-Digest: odiTLe/Dc1EavD7e0ama2wHaS+I=
+
+Name: assets/skins/skins/wgt_weather/dpi192/96_12.png
+SHA1-Digest: 06YlJrzgIIatCoaCZPYYzIrt0yE=
+
+Name: assets/skins/skins/wgt_icon_tablets/dpi192/index.xml
+SHA1-Digest: ph9CtAOyOQLAv6qZJpV7+Np4Cg0=
+
+Name: assets/skins/skins/wgt_smsmms/dpi128/icon-unread.png
+SHA1-Digest: ELNjkLLzf2S+ucKLsNZ9aBlTzsg=
+
+Name: res/drawable-ldpi-v4/service_news.png
+SHA1-Digest: McgnaaHce3rK3CokmtreJH/Zlw8=
+
+Name: assets/skins/skins/menubar_tablets/dpi192/menubarsel.png
+SHA1-Digest: p/clr7zOWzoMiTQhL5YySO70r8A=
+
+Name: assets/skins/skins/layouts/wgt_clock.wide.xml
+SHA1-Digest: 6zrg67hsLtWw6X7IF6wRFf44Nf4=
+
+Name: assets/skins/skins/res_contact/dpi192/sep_v41.png
+SHA1-Digest: T7H0HU52aHoySXMc4J+uYEdLIII=
+
+Name: res/drawable-ldpi-v4/voice_modern_default.png
+SHA1-Digest: rQ944effAMrsmiqM4GeH9XueBFU=
+
+Name: res/layout/weather_city_dropdown_list_item2.xml
+SHA1-Digest: 15Th8y1BlHAKJLZVtqdAWg/JlPk=
+
+Name: assets/skins/skins/layouts/moderndecorations.xml
+SHA1-Digest: pswp2itpVXDB3RBKx17ZDda7BFM=
+
+Name: assets/skins/skins/wgt_weather/dpi192/32_28.png
+SHA1-Digest: Y2tevfs4vA8Dkd6f5EtWEfv9DPg=
+
+Name: assets/skins/skins/misc/dpi192/logo_small.png
+SHA1-Digest: TDugjdPBGRurj8KIjAy8qAEXMMA=
+
+Name: assets/skins/skins/wgt_weather/dpi192/rename.sh
+SHA1-Digest: AvtYUZDMFOp7iPXp7moTKaFcMr0=
+
+Name: assets/skins/skins/misc/dpi192/tintcorners.dds
+SHA1-Digest: hV4wwwo+qCBpYc3svCiwnLDrJKA=
+
+Name: res/drawable-ldpi-v4/input_classic_default.9.png
+SHA1-Digest: qq+nv9RQVeIa1nb0MZu4gRAalMk=
+
+Name: assets/skins/skins/layouts/selectchannels.xml
+SHA1-Digest: QcdJGP+HwjajhV0bSZky6zXl9Ag=
+
+Name: res/drawable/service_pattern.png
+SHA1-Digest: ZyAs9Th81KNJLwM04Yh1rtg8bRI=
+
+Name: res/drawable-hdpi-v4/mic_button.png
+SHA1-Digest: BwZd57zBom+v+fnbLkBtdABaTd4=
+
+Name: assets/skins/skins/calendar_tablet/dpi192/recurring.png
+SHA1-Digest: BAZ9OOcj4Hex7lsfe04mdsQPEdc=
+
+Name: assets/skins/skins/wgt_weather/dpi128/icon_press.png
+SHA1-Digest: 8DUtAyTKh/4OM9FeiOtYkfBWyTE=
+
+Name: assets/skins/skins/wgt_weather/dpi96/96_5.png
+SHA1-Digest: cQTjgcVwgI1DSD4dp8GvkZWJpSk=
+
+Name: assets/skins/skins/timepanel_moon/dpi192/glow.png
+SHA1-Digest: J9VuQQU6UOmVPBTkDZ+zUm857Io=
+
+Name: res/layout/add_dialog_list_item.xml
+SHA1-Digest: IfjCSew++5aSpIOm/02k8mLPypc=
+
+Name: assets/skins/skins/wgt_backlight/dpi192/index.xml
+SHA1-Digest: c1cqmFAAdMcdkekgvDVSfgqTYFI=
+
+Name: res/drawable-ldpi-v4/service_map.png
+SHA1-Digest: 4hcr+8ePAFt7WbOHZCIdyaq22Ys=
+
+Name: assets/skins/skins/texts/pt/spbspbshell3d.htm
+SHA1-Digest: nMIksLpFBb3s1tovzBLJAVMFvT0=
+
+Name: assets/skins/skins/widgeticons/dpi192/yasearch.png
+SHA1-Digest: KnD1cYzuRiSJrs3+BQ53tpGlXMI=
+
+Name: assets/skins/skins/layouts/wgt_birthday.xml
+SHA1-Digest: elZ+2WU+E1mHnG8qMXGHoBGc2MY=
+
+Name: assets/skins/skins/layouts/wgt_yasearch.xml
+SHA1-Digest: s4bUmAJXV5uWsnkhfL63e89rgVE=
+
+Name: assets/skins/skins/shaders/t0t1_f.glsl
+SHA1-Digest: JS2kLlB/HX50ZI2z+ZpLQ7eznl8=
+
+Name: assets/skins/skins/shaders/bbt0c_f.glsl
+SHA1-Digest: CYla1cwuH/A1ypiVFzWOGp1wUQ8=
+
+Name: assets/skins/skins/texts/vi/spbshell3d.txt
+SHA1-Digest: Kv6jU6pypIpiJEQ1Jeoetgt17nY=
+
+Name: assets/skins/skins/texts/sk/spbspbshell3d.htm
+SHA1-Digest: nMIksLpFBb3s1tovzBLJAVMFvT0=
+
+Name: assets/skins/skins/wgt_weather/dpi128/72_11.png
+SHA1-Digest: ImC2y+mYd8+0Y/9KZfnrYILBGgk=
+
+Name: assets/skins/skins/wgt_weather/dpi128/72_15.png
+SHA1-Digest: l6J3/exAjqPdeQRCtwh2F9CB9WM=
+
+Name: assets/skins/skins/wgt_weather/dpi128/32_20.png
+SHA1-Digest: pn6MdAx8EU9P7vbSn7ZZM2M7Ozk=
+
+Name: res/drawable-hdpi-v4/button_modern_pressed.png
+SHA1-Digest: IMUqTcl+T+wcirUM6aQyuiMrfPo=
+
+Name: assets/skins/skins/wgt_yasearch/dpi192/button_modern_pressed.png
+SHA1-Digest: t/wZUW+Rnj1G09K8Bev2h2ztChE=
+
+Name: assets/skins/skins/timepanel_moon/dpi192/uv-phase.png
+SHA1-Digest: t+9APE4yANyww1mv30f7LD9WRk8=
+
+Name: assets/skins/skins/wgt_weather/dpi192/32_16.png
+SHA1-Digest: IVVyShigXasGaSMdETj2lyivWDs=
+
+Name: assets/skins/skins/wgt_frame_tablets/dpi192/frame_small.png
+SHA1-Digest: E4ZBv8sdUJbn7iry9lWvhttUByI=
+
+Name: assets/skins/skins/res_contact/dpi192/action_bg.png
+SHA1-Digest: Th+yQjIdqIA5tULvawkZS60dyBI=
+
+Name: assets/skins/skins/calendar/dpi128/today.png
+SHA1-Digest: 5yeJPAUJvoA4562fOH2pWq1S/6s=
+
+Name: assets/skins/skins/wgt_lastcall/bubble.png
+SHA1-Digest: 90twZ/GfGjAUO5vdoCZn8PdSiek=
+
+Name: assets/skins/skins/wgt_weather/dpi192/72_3.png
+SHA1-Digest: geUVggKhj80yB8jy1biXI1lXDEQ=
+
+Name: assets/skins/skins/layouts/l_home.xml
+SHA1-Digest: MRT8ejs9AxkHeZbh2JEI6y9XsjA=
+
+Name: assets/skins/skins/wgt_weather/dpi128/96_12.png
+SHA1-Digest: 6Nb4j8sx2jKZ/EudOGlofZzIdMw=
+
+Name: assets/skins/skins/shaders/texmix_v.glsl
+SHA1-Digest: LKwYV81yxXL9fiwyBEUKKslwvDI=
+
+Name: assets/skins/skins/calendar/dpi96/separator.png
+SHA1-Digest: uROrM6p93DoNUNVlUF5UoBTaF6o=
+
+Name: assets/skins/skins/shaders/line_f.glsl
+SHA1-Digest: lILPOM6VRcI8bKm5suR6UHPhM1w=
+
+Name: assets/skins/skins/weatherscene/clouds_2.dds
+SHA1-Digest: A+s7XqhoU9WFyC6B9NvHoR+JP+Y=
+
+Name: assets/skins/skins/wgt_birthdays/index.xml
+SHA1-Digest: dN787hc/krHYmyfU1DVUL+zppQM=
+
+Name: assets/skins/skins/wgt_profile/dpi192/cfg.png
+SHA1-Digest: W3kJ1fztVS0ANf6Nov86tIJtgTg=
+
+Name: res/drawable-hdpi-v4/service_pattern.png
+SHA1-Digest: +7tzlhpPDkIxGBOBlLcVUWlri/k=
+
+Name: assets/skins/skins/layouts/addwidget.xml
+SHA1-Digest: 7iHGdGN4CluKuergMiLsvZwSMg0=
+
+Name: assets/skins/skins/wgt_weather/dpi192/icon_humid.png
+SHA1-Digest: 9aiXMQEkfqlC8WYpNiO6bVTDFqM=
+
+Name: res/drawable/service_mail.png
+SHA1-Digest: 6RAf2Qvv9EWxMBZ35f/t2asrEms=
+
+Name: assets/skins/skins/wgt_weather/dpi128/96_20.png
+SHA1-Digest: d5f+crN1mVRZ4YisIwv21loPjnE=
+
+Name: assets/skins/skins/wgt_frame_tablets/dpi192/index.xml
+SHA1-Digest: IVOw/qz5wSXI74vYwhnjilD9txg=
+
+Name: assets/skins/skins/wgt_operator/dpi192/signal.png
+SHA1-Digest: iNk4ua5zt3Fv52R2zaj5llPVgGo=
+
+Name: assets/skins/skins/wgt_smsmms/dpi128/icon.png
+SHA1-Digest: lIuOpvzqBUxaXoOnmHOHCurr+Ps=
+
+Name: res/drawable/service_images.png
+SHA1-Digest: 4P+dFcN4CithsiI8zu2OFSMnH5c=
+
+Name: assets/skins/skins/shaders/t0c_v.glsl
+SHA1-Digest: TGmiskAeLLbfm/Uny5MXoVh9qQY=
+
+Name: assets/skins/skins/contact_card/dpi192/mail_icon.png
+SHA1-Digest: F9kAqtMdyWkW2IJAoe0hGLQS92I=
+
+Name: assets/skins/skins/gallery/3.png
+SHA1-Digest: ocqTcLZLsN8EpCinFJBs+cgqZ3k=
+
+Name: assets/skins/skins/cities.dat
+SHA1-Digest: tyHxpPeDqJjI6i0Nzl5XZIrm5zQ=
+
+Name: assets/skins/skins/wgt_weather/dpi192/72_10.png
+SHA1-Digest: Pi6jbZCw7qI9aH79DYqI1BTI77o=
+
+Name: assets/skins/skins/calendar_tablet/dpi192/date-icon.png
+SHA1-Digest: NPfhS8l02SuiOPCEM4OF+t7t5y8=
+
+Name: assets/skins/skins/textures/rays.dds
+SHA1-Digest: dl4rAxjIn+HHd+auRFW41IlG0ws=
+
+Name: assets/skins/skins/weatherscene/thunder.dds
+SHA1-Digest: 06PBGS/mBEAu/hyez1NxsVBxf2E=
+
+Name: assets/skins/skins/timepanel_moon/dpi192/nebula.png
+SHA1-Digest: tAH3W88AONPrA73hDYGk8x458ZQ=
+
+Name: assets/skins/skins/timepanel/timescript.lua
+SHA1-Digest: eEEMeYimdc0T0D6F1Uko4LJbqPg=
+
+Name: assets/skins/skins/launcher/dpi192/trash_bin_icon.png
+SHA1-Digest: iBYY6mB1XuKiOPGPZzaNXXf9Jdc=
+
+Name: assets/skins/skins/texts/jp/spbshell3d.htm
+SHA1-Digest: tjSFZQWeZOz9+O47gr/iPS7r2gA=
+
+Name: assets/skins/skins/timepanel_moon/dpi192/moonrune.png
+SHA1-Digest: 9e/viKEH598aJsNDFoexIJ7qLdw=
+
+Name: res/drawable-ldpi-v4/pencil.png
+SHA1-Digest: wByfxu8oh4eBBBbxXTfzsQmOgPY=
+
+Name: assets/skins/skins/wgt_weather/dpi128/72_0.png
+SHA1-Digest: XvXyPQL1Td+jRVWBSbGGBfIWQ5w=
+
+Name: assets/skins/skins/res_contact/dpi192/calldir0.png
+SHA1-Digest: 5nIheUoBoEd510ZBGekyA9n3iwc=
+
+Name: assets/skins/skins/wgt_demo/5_5.png
+SHA1-Digest: KzntYSEXa98GXmBbYtRTdVJ4/iI=
+
+Name: assets/skins/skins/layouts/loadskin.xml
+SHA1-Digest: ico6PyNiuboDzr//+FZOm34d0bg=
+
+Name: assets/skins/skins/shaders/d0t0_f.glsl
+SHA1-Digest: 3T4ZNtSnL67JOIA/yR2xtyIhN4U=
+
+Name: assets/skins/skins/wgt_lastcall/index.xml
+SHA1-Digest: R7lBu+bnjYWoWhobwSt6rzyklq4=
+
+Name: assets/skins/skins/shaders/anaglyph_true_f.glsl
+SHA1-Digest: XcSPUQJnFNkYQF0CB9Prj21/oSU=
+
+Name: assets/skins/skins/grouponpanel/expire.png
+SHA1-Digest: HLeveJCYNlgK23/cZ4ryHSNmTqs=
+
+Name: assets/skins/skins/texts/md/spbshell3d.txt
+SHA1-Digest: ooDHL6yeNG/37dExZvcVsSDkfMY=
+
+Name: assets/skins/skins/settings/dpi192/experimental.png
+SHA1-Digest: x2C4TTwRwWTpIi4t2kjLski+OpM=
+
+Name: assets/skins/skins/custom_backgrounds/index.xml
+SHA1-Digest: 7qRd3JQbS/qwCkis/pEB1wtUnds=
+
+Name: res/layout/wallpaper_chooser.xml
+SHA1-Digest: UQF34Cri3Dil3kpJY0hghEAK8xU=
+
+Name: assets/skins/skins/menubar/dpi192/menubarbtns.png
+SHA1-Digest: mPqn3JLiQbX9E06SIzCNxucEnIM=
+
+Name: assets/skins/skins/shaders/gradientmask_v.glsl
+SHA1-Digest: eO7nkUNAidurm+c/mabAyisPgME=
+
+Name: assets/skins/skins/layouts/profile.xml
+SHA1-Digest: XSS2+JX67nuZOWS9mAbFGNwzOcE=
+
+Name: assets/skins/skins/wgt_weather/dpi128/32_25.png
+SHA1-Digest: TwF8KMIJPt7LoA8bpwmqdvXyxNY=
+
+Name: res/drawable-hdpi/btn_circle_normal.png
+SHA1-Digest: mF146H3TajPIhzgyDa39hiCdn8E=
+
+Name: assets/skins/skins/wgt_agenda/listtex.png
+SHA1-Digest: cCu1Di6vY5qiZ2UgcixCUZYr0HM=
+
+Name: res/drawable-mdpi/ic_menu_sort_by_size.png
+SHA1-Digest: nlhWoAedmIdrxmXaIKIQOk9VK0M=
+
+Name: res/drawable-mdpi/weather_humidity.png
+SHA1-Digest: XTQ9LxS9rfMgLLujPbGHSZDDObc=
+
+Name: assets/skins/skins/texts/pl/spbshell3d.txt
+SHA1-Digest: ZcXHighwRYuxgDTWdMIDOUbxXGI=
+
+Name: assets/skins/skins/wgt_operator/dpi192/logo.png
+SHA1-Digest: 98zMvt88LXxGa6NEs3IqS5Sd7qs=
+
+Name: assets/skins/skins/wgt_weather/dpi128/96_7.png
+SHA1-Digest: ICOYMvMwHMnrtqNyx7TpXxa/bto=
+
+Name: assets/skins/skins/wgt_weather/dpi96/tab_highlight.png
+SHA1-Digest: Zb1JWQTnF8oUUrLtT3HVd9l6YTQ=
+
+Name: assets/skins/skins/layouts/rsspanel.xml
+SHA1-Digest: mP7f9hwDkx9sSHIrpbEeHS6aDnU=
+
+Name: assets/skins/skins/wgt_gallery/dpi192/frame.png
+SHA1-Digest: 7KnX0TZYLED8+og3ndMBj7D6qrs=
+
+Name: res/drawable-ldpi-v4/service_search.png
+SHA1-Digest: ew/a4QZ7yuYFa5INnL1p0+l/OuQ=
+
+Name: assets/skins/skins/misc/dpi192/calllog.png
+SHA1-Digest: WSQMjspVgpB95CvPYqtJpOD839A=
+
+Name: assets/skins/skins/wgt_frame/dpi96/gloss2x.png
+SHA1-Digest: R5x41fqc0OQ6Rmfof9k6mTgE2+8=
+
+Name: assets/skins/skins/layouts/about.xml
+SHA1-Digest: ocqK05SDUKGx3G3xtE/nrdwOSfg=
+
+Name: assets/skins/skins/wgt_weather/dpi128/32_13.png
+SHA1-Digest: 0rOfXWMGgJfQNmYz9t64Apzimmc=
+
+Name: res/drawable-hdpi/weather_ic_menu_refresh.png
+SHA1-Digest: 22pdOp82rYDCG+PoRhA5jZEEBco=
+
+Name: res/layout/appwidget_error.xml
+SHA1-Digest: k+hgS99enjuxowN5Ob2nkTl2a1A=
+
+Name: assets/skins/skins/wgt_operator/dpi192/logo.bin
+SHA1-Digest: Ut5TV3z129le3fEfiD3RTiZ8amY=
+
+Name: assets/skins/skins/wgt_profile/dpi192/vol.png
+SHA1-Digest: cB8SiQaHs9sBZ9wIRdjmN5NuARI=
+
+Name: res/drawable-ldpi-v4/item_contact_call_button.png
+SHA1-Digest: VRTdrxZk6d4/6KcFWOsEgi8m3gY=
+
+Name: res/drawable-tr-hdpi-v4/icon.png
+SHA1-Digest: tVOYIEK0HAQJXhOxa66ACwFqNKE=
+
+Name: res/drawable-mdpi/weather_large_wind_speed.png
+SHA1-Digest: vzjtdyR6z/zJW4kpq6FKJ5BsiB8=
+
+Name: assets/skins/skins/wgt_weather/dpi128/96_15.png
+SHA1-Digest: drvo3Cb7glAnJcAB6DeaOR179kE=
+
+Name: assets/skins/skins/wgt_bookmark/index.xml
+SHA1-Digest: XZ0tMVpV0v/VMMR9Qxn1GfSN+Nc=
+
+Name: assets/skins/skins/wgt_weather/dpi96/72_21.png
+SHA1-Digest: q1aj/xrKHegtVK/ntQKxtBSBzyY=
+
+Name: assets/skins/skins/wgt_weather/dpi96/tab_shade.png
+SHA1-Digest: Swy2yWDRcaolYWJSwREwRZOyLpk=
+
+Name: assets/skins/skins/menubar/dpi192/menu_icons.png
+SHA1-Digest: 3C2tXHhTlxnozG4I/KQX8VwXkgQ=
+
+Name: assets/skins/skins/misc/resizecorner.png
+SHA1-Digest: mhcMBkgTrPm4S7gVUXJYP3gTmws=
+
+Name: assets/skins/skins/misc/plus.png
+SHA1-Digest: sR4w7Q0RUe/c0PUaFKKgsYM8doo=
+
+Name: assets/skins/skins/texts/rs/spbshell3d.txt
+SHA1-Digest: +6ab8w2deQzjsAZfm38ZfUVeEuU=
+
+Name: assets/skins/skins/custom_backgrounds/dpi192/index.xml
+SHA1-Digest: 6ZsJw4wIeXy8Q79o8pmlK1qvIuY=
+
+Name: res/drawable/input_modern_grey_pressed.9.png
+SHA1-Digest: 1XRY0NtmTvieoPrleOGhOpw+U7U=
+
+Name: assets/skins/skins/wgt_clock/dpi192/alarm.png
+SHA1-Digest: +OcxSLI8x7j0Wi772is/23nNkvM=
+
+Name: assets/skins/skins/wgt_clock/dpi192/digits.png
+SHA1-Digest: OxJVRc/u/7nJVwoyUTLkSP5aq8Y=
+
+Name: assets/skins/skins/custom_backgrounds/dpi192/background_9.png
+SHA1-Digest: wdZZQWt7TaQCgICU4dk9YQz9EiU=
+
+Name: assets/skins/skins/zodiac/sagittarius.png
+SHA1-Digest: 0kF+j5FRGkHlRpvAc7bU9GUmBVc=
+
+Name: assets/skins/skins/wgt_weather/dpi128/32_11.png
+SHA1-Digest: xfovBODLGPjY1Vicw2K1riPBQqU=
+
+Name: res/drawable-hdpi-v4/service_news.png
+SHA1-Digest: lt/TzH71g7TpAZNXm8z8OLQa7vM=
+
+Name: assets/skins/skins/wgt_profile/dpi192/button.png
+SHA1-Digest: ji+UwYOKK4A1TS5+Y9d5xBjtsME=
+
+Name: res/drawable-hdpi-v4/item_suggest.png
+SHA1-Digest: j8tPoCmNXWK0iCo9BiVcREesokE=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_ZA
+SHA1-Digest: z5+5QFLcq4UNxeReEfOy/XrTqe0=
+
+Name: assets/skins/skins/misc/moon.png
+SHA1-Digest: Wi1ypID8/lt+K2XJiL/TRklekT0=
+
+Name: res/anim/slide_out.xml
+SHA1-Digest: H2WgBp/bOZ4DPQo6vSVNYPLbKbc=
+
+Name: res/drawable-ldpi-v4/yandex_bar_classic_bg.9.png
+SHA1-Digest: Dy27Shkb0KxvZf0dHzK/8Xy742o=
+
+Name: res/drawable/voice_modern_default.png
+SHA1-Digest: Bo4VmHVmBaaogBqJRAixwN6Dub4=
+
+Name: assets/skins/skins/layouts/background.xml
+SHA1-Digest: zg8C2CC/wfU6AW8AAnCT+G+nCOM=
+
+Name: assets/skins/skins/wgt_weather/dpi192/72_5.png
+SHA1-Digest: Ot/tDCIqSEVXyzBeD4JUYRSpg4Q=
+
+Name: assets/skins/skins/timepanel_moon/dpi192/uv-signs.png
+SHA1-Digest: t+fs5v+6sOnG+dqrudF1POUJ12w=
+
+Name: assets/skins/skins/layouts/wgt_operator.xml
+SHA1-Digest: O2kFqV6YphnMPYHcR1jXq+FH3VA=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_ZW
+SHA1-Digest: hwEkd3klc2XP9LFDhB8aqwvRpyA=
+
+Name: res/drawable/clear_default.png
+SHA1-Digest: 3ekSQvEJ4CHwCqbTDbUOCAp2Cn0=
+
+Name: assets/skins/skins/shaders/c_f.glsl
+SHA1-Digest: T4bTpHkyHaCx6VsInQZXA7y1ltI=
+
+Name: assets/skins/skins/wgt_weather/dpi128/32_7.png
+SHA1-Digest: oqUubIq/aroINQs9rxM+lQ3IFpA=
+
+Name: res/drawable-hdpi-v4/mic_dialog.png
+SHA1-Digest: osd3pjzMkBz41wy2rjlNa/o+eIs=
+
+Name: res/drawable-ldpi-v4/button_modern_default.png
+SHA1-Digest: ZDGvKzeXhY1/axXsPc3Fgr/OY0c=
+
+Name: assets/skins/skins/layouts/donebar.xml
+SHA1-Digest: ADZn2MTc3HN+RCw7m6hQE1kl/sA=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_ZM
+SHA1-Digest: HNsE0QyYmJv1F33oOYRWJNHSmMM=
+
+Name: assets/skins/skins/grouponpanel/index.xml
+SHA1-Digest: +WFasthQ+29e03STpIHR1ff3SKA=
+
+Name: res/drawable-hdpi/ic_menu_gallery.png
+SHA1-Digest: bBf7x3qvcC3IFnghCwldwBypzjg=
+
+Name: assets/skins/skins/extensions_tablets/dpi192/settings_bluetooth.
+ png
+SHA1-Digest: Tda4x2kAStzhpZdImiURLXrA7lI=
+
+Name: assets/skins/skins/misc/left.png
+SHA1-Digest: RARwRV/fWPbE4lGbZ7kGVONJIbY=
+
+Name: res/drawable-tr-ldpi-v4/ya.png
+SHA1-Digest: stZWtwz6/xC2j/x29wiTDkrrLMU=
+
+Name: assets/skins/skins/wgt_weather/dpi96/72_17.png
+SHA1-Digest: OQwxgKzKADXJ1lQox1x+2wSLidA=
+
+Name: assets/skins/skins/wgt_weather/dpi192/32_15.png
+SHA1-Digest: F20qrp1cra3FagabXE80NhcaPpY=
+
+Name: assets/skins/skins/tray/index.xml
+SHA1-Digest: QX5ZtoL9/1rgVR01krBRs8QPJ+g=
+
+Name: res/drawable-ldpi-v4/voice_classic_pressed.png
+SHA1-Digest: dUatIj+A1Eu9hVXeNgqNGgbJuZ0=
+
+Name: res/drawable-tr/yandex_text.png
+SHA1-Digest: elF7jXJeZilp9B3ynH2ztYz6chc=
+
+Name: assets/skins/skins/menubar_tablets/dpi192/slider-btn.png
+SHA1-Digest: uEO3F5fgMYFyySSNEAIxtmg7fSo=
+
+Name: res/drawable/search_icon_default.png
+SHA1-Digest: MQxTESiOUFNzTnx6IF0KISxsN2c=
+
+Name: assets/skins/skins/misc/darken.png
+SHA1-Digest: knBCUl9iUm7ZqZF4B6d8pvJy+jc=
+
+Name: assets/skins/skins/contact_card/dpi192/phone_icon.png
+SHA1-Digest: P4Sh9gVaxCuMWUlhiO8df5DUlII=
+
+Name: assets/skins/skins/wgt_weather/dpi128/32_19.png
+SHA1-Digest: I9gwmG/Fbg/K0A8ByauHJefMdfM=
+
+Name: assets/skins/skins/wgt_weather/dpi128/72_10.png
+SHA1-Digest: UEKZPao1kMAhsXoIKGPk+haB3mc=
+
+Name: assets/skins/skins/wgt_weather/dpi192/32_30.png
+SHA1-Digest: IvUPiVW4UXrmGknG/SHL26ROl9s=
+
+Name: assets/skins/skins/widgeticons/dpi192/profile.png
+SHA1-Digest: j4saB4tMa8JyU14Z61FNBbOqwJU=
+
+Name: assets/skins/skins/weatherchart/bar.bin
+SHA1-Digest: n+BAsuutKp9n1hzgltnIk2lT258=
+
+Name: assets/skins/skins/wgt_yasearch/dpi192/yandex_bar_modern_bg.png
+SHA1-Digest: JazJW9F8bpX8Sfw17ysyBXbsV/8=
+
+Name: res/layout/z_line.xml
+SHA1-Digest: 1COlMOVVbQw86B9p/XUvAPeWIUo=
+
+Name: res/layout-ja/weather_city_dropdown_list_item2.xml
+SHA1-Digest: odF/l5hPIMI58zkGNwdUcpCvJlk=
+
+Name: assets/skins/skins/wgt_icon/dpi192/corners.png
+SHA1-Digest: ZD3R7gEtJAA0vCB499lGmXb1qVU=
+
+Name: assets/skins/skins/wgt_weather/dpi128/96_18.png
+SHA1-Digest: xukJbHoeoOUXsfyT/eOtmIXRsy8=
+
+Name: assets/skins/skins/texts/gb/spbshell3d.txt
+SHA1-Digest: luXKTip3qWcFbNMGW+zfcfqZirU=
+
+Name: assets/skins/skins/shaders/c_v.glsl
+SHA1-Digest: s0/HTpagTtxdbbPLN/Z1vag00HU=
+
+Name: assets/skins/skins/gallery/2.png
+SHA1-Digest: WFJ0IlKMeozodqRrC0BceKUkRZQ=
+
+Name: assets/skins/skins/grouponpanel/defthumb.png
+SHA1-Digest: u0Z/iNQXL+offlJCABcY6KRJHfQ=
+
+Name: assets/skins/skins/wgt_operator/dpi192/index.xml
+SHA1-Digest: e3xNuDbkyGJ/Z028wvK+b8r32t8=
+
+Name: assets/skins/skins/shaders/cp_v.glsl
+SHA1-Digest: JEHEXktBXdMXIiKdBpGvfp1pCy4=
+
+Name: assets/skins/skins/wgt_weather/dpi128/96_19.png
+SHA1-Digest: eA78rsAHaMl8K9o5AtOfiL89HXU=
+
+Name: assets/skins/skins/misc/dpi192/header.png
+SHA1-Digest: YDNl0vWAunw1zlr+UktjMZssPIU=
+
+Name: assets/skins/skins/widgeticons/dpi192/wifi.png
+SHA1-Digest: j7tfsQHyvPpdE6DTyun7ByTwiJ0=
+
+Name: assets/skins/skins/wgt_weather/dpi128/rename.sh
+SHA1-Digest: AvtYUZDMFOp7iPXp7moTKaFcMr0=
+
+Name: assets/skins/skins/wgt_weather/dpi96/72_27.png
+SHA1-Digest: iPI7crZqjAEs6z0WDeA2OOQzMbc=
+
+Name: assets/skins/skins/layouts/timepanel.xml
+SHA1-Digest: eixyUj24QAX2vSJVJpvwUCg+2J8=
+
+Name: res/drawable/item_history.png
+SHA1-Digest: KUTs0nvzx9aYq/kShLJOubvdlSY=
+
+Name: res/layout/z_item_application.xml
+SHA1-Digest: TMnNvOnJba4UaPv/C0cLWw+QNTg=
+
+Name: assets/files/wallpaper.jpg
+SHA1-Digest: zNOAWY/QKgnn+Vo5vG8shNgzkLI=
+
+Name: assets/skins/skins/weatherscene/bgice.dds
+SHA1-Digest: mdRK6w8vU1KJITM7BMM7AAPeejo=
+
+Name: assets/skins/skins/texts/bg/spbshell3d.txt
+SHA1-Digest: ieYKBnK1vMKpkZN+IdGJz0ZAdoo=
+
+Name: res/layout/z_item_contact.xml
+SHA1-Digest: YqaLBC1pmPLyjxFaztW2EB0yLwQ=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_US
+SHA1-Digest: bvkovZ//4PgVWU5XSdT1sWTdxJo=
+
+Name: assets/skins/skins/wgt_weather/dpi192/72_0.png
+SHA1-Digest: YvyUukm0/JGO8Bu6oZAojOa/xvE=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_UY
+SHA1-Digest: HRKzhjIj4ercvS7rXBqIz3xt5Ts=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_UZ
+SHA1-Digest: ZDoN5d3Ssls+nS31v2G0Q0GBZC0=
+
+Name: assets/skins/skins/timepanel/dpi192/clock.png
+SHA1-Digest: QlATYb/+cipEzxBuYQ91Oq0iseU=
+
+Name: assets/skins/skins/wgt_gallery/dpi192/frame_hr.png
+SHA1-Digest: pupsKobD4661lSpwSKdr2/yTrpQ=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_VC
+SHA1-Digest: vUWAxLUjPCYZPjwiq+unVTbFbk8=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_VA
+SHA1-Digest: V3nf8SYd2wRmB0vQlPGccfU8Vfo=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_VG
+SHA1-Digest: vhuIolJtMCv5RZCjmktWCgXKbn0=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_VE
+SHA1-Digest: M1/2Pkh+Z7/K/usLsl8z0vaDnkg=
+
+Name: assets/skins/skins/shaders/uc_v.glsl
+SHA1-Digest: Dus4Y/A26O5HSztyJJ+x0WvaVDY=
+
+Name: res/drawable-mdpi/ic_shell_notification.png
+SHA1-Digest: zSs+V89flLk6ftKah0M6ipjosvg=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_VI
+SHA1-Digest: WApvWYiTswJXfAv/zlH3FzaJsW8=
+
+Name: assets/skins/skins/shaders/anaglyph_gray_f.glsl
+SHA1-Digest: Or2fN0YZ+e26tGbntUYwB+NqRy0=
+
+Name: assets/skins/skins/texts/pt/spbshell3d.htm
+SHA1-Digest: tjSFZQWeZOz9+O47gr/iPS7r2gA=
+
+Name: assets/skins/skins/menubar_tablets/dpi192/slider-btn-tapped.png
+SHA1-Digest: GckEq1YQ5Xv0dRJoWOatIEDRozs=
+
+Name: assets/skins/skins/menubar/dpi192/weather.png
+SHA1-Digest: 2F2fIQr/ABkHClmyQEbjbTWG6hI=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_VN
+SHA1-Digest: OZpLGh05Y0HBEAFB2yzTXo6NBQ0=
+
+Name: assets/skins/skins/menubar/dpi192/rotate.dds
+SHA1-Digest: o8B343h0NEikw+glrx5Id/GcQqw=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_VU
+SHA1-Digest: oErshMajrc+1vKK7ewBrunHFdDs=
+
+Name: assets/skins/skins/shaders/ilace_f.glsl
+SHA1-Digest: vus1Cg7PvCCktmL0vE0NEZgigjo=
+
+Name: assets/skins/skins/tray/dpi192/bg_tray_vert.png
+SHA1-Digest: hNCjLo4hfd85j/+5Do6iUkDJ8aw=
+
+Name: assets/skins/skins/texts/da/spbshell3d.txt
+SHA1-Digest: 2/+aTVZJChcUOR3LcwywFRKmJ0k=
+
+Name: assets/skins/skins/shaders/d0uc_v.glsl
+SHA1-Digest: uTUJk+vuO8TzH+mNCQtQ/xdpcZo=
+
+Name: assets/skins/skins/calculatorpanel/dpi192/operation.png
+SHA1-Digest: zQQ4RTu5bZ+1ztpCD6+SK2NflLg=
+
+Name: assets/skins/skins/wgt_weather/dpi192/32_29.png
+SHA1-Digest: 6LLprJGeYTbXObYzUdnn7KgiDjQ=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_WF
+SHA1-Digest: b7PjaYi2UEnOqncRcScdWHljyA8=
+
+Name: assets/skins/skins/calendar/dpi96/blank_calendar.png
+SHA1-Digest: Jor5v3aHIUDxxbxosiy/gpUi4V8=
+
+Name: assets/skins/skins/menubar_tablets/dpi192/weather.dds
+SHA1-Digest: jcZ79NiRGqlwqv50tYnPiS9hgFE=
+
+Name: assets/skins/skins/texts/sc/spbshell3d.htm
+SHA1-Digest: tjSFZQWeZOz9+O47gr/iPS7r2gA=
+
+Name: res/drawable/search_icon.xml
+SHA1-Digest: 54Kwf2s7iuQbebSC844SscjDftc=
+
+Name: assets/skins/skins/shaders/blurx_f.glsl
+SHA1-Digest: CE46lohxv9KCyo81ZF9Ro5Blzgc=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_WS
+SHA1-Digest: oIUGToDDx4TOprixXbqpXTP9QuQ=
+
+Name: assets/skins/skins/calendar/dpi96/today.png
+SHA1-Digest: /HgAoGUxUEovoJpr1b5r5trGkDQ=
+
+Name: assets/skins/skins/wgt_yasearch/dpi128/voice_modern_default.png
+SHA1-Digest: ceHFN57/Nc47PPBzl+2rMOrWLIM=
+
+Name: assets/skins/skins/calendar/dpi192/recurring.png
+SHA1-Digest: dFuEKY0uKPkDYV7HcC029Zxno+I=
+
+Name: assets/skins/skins/layouts/wgt_calendar.xml
+SHA1-Digest: QQCWpuzpWX2AmqzPtUo2OZQUGwQ=
+
+Name: assets/skins/skins/pnl_pictures/index.xml
+SHA1-Digest: rAfT6dURZ2wufuU/WI0RNtZs/+E=
+
+Name: assets/skins/skins/texts/he/spbspbshell3d.htm
+SHA1-Digest: nMIksLpFBb3s1tovzBLJAVMFvT0=
+
+Name: assets/skins/skins/misc/notes.png
+SHA1-Digest: J1+mL16sUUtS0ckHfglam5629YE=
+
+Name: assets/skins/skins/wgt_weather/dpi192/icon_wind.png
+SHA1-Digest: ZW99oN2C5zcepNZIk6nTjVjfP14=
+
+Name: res/drawable/item_browser.png
+SHA1-Digest: 3nLwLiNIcSie9oAN/rHxGcqn3Cg=
+
+Name: res/drawable-ldpi-v4/item_application.png
+SHA1-Digest: NsN3hmLV1kH95ryO7AFxnjyp9oM=
+
+Name: assets/skins/skins/wgt_icon/dpi192/selector.png
+SHA1-Digest: u+/8hBhs7/Nf79Mq4J2ydnsR088=
+
+Name: res/drawable-hdpi-v4/service_images.png
+SHA1-Digest: eoULeqZpszTRlf5Uh29pWrItxTk=
+
+Name: assets/skins/skins/res_contact/dpi192/card_action_btn.png
+SHA1-Digest: vnkv+BcOdfAhzVxT//emM88iQQg=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_YE
+SHA1-Digest: 20Ma39FOQdzq69Tmf5NMXYVp2yg=
+
+Name: assets/skins/skins/wgt_weather/dpi128/32_24.png
+SHA1-Digest: 9Z+d2tBoUHd5ZpOgXkPXKGZANXQ=
+
+Name: assets/skins/skins/wgt_weather/dpi96/96_16.png
+SHA1-Digest: 1paNHUtPEBJN96h0ZNmUkudDdIY=
+
+Name: assets/skins/skins/wgt_worldtime/dpi192/tex_glow.png
+SHA1-Digest: 0iJ1NVxwEkz9YLNgfN1UBmFAskY=
+
+Name: assets/skins/skins/wgt_weather/dpi192/72_18.png
+SHA1-Digest: MgCSM72BCMN6BoazVCDx1ElOEb0=
+
+Name: assets/skins/skins/wgt_weather/dpi192/96_22.png
+SHA1-Digest: fFwePeeQJBjSlIAzZbyE7adMuyQ=
+
+Name: assets/files/spbshell3d.rgs
+SHA1-Digest: nqJgXTpHKPRc/cO2D008431XjRY=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_YT
+SHA1-Digest: wZwvIMg3Jn0qSkDy8hI5Ms8I6Pc=
+
+Name: assets/skins/skins/wgt_gallery/dpi192/index.xml
+SHA1-Digest: S91zVZZ1D7/N0VMma6TWyu5IBaY=
+
+Name: assets/skins/skins/shaders/blurx_v.glsl
+SHA1-Digest: HbbCXfo2ZzLuHUnyqf2sCT4OP6Q=
+
+Name: assets/skins/skins/wgt_demo/2_3.png
+SHA1-Digest: VrfrzPpU9M1nIJGt6IQrgpofVVc=
+
+Name: assets/skins/skins/wgt_worldtime/index.xml
+SHA1-Digest: vPwqzCcUKRbD7qpl2Bw9MFIWYdw=
+
+Name: assets/skins/skins/res_contact/dpi192/wgt_contact_bkg.png
+SHA1-Digest: eiHz4Q0Y7FlTVB5s0ZsqsTSzA1Q=
+
+Name: assets/skins/skins/wgt_weather/dpi96/96_20.png
+SHA1-Digest: GnbSdLb3yjG41GgRFeYsM8HX1+I=
+
+Name: assets/skins/skins/shaders/t0ac_v.glsl
+SHA1-Digest: TGmiskAeLLbfm/Uny5MXoVh9qQY=
+
+Name: assets/skins/skins/calendar_tablet/dpi192/no-tabs.png
+SHA1-Digest: jBx5B/Llt5hzm8M2MPqHbkD++60=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_RO
+SHA1-Digest: JxQFNSYOmLFBSqP5+uTXQdqWcG8=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_RE
+SHA1-Digest: jHUSsH6hNSaPqk0YGBhxYAsPBxY=
+
+Name: assets/skins/skins/wgt_weather/dpi192/32_5.png
+SHA1-Digest: mbhL92lRXXLU+M3bHkHV0iPduUc=
+
+Name: res/drawable-ldpi/ic_shell_launch.png
+SHA1-Digest: bjUynNLowjZDLmTySUUxYpmSw3c=
+
+Name: assets/skins/skins/launcher/dpi192/index.xml
+SHA1-Digest: 83DU2kvAxEUbtoURfmz5Z34P/uc=
+
+Name: assets/skins/skins/calendar_tablet/dpi192/today.png
+SHA1-Digest: bwF5XFhX4j9C3VVBg+mwp3GeJxo=
+
+Name: assets/skins/skins/wgt_demo/3_2.png
+SHA1-Digest: MEMqQ/IgnkaMGxRm7c47aRAitZo=
+
+Name: assets/skins/skins/texts/ru/spbshell3d.txt
+SHA1-Digest: nWbSbqPzcINFIwPKA20P6WURyww=
+
+Name: res/layout/z_settings_layout_item.xml
+SHA1-Digest: zuA5sLqmfxV8CidA28M3KLFJlV8=
+
+Name: assets/skins/skins/weatherscene/frame.png
+SHA1-Digest: UV2++TCxvYM9JBz1LcSEdoZs35E=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_SK
+SHA1-Digest: RNxDCg8LXasah9vJ2HncaaLSEhE=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_SL
+SHA1-Digest: R+XMeoDf4Iy2cEUkjX9pDtU1J/s=
+
+Name: assets/skins/skins/wgt_frame/dpi96/index.xml
+SHA1-Digest: QQXN2T2Ix9sRusEV3jbgGAEsNdE=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_SI
+SHA1-Digest: Q3Kjr8o8ZqhHk+/0eCFK3RctvJE=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_SJ
+SHA1-Digest: kGZTQG78O/UN4hJ/iEm1nMbXGI8=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_SO
+SHA1-Digest: 2CeZ77nOdP19dEDYhlCJYvnAnmU=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_SM
+SHA1-Digest: xOcTUsg7cDzyHmnlOh9nIEO0M1U=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_SN
+SHA1-Digest: 4IHAJAMv7OLym1Oissnd6jFqL4E=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_SC
+SHA1-Digest: +1YwyERCennMJlATqhcTTVizwHo=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_SD
+SHA1-Digest: vR9y+Huv5G9DYW3PQLIE+NT2+O4=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_SA
+SHA1-Digest: n+NNY9z2t4HENdtlkiVpHLDav0o=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_SB
+SHA1-Digest: F7n0iD2cjUX9Dkd1uHBEX6yA4HI=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_SG
+SHA1-Digest: BtLo5HShcKfWIZ6UcraeWrYu+PE=
+
+Name: assets/skins/skins/wgt_weather/dpi128/72_5.png
+SHA1-Digest: NAqnUE99hu8q3Dd0C3XGTzQfUAY=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_SH
+SHA1-Digest: zJFalyav5UGx2rliuv/1ZKu6qPg=
+
+Name: assets/skins/skins/wgt_weather/dpi192/72_12.png
+SHA1-Digest: mw9C2lMuKHZMrf186H2vxPkcqeM=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_SE
+SHA1-Digest: MEudM8NS73lYrYkJlBit2uxq/+0=
+
+Name: assets/skins/skins/grouponpanel/sold.png
+SHA1-Digest: LK6RF8FHRmp2SvLklQJhEUCe7Hw=
+
+Name: assets/skins/skins/wgt_rss/dpi192/pict1.png
+SHA1-Digest: J5a/TAq6b/GA72bkRoE2Ox89xuc=
+
+Name: res/drawable-tr/service_search.png
+SHA1-Digest: eVPmsdDjtEJCr20CER0/iq48W6w=
+
+Name: assets/skins/skins/layouts/l_folderw4x1.xml
+SHA1-Digest: LyMkBgSvnKquxYJT/F50c+lr4oI=
+
+Name: assets/skins/skins/wgt_weather/dpi128/tab_shade.png
+SHA1-Digest: y6OjuIjfc/sohhvbOL9lIrqZKFY=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_RS
+SHA1-Digest: wwQBxfWoEjk2SmkSNVV2LcT9RFI=
+
+Name: assets/skins/skins/wgt_frame/dpi128/gloss.png
+SHA1-Digest: vvwjPq4EQFMTVCZ2AHT7GeAd22Y=
+
+Name: assets/skins/skins/wgt_weather/dpi128/72_1.png
+SHA1-Digest: eMngbo6doUVNbaXXcZRjJN4tuHU=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_RW
+SHA1-Digest: R82ZskbV7Qv5CzajMugGmzzZpFo=
+
+Name: assets/skins/skins/wgt_weather/dpi96/32_1.png
+SHA1-Digest: YDtAamIPomxy01ghDFU3WvfilPE=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_RU
+SHA1-Digest: w1+A3CxPMr/1rz/MZydWgKxHhb4=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_TN
+SHA1-Digest: NTdK/sv46orZKvrXHHnavfDUl38=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_TO
+SHA1-Digest: Zv4R60gOeLmdJ9r011fLgB2Vsrw=
+
+Name: assets/skins/skins/calendar_tablet/dpi192/blank.png
+SHA1-Digest: 5JEsUIi97wR/0x6HDr9Q7z2ZdqA=
+
+Name: assets/skins/skins/modernbackground/dpi192/header_bg.png
+SHA1-Digest: eZjQFUcNl0kMZkrpz0OmRzHT7Sc=
+
+Name: assets/skins/skins/settings/dpi192/index.xml
+SHA1-Digest: dSXYOosAjkSPFfgPPftYyO951mk=
+
+Name: assets/skins/skins/wgt_yasearch/dpi128/yandex_text.png
+SHA1-Digest: 8/RE1DXtIxq4iCUPEzOLFWYn6a4=
+
+Name: assets/skins/skins/misc/dpi192/contacts_size_medium.png
+SHA1-Digest: qorksntZRob39XE4kf9nrIPdYlo=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_TJ
+SHA1-Digest: NlOfCTk3bzaLQIqVV4NvN4P6hRY=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_TK
+SHA1-Digest: /c+te04f4Gv/5LW3sY/cb/nJZyU=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_TL
+SHA1-Digest: j6C1fsMASz8Bk+9F7hg9PkjkzQY=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_TM
+SHA1-Digest: pIYa+M+Sc4RVn5BH0PDRjMWTANc=
+
+Name: assets/skins/skins/texts/en/spbshell3d.txt
+SHA1-Digest: d6VKtNuqS990Vird6SoccuQcv2Y=
+
+Name: assets/skins/skins/wgt_weather/dpi128/32_1.png
+SHA1-Digest: q0VKBmH6VC1z4m2pZjTkj4VCYis=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_TG
+SHA1-Digest: Hm00h+bEsm8GwIAc91uaAlzy/Z8=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_TH
+SHA1-Digest: LvRAbXvt00Ffa2YqQRLhPxuicA4=
+
+Name: res/drawable/yandex_text.png
+SHA1-Digest: e6UYXaP95/2vVYlIbSmLaZc9hqM=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_TC
+SHA1-Digest: iFrrJkyeSQjKXlsnd8SXQ7ZyId8=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_TD
+SHA1-Digest: uymyRc3pK+4kJaB2aZK0iM5FLn0=
+
+Name: assets/skins/skins/menubar/dpi192/ico-menu.png
+SHA1-Digest: ZO+1RdOSpEBBKl4WDWht5jnotdw=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_SZ
+SHA1-Digest: B+PU1vfV3zfKXN9Uj5xiCCEcdRw=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_SY
+SHA1-Digest: +IcG3Jv96p0Ldr847nOHzaxi0tQ=
+
+Name: assets/skins/skins/menubar/dpi192/p/toolbar.png
+SHA1-Digest: empotFLrWjhfP57Aamt7dJCV4YI=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_SV
+SHA1-Digest: ddGKYV3Ic3lrV1JgY+f9al3T5cQ=
+
+Name: assets/skins/skins/extensions/dpi192/settings_bluetooth.png
+SHA1-Digest: Tda4x2kAStzhpZdImiURLXrA7lI=
+
+Name: assets/skins/skins/misc/dpi192/rcorners.png
+SHA1-Digest: DLtVgpZ27pcM6QuO1JNdBCzF1AI=
+
+Name: assets/skins/skins/calendar/dpi128/recurring.png
+SHA1-Digest: dMnMgyicibLF2GnfnVdicIxG/eM=
+
+Name: assets/skins/skins/wgt_smsmms/dpi192/icon.png
+SHA1-Digest: 1qMQxqDTt5jWdvPmz09ALxN6x0U=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_SR
+SHA1-Digest: cvrxwbTGcT5CDsa9vqlPUM5i1wg=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_ST
+SHA1-Digest: gJC36w/UmqZBfoXSCIrpjgxtsSE=
+
+Name: assets/skins/skins/wgt_weather/dpi96/72_9.png
+SHA1-Digest: 6VPoPFHRT59Q33IQuIQkQ2HZ+aQ=
+
+Name: assets/skins/skins/weatherscene/shadow.dds
+SHA1-Digest: vN3tci0hYWxa8PsaB/ojNVr/KYQ=
+
+Name: assets/skins/skins/texts/nl/spbshell3d.txt
+SHA1-Digest: zyMfG+4YKVaXO42AKbjrI24YOzQ=
+
+Name: assets/skins/skins/wgt_backlight/index.xml
+SHA1-Digest: tgreg1eHtda3du78lvRbPkv8qKo=
+
+Name: assets/skins/skins/wgt_weather/dpi96/icon_humid.png
+SHA1-Digest: tWv0tkBQqIr+Zd+xBMtCF5KFUs0=
+
+Name: assets/skins/skins/shaders/bbt0a_v.glsl
+SHA1-Digest: WdXsRcUA0wVG5K/GRCAv3/jVmRE=
+
+Name: assets/skins/skins/texts/vi/spbshell3d.htm
+SHA1-Digest: r/ZuGNY4kYGB9LvJFFQZCzDPN3s=
+
+Name: assets/skins/skins/texts/gb/spbshell3d.htm
+SHA1-Digest: tjSFZQWeZOz9+O47gr/iPS7r2gA=
+
+Name: assets/skins/skins/shaders/t0_v.glsl
+SHA1-Digest: 9M3gFGgKcACmCTF9rdpHbsqETQw=
+
+Name: assets/skins/skins/rsspanel/index.xml
+SHA1-Digest: 9vVteQGZNkoWdmpVn0YQd71t86E=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_UG
+SHA1-Digest: vgLcbMOjq2pT/0x5RPRNeonR58I=
+
+Name: res/drawable-mdpi/dummy_icon.png
+SHA1-Digest: 7Ft/Rirt+l/JRX2KjDREScdbCZk=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_UA
+SHA1-Digest: Ft4Uj9zJi+j214k8uE/Ktl8wna4=
+
+Name: assets/skins/skins/wgt_birthdays/birthday.bin
+SHA1-Digest: mCOBbpxU+IG7s26g3iQQYsXfUoc=
+
+Name: assets/skins/skins/contact_card/dpi192/contact_icon.png
+SHA1-Digest: pmksJqB8VVztNMR3Q8JkeCkETZo=
+
+Name: assets/skins/skins/wgt_weather/dpi96/32_23.png
+SHA1-Digest: oiFX5MnmjErZaSaq7nhdi1WMLKA=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_TZ
+SHA1-Digest: zZyB/yX9+rH2lzCrejhvptzDuUY=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_TW
+SHA1-Digest: Xby+A1XkFz3vbFdgCZgfyH50PCs=
+
+Name: assets/skins/skins/timepanel_moon/dpi192/uv-zodiac.png
+SHA1-Digest: T+4uB9uSYJEJLg7MmDin9xh7j3I=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_TV
+SHA1-Digest: iI47cGlVRgG7s0Xa1dVdUR49ev0=
+
+Name: assets/skins/skins/misc/dpi192/contacts_size.png
+SHA1-Digest: wGYe2YXUapFeOxujkya5qzutIg8=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_TT
+SHA1-Digest: kOhAJVvJzKMZkuRATEx7gB5T9BM=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_TR
+SHA1-Digest: 5NfrDfYrqbDJQnfIjgCHTckPXb0=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_NA
+SHA1-Digest: l0Rn9UHBC4qMEiaGYyEM5TZU94Q=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_NC
+SHA1-Digest: 4Yfd1nuzfhaV+b8j8nWjpGe4kxY=
+
+Name: assets/skins/skins/wgt_weather/dpi128/96_3.png
+SHA1-Digest: bWAtBTErYVohRtMnUvY8wT30+f8=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_NE
+SHA1-Digest: p2qtwN8OBh4xQZVySfzpP8KEqgY=
+
+Name: assets/skins/skins/wgt_frame/dpi192/index.xml
+SHA1-Digest: ORVrcl9acOq2U3jcVwtuTkV1vOg=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_NG
+SHA1-Digest: dlcS6H0bYCFkgus5hJxtH0a7iK0=
+
+Name: assets/skins/skins/wgt_album/dpi192/frame.png
+SHA1-Digest: babqxx/CtCD1Ei5u/8N2gJwVS8s=
+
+Name: assets/skins/skins/texts/bg/spbshell3d.htm
+SHA1-Digest: r/ZuGNY4kYGB9LvJFFQZCzDPN3s=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_NF
+SHA1-Digest: jt6LSRPxVqh1SoIkS6N60cCaf0E=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_NI
+SHA1-Digest: QlLMP9h/g3KGHNH/UUKmCujsMKQ=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_MK
+SHA1-Digest: E5uJM6I+8VcZ76NRc/n11U+a5uY=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_ML
+SHA1-Digest: eGVkvVm2BydPhEMv8d91DnOQj7g=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_MM
+SHA1-Digest: tqY3Rd1W5eJLupl+R8HBS1zIKA8=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_MN
+SHA1-Digest: KB6QYGgJfTFxKSKrUaNVv5SfLgw=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_MO
+SHA1-Digest: H/mFf//ZVvx0aq7ACOzOE1+4y68=
+
+Name: res/drawable/service_market.png
+SHA1-Digest: AOcPTbULwheo1Ixs+kawaOqkcho=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_MP
+SHA1-Digest: SoPW4CVamR8Q7b7spgw9k3QIsC8=
+
+Name: assets/skins/skins/wgt_weather/dpi96/72_28.png
+SHA1-Digest: rAo+CMRS9HNiZB21D8zCLcn8E3A=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_MQ
+SHA1-Digest: a5xUfv3GV21ALEBvhRBCFUx7eaA=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_MR
+SHA1-Digest: LPUaUTivt0BvaeJIn+4WZikHdto=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_MS
+SHA1-Digest: S0d/psCR8OLBblA7CIXmoM7U+sU=
+
+Name: res/drawable-hdpi-v4/service_mail.png
+SHA1-Digest: 67iHXMBhHLB9ARGMjwSvXjpFLGg=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_MT
+SHA1-Digest: dtvd9xiaUyRXgNR6QjXASMxDjkk=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_MU
+SHA1-Digest: Bad8v7hFTbmrqO9x11kTboq47kQ=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_MV
+SHA1-Digest: eSB+x+djghwPw7Gti3lVYgxw4UI=
+
+Name: assets/skins/skins/misc/dpi192/add.png
+SHA1-Digest: AQduy8MJLSl+tqWd+XOaFnh6RFQ=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_MW
+SHA1-Digest: 5RPVmnFOX9Ocb6sQvbP7BIlvuVk=
+
+Name: res/drawable-hdpi/ic_btn_round_minus.png
+SHA1-Digest: q8rd0dT+PeWYYXqMJLMj8LS62Os=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_MX
+SHA1-Digest: 05hvFkTR/Hc84VoMAYwmU4opKkc=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_MY
+SHA1-Digest: A2dZQSKAKvp5pfI1t3sYc/x24PM=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_MZ
+SHA1-Digest: 8DzwjSSVon5QVGyftMzgm9Ap/Jc=
+
+Name: assets/skins/skins/texts/al/spbshell3d.htm
+SHA1-Digest: r/ZuGNY4kYGB9LvJFFQZCzDPN3s=
+
+Name: assets/skins/skins/res_contact/dpi192/contact_dumm.png
+SHA1-Digest: cBjKBCU+4/4/W1M5bgEREtiiBic=
+
+Name: assets/skins/skins/layouts/p_launcher.xml
+SHA1-Digest: xSK8M2WDbI7X3RhLEMlM0ON1m2c=
+
+Name: assets/skins/skins/misc/index.xml
+SHA1-Digest: vQ2XADvPeTnsCkO9vIuFqrfdDvg=
+
+Name: assets/skins/skins/menubar/dpi192/selector-dot.png
+SHA1-Digest: InrNF7MQTaxjOI2rrPf57HJ+mBE=
+
+Name: assets/skins/skins/tray/dpi192/border_left.png
+SHA1-Digest: PTf3qAymKazHxrJjXz978j2Liss=
+
+Name: assets/skins/skins/shaders/t0t1a_v.glsl
+SHA1-Digest: y9sPc4/mB+D1MEiVnUpX6WM5ok8=
+
+Name: assets/skins/skins/contact_card/dpi192/index.xml
+SHA1-Digest: CK/3G6nkBbExavYWiWtwDE27MLw=
+
+Name: assets/skins/skins/contact_card/dpi192/sms_button.png
+SHA1-Digest: pe4Gr+4AXhlOzav8c5HX8WlBEMM=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_NO
+SHA1-Digest: ybqdc70y6Qmxs+FWAHUb8GyCg+E=
+
+Name: assets/skins/skins/wgt_demo/6_1.png
+SHA1-Digest: a3gyUepwF8rysmlOYxz0ou69yGA=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_NL
+SHA1-Digest: N4fu3JO4S9iJG20fd3UXl+bCQZI=
+
+Name: assets/skins/skins/wgt_weather/dpi96/72_16.png
+SHA1-Digest: V2O8Y3OFxYDDlOT/GLk1W0PW4O0=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_NR
+SHA1-Digest: uPvAD3K6wed6at2Z5v8u+f4eCzk=
+
+Name: assets/skins/skins/shaders/bbt0_v.glsl
+SHA1-Digest: WdXsRcUA0wVG5K/GRCAv3/jVmRE=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_NP
+SHA1-Digest: VmLyRx8ueAufvNCuCQFpUfghbYw=
+
+Name: assets/skins/skins/calendar/dpi128/blank_calendar.png
+SHA1-Digest: amJ4ooTYglgpSMNlbGrenUOgEjs=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_NU
+SHA1-Digest: heZrYSEW+ZNbLh3itLCjoUDU1p8=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_NZ
+SHA1-Digest: oHBci4ZjcZMDSk9+u2h1Q6nfyHk=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_PE
+SHA1-Digest: VlY82tPEtnD3JUtV6EtLUO/Xc8M=
+
+Name: res/drawable-ldpi-v4/search_edit_default.9.png
+SHA1-Digest: 5tyENTY++fc1y9BMXLUa+MoYR6o=
+
+Name: assets/skins/skins/wgt_frame/dpi128/index.xml
+SHA1-Digest: QQXN2T2Ix9sRusEV3jbgGAEsNdE=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_PA
+SHA1-Digest: bFDvixsmnHlAaukfJWCQrMiTKNo=
+
+Name: assets/skins/skins/texts/cz/spbshell3d.htm
+SHA1-Digest: tjSFZQWeZOz9+O47gr/iPS7r2gA=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_PK
+SHA1-Digest: GGkv9ZgVVeMA+XfXPjlDcW4Jsjc=
+
+Name: assets/skins/skins/calendar/dpi192/index.xml
+SHA1-Digest: fQK83Tg+NC+WPCqZiZs6QKVwwyo=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_PM
+SHA1-Digest: lEbXaRaB8ecIEa3JgfvQTkdlH78=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_PL
+SHA1-Digest: QV+EZ2xZrKvegWNxgDusJdVSBuk=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_PG
+SHA1-Digest: quYAscM4EipVoZ7hIeBjdilJhNY=
+
+Name: assets/skins/skins/wgt_weather/dpi128/96_16.png
+SHA1-Digest: VUKV/8iMpGhk9vINRE66j/27bbc=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_PF
+SHA1-Digest: LcZISNCa+LRcax/ixr6DrMFg8Ck=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_PH
+SHA1-Digest: tldxrgNflkY1Fss/Uilcfe9ElB4=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_OM
+SHA1-Digest: oYe0+K9zk9eTWrS/8GXWZ2YVAs8=
+
+Name: assets/skins/skins/wgt_weather/dpi192/72_6.png
+SHA1-Digest: Q1/WCtqIFIO0he7tnUDuBVxdzqM=
+
+Name: assets/skins/skins/wgt_birthdays/anniversary.bin
+SHA1-Digest: Nhb1u5MTQWGl2NJ0drT30jhIHEU=
+
+Name: assets/skins/skins/shaders/texmix0_f.glsl
+SHA1-Digest: SrOjS1qAfAXzD2ZTl270ixEqQJc=
+
+Name: res/drawable/ya.png
+SHA1-Digest: ksDjGqBrEZzOMd8CViMdcGdNaAc=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_QA
+SHA1-Digest: wBLoQ/9iIpXazELEkXXd9Npl6lU=
+
+Name: assets/skins/skins/wgt_weather/dpi128/32_23.png
+SHA1-Digest: 0DXiKcb38L6SMDPBq3efbILRJ80=
+
+Name: assets/skins/skins/texts/pl/spbshell3d.htm
+SHA1-Digest: tjSFZQWeZOz9+O47gr/iPS7r2gA=
+
+Name: res/drawable-hdpi-v4/item_application.png
+SHA1-Digest: GhCrEvhE39hf9+JIVX0uC0ZeGK8=
+
+Name: res/drawable-hdpi-v4/search_icon_pressed.png
+SHA1-Digest: snE9D6289IUO7pZMxaG9PXQUFwg=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_PT
+SHA1-Digest: bNOYDVwsJmxMneVXGT4KB1oCzRY=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_PR
+SHA1-Digest: 5+wd9tJ4gi5ZXP3uw7dePWaoqWE=
+
+Name: assets/skins/skins/res_contact/dpi192/movearrow_top.png
+SHA1-Digest: HRoqK9MVXf0+G1zgsuWKO8vF1eU=
+
+Name: assets/skins/skins/wgt_weather/dpi192/96_0.png
+SHA1-Digest: zDGdXIRA3YRY+Am3atlCePqpk9E=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_PS
+SHA1-Digest: VRcPCc0TKEVugE1+3wUp/r0tSVQ=
+
+Name: assets/skins/skins/tray/dpi192/bg_tray.png
+SHA1-Digest: B0ImASJp4aGo0W7/hm+HKpKJUZY=
+
+Name: assets/skins/skins/wgt_weather/dpi96/sep_h4.png
+SHA1-Digest: cFsAHesXVSHcc+gZabTOcG1kCEA=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_PY
+SHA1-Digest: 3h+aw6GjD5Bh3w6zQEOJ4lAJROs=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_PW
+SHA1-Digest: KHFgVq37XYhM2ObRKjp6mtHkkx4=
+
+Name: assets/skins/skins/frame/index.xml
+SHA1-Digest: 8xeLme4FS9bF7Yz9Nk27lGuu8l8=
+
+Name: assets/skins/skins/wgt_weather/dpi128/96_25.png
+SHA1-Digest: DeUTAMKlEZZ9aLGqf7MTDjOWBg4=
+
+Name: assets/skins/skins/wgt_weather/dpi192/tab_shade.png
+SHA1-Digest: YSQ2JXKZrYHg/78IgdmO6C9qf5Q=
+
+Name: assets/skins/skins/wgt_weather/dpi128/32_22.png
+SHA1-Digest: PEvVourTkHx8m7kuIkjGiFq+wfQ=
+
+Name: assets/skins/skins/wgt_weather/dpi96/96_9.png
+SHA1-Digest: G2t9aprTvsT3Ho5rKlXhEuatkbk=
+
+Name: assets/skins/skins/texts/mk/spbshell3d.htm
+SHA1-Digest: r/ZuGNY4kYGB9LvJFFQZCzDPN3s=
+
+Name: assets/skins/skins/shaders/colorize_v.glsl
+SHA1-Digest: kjevhtjq42VXP/bYEZZsRrKzIkA=
+
+Name: res/drawable-ldpi-v4/yandex_text.png
+SHA1-Digest: uTMme5LBW6UGvOgOtOKJn2gf9Qo=
+
+Name: res/drawable-hdpi/ic_menu_clear_playlist.png
+SHA1-Digest: yd/RbVTmvR8dvRRQEldlTTVVA78=
+
+Name: assets/skins/skins/contact_card/dpi192/small_button.png
+SHA1-Digest: NacBoBL6dyKTslMZ4yA8UC/g9CA=
+
+Name: assets/skins/skins/wgt_weather/dpi96/96_25.png
+SHA1-Digest: tc/8I821ng43aHWdFx6wyf+5xWw=
+
+Name: assets/skins/skins/wgt_lastcall/incoming.png
+SHA1-Digest: 1rL6CxfUFmkWdLh+Mm32rePe6JM=
+
+Name: assets/skins/skins/layouts/wgt_backlight.xml
+SHA1-Digest: SxhqOG14LY1R8f7gkr9Jrn9P1Fg=
+
+Name: res/drawable-hdpi-v4/service_map.png
+SHA1-Digest: mTzZ4ZLicN851p5pu/UgkXclMwo=
+
+Name: res/drawable-hdpi-v4/search_edit_default.9.png
+SHA1-Digest: UiiZYWZ8hX1Zv4jgpUbaxX/JbGA=
+
+Name: res/layout/logger_list_item.xml
+SHA1-Digest: I0EiRyY+64Wt1W9A4gp6/MI+Y58=
+
+Name: assets/skins/skins/wgt_weather/dpi128/bar.png
+SHA1-Digest: GXnThb7284B/oHJsXin9nutzLgY=
+
+Name: assets/skins/skins/calculatorpanel/dpi192/border.png
+SHA1-Digest: lPwswxj+mMyHH/cT/VIiNX1mk70=
+
+Name: assets/skins/skins/wgt_weather/dpi192/32_24.png
+SHA1-Digest: GtNovzxGtUr9ECgLj8FlDnx/2kw=
+
+Name: assets/skins/skins/texts/hu/spbshell3d.txt
+SHA1-Digest: dES2oAH5I/oXI9dEhLWs5DpH4bg=
+
+Name: assets/skins/skins/wgt_weather/dpi192/32_6.png
+SHA1-Digest: 1T7//glyQMqa+AEerEH6JbuiPCI=
+
+Name: assets/skins/skins/shaders/texmix1_v.glsl
+SHA1-Digest: dfCyDRX++kLH/weUjJa5aNX34jY=
+
+Name: assets/skins/skins/texts/hu/spbshell3d.htm
+SHA1-Digest: tjSFZQWeZOz9+O47gr/iPS7r2gA=
+
+Name: assets/skins/skins/wgt_operator/dpi192/sim.png
+SHA1-Digest: +aFXRMGEvvMNewsVQJDjQN1w/DA=
+
+Name: assets/skins/skins/widgeticons/dpi192/birthdays.png
+SHA1-Digest: wtluBHuK1c6kirCjQbObY6Wop/k=
+
+Name: assets/skins/skins/texts/he/spbshell3d.txt
+SHA1-Digest: kfS+dvw5UdTxvlWofoyxOHRc/+E=
+
+Name: assets/skins/skins/layouts/dial.xml
+SHA1-Digest: uwWu6hJxAXFTVwe5Lx3rr5LU7gA=
+
+Name: assets/skins/skins/wgt_weather/dpi128/72_25.png
+SHA1-Digest: g9hHclPqntcehxZJ/hf8OAXIl0E=
+
+Name: assets/skins/skins/wgt_weather/dpi96/96_22.png
+SHA1-Digest: zzFXVuD2CidPDfpB25aIDMlIzAM=
+
+Name: assets/skins/skins/shaders/t0acon_f.glsl
+SHA1-Digest: tPXIQ73GOCPE56h3FejJzNrXsIQ=
+
+Name: res/drawable-hdpi-v4/button_classic_default.png
+SHA1-Digest: lOXEhuR08vfNSd4QXUkW6TGdlsU=
+
+Name: assets/skins/skins/texts/sk/spbshell3d.htm
+SHA1-Digest: tjSFZQWeZOz9+O47gr/iPS7r2gA=
+
+Name: assets/skins/skins/wgt_yasearch/dpi128/button_modern_default.png
+SHA1-Digest: NcY6sk7Rw5nHJs5whRhtCMg/gAc=
+
+Name: assets/skins/skins/wgt_weather/dpi96/96_28.png
+SHA1-Digest: Ixonb4W3iu9A8GyZeyLcPjhZmag=
+
+Name: res/drawable-ldpi-v4/voice_modern_pressed.png
+SHA1-Digest: iJYc7yAzDwWE/IOOFAiawd6RxuQ=
+
+Name: assets/skins/skins/wgt_weather/dpi128/72_9.png
+SHA1-Digest: lJ4FTQM0rtxnkmB4oq8wG0jyNKY=
+
+Name: res/drawable-hdpi-v4/search_edit_focused.9.png
+SHA1-Digest: mzBxTx2NTtv+fh0yYIaVVATLFGY=
+
+Name: res/drawable-hdpi-v4/item_sms.png
+SHA1-Digest: Bim75TkXDaXH3bXWjnv32z+0OMU=
+
+Name: assets/skins/skins/wgt_clock/dpi192/arrows-2x2-am.png
+SHA1-Digest: DTAVUcpcR+MWe6eTmdUU4kiPqh8=
+
+Name: res/drawable/search_edit.xml
+SHA1-Digest: 2W3XWzjov2E+eZuhExuDQxivPjM=
+
+Name: assets/skins/skins/layouts/moonpanel.xml
+SHA1-Digest: dujF33F13/MwLqu19No+tML14y8=
+
+Name: assets/skins/skins/res_contact/dpi192/contact_bord_2.png
+SHA1-Digest: IZzeTqo1+SyB4MKF/B8+9wQz+mE=
+
+Name: assets/skins/skins/wgt_weather/dpi192/32_2.png
+SHA1-Digest: yBHvZDxIn1EhR6muJntUwqf5beE=
+
+Name: assets/skins/skins/tray/dpi192/border_bottom.png
+SHA1-Digest: HoRKZD9HHk51g+B3uJgHzHrE7Gc=
+
+Name: assets/skins/skins/wgt_plus/dpi192/index.xml
+SHA1-Digest: mh06R4npMXKV3WXGnjH335Y5PxM=
+
+Name: res/drawable-tr/service_weather.png
+SHA1-Digest: 4tzh7oJq//OGaXPvZfBz+vIgdyU=
+
+Name: res/drawable/mic_dialog.png
+SHA1-Digest: VvF+zC1FOmWSSmpsuYKD3fyr074=
+
+Name: assets/skins/skins/wgt_weather/dpi96/32_10.png
+SHA1-Digest: oUtCqr+jpD4tDOMepAHKTYDENAY=
+
+Name: res/drawable-hdpi-v4/voice_modern_pressed.png
+SHA1-Digest: ybaPYQDeMSOUUdxxd7rfl3tGgwU=
+
+Name: res/drawable-hdpi/ic_launcher_appwidget.png
+SHA1-Digest: Km+iA+eWLaAGjFVGSjkyLIaqKmc=
+
+Name: res/drawable-hdpi-v4/voice_classic_pressed.png
+SHA1-Digest: FewLy/pPm/afD8FirJpsHRyIokU=
+
+Name: assets/skins/skins/res_contact/dpi192/contact_mask.png
+SHA1-Digest: tBjUKCFHDMbmia4qQDHcEbwPi4E=
+
+Name: assets/skins/skins/wgt_demo/3_4.png
+SHA1-Digest: D4fxerhSrZShH3VHIZB6E6zOGP0=
+
+Name: assets/skins/skins/weatherchart/left.png
+SHA1-Digest: m4ezuyUKziByuNwQHNT5TEnzEzk=
+
+Name: assets/skins/skins/wgt_smsmms/dpi192/bubble.png
+SHA1-Digest: Hwp+mB0y9dIA5URed7w5RsRmN9A=
+
+Name: assets/skins/skins/layouts/wgt_lastcall.xml
+SHA1-Digest: ZdvytrGJGLMX4UBmyxlmsmyVnjA=
+
+Name: assets/skins/skins/calendar_tablet/dpi192/tabs-1.png
+SHA1-Digest: qXAZcMEWG8OzM96s6sR9PjJyjQA=
+
+Name: res/drawable/provider_shadow_ver.xml
+SHA1-Digest: OBR3rjBbDG/ND4wBocfAV3UO1k4=
+
+Name: res/layout/bold_line.xml
+SHA1-Digest: ML+Qk6ev8JYKdYkvfXRZDZaVwl0=
+
+Name: assets/skins/skins/shaders/blury_f.glsl
+SHA1-Digest: owyIlScOf3M8/ZDiO62jCDjh7Xo=
+
+Name: assets/skins/skins/widgeticons/dpi192/network.png
+SHA1-Digest: ISEDH0w/hE5PMoesuDd85USI2kM=
+
+Name: assets/skins/skins/wgt_frame_tablets/dpi128/frame_small.png
+SHA1-Digest: BSmMdLZWHm7pep2TIDVQKpxoaeg=
+
+Name: assets/skins/skins/wgt_icon_tablets/dpi192/selector.png
+SHA1-Digest: u+/8hBhs7/Nf79Mq4J2ydnsR088=
+
+Name: assets/skins/skins/wgt_profile/index.xml
+SHA1-Digest: nnp9kRATKUJHYWyi6sdVFrGHn6A=
+
+Name: assets/skins/skins/misc/dpi192/contacts_size_small.png
+SHA1-Digest: oUDy5jr7yToSqUadep/uVtqb/so=
+
+Name: assets/skins/skins/shaders/d0t0_v.glsl
+SHA1-Digest: 7bYBrx2bDVQvb0r5+FaYgxPKqB8=
+
+Name: res/layout/z_settings.xml
+SHA1-Digest: 34DMLMgJ+SlfVBqmw/Le++AQGS8=
+
+Name: assets/skins/skins/wgt_weather/dpi192/32_20.png
+SHA1-Digest: ZCNa0otL0gK3CK9+d4EFJphG1U0=
+
+Name: assets/skins/skins/androidwidgets/l/index.xml
+SHA1-Digest: Q5QnT1m/lTd1vajJo6U4XGa9f9U=
+
+Name: assets/skins/skins/wgt_weather/dpi192/72_21.png
+SHA1-Digest: w96NH8wddJPm4AUp9QMwOi/B8BQ=
+
+Name: res/layout/wallpaper_item.xml
+SHA1-Digest: S6IyvOhbuE/q1FVkQ+L91KNQxHQ=
+
+Name: assets/skins/skins/layouts/background_opaque.xml
+SHA1-Digest: Z2EhjIaDYGkU83FuYAcNuXcafF4=
+
+Name: assets/skins/skins/wgt_battery/dpi192/battery.png
+SHA1-Digest: 6L4hzm0F9DC77w6vSx2GEgX2/ek=
+
+Name: assets/skins/skins/wgt_smsmms/dpi96/icon-unread.png
+SHA1-Digest: PdG68+E+BfnUZz9PkjN345HpAKk=
+
+Name: assets/skins/skins/misc/dpi192/logo_icon.png
+SHA1-Digest: WBZEwgB2JL7Ppubs0/OPX3xKczM=
+
+Name: assets/skins/skins/wgt_weather/dpi128/32_14.png
+SHA1-Digest: vzqsu/hz53b8JAVpmc8LLX4vGTU=
+
+Name: assets/skins/skins/wgt_clock/index.xml
+SHA1-Digest: 0cHjYSdCHp78W6yHAstoKdSq6uw=
+
+Name: assets/skins/skins/timepanel/dpi192/index.png
+SHA1-Digest: 4nS54l8u3gbMYhSnVy867Aeb378=
+
+Name: res/drawable-hdpi-v4/voice_modern_default.png
+SHA1-Digest: wjkkNaltGjvnl/1ACxeJM+2z3No=
+
+Name: assets/skins/skins/shaders/p0t0_f.glsl
+SHA1-Digest: 1jnRUWVDRn4hd3Urv+CPLkNpEmE=
+
+Name: assets/skins/skins/wgt_demo/1_5.png
+SHA1-Digest: wOIpFs/GSdTYAojHl6YXRciIvfQ=
+
+Name: assets/skins/skins/texts/he/spbshell3d.htm
+SHA1-Digest: tjSFZQWeZOz9+O47gr/iPS7r2gA=
+
+Name: assets/skins/skins/timepanel/dpi192/index.xml
+SHA1-Digest: oK/SGsntuEzC8Rqwqx9+i8pHbfM=
+
+Name: assets/skins/skins/wgt_weather/dpi192/96_29.png
+SHA1-Digest: JFYN/WWcSZCcRlu40eTWvXwEYzE=
+
+Name: assets/skins/skins/wgt_weather/dpi96/96_14.png
+SHA1-Digest: gDpisJ4jNdZHkWMGEP2SoyK9RB8=
+
+Name: res/layout/dialog_text_input.xml
+SHA1-Digest: VsCcwflp+pd3DqMybdSDw86A/Ng=
+
+Name: assets/skins/skins/res_contact/dpi192/mms_action_icon.png
+SHA1-Digest: ON5Y8h4V0iVMnW2HKs2VdnF8F/M=
+
+Name: assets/skins/skins/layouts/panelframe.xml
+SHA1-Digest: 72CfcLy24UGBmQCdTnlHo8Ef6jg=
+
+Name: res/drawable/search_panel_bg.png
+SHA1-Digest: 5w5u+FveenTefwwN13721RB2hXQ=
+
+Name: assets/skins/skins/texts/nl/spbspbshell3d.htm
+SHA1-Digest: nMIksLpFBb3s1tovzBLJAVMFvT0=
+
+Name: assets/skins/skins/wgt_weather/dpi96/72_20.png
+SHA1-Digest: g4+Pk0fY/KAvZZNOUFHhFxmY2iI=
+
+Name: res/xml-tr/services.xml
+SHA1-Digest: b1ohSRKybFNbZXxOkOZ3asTUVUQ=
+
+Name: assets/skins/skins/calculatorpanel/dpi192/orangebutton.png
+SHA1-Digest: ocxCKcgjolK6fM18ksfkol+xhWU=
+
+Name: assets/skins/skins/texts/sc/spbshell3d.txt
+SHA1-Digest: Ms6l+0Mh2FX7zAqmFW6CND87iig=
+
+Name: assets/skins/skins/texts/lv/spbshell3d.htm
+SHA1-Digest: r/ZuGNY4kYGB9LvJFFQZCzDPN3s=
+
+Name: assets/skins/skins/misc/calendar.png
+SHA1-Digest: r8puB/5PG90kQtYCfzoFr5/5q2U=
+
+Name: assets/skins/skins/texts/ar/spbspbshell3d.htm
+SHA1-Digest: nMIksLpFBb3s1tovzBLJAVMFvT0=
+
+Name: res/drawable-ldpi-v4/yandex_bar_modern_bg.9.png
+SHA1-Digest: unifcOBlSd/r/UQtIeGN3UlL7X0=
+
+Name: assets/skins/skins/layouts/rsspanel_dock.xml
+SHA1-Digest: fNJgch9CBPsr2kxHjSwQerDuHxo=
+
+Name: assets/skins/skins/wgt_frame/index.xml
+SHA1-Digest: EKfMNcrTYRrCKEmRJsWvZeYoriI=
+
+Name: assets/skins/skins/menubar_tablets/dpi192/ico-back.dds
+SHA1-Digest: NUccGaQ6RTjfYUSTlXYdxWBEiz8=
+
+Name: assets/skins/skins/shaders/uc_f.glsl
+SHA1-Digest: 3Qd4E5VB0aGxXY3SJvbrJYH9zQk=
+
+Name: assets/skins/skins/texts/cn/spbspbshell3d.htm
+SHA1-Digest: nMIksLpFBb3s1tovzBLJAVMFvT0=
+
+Name: assets/skins/skins/wgt_smsmms/dpi96/index.xml
+SHA1-Digest: EUVCYpn+fCV2asafke2QEpAxeNo=
+
+Name: assets/skins/skins/wgt_weather/dpi192/icon_press.png
+SHA1-Digest: AbDHvjJYIeJhJHki3zAHQXS/zeM=
+
+Name: assets/skins/skins/wgt_smsmms/dpi128/photoframe.png
+SHA1-Digest: 0e2QgWnDT3dJE9lpegEp1qt7t3c=
+
+Name: res/drawable/voice_grey_pressed.png
+SHA1-Digest: y/ieGaX1Z7C+33G3Sa6E4oCX/JA=
+
+Name: assets/skins/skins/widgeticons/dpi192/worldtime.png
+SHA1-Digest: 9bj+DEbUa/JSqpCRTU4XAtsiLjk=
+
+Name: assets/skins/skins/wgt_weather/dpi128/sep_h4.png
+SHA1-Digest: 4VtvJjkCUcf6Uz8ZaCCptapaG1g=
+
+Name: assets/skins/skins/shaders/t0t1_v.glsl
+SHA1-Digest: y9sPc4/mB+D1MEiVnUpX6WM5ok8=
+
+Name: assets/skins/skins/widgeticons/dpi192/contact.png
+SHA1-Digest: 1/r0RVEpw0pPBNHGXi0pB5AZbzE=
+
+Name: assets/skins/skins/layouts/menuaux2x.xml
+SHA1-Digest: uSvDYufvT7YlXmfP0n5R6tSEdNg=
+
+Name: assets/skins/skins/texts/kz/spbshell3d.txt
+SHA1-Digest: ULamY5tghp8CikIxXv+nv0HgS7o=
+
+Name: assets/skins/skins/wgt_weather/dpi192/32_11.png
+SHA1-Digest: eHbe5KV4sFqyyIWLxdCsjhp4sLo=
+
+Name: assets/skins/skins/wgt_folder/dpi192/small_folder.png
+SHA1-Digest: XAmnFIEpePjTcztYbT4AZEoYSpI=
+
+Name: assets/skins/skins/texts/by/spbshell3d.htm
+SHA1-Digest: r/ZuGNY4kYGB9LvJFFQZCzDPN3s=
+
+Name: res/drawable-hdpi-v4/yandex_bar_modern_bg.9.png
+SHA1-Digest: 8Zx79sI0GFJuIWECeqyqN7hoZGA=
+
+Name: res/drawable-hdpi-v11/ic_shell_notification.png
+SHA1-Digest: bjUynNLowjZDLmTySUUxYpmSw3c=
+
+Name: assets/skins/skins/wgt_weather/dpi96/96_6.png
+SHA1-Digest: fFEScjyvXUSvCtGkokvWLbtCTj0=
+
+Name: assets/skins/skins/texts/cz/spbspbshell3d.htm
+SHA1-Digest: nMIksLpFBb3s1tovzBLJAVMFvT0=
+
+Name: assets/skins/skins/wgt_demo/1_2.png
+SHA1-Digest: A0aYIjxYxe1z7ZJj35WgrbNkv24=
+
+Name: assets/skins/skins/wgt_weather/dpi96/96_17.png
+SHA1-Digest: RCxDdX1cF1mifvK/R8CZR99FpTM=
+
+Name: res/drawable/button_grey_pressed.png
+SHA1-Digest: BGlSQEc8IjNcV6v1wNgr+odVv8w=
+
+Name: assets/skins/skins/wgt_folder/dpi192/folder_closed.png
+SHA1-Digest: 7YUPhAM/gMYd2TLdi4SI7mjongQ=
+
+Name: assets/skins/skins/res_contact/dpi192/anniv.png
+SHA1-Digest: uZShCYzI4lS4cblxr30l0PTyKXY=
+
+Name: assets/skins/skins/wgt_weather/dpi128/96_11.png
+SHA1-Digest: InMNuhQVx7Nu3+/uB/HKisVyBQg=
+
+Name: assets/skins/skins/texts/kz/spbshell3d.htm
+SHA1-Digest: r/ZuGNY4kYGB9LvJFFQZCzDPN3s=
+
+Name: assets/skins/skins/wgt_worldtime/dpi192/tex_bump.png
+SHA1-Digest: Id/BW99SpHSAhaP/vDIU0LNI4DU=
+
+Name: assets/skins/skins/layouts/timepanelmoondialog.xml
+SHA1-Digest: YjsYHWpkcX3X80xKoMAu69QzDUA=
+
+Name: assets/skins/skins/wgt_weather/dpi128/96_9.png
+SHA1-Digest: wPaRTdqyI2veXzIv75aESRMx2lg=
+
+Name: assets/skins/skins/shaders/bumpp0_v.glsl
+SHA1-Digest: OyqqbP9kqZG88H7x5WjjvNJrp3Y=
+
+Name: assets/skins/skins/menubar_tablets/dpi192/menu_icons.dds
+SHA1-Digest: LePxc37Y7kKTNcbqBCjuV3wjVTg=
+
+Name: assets/skins/skins/misc/dpi192/popupfooter.png
+SHA1-Digest: K0X8MkCi/yC0fFkXaNK8ikvJeQs=
+
+Name: assets/skins/skins/texts/gr/spbshell3d.htm
+SHA1-Digest: tjSFZQWeZOz9+O47gr/iPS7r2gA=
+
+Name: assets/skins/skins/launcher/dpi192/deleteicon.png
+SHA1-Digest: EgZ6NPRwiGjJAFlYSn2c5P3QR84=
+
+Name: assets/skins/skins/wgt_clock/dpi192/arrows-2x2-ah.png
+SHA1-Digest: rB0Hsf/yeyxyERCn5UR7QXvC92c=
+
+Name: assets/skins/skins/texts/gr/spbshell3d.txt
+SHA1-Digest: P33xm4cRea14IyT5VG532lLuTfI=
+
+Name: assets/skins/skins/wgt_weather/dpi96/32_8.png
+SHA1-Digest: IZGgJlMW1LWlHW/EjZYkutKxMkI=
+
+Name: assets/skins/skins/texts/it/spbspbshell3d.htm
+SHA1-Digest: nMIksLpFBb3s1tovzBLJAVMFvT0=
+
+Name: assets/skins/skins/wgt_weather/dpi128/72_12.png
+SHA1-Digest: TDUKrW24Cgpk0pgOLUCglMqV3Jw=
+
+Name: assets/skins/skins/launcher/dpi192/switchskin.png
+SHA1-Digest: a3J0Qu4HAMF/QNuOjsy1oxuIvUA=
+
+Name: assets/skins/skins/wgt_clock/dpi192/index.xml
+SHA1-Digest: HJOWgxN9HVEd5Ff7q/DOnQQENUY=
+
+Name: assets/skins/skins/wgt_frame/dpi192/frame.png
+SHA1-Digest: 2ITzkZ4qMC+SDmKJcttteUkuu5k=
+
+Name: assets/skins/skins/wgt_weather/dpi128/32_29.png
+SHA1-Digest: YLHqfYZqDx4+uP7MTGRgZsf50Dk=
+
+Name: assets/skins/skins/wgt_weather/dpi96/72_11.png
+SHA1-Digest: BdYOX734ZlMyLHrho+vDotynn4Q=
+
+Name: assets/skins/skins/wgt_operator/index.xml
+SHA1-Digest: cl4eMeMp491IezrvX04Xb4/QGiM=
+
+Name: assets/skins/skins/weatherscene/snow_1.dds
+SHA1-Digest: UD0P33NUGFb+vRO2D3S23OMDRHk=
+
+Name: assets/skins/skins/misc/weather.png
+SHA1-Digest: tIDSiSnE6JyMR4neyMbSoGGBrbM=
+
+Name: assets/skins/skins/wgt_weather/dpi128/32_26.png
+SHA1-Digest: suGT55tFnhiSMrt5jvNu6s9p/c0=
+
+Name: assets/skins/skins/wgt_weather/dpi96/32_20.png
+SHA1-Digest: FQGpER2Cp76RI5gvbJw7+o+l2Ao=
+
+Name: res/drawable-hdpi/ic_menu_info_details.png
+SHA1-Digest: 7zNMQc9sg4phqoMR0Orm2lCw3UU=
+
+Name: assets/skins/skins/wgt_weather/dpi128/72_30.png
+SHA1-Digest: Hm/DoS1pXb93/AQuOBHVL5+sMVs=
+
+Name: assets/skins/skins/texts/gr/spbspbshell3d.htm
+SHA1-Digest: nMIksLpFBb3s1tovzBLJAVMFvT0=
+
+Name: assets/skins/skins/texts/en/spbshell3d.htm
+SHA1-Digest: tjSFZQWeZOz9+O47gr/iPS7r2gA=
+
+Name: res/drawable-tr-hdpi-v4/service_weather.png
+SHA1-Digest: BevmwbNoefRLKp5R9xqFfbP6Kk4=
+
+Name: assets/skins/skins/res_contact/dpi192/index.xml
+SHA1-Digest: 0gHsXiNPiEBPoO8+winovIiq6rk=
+
+Name: assets/skins/skins/wgt_weather/dpi96/96_21.png
+SHA1-Digest: gWeSf9sdIxLvz8s86vCaP9WvBTI=
+
+Name: res/anim/layout_slide_out.xml
+SHA1-Digest: qGBccQCeX/WzGS2xy6FhMfTvagA=
+
+Name: assets/skins/skins/menubar/dpi192/ico-launcher.png
+SHA1-Digest: fv9gXmbKI4Qlgf3Vaifx8xnHt/0=
+
+Name: assets/skins/skins/texts/sv/spbshell3d.htm
+SHA1-Digest: tjSFZQWeZOz9+O47gr/iPS7r2gA=
+
+Name: assets/skins/skins/wgt_weather/dpi192/index.xml
+SHA1-Digest: O8Gt97F94cPqnpZL+NiAwNYLbCg=
+
+Name: res/drawable/btn_circle.xml
+SHA1-Digest: 5Hd/yLLuoY06lr/gVKy7UrYe6R4=
+
+Name: assets/skins/skins/grouponpanel/button_on.png
+SHA1-Digest: OJ5iK88iL0aA11AUqRcc87zQrnY=
+
+Name: assets/skins/skins/frame/320x455/index.xml
+SHA1-Digest: YAIUrmx4QQ2DgIuU7RTbkRh75JU=
+
+Name: assets/skins/skins/modernbackground/dpi192/noise.png
+SHA1-Digest: QR2gNsX2qiwToDpU8FpQSQ7Wetk=
+
+Name: assets/skins/skins/texts/es/spbspbshell3d.htm
+SHA1-Digest: nMIksLpFBb3s1tovzBLJAVMFvT0=
+
+Name: assets/skins/skins/wgt_bookmark/bookmark.png
+SHA1-Digest: N2CQNJ0inzIEe5mYXbcUnBWthaM=
+
+Name: assets/skins/skins/layouts/weatherpopup.xml
+SHA1-Digest: JYmvR1RFJYY38HSnz7dFrUaWsvs=
+
+Name: assets/skins/skins/menubar/dpi192/p/slider-btn-tapped.png
+SHA1-Digest: +onasosH+muF7kwz+rHxnQFft7w=
+
+Name: assets/skins/skins/wgt_weather/dpi96/72_3.png
+SHA1-Digest: X2gWG+vvGcfgH0oxuc0Wig2aHLg=
+
+Name: assets/skins/skins/misc/dpi192/headerline.png
+SHA1-Digest: AY+Pd5y2PDq9KzqUi5ywjPFo9as=
+
+Name: res/drawable/button_modern_default.png
+SHA1-Digest: +NN5kgi+WgCtKs0Pyx6RzRchUEw=
+
+Name: assets/skins/skins/menubar/dpi192/rotate.png
+SHA1-Digest: w3Ti+v+a1VBx0KbmYpflxSCq8rE=
+
+Name: res/layout/main.xml
+SHA1-Digest: pRj8urZ4A3Py+Chvrh1VTXSZTQg=
+
+Name: assets/skins/skins/wgt_frame_tablets/dpi192/header.png
+SHA1-Digest: 10E6IONhGjmrKoo0u/KhSu3lX90=
+
+Name: assets/skins/skins/layouts/l_folder.xml
+SHA1-Digest: 9c4XOWxGRc2h23diWscQBbFsPQ0=
+
+Name: assets/skins/skins/layouts/parameters_experimental.xml
+SHA1-Digest: mwupM2JE0+LjUpcpEXBEr52U/Wo=
+
+Name: assets/skins/skins/calculatorpanel/dpi192/screen.png
+SHA1-Digest: z41az1a96ApPq0irQ3uBhv5Ebto=
+
+Name: res/layout/audio_search_list_item.xml
+SHA1-Digest: JCk3r7TXjD/AgOnbzls7rgPnrUg=
+
+Name: assets/skins/skins/texts/by/spbshell3d.txt
+SHA1-Digest: jaZfsZAsKJpDEthSWqIYkZ3JM/Y=
+
+Name: res/drawable-tr/ya.png
+SHA1-Digest: LBQJwdfDjy9QyGPXpXBKHV8g9U0=
+
+Name: res/drawable/button_classic_default.png
+SHA1-Digest: uzlkYzNcJxEECmISi/L04jFe8+A=
+
+Name: assets/skins/skins/wgt_album/empty.png
+SHA1-Digest: 2F9t3Hydbd9WQx6bukPGU4PbVXA=
+
+Name: assets/skins/skins/wgt_demo/5_1.png
+SHA1-Digest: zhLSrrtx76KSjNTFMq8ftekGY2M=
+
+Name: assets/skins/skins/wgt_weather/dpi128/72_24.png
+SHA1-Digest: 1hRKtFln8IBY6nxMyUbA66nPvpU=
+
+Name: assets/skins/skins/shaders/hueshift_v.glsl
+SHA1-Digest: mmZ5WitQFsuKcPCYP0KlwhPU4Eg=
+
+Name: res/drawable/input_modern_grey_default.9.png
+SHA1-Digest: otJhsMf9M9XSFvZjD0OmWGYe7ak=
+
+Name: assets/skins/skins/wgt_demo/4_5.png
+SHA1-Digest: sYNpMJumZPYFP4a22ukp/vlheTc=
+
+Name: assets/skins/skins/modernbackground/dpi192/index.xml
+SHA1-Digest: zbkJDmbbnQjR6KxVXLycLLHdBeY=
+
+Name: assets/skins/skins/menubar/dpi192/l/index.xml
+SHA1-Digest: sX0x4rcXQ8uCHiH317kM7rmpzHE=
+
+Name: res/drawable/ya_selected.png
+SHA1-Digest: 84syxIZWlLWk/rEXYzKQCDWNgRc=
+
+Name: assets/skins/skins/shaders/texmix0_v.glsl
+SHA1-Digest: HbbCXfo2ZzLuHUnyqf2sCT4OP6Q=
+
+Name: assets/skins/skins/shaders/t0ac_f.glsl
+SHA1-Digest: uFmyNA6fNd0I1buYXSQuPCyBPpo=
+
+Name: assets/skins/skins/wgt_weather/dpi96/32_25.png
+SHA1-Digest: qkhrcwgi8zMzWDgp01Prq9ilXi0=
+
+Name: res/drawable-ldpi-v4/service_images.png
+SHA1-Digest: r3TxROBi/7hVaKb2TH03OSGb6ag=
+
+Name: assets/skins/skins/wgt_weather/dpi128/72_28.png
+SHA1-Digest: eq4RSvKL7bRRBUSlkYSI916gKVg=
+
+Name: assets/skins/skins/calendar/dpi128/calendar.png
+SHA1-Digest: dN1CzWeIrsuRp+M2+Kejax2OuPQ=
+
+Name: assets/skins/skins/wgt_rss/dpi192/index.xml
+SHA1-Digest: SD8JwSi7x+eLFotMFcsBGBhhl08=
+
+Name: res/drawable-hdpi/ic_btn_round_plus.png
+SHA1-Digest: +z+O0Zdj734qSdTZdCutdNfL5Bo=
+
+Name: assets/skins/skins/wgt_yasearch/dpi192/index.xml
+SHA1-Digest: 6L01WzLeNrBArWnEhjN/eBXwrdQ=
+
+Name: assets/skins/skins/layouts/wgt_worldtime.xml
+SHA1-Digest: SqMIE2d2gSdRILFnGIsVlNSMhNM=
+
+Name: assets/skins/skins/texts/cz/spbshell3d.txt
+SHA1-Digest: rMISv3bOkakzHwS701YDNv/rJvw=
+
+Name: assets/skins/skins/wgt_weather/dpi192/72_7.png
+SHA1-Digest: j03gOigKn/edOP+JPKKPPM0ZJcs=
+
+Name: assets/skins/skins/gallery/1.png
+SHA1-Digest: cucrLHkG9XtCju6JlPBvhYMhOY4=
+
+Name: assets/skins/skins/wgt_weather/dpi96/96_13.png
+SHA1-Digest: nkpRwuH4TVt5OghFrh8Y3Q1OPmo=
+
+Name: assets/skins/skins/tray/dpi192/bg_btn.png
+SHA1-Digest: 1FywmoOs/Cn4xJX9RVZVeAcCnqQ=
+
+Name: res/drawable/item_sms.png
+SHA1-Digest: 1v67JgKYD8vB7xsvhPuIiQzmBfY=
+
+Name: assets/skins/skins/shaders/bumpd0_v.glsl
+SHA1-Digest: 0iOmWgpsxVxsYiIiRVE3/OFMVCU=
+
+Name: assets/skins/skins/wgt_yasearch/dpi128/icon.png
+SHA1-Digest: cSyZDCMBuHGj20RhTRc6qCTZAmE=
+
+Name: res/drawable-mdpi/weather_large_pressure.png
+SHA1-Digest: m3NapnZflhOWxRm4g+ShclpVM74=
+
+Name: assets/skins/skins/misc/dpi192/button.png
+SHA1-Digest: lc2SnMaKcCew8EehhYVaa9/vb6c=
+
+Name: assets/skins/skins/menubar/dpi192/p/slider-btn.png
+SHA1-Digest: JgfTUkPm80tfxMSe/NnTB3lf3TY=
+
+Name: assets/skins/skins/layouts/wgt_weather.icon.xml
+SHA1-Digest: i2GDwBLTin9XgwZBle8wB2wlfdM=
+
+Name: assets/skins/skins/wgt_bookmark/favicon.png
+SHA1-Digest: 5p70bzwFjI6GdVKeYXoOTROgI+c=
+
+Name: assets/skins/skins/layouts/parameters.xml
+SHA1-Digest: sUBCxnHuaWNY7BvGvqQtGp9oIrU=
+
+Name: res/drawable/button_grey_default.png
+SHA1-Digest: F9/5AgNDcSqmok1wK6+H/zzJCTk=
+
+Name: assets/skins/skins/res_contact/dpi192/callcnt0.png
+SHA1-Digest: +nOSMGPYEUc9UElbfqqSXkEKMjo=
+
+Name: assets/skins/skins/frame/360x614/index.xml
+SHA1-Digest: ojbV3GTTMakQOFr3FL1RKhVokbo=
+
+Name: assets/skins/skins/shaders/warp_f.glsl
+SHA1-Digest: 8UMnObB7jgR/cv6W9CAwuxlV8Nk=
+
+Name: assets/skins/skins/shaders/colorize_f.glsl
+SHA1-Digest: XxrTry0YPNeiPs8k2hv9sXR7Tw4=
+
+Name: assets/skins/skins/wgt_worldtime/dpi192/tex_line.png
+SHA1-Digest: kmeO5tbOkH8HJShdg74YJR7P6Uk=
+
+Name: assets/skins/skins/texts/si/spbshell3d.txt
+SHA1-Digest: 2iSMhnMuy+lVZ0+gtgktsS5JH/E=
+
+Name: assets/skins/skins/textures/outerglow.dds
+SHA1-Digest: FYp4qnppWndjSnZMe1QsJrNMXok=
+
+Name: assets/skins/skins/wgt_demo/6_4.png
+SHA1-Digest: cnaJsu8X2ZGy7oN4cmWHnMvX5h4=
+
+Name: assets/skins/skins/calculatorpanel/script.lua
+SHA1-Digest: eEEMeYimdc0T0D6F1Uko4LJbqPg=
+
+Name: assets/skins/skins/shaders/anaglyph_color_v.glsl
+SHA1-Digest: HbbCXfo2ZzLuHUnyqf2sCT4OP6Q=
+
+Name: assets/skins/skins/layouts/options.xml
+SHA1-Digest: 2QVmvY3TdnMtSoWz2ZTCnmRlbFM=
+
+Name: assets/skins/skins/layouts/contactsframe.xml
+SHA1-Digest: yJssnvWcjeSbm25wOUV6Gm1FlA8=
+
+Name: assets/skins/skins/wgt_smsmms/dpi192/photoframeshadow.png
+SHA1-Digest: n9jnyb5Qp7Zw0ka1vceJoLStudk=
+
+Name: assets/skins/skins/layouts/grouponpanel.xml
+SHA1-Digest: eCQJR1CZ8s0y1/TZvEv74ue8kUs=
+
+Name: assets/skins/skins/wgt_birthdays/frame.png
+SHA1-Digest: j0iWEctGls7IeP32I2VeGr5DxHk=
+
+Name: assets/skins/skins/layouts/luadialog.xml
+SHA1-Digest: frUJyJkzp2Ft3bkMDHqO6eYT3bY=
+
+Name: assets/skins/skins/texts/uk/spbshell3d.txt
+SHA1-Digest: jkleX7FoXQNkDX7G795shzQ0N2U=
+
+Name: assets/skins/skins/wgt_weather/dpi96/32_30.png
+SHA1-Digest: tOlkOzaCqgZCuBk5WDI8v7NgEbc=
+
+Name: assets/skins/skins/res_contact/dpi192/contact_mask_2.png
+SHA1-Digest: CSxPr1GVRbRy+h09Th/qUMw14n0=
+
+Name: assets/skins/skins/wgt_weather/dpi192/72_1.png
+SHA1-Digest: k1JxlrmlIJ+J34KnK+R2A2M1Xs0=
+
+Name: assets/skins/skins/misc/dpi192/ic_launcher_shortcut.png
+SHA1-Digest: vhMY7j3BE+AauTwSRYT4kk9aLf8=
+
+Name: assets/skins/skins/misc/dpi192/border.png
+SHA1-Digest: vAYqg7u3rwAVS8+Qp+H+Tvol15o=
+
+Name: assets/skins/skins/misc/dpi192/crossfade.png
+SHA1-Digest: ZzVFx8yBC9U1C+mUP4dfGeyzM0o=
+
+Name: assets/skins/skins/texts/fr/spbspbshell3d.htm
+SHA1-Digest: nMIksLpFBb3s1tovzBLJAVMFvT0=
+
+Name: assets/skins/skins/texts/ko/spbshell3d.txt
+SHA1-Digest: YUvP7l/VwXRSumK3WAW5tpP+Q9s=
+
+Name: res/drawable-ldpi/weather_humidity.png
+SHA1-Digest: Tu3zDCVmYn6Aqp4mVMtYlL8n+5Y=
+
+Name: assets/skins/skins/wgt_weather/dpi96/72_15.png
+SHA1-Digest: aAuWiru2PKC6DQoA0mU+AvLZak8=
+
+Name: assets/skins/skins/misc/dpi192/separator.png
+SHA1-Digest: BgGfU1be17XqGaikhitvWTl/wgU=
+
+Name: assets/skins/skins/wgt_folder/dpi192/ico_contcs.png
+SHA1-Digest: 3M2g/AF1VOUJwVP//Tn26obvTf0=
+
+Name: res/drawable/service_shadow_bottom.xml
+SHA1-Digest: mU7XqPVhXSNYvK41adN616RIjHE=
+
+Name: assets/skins/skins/wgt_demo/1_1.png
+SHA1-Digest: BYDSy9T4vzwjxbx8zOltmb2S8Z8=
+
+Name: res/layout/z_search_provider.xml
+SHA1-Digest: S7YisHzvm55jzZi/LlBPdLgwlOM=
+
+Name: assets/skins/skins/layouts/wgt_weather.multi.xml
+SHA1-Digest: Af2JzQaF6KuMLBQ9esX1d95N0JM=
+
+Name: res/drawable-hdpi/btn_circle_disable_focused.png
+SHA1-Digest: hG/hD8Z1Um6cczg1QswkoEPbRic=
+
+Name: assets/skins/skins/shaders/gradientmask_f.glsl
+SHA1-Digest: ubZGxb2edZxvUri2rA0fQNiIuY4=
+
+Name: assets/skins/skins/layouts/spbcontacts.xml
+SHA1-Digest: 60ogcw1ltZeuCjvIvlvJdeQYTaM=
+
+Name: assets/skins/skins/launcher/dpi192/dragshadow.png
+SHA1-Digest: 5mKNc42bdBU8cz9Fqh0/km6Fhhg=
+
+Name: res/drawable-ldpi-v4/input_modern_grey_default.9.png
+SHA1-Digest: FZ2HkuR6+ZeN+pBHYqjitRgkU+Q=
+
+Name: assets/skins/skins/layouts/wgt_weather.today.xml
+SHA1-Digest: CT0D4JegYEKX7aIIMVf6iLbnQ5c=
+
+Name: assets/skins/skins/menubar/dpi192/l/slider-btn-tapped.png
+SHA1-Digest: HbEow4+hYO379iDVVqBhCxu9+1Q=
+
+Name: res/drawable-ldpi-v4/voice_grey_pressed.png
+SHA1-Digest: 6pjieFOyajpmKvz9ZdI8NNUPSU8=
+
+Name: assets/skins/skins/texts/fi/spbshell3d.txt
+SHA1-Digest: pgVhi51Q2bLVlp+gh5ercuK/N6k=
+
+Name: res/drawable-ldpi-v4/item_sms.png
+SHA1-Digest: 4CnVEc4C6B1WqspV24ImQUudZrk=
+
+Name: assets/skins/skins/shaders/p0uc_v.glsl
+SHA1-Digest: pHEFiGf0achF4TcCj/e9d3A8f8E=
+
+Name: assets/skins/skins/wgt_weather/dpi96/32_15.png
+SHA1-Digest: CraevRGGsRzvJxgRPok/AivGdR0=
+
+Name: assets/skins/skins/wgt_weather/dpi96/72_4.png
+SHA1-Digest: PPnZ5uRJ2S1ZZxaaWXTG8F1+23Y=
+
+Name: assets/skins/skins/res_contact/dpi192/card_action_icon.png
+SHA1-Digest: 0lOvm9eYneXllMDVlyOo7hxsBpE=
+
+Name: assets/skins/skins/wgt_frame_tablets/dpi192/frame.png
+SHA1-Digest: lwRJEcPtMvKylTedfG3PoBi7OTE=
+
+Name: assets/skins/skins/wgt_battery/index.xml
+SHA1-Digest: SGMCbunC79UFHe19V+3mRyufgVY=
+
+Name: assets/skins/skins/misc/dpi192/contacts.png
+SHA1-Digest: NyCjGjHcOZmPP2b54sAvn7NKSuA=
+
+Name: assets/skins/skins/misc/pictures.png
+SHA1-Digest: pME789eCUxzymZ+XXNmDaoULClE=
+
+Name: res/drawable-ldpi-v4/input_classic_pressed.9.png
+SHA1-Digest: u3m2InQeLdYRQk4q5rM4NwDm8Fs=
+
+Name: assets/skins/skins/menubar/dpi192/selector-home.png
+SHA1-Digest: SnvkxF7anpVOxbZQPGreBoL2As8=
+
+Name: assets/skins/skins/shaders/stereo_interlacedh_f.glsl
+SHA1-Digest: mQy07gsXKuY75Kk/tyOGo9uIg9Q=
+
+Name: assets/skins/skins/shaders/p0t0_v.glsl
+SHA1-Digest: STes1IB+cXxddX2GKHfgoXUFJGg=
+
+Name: res/drawable-mdpi/ic_launcher_appwidget.png
+SHA1-Digest: hJ3xxIEgxGw7ZlzKmHXvoPWx45I=
+
+Name: res/drawable-ldpi-v4/service_pattern.png
+SHA1-Digest: +7tzlhpPDkIxGBOBlLcVUWlri/k=
+
+Name: assets/skins/skins/wgt_weather/dpi192/96_5.png
+SHA1-Digest: LWrp6F9WTOxFMOF3f5k9qt1JcOI=
+
+Name: assets/skins/skins/timepanel/dpi192/hands.png
+SHA1-Digest: cMkiT2RePO+ZaYJ9WIBq1VlBuNo=
+
+Name: res/layout/z_install_dialog.xml
+SHA1-Digest: Zl1X1L+5CJaq07M2Y9JuzlRFjJg=
+
+Name: assets/skins/skins/misc/dpi192/contacts_size_large.png
+SHA1-Digest: sXneK2uHPWj1x3q/48NiZl4RZx0=
+
+Name: assets/skins/skins/wgt_weather/dpi96/32_27.png
+SHA1-Digest: kDCKXWZ7H6sdHvN/Fjn/bFRpSLw=
+
+Name: assets/skins/skins/wgt_yasearch/dpi128/yandex_bar_modern_bg.png
+SHA1-Digest: JazJW9F8bpX8Sfw17ysyBXbsV/8=
+
+Name: assets/skins/skins/custom_backgrounds/dpi192/background_2.png
+SHA1-Digest: wdZZQWt7TaQCgICU4dk9YQz9EiU=
+
+Name: assets/skins/skins/notespanel/dot_on.png
+SHA1-Digest: lSM7cSo/S9Zaf26qQvqK7gQGeac=
+
+Name: res/drawable-tr-hdpi-v4/service_search.png
+SHA1-Digest: tVOYIEK0HAQJXhOxa66ACwFqNKE=
+
+Name: assets/skins/skins/wgt_weather/dpi128/72_14.png
+SHA1-Digest: Ydb4HbfzxyZuYBzf4Oqep7bGWaI=
+
+Name: assets/skins/skins/wgt_weather/dpi128/32_8.png
+SHA1-Digest: jncdf3BZdk+RG3zNH+OY0eNfuo4=
+
+Name: res/drawable-mdpi/weather_pressure.png
+SHA1-Digest: /ItpI5Sy3L4zV3gGadSXc9mhLdc=
+
+Name: assets/skins/skins/tray/dpi192/binbtn.png
+SHA1-Digest: 1pqIrk6sSqOF/KaPEf9GZkMVDN8=
+
+Name: assets/skins/skins/texts/sk/spbshell3d.txt
+SHA1-Digest: SJTX4DKhpHdCNu/fglXhOo8cnRU=
+
+Name: assets/skins/skins/misc/dpi192/nophoto.png
+SHA1-Digest: 2UTN5Ay6EW7ukTDeYcCxcQMJePM=
+
+Name: res/drawable-hdpi-v4/button_classic_pressed.png
+SHA1-Digest: 4iYnJiyYLt8mGGMKIcQzvd6sg5w=
+
+Name: res/drawable-hdpi/ic_menu_sort_by_size.png
+SHA1-Digest: vGfw/J+A8bW0wyvE8reWUJ9fgVY=
+
+Name: res/drawable-hdpi/ic_launcher_wallpaper.png
+SHA1-Digest: gO53LB4PClLFQCFY1xwOzI1oSNc=
+
+Name: assets/skins/skins/wgt_weather/dpi192/32_1.png
+SHA1-Digest: oRFAr5ckEIryYzY39XSvwTSslwU=
+
+Name: assets/skins/skins/wgt_yasearch/dpi192/voice_modern_pressed.png
+SHA1-Digest: zGCXofKoRZKoyL4Ohp3nKsmD3Fw=
+
+Name: assets/skins/skins/wgt_weather/dpi128/96_13.png
+SHA1-Digest: d2tgi1EQGg12caZle0QSUZPQJno=
+
+Name: res/drawable-hdpi/ic_menu_manage.png
+SHA1-Digest: DWrpHh2WHyBglL0gVhnDNVeoV4s=
+
+Name: assets/skins/skins/res_contact/dpi192/mail_action_icon.png
+SHA1-Digest: 7WIcD3AyEtV8ZweA0U7gWOfPrnw=
+
+Name: assets/skins/skins/res_contact/dpi192/wgt_newcontact_frame.png
+SHA1-Digest: rplTfv8Zxuw3Q2G7POPt99xVU14=
+
+Name: assets/skins/skins/wgt_demo/6_2.png
+SHA1-Digest: ULipjdh/yiuRizUmwvT6p9aweOg=
+
+Name: assets/skins/skins/layouts/menuaux.xml
+SHA1-Digest: +JddFKr7H1hP5u9+C/P34ESiP1c=
+
+Name: assets/skins/skins/res_contact/dpi192/contact_bord.png
+SHA1-Digest: iqJDmhnA7Wn3MloUCWsMb52Br3A=
+
+Name: assets/skins/skins/wgt_frame/dpi128/frame.png
+SHA1-Digest: dv2BUEK47nO+iT5QYhKC6paVX+c=
+
+Name: assets/skins/skins/wgt_weather/dpi96/custom-background.png
+SHA1-Digest: w04QlHpSBXjkH5yvvHMMMTah8Gw=
+
+Name: assets/skins/skins/wgt_weather/dpi192/96_16.png
+SHA1-Digest: D4xJf0lxEWlQQ42+IpEiMfXZL6o=
+
+Name: assets/skins/skins/weatherscene/bgsun.dds
+SHA1-Digest: 4wCIPwH6NDz1jx/Ogs+FZKErSRU=
+
+Name: assets/skins/skins/wgt_weather/dpi96/72_7.png
+SHA1-Digest: W1XOuDyY7NpljtqMPu3UvLgaLAM=
+
+Name: assets/skins/skins/wgt_album/dpi192/index.xml
+SHA1-Digest: +zdGSNBpoCdfEOohgiykwB5z0wI=
+
+Name: assets/skins/skins/settings/dpi192/widgets.png
+SHA1-Digest: L2CL9ELcm4ZDggd0bp32dGEMXGw=
+
+Name: assets/skins/skins/layouts/wgt_gallery.xml
+SHA1-Digest: Yrdo8nHHAHRTL5IrXeZeWahu350=
+
+Name: res/drawable/item_contact_call_button.png
+SHA1-Digest: veAToH9ulSwHKnbeXEm0cEu2FKA=
+
+Name: assets/skins/skins/shaders/hueshift_f.glsl
+SHA1-Digest: qnJHjMyZO/Ks3i2Uz5QAH8mUTXg=
+
+Name: assets/skins/skins/wgt_weather/dpi192/32_18.png
+SHA1-Digest: fIUQYLvwJGyO5jYATHuCd/8Ogwo=
+
+Name: assets/skins/skins/wgt_album/frame.png
+SHA1-Digest: yZ0bGoNvFc6ejYMr9swsGzkE2zg=
+
+Name: res/drawable-ldpi-v4/item_history.png
+SHA1-Digest: HZCSR5s/n073xWEsV6BpGiJn9Ag=
+
+Name: assets/skins/skins/wgt_weather/dpi96/32_0.png
+SHA1-Digest: I631Qxk0rAReufkUvMVrL7QO3rI=
+
+Name: assets/skins/skins/res_contact/dpi192/movearrow_right.png
+SHA1-Digest: 9A/IitdqMOMX0iOFMLfc/PEDY1U=
+
+Name: assets/skins/skins/frame_tablets/1280x752/index.xml
+SHA1-Digest: 0QPkIfkxnDwNWuUt35fZds50tn4=
+
+Name: assets/skins/skins/shaders/stereo_topdown_v.glsl
+SHA1-Digest: HbbCXfo2ZzLuHUnyqf2sCT4OP6Q=
+
+Name: res/drawable/service_news.png
+SHA1-Digest: 4kHPRcxl3F79bheFZjnE9qs8rlg=
+
+Name: assets/skins/skins/shaders/stereo_interlacedh_v.glsl
+SHA1-Digest: HbbCXfo2ZzLuHUnyqf2sCT4OP6Q=
+
+Name: assets/skins/skins/wgt_demo/1_4.png
+SHA1-Digest: z8dCtUr0A/mL+Kh443/ARAB5CeU=
+
+Name: assets/skins/skins/contact_card/dpi192/small_button_blue.png
+SHA1-Digest: uupZZQX0IqLCfWO7Rnj/MkvVJRc=
+
+Name: assets/skins/skins/tray/dpi192/border_right.png
+SHA1-Digest: WHjtwGVVhHmqzY+yuJ/jkwmTEls=
+
+Name: res/drawable-ldpi-v4/voice_grey_default.png
+SHA1-Digest: roVZZxcsrZcLX97dvjCAEUeWAWA=
+
+Name: res/drawable-tr-ldpi-v4/ya_selected.png
+SHA1-Digest: 3Ge+E3b59HRZ5uzkuUD7hWRwucY=
+
+Name: assets/skins/skins/shaders/bbc_f.glsl
+SHA1-Digest: l8C2NlAZW3H/XFoO63RaWhSR/JU=
+
+Name: assets/skins/skins/wgt_weather/dpi128/96_5.png
+SHA1-Digest: libs6m5Pj7nc0lSKtt9JenmQ6aY=
+
+Name: assets/skins/skins/layouts/selectcity.xml
+SHA1-Digest: TtiyeXorASbuPUxmLENd9Lk/5hU=
+
+Name: assets/skins/skins/layouts/panels3d.xml
+SHA1-Digest: sIj0/PN22/nio1pRXangA8i7WGc=
+
+Name: assets/skins/skins/calendar/index.xml
+SHA1-Digest: ZCUSqkbaPC9aHiTsDBnQricQkEM=
+
+Name: assets/skins/skins/zodiac/taurus.png
+SHA1-Digest: 33SCK+CVP+Ir5LPE3rVuuiHGCvc=
+
+Name: assets/skins/skins/layouts/wgt_rss.xml
+SHA1-Digest: m0/cs4jHSFQz8SOSvvcIin4Inr4=
+
+Name: assets/skins/skins/shaders/stereo_topdown_f.glsl
+SHA1-Digest: u8+GodCfTKrSgKG3t2xjIcOW954=
+
+Name: assets/skins/skins/wgt_weather/dpi128/96_22.png
+SHA1-Digest: 8y2LjmdLtwLPuUv8tG4zgQoWzYw=
+
+Name: res/drawable/button_classic_pressed.png
+SHA1-Digest: q80EPtS24tghcvZRuvDH2WCEK7o=
+
+Name: res/drawable/input_modern_grey.xml
+SHA1-Digest: kE94yFSi1aC7ickNs4/JeYdKnek=
+
+Name: assets/skins/skins/wgt_clock/dpi192/face-2x2-a.png
+SHA1-Digest: n6/k1K7BTpwoGZ2L/1HOMSDpIKI=
+
+Name: assets/skins/skins/zodiac/cancer.png
+SHA1-Digest: HCCSA6KEBSWqnO/e0hB1B6lKTTA=
+
+Name: assets/skins/skins/wgt_folder/dpi192/contacts_window.png
+SHA1-Digest: W1o1ofkleVxyyuxvUHfyTR6OGOQ=
+
+Name: assets/skins/skins/wgt_demo/3_5.png
+SHA1-Digest: 7GnLZ62orMOsgu5Om9S03t6o0F0=
+
+Name: assets/skins/skins/texts/cn/spbshell3d.htm
+SHA1-Digest: tjSFZQWeZOz9+O47gr/iPS7r2gA=
+
+Name: assets/skins/skins/wallpapers/default/panel_icon_black.png
+SHA1-Digest: NSafypOGdru/byFJrPaRFo8S7AI=
+
+Name: res/drawable-hdpi/ic_menu_edit.png
+SHA1-Digest: NGTDSOTifY1+fP9lYshsVnhryhk=
+
+Name: assets/skins/skins/misc/dpi192/ic_folder.png
+SHA1-Digest: rCaxUc63pgW/xWB3/W3w701xHkk=
+
+Name: assets/skins/skins/calendar/dpi192/calendar.png
+SHA1-Digest: WLfCdmNXaBr/ZcwUFwg86cFt+Ao=
+
+Name: assets/skins/skins/res_contact/dpi192/custom-background.png
+SHA1-Digest: wdZZQWt7TaQCgICU4dk9YQz9EiU=
+
+Name: assets/skins/skins/texts/de/spbspbshell3d.htm
+SHA1-Digest: nMIksLpFBb3s1tovzBLJAVMFvT0=
+
+Name: classes.dex
+SHA1-Digest: mpn1ToWrQuDcAKvnAwIYX0FKyR4=
+
+Name: assets/skins/skins/wgt_weather/dpi96/96_2.png
+SHA1-Digest: miN/hfnWEoHJf6FtirLS/8vRy08=
+
+Name: assets/skins/skins/res_contact/dpi192/movearrow_left.png
+SHA1-Digest: FsETXzS3RPynP38d4mbYcVdunjA=
+
+Name: assets/skins/skins/wgt_demo/6_3.png
+SHA1-Digest: ElSlnr7dHS6VVrF7kJFyRTsQMZY=
+
+Name: assets/skins/skins/texts/ar/spbshell3d.htm
+SHA1-Digest: tjSFZQWeZOz9+O47gr/iPS7r2gA=
+
+Name: assets/skins/skins/layouts/menubtns.xml
+SHA1-Digest: WBogLKdeGSYRY877hQWacs00BxQ=
+
+Name: assets/skins/skins/wgt_weather/dpi192/32_22.png
+SHA1-Digest: fM6wCnvUEn8yBrHvjbD/g5dY3/o=
+
+Name: assets/skins/skins/layouts/eventslist.xml
+SHA1-Digest: kUBNIkbH161caU65DvitQcAAC7g=
+
+Name: assets/skins/skins/texts/fi/spbshell3d.htm
+SHA1-Digest: tjSFZQWeZOz9+O47gr/iPS7r2gA=
+
+Name: assets/skins/skins/custom_backgrounds/dpi192/background_5.png
+SHA1-Digest: wdZZQWt7TaQCgICU4dk9YQz9EiU=
+
+Name: assets/skins/skins/modernbackground/dpi192/gradient.png
+SHA1-Digest: nVfY8bEvfah/9Nfa6C1m2724V/U=
+
+Name: assets/skins/skins/textures/line_aa.dds
+SHA1-Digest: 55wlOXmqU8VhtKX4seSZNjj4zdc=
+
+Name: assets/skins/skins/wgt_gallery/index.xml
+SHA1-Digest: THGy9C087W4AhEXHtKqE1SJrSnc=
+
+Name: assets/skins/skins/wgt_birthdays/newringd.png
+SHA1-Digest: sbKRH3B2cRozAtdUyClxpjLepG0=
+
+Name: assets/skins/skins/wgt_icon/dpi192/badge_bg.png
+SHA1-Digest: bQsS/jwlYnWbKZp3WD4rrttTbJc=
+
+Name: assets/skins/skins/layouts/menubar.xml
+SHA1-Digest: YGdvLT95Q9xwvzKJU07p9RE44aw=
+
+Name: assets/skins/skins/weatherscene/clouds_3.dds
+SHA1-Digest: 1/LU2MZJsOhxtIp5BzdWoj8spXI=
+
+Name: assets/skins/skins/texts/ko/spbshell3d.htm
+SHA1-Digest: tjSFZQWeZOz9+O47gr/iPS7r2gA=
+
+Name: assets/skins/skins/shaders/t0_f.glsl
+SHA1-Digest: SrOjS1qAfAXzD2ZTl270ixEqQJc=
+
+Name: assets/skins/skins/shaders/stereo_interlacedv_f.glsl
+SHA1-Digest: xs/BzlXbssg5xQllGe0Haf0ZnQE=
+
+Name: assets/skins/skins/extensions/dpi192/index.xml
+SHA1-Digest: QzwZUIVoGjRlTgdL82FUfNyjMss=
+
+Name: assets/skins/skins/contact_card/dpi192/sms_icon.png
+SHA1-Digest: VQOkgr1rOfk60E7/o7hQfJ4EKZs=
+
+Name: res/drawable-ldpi-v4/search_edit_focused.9.png
+SHA1-Digest: br7Zibkq82fovmMLAkR//3NMGY4=
+
+Name: res/drawable-ldpi-v4/mic_button.png
+SHA1-Digest: YhuXCEtzZTuBFrvke81pA8mXzVk=
+
+Name: assets/skins/skins/wgt_wireless/index.xml
+SHA1-Digest: J0S1vXaBYN630Ogy+D/CYRPVKtM=
+
+Name: assets/skins/skins/wgt_smsmms/index.xml
+SHA1-Digest: ILjGcfqHRIpLzFnLkyBZE//Z4aM=
+
+Name: assets/skins/skins/wgt_weather/dpi96/96_11.png
+SHA1-Digest: Uu8eMy6FxqXQC7ozrVp6X6BtsQw=
+
+Name: assets/skins/skins/wgt_weather/dpi192/72_11.png
+SHA1-Digest: vEyzFGEASKMYezoyBeAst+C+nuo=
+
+Name: assets/skins/skins/wgt_weather/dpi96/72_10.png
+SHA1-Digest: rqfxusZmd4gVRsorKC6mqyE3+vU=
+
+Name: res/drawable-ldpi/weather_pressure.png
+SHA1-Digest: +gTxqYPyIiPIiGGsv8XYN6A/r2U=
+
+Name: assets/skins/skins/wgt_rss/dpi192/pict0.png
+SHA1-Digest: W4zh2eAoqRHpDw+7muEgVFkvaBw=
+
+Name: assets/skins/skins/misc/dpi192/programme_icon.png
+SHA1-Digest: yhOyERMO/XGSHVUiG5Q80Zkv+wg=
+
+Name: res/drawable-tr-ldpi-v4/yandex_text.png
+SHA1-Digest: 6QrQNJX3dUjTYykJEoiNSMxReSY=
+
+Name: assets/skins/skins/wgt_weather/dpi96/72_19.png
+SHA1-Digest: xKzz6FhBYxqm5hQPDnoPPH9pCmk=
+
+Name: assets/skins/skins/wgt_weather/dpi192/72_17.png
+SHA1-Digest: ed0rQpHsGa4m4T+grvuwsErb8bE=
+
+Name: res/drawable-hdpi-v4/input_classic_pressed.9.png
+SHA1-Digest: Hy+O2vC5TmAKIa7ziTVdfVIbtB4=
+
+Name: assets/skins/skins/calendar/dpi128/separator.png
+SHA1-Digest: wBMoXRCiyzngvdTMtV3M8fHZBLc=
+
+Name: assets/skins/skins/wgt_weather/dpi128/icon_wind.png
+SHA1-Digest: 02Q7XJ/5+6mdioILqTXxfm3mPr0=
+
+Name: assets/skins/skins/wgt_smsmms/dpi192/index.xml
+SHA1-Digest: wmeInVj7DOU8bdfO8tSS9Fj1/5A=
+
+Name: res/drawable-hdpi/ic_launcher_shortcut.png
+SHA1-Digest: eiVYYOERRuE0qkSVUADbb7dCJSk=
+
+Name: assets/skins/skins/misc/dpi192/ic_launcher_appwidget.png
+SHA1-Digest: GUPT8oR5k7FQ/fKQVdyadwsOx50=
+
+Name: assets/skins/skins/wgt_weather/dpi96/32_11.png
+SHA1-Digest: 38gJ9qEaoB/si8j3rAUaD/BbqIY=
+
+Name: assets/skins/skins/menubar/dpi192/l/slider-btn.png
+SHA1-Digest: dAoYrcyp/Rat8yK5RSu9GGe5LLE=
+
+Name: res/drawable-hdpi-v4/service_search.png
+SHA1-Digest: UUJ7/HUxPPEcNHgTp7K8g21CV3I=
+
+Name: assets/skins/skins/wgt_weather/dpi96/72_24.png
+SHA1-Digest: zE+xRMbYuII3Qs+GhvOT3GiH+Us=
+
+Name: res/drawable-hdpi/ic_menu_exit.png
+SHA1-Digest: svH4oestL5Ifv1aQhDpXhmPczvU=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_LK
+SHA1-Digest: vekXHuqkxEevmqTSjANJKDKUCk4=
+
+Name: assets/skins/skins/calculatorpanel/dpi192/button.png
+SHA1-Digest: 6r1uinC5kiBt1Uh3dmeYX7XlZvg=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_LS
+SHA1-Digest: AJSGfFNmPzsQCeUVOpxZHmW8YkY=
+
+Name: res/drawable/button_modern_pressed.png
+SHA1-Digest: 5EENfDQAnbq30LXJtMLo8d8fcck=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_LR
+SHA1-Digest: yhgw7I4F2wKlHdJeIFybBqRWhsg=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_LU
+SHA1-Digest: xO0chWVARwYgFeQ5THoYO37aYJo=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_LT
+SHA1-Digest: XMPOwTaxQGIsP00Iy2KmlD5Mk1c=
+
+Name: assets/skins/skins/texts/cn/spbshell3d.txt
+SHA1-Digest: mTPud9JXwAZP8ysvLZxXYvLVyZU=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_LV
+SHA1-Digest: MZq8g944GyYuZ+QTm1So/wClRNs=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_LY
+SHA1-Digest: HB0M3Nkhj2pzebOCJE8ih4b37yk=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_MA
+SHA1-Digest: n8TLN3c9AYLDMk+YQvR9VkvlDWY=
+
+Name: res/drawable/input_classic_default.9.png
+SHA1-Digest: 9jyxlcBWK8/HrVXO5I1eD6Dehoo=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_MC
+SHA1-Digest: WzpUmJNC8CtXNfJaeHYrRejYLqU=
+
+Name: assets/skins/skins/misc/dpi192/radiobutton.png
+SHA1-Digest: l6JJ41bm82zUDmxynnDghz82sWg=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_MD
+SHA1-Digest: 0iEf4RgTwsdz5FUJ94b90yMNHtI=
+
+Name: assets/skins/skins/tray/dpi192/bg_btn_vert.png
+SHA1-Digest: Rvf++Eq9gK2v7ntQ3fx5KV1UL+4=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_ME
+SHA1-Digest: cgfX3LL6vBU1Mn3ubQywqXo6d3A=
+
+Name: assets/skins/skins/texts/ee/spbshell3d.txt
+SHA1-Digest: Hiv+FxIyGXW3/GG6cZqqOfO2Y1Y=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_MF
+SHA1-Digest: 6tDMOr8a3BBF3EqbynRiY2+7Jk4=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_MG
+SHA1-Digest: OtCM30espJy3VoU6YJCSZBPk2V8=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_MH
+SHA1-Digest: RX6DNsWBlK8hlP1+gtmsBJNZTQ8=
+
+Name: assets/skins/skins/shaders/bumpp0_f.glsl
+SHA1-Digest: fEPoxP4NEiD3HPPURtSBgxAovgQ=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_KI
+SHA1-Digest: rFgW1jUDyN9/pG4lp9FuK1yeqLA=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_KP
+SHA1-Digest: yjGmRaiac/Ze8LmHc1fFEl+L5Yg=
+
+Name: assets/skins/skins/extensions/dpi192/settings_phone.png
+SHA1-Digest: t7tm51kehxYgJskOBGdOLVHwADo=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_KN
+SHA1-Digest: CB8+xqFnLtgPZ3G9BGwM4QPeh+w=
+
+Name: assets/skins/skins/shaders/stereo_lefttoright_v.glsl
+SHA1-Digest: Up/r9mOITAUheOfaEF4uFPJ4DhA=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_KM
+SHA1-Digest: uBtkBh80lVSb+3Gjoh4YNRe9LAk=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_KR
+SHA1-Digest: 1YLEv7amIyDPDG9//YNb7xdPU/k=
+
+Name: assets/skins/skins/texts/fr/spbshell3d.txt
+SHA1-Digest: rZyt3MsQLLjLGYVBL26RwqQNWcw=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_KW
+SHA1-Digest: OLtTnsVN9r6S7s4q2YN73ItPs34=
+
+Name: res/drawable-tr-hdpi-v4/ya_selected.png
+SHA1-Digest: 71FuOnL06r9lZ0tXrFJVZWfK4Ug=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_KY
+SHA1-Digest: uPGTYvYcxTA+qLyjvc1C3nhv+HA=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_KZ
+SHA1-Digest: O1t0qxkOQOm1YROFYtbXLS1kGzM=
+
+Name: assets/skins/skins/wgt_weather/dpi96/96_24.png
+SHA1-Digest: hK1bI3cmslXaXempYllSv/vUH5E=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_LA
+SHA1-Digest: 9yZRFXHj8z+35DmSrw5MVE/IiVk=
+
+Name: assets/skins/skins/texts/ee/spbshell3d.htm
+SHA1-Digest: r/ZuGNY4kYGB9LvJFFQZCzDPN3s=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_LB
+SHA1-Digest: rQSUKruy805wVyxzN6J05i1M2ME=
+
+Name: assets/skins/skins/notespanel/index.xml
+SHA1-Digest: 2UV6+EwnKBZ0fFbxXOx4XjYyCIU=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_LC
+SHA1-Digest: lKJVhWT//ImWlGcSeX7uIMVMxaQ=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_LI
+SHA1-Digest: o0shEpTUXD6cQmAdkufTLb8C4ic=
+
+Name: assets/skins/skins/wgt_weather/index.xml
+SHA1-Digest: PyVE01NWOY3M9KZL6trrTKSGgNI=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_JM
+SHA1-Digest: pqSqSGZV2GuggKkHq6a4DL9U0Bo=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_JO
+SHA1-Digest: Ao7IPVLJqTbBJNgVfB7gAF2z820=
+
+Name: res/drawable-ldpi-v4/service_translate.png
+SHA1-Digest: zVx6REAE7QIwqqv0cpsp/SLAiH4=
+
+Name: assets/skins/skins/wgt_frame_tablets/dpi128/index.xml
+SHA1-Digest: IVOw/qz5wSXI74vYwhnjilD9txg=
+
+Name: assets/skins/skins/wgt_weather/dpi128/sep_v1.png
+SHA1-Digest: YHo0JMvPF6zm9d/oYeKQB6VuqLc=
+
+Name: assets/skins/skins/layouts/scrollbar.xml
+SHA1-Digest: ToGPQaj440wODBRtnVmqR/ryGnc=
+
+Name: assets/skins/skins/shaders/anaglyph_color_f.glsl
+SHA1-Digest: ridUYIfKLHTaPOMjExwNeFsT/SQ=
+
+Name: assets/skins/skins/wgt_lastcall/frame.png
+SHA1-Digest: KOXHopWmlrZaKzD0mntjCQjMjJE=
+
+Name: assets/skins/skins/wgt_weather/dpi128/96_24.png
+SHA1-Digest: df3eb3MDtghQ/091U2rvaxImOfY=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_JP
+SHA1-Digest: DfV2wMpBHSmcB3L26LsJRiUKrm4=
+
+Name: assets/skins/skins/wgt_weather/dpi128/32_5.png
+SHA1-Digest: sZ5VK1WsEjur4AcsFEYXi9d+IVg=
+
+Name: res/layout/dialog_spinner.xml
+SHA1-Digest: LEh43ple44R5Mh/aVeqeWQLJ4Yc=
+
+Name: assets/skins/skins/wgt_lastcall/missed.png
+SHA1-Digest: Ca4ZY/vf/BvNLFCUihZ/LFkp16w=
+
+Name: assets/skins/skins/wgt_weather/dpi96/bar.png
+SHA1-Digest: a9wix70dvtvQYTqeZzvBqLPmupM=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_KE
+SHA1-Digest: n/po06yXDhsl5YIqz07aBej15jo=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_KG
+SHA1-Digest: tzcH8EiU7ZK64T4QZSb5kLeaNt0=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_KH
+SHA1-Digest: M2KL/xHSzdi28bLULTcvp5xl0Gc=
+
+Name: assets/skins/skins/misc/dpi192/update.png
+SHA1-Digest: B0jT8GGQ/ihIjRKpFbHuPfrLSHY=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_IN
+SHA1-Digest: uawxCylAPoU6c0cxrm9UTfuuKX8=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_IM
+SHA1-Digest: P+tzNJoFP8/J5lMH4FRYb6WNuBk=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_IL
+SHA1-Digest: pG640WivoPntfloIsYTOHC+ah9w=
+
+Name: res/layout/z_services_row.xml
+SHA1-Digest: cE4sBID8ObD6WKGozoHfN6wVKs0=
+
+Name: assets/skins/skins/wgt_demo/index.xml
+SHA1-Digest: 2gSeQlPMjqjfVRdRenyZq2qzNeo=
+
+Name: assets/skins/skins/launcher/marketcategories.xml
+SHA1-Digest: FmJHNqnvv1EgwXXdphdeSnPr7lU=
+
+Name: assets/skins/skins/texts/is/spbshell3d.txt
+SHA1-Digest: vAUHU+6cLNYTgjtDZtQbxlPshh8=
+
+Name: assets/skins/skins/calendar_tablet/dpi192/index.xml
+SHA1-Digest: sEOQFCAjCji/IbfU8+q6HOD3V1Q=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_IT
+SHA1-Digest: Szs4m6fflzHR5zwAbyl6JKt+Hag=
+
+Name: assets/skins/skins/zodiac/capricorn.png
+SHA1-Digest: r3yYs3lYMdgbjEVbWbrr6HO3TeM=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_IS
+SHA1-Digest: 1lF1GL7jolId89N/cqenleXoErM=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_IR
+SHA1-Digest: c23xMpk9Q7y2UmJxyq5vB3feCT4=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_IQ
+SHA1-Digest: 9lJ7+Fwb4JGCYQY3XtcVVumLLgE=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_IO
+SHA1-Digest: iVyuZmWYH83DvKmUW3dTHsETaaA=
+
+Name: res/drawable/yandex_bar_grey_bg.9.png
+SHA1-Digest: p8gc5NQc6O/qMtX9+12hDJlfQps=
+
+Name: assets/skins/skins/wgt_frame/dpi128/gloss2x.png
+SHA1-Digest: gfUtCykznyWERexuvMt7OrkHdZo=
+
+Name: assets/skins/skins/wgt_weather/dpi192/72_19.png
+SHA1-Digest: x/XtYoee9JZToDseASnD/5kSZK8=
+
+Name: res/drawable-ldpi-v4/input_modern_grey_pressed.9.png
+SHA1-Digest: P9MwmaMxXuI4APBhx+zAJBf4zGs=
+
+Name: assets/skins/skins/wgt_backlight/dpi192/backlight.png
+SHA1-Digest: pmmnzuhWwUlKtrjxcXcI72zh7tA=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_JE
+SHA1-Digest: x6GzYX3H3r+WwWrV/IQ59ZQqSu8=
+
+Name: assets/skins/skins/wgt_lastcall/outgoing.png
+SHA1-Digest: ObHeXPxoQr7kgSFtrvpiwEii0r0=
+
+Name: assets/skins/skins/zodiac/index.xml
+SHA1-Digest: LFM1Hlrsu849C7VjQ+et1klIpUE=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_HN
+SHA1-Digest: GlVEb+1D3asBGhLG5j2DjE66gSA=
+
+Name: assets/skins/skins/calendar/dpi96/recurring.png
+SHA1-Digest: w33tff//j/AauT6qA97fsQUweKg=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_HR
+SHA1-Digest: lSpgIGztMMLdXZ0Hag/tKFd0Hz8=
+
+Name: assets/skins/skins/layouts/rssitemlist.xml
+SHA1-Digest: VBNhUEFiPFAP75iaRZpD3Od5vxE=
+
+Name: assets/skins/skins/wgt_frame/dpi96/frame.png
+SHA1-Digest: hG9zpe8zuT9lgLx3nmIO6FzGkVM=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_HT
+SHA1-Digest: g14/Eqyasq2XVSlIm3JvwHJIuds=
+
+Name: assets/skins/skins/wgt_gallery/dpi192/loading_hr.png
+SHA1-Digest: 9x/tuT5/PYhAQunqPy6qNwvon2o=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_HU
+SHA1-Digest: GpcnmvkJQUAnG16HMpxl+sXRStw=
+
+Name: assets/skins/skins/wgt_weather/dpi128/96_0.png
+SHA1-Digest: kn9NYY6UcZgbH07E1VQs7UiCsJY=
+
+Name: assets/skins/skins/layouts/wgt_smsmms.xml
+SHA1-Digest: Ke1JFj6L54x6jmTtu6C+6Beti7Q=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_HK
+SHA1-Digest: RIa4lv7sSbAd86H4TrcvBswErFU=
+
+Name: res/drawable/items_bg.xml
+SHA1-Digest: D34HpXF5bPIPOVRkPR8nm+bIUJM=
+
+Name: assets/skins/skins/res_contact/dpi192/icon-birthday.png
+SHA1-Digest: TICo7XFtfdFExwUGUrThS7L7STw=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_ID
+SHA1-Digest: MLxs99UgcgzfWN03No0GoNoWGf4=
+
+Name: assets/skins/skins/texts/br/spbshell3d.txt
+SHA1-Digest: P+3qzPpcAKtOkjWrrdBoetfe5H0=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_IE
+SHA1-Digest: 8I2zRPiZTCS0F5GVhpNbwGm68HA=
+
+Name: assets/skins/skins/wgt_weather/dpi192/96_13.png
+SHA1-Digest: hWYTjli/k7bFnWWg2iiR1uNG2zU=
+
+Name: assets/skins/skins/wgt_weather/dpi192/sep_v41.png
+SHA1-Digest: sNJK71mUD9jiyeO5wDjZO3Di4Ko=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_GP
+SHA1-Digest: ExWaBUVQh+SNHYShEzM03SlYUaU=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_GM
+SHA1-Digest: 305OztDXrzFSbYo90VkObOM+l8Y=
+
+Name: assets/skins/skins/wgt_weather/dpi192/96_10.png
+SHA1-Digest: xmyYS31sKuwzBdvJa15EPLD4NY8=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_GN
+SHA1-Digest: rznAIFU671LyY/2wpsiJ1mXQF5s=
+
+Name: assets/skins/skins/wgt_smsmms/dpi96/icon.png
+SHA1-Digest: +T0FM7+KlpBYyw9Nqj5XhoUlJU8=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_GT
+SHA1-Digest: mIL2yjkBseCh8u+zjdTN81kNuOo=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_GQ
+SHA1-Digest: oiDGTn1zFBdzMpYMcrc8pGVF4uY=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_GR
+SHA1-Digest: n/iFzi+4CruYJJdjBQibVdJaYcs=
+
+Name: assets/skins/skins/shaders/bkgbbt0_f.glsl
+SHA1-Digest: /2Lvo77OWwSF/wCFWNGIu3HA5fw=
+
+Name: assets/skins/skins/layouts/proxypanel.xml
+SHA1-Digest: RhZpB0XPzA5Gu6u4/FLypDIpqdg=
+
+Name: assets/skins/skins/wgt_yasearch/dpi192/input_modern_grey_pressed
+ .png
+SHA1-Digest: ik8pmhI7YKzrUMjlTA0Gc+C27rg=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_GG
+SHA1-Digest: SVhIxVnYVP9LxWTHIb9CQrttxbo=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_GH
+SHA1-Digest: nTLAd5TgvOseRvA50EAlhDHLACI=
+
+Name: assets/skins/skins/texts/is/spbshell3d.htm
+SHA1-Digest: r/ZuGNY4kYGB9LvJFFQZCzDPN3s=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_GE
+SHA1-Digest: XYfgRe2ZuxF3gV/T7npkQKPYtEQ=
+
+Name: assets/skins/skins/wgt_lastcall/empty.png
+SHA1-Digest: lxTL9tzsuwTmaoOhIijw+5UKG5U=
+
+Name: assets/skins/skins/wgt_weather/dpi128/96_4.png
+SHA1-Digest: WSlOsIC7wk6XFiJ0UcuSOU6Wi/c=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_GF
+SHA1-Digest: LMo5Sn8WQLod6hJHzT+/zNq6b0E=
+
+Name: assets/skins/skins/res_contact/dpi192/action_btn.png
+SHA1-Digest: jjuM+DvoNc4+3B2FTCah/mmJvu4=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_GL
+SHA1-Digest: 6mjDhAKWl+Zei8FiVipxcgsc79I=
+
+Name: assets/skins/skins/texts/ar/spbshell3d.txt
+SHA1-Digest: EUaDHi3sLZf1FGjqeb29nREdJIU=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_GI
+SHA1-Digest: Tbl4V/pbymYUWIrSJzIQ8ARxlTU=
+
+Name: assets/skins/skins/grouponpanel/nothumb.png
+SHA1-Digest: FgrFyfWnYgom+cfCfB4nTLcSgYM=
+
+Name: assets/skins/skins/shaders/bkgbbc_f.glsl
+SHA1-Digest: pTQuJq7gddFBWdJQLfjo0A2apRk=
+
+Name: assets/skins/skins/wgt_weather/dpi192/96_25.png
+SHA1-Digest: UzK9rAw0uyy28KFAMaD75Yruemo=
+
+Name: res/drawable-tr-ldpi-v4/service_weather.png
+SHA1-Digest: wNJlErPPqGpdAmkyymzag7W2r7Q=
+
+Name: assets/skins/skins/timepanel_moon/dpi192/marker_now.png
+SHA1-Digest: 6qHoXoBOEQ2t6PWkR6PlsKccqj8=
+
+Name: assets/skins/skins/custom_backgrounds/dpi192/background_4.png
+SHA1-Digest: wdZZQWt7TaQCgICU4dk9YQz9EiU=
+
+Name: assets/skins/skins/wgt_weather/dpi192/32_21.png
+SHA1-Digest: a3bG2PEzHZkFdCmFD/F5+QGDp5Y=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_GW
+SHA1-Digest: Gvzx0wVxStrtDLCm4ww8A1NdMgg=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_GU
+SHA1-Digest: WQmAPJQhLq9eHBj9nb8887+JFms=
+
+Name: assets/skins/skins/wgt_birthdays/bubble.png
+SHA1-Digest: 01tWtRlyJ0TB28KXElwBvMI7U+c=
+
+Name: assets/skins/skins/wgt_icon_tablets/index.xml
+SHA1-Digest: 2dUxW8YMmKfJepnbFna4hIOQtqw=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_GY
+SHA1-Digest: JKnxYfBZ/UOY4edpnOqwS9qNNEo=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_FR
+SHA1-Digest: WwnA9/VAMhb3bvCb8sHygPnGZYc=
+
+Name: assets/skins/skins/widgeticons/dpi192/news.png
+SHA1-Digest: w7ql2ssP4gwfRdKDp6KOSPu+PIU=
+
+Name: res/layout/yandex_bar_classic.xml
+SHA1-Digest: Acugcg+malpvGlXmHRNVmRv1Fh8=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_FM
+SHA1-Digest: sIlXBuVVAxyO89EgIF0yu6nvQig=
+
+Name: res/drawable-ldpi-v4/button_classic_default.png
+SHA1-Digest: Gy0N/dt/1QbkvKyfYyiV/qvvvYg=
+
+Name: assets/skins/skins/timepanel_moon/dpi192/index.xml
+SHA1-Digest: jaL9Pxe623RTO1GcWy2PVHedIPM=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_FO
+SHA1-Digest: vj7ya3tihWdthnGC1vAjPp7Jmso=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_FI
+SHA1-Digest: 26ZGMny84j0CfTPLX0BpCAnAZkQ=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_FJ
+SHA1-Digest: bAlRicHbpIy2tB3J1eAfAG9Dv10=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_FK
+SHA1-Digest: jJofd3PpH8fHDt60nk62as0VIlc=
+
+Name: assets/skins/skins/wgt_yasearch/dpi128/input_modern_grey_pressed
+ .png
+SHA1-Digest: kykLDHb+W0H49XpIilr+Iq6iSPs=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_GB
+SHA1-Digest: ce1u+iEzVgaBRJ/IbT6RBEz20/M=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_GA
+SHA1-Digest: TeqUeE1ugKFtp1gHtXGzdJqRKoA=
+
+Name: assets/skins/skins/wgt_weather/dpi96/32_22.png
+SHA1-Digest: nD4LhnxCp8hpIpHejGcvMiqnFyw=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_GD
+SHA1-Digest: e0kAJH0mrB70aVKjAv9Ac8VHHxc=
+
+Name: assets/skins/skins/wgt_frame_tablets/dpi154/frame.png
+SHA1-Digest: qedQ/yf9PJSSYg24SATKWNmGoMw=
+
+Name: assets/skins/skins/wallpapers/default/panel_small.png
+SHA1-Digest: ynIZwgdNNw0YWytasoCHZkkrbQM=
+
+Name: assets/skins/skins/texts/fr/spbshell3d.htm
+SHA1-Digest: tjSFZQWeZOz9+O47gr/iPS7r2gA=
+
+Name: assets/skins/skins/wgt_weather/dpi192/32_25.png
+SHA1-Digest: AavpkHfSJ+h6JkQP4dhNNhkfMGw=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_ER
+SHA1-Digest: K9KnLAYlzJVE4WZ8h7hmkCOS5H4=
+
+Name: assets/skins/skins/wgt_folder/dpi192/folder.png
+SHA1-Digest: 2KdcDeISBFjSnHGGyNcZgsfLAAk=
+
+Name: assets/skins/skins/wgt_smsmms/dpi192/photoframe.png
+SHA1-Digest: gB9p83mfN0eZu/1jIBHzcCdLYoY=
+
+Name: assets/skins/skins/wgt_weather/dpi192/72_22.png
+SHA1-Digest: klklEsmPrSs9a33PwSxro44bSfY=
+
+Name: assets/skins/skins/timepanel/index.xml
+SHA1-Digest: DeG+2LjQTOe4u5iKaeXrzgN4Hvg=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_EG
+SHA1-Digest: wvKo2Bz+h8Jf7R1/08pXOUCVyHU=
+
+Name: assets/skins/skins/calendar_tablet/dpi192/month.png
+SHA1-Digest: Nyl4L5AOzkhroENSDB8VRWMclT4=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_EE
+SHA1-Digest: fEFMNI2Pkr80jIcxTZQbcw0Y8Kc=
+
+Name: assets/skins/skins/texts/sv/spbshell3d.txt
+SHA1-Digest: LclPhKLUm843AQUwMUPzWz+0bzo=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_EC
+SHA1-Digest: +wVlImZoUr+T5BA2/2Lms3CAUq8=
+
+Name: assets/skins/skins/texts/nb/spbspbshell3d.htm
+SHA1-Digest: nMIksLpFBb3s1tovzBLJAVMFvT0=
+
+Name: assets/skins/skins/shaders/t0a_f.glsl
+SHA1-Digest: 1bfmxZPNiU0qQ0cnWO92ewIdA9I=
+
+Name: res/layout/shortcut_dialog_pick_item.xml
+SHA1-Digest: Hhst0UWJ1G3Jzvuln2cR7u+fjno=
+
+Name: assets/skins/skins/res_contact/dpi192/calldir1.png
+SHA1-Digest: wY0f/3RNS2uMHT02k8nzUfZ692g=
+
+Name: assets/skins/skins/texts/pt/spbshell3d.txt
+SHA1-Digest: jzBqrSBlOsOCpE1k3wXd5M+ulMw=
+
+Name: assets/skins/skins/misc/dpi192/thermo.png
+SHA1-Digest: 1Qyv1mKDdR8i4VkPsGximSTXBao=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_ET
+SHA1-Digest: ZSCmhWzT1kS/um8f3bnAZknh1dg=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_ES
+SHA1-Digest: BfKYgiTrnuqs4LN7b+iijfiotOk=
+
+Name: assets/skins/skins/timepanel_moon/dpi192/sep_h4.png
+SHA1-Digest: 60Pm5ZYRaS/tdJcdeUlfiGVbb/k=
+
+Name: assets/skins/skins/calculatorpanel/dpi192/back.png
+SHA1-Digest: vfDfvfC1YndcqgLZDMZg7sS+Y4s=
+
+Name: res/drawable-tr/ya_selected.png
+SHA1-Digest: dQMw3YOX+Iv6t/R0MTFGmUm9iuw=
+
+Name: res/drawable-hdpi-v4/button_modern_default.png
+SHA1-Digest: dSHXgZubc5D6O15GYr0m2zbPMNc=
+
+Name: assets/skins/skins/layouts/weatherpanel.xml
+SHA1-Digest: i20Aq+AmtNMjkjoH1zzHJKLYpI0=
+
+Name: assets/skins/skins/wgt_weather/dpi192/32_19.png
+SHA1-Digest: smzBJjtxL1xA4BTLeJFF9vcYSW0=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_DZ
+SHA1-Digest: Vl+ln9itD0S7BTr1hxc/2zIbaAk=
+
+Name: assets/skins/skins/androidwidgets/index.xml
+SHA1-Digest: CdcIfkG5PHADgy0sE+mcDxi/2wk=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_DE
+SHA1-Digest: LT2gueF2DCanH+bUGz5acS9bOBI=
+
+Name: assets/skins/skins/wgt_weather/dpi128/72_19.png
+SHA1-Digest: g9bJDPqSFkNXJTaEJRJiXM2j4xk=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_DM
+SHA1-Digest: zbE4wtxHk/h2K3cZPVGQ3hkoZ5I=
+
+Name: res/drawable-hdpi-v4/button_grey_default.png
+SHA1-Digest: 35/WG4F8Gjz0inQVPNCKjEw9yO0=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_DK
+SHA1-Digest: d3JwRVmToxVCcFmzfPJPa8J11x0=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_DJ
+SHA1-Digest: 1b6uyuzTvxbgxhbN8pC8DzQGtYQ=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_DO
+SHA1-Digest: 8P8OIPVZyM507wAwzBs7ECv1C1E=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_CR
+SHA1-Digest: Put/3oU+RLQ/tFheJPuktxP3n28=
+
+Name: assets/skins/skins/layouts/contact.xml
+SHA1-Digest: PEnPBNVPZ1uMEqbizQABNv9d/CE=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_CU
+SHA1-Digest: zO985eHUhFqKA+a5u/4iG7UiJ2w=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_CV
+SHA1-Digest: krvc9VYGgBpO7Sw2GxOlk2XsDnc=
+
+Name: assets/files/cities.db
+SHA1-Digest: lQsSUeRzqIsziELvkPIS0V4UslM=
+
+Name: assets/skins/skins/shaders/ucp_f.glsl
+SHA1-Digest: 3Qd4E5VB0aGxXY3SJvbrJYH9zQk=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_CX
+SHA1-Digest: Gl91haywarc0kdbwKfuXfKAb5RE=
+
+Name: assets/skins/skins/wgt_weather/dpi128/96_30.png
+SHA1-Digest: 8mkbPBhHiR1qLC8nBGX66cBp088=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_CY
+SHA1-Digest: IZoGmYtuZkqlK86pkYfj3cMSmHQ=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_CZ
+SHA1-Digest: ll1UIXqlraYpf+Pjn8lKSQd87D0=
+
+Name: assets/skins/skins/wgt_gallery/dpi192/mask.png
+SHA1-Digest: p5Vv1jdZeuS3JZ5KDDJRxik9ujk=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_CA
+SHA1-Digest: uc3qFURzbZkOpJVJiRrh4OPK5SM=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_CD
+SHA1-Digest: BqvXTxSnZz6e0cXy0bkHDNcz5mc=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_CC
+SHA1-Digest: A+Psy6ZU8pqkZbZJB1EWIAysYFQ=
+
+Name: assets/skins/skins/misc/dpi192/crossfade_v.png
+SHA1-Digest: 95Oe1qVnV095GVBzb1X8uImmeoc=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_CF
+SHA1-Digest: OB99d7EiQqXOAdu/3ZBS7BkvRI8=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_CH
+SHA1-Digest: 3sAJQgLAda+81n5UFBXGxzsaIRg=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_CG
+SHA1-Digest: b3psimsC1aidSkwc1TJTcXVkJgA=
+
+Name: assets/skins/skins/wgt_weather/dpi128/72_2.png
+SHA1-Digest: C4bwwi2zj4H+7wbcVl8AxRexLls=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_CI
+SHA1-Digest: UwHxPlJKY3OVFARJysti2o8T54Q=
+
+Name: assets/skins/skins/texts/al/spbshell3d.txt
+SHA1-Digest: IFXsl9G0Gz9v+qgnB9dguhuWr9k=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_CL
+SHA1-Digest: K9r8+XZkRx31siLicWG/BV6/a3o=
+
+Name: res/drawable-hdpi/ic_shell_launch.png
+SHA1-Digest: ND3SL3FTd4gJ2wLQaOG3aVkqYbQ=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_CK
+SHA1-Digest: gKVwGifgbOViJ93JE/+BVTT0eRU=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_CN
+SHA1-Digest: ovhsx6dvG6Bc3LEKU9WDz/eBqzc=
+
+Name: assets/skins/skins/wgt_weather/dpi96/32_7.png
+SHA1-Digest: w3d1lYwkXKQpuyUMrp1tS1zwbwg=
+
+Name: res/layout/logger_header_check.xml
+SHA1-Digest: Vex6yBFERzObxKcFJDsUUQMZb9g=
+
+Name: res/drawable-hdpi/ic_shell_settings.png
+SHA1-Digest: BIoggoY7U7U9l6h9YKCI2TH6otA=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_CM
+SHA1-Digest: yNtp9stQ32boTZYzuNuvmvqkEBU=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_CO
+SHA1-Digest: /MimlFrMKV4soh6xb340JN60Le8=
+
+Name: assets/skins/skins/contact_card/index.xml
+SHA1-Digest: 4npq98mOaLEQgljlHl2CMFFUfo0=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_BW
+SHA1-Digest: 0brstCevBPCa5koieFZaLXF6sig=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_BT
+SHA1-Digest: GAAXKFmUVjhWi1+8NZOu3ZD/7rA=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_BR
+SHA1-Digest: XXC/jJl0WMVubJuIK7Shbi74jVI=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_BS
+SHA1-Digest: dD+OhnZ5K9Ak+erPLQKIFo7YP0g=
+
+Name: assets/skins/skins/wallpapers/default/panel_icon_auto.png
+SHA1-Digest: q22KGV9hHWipemFVJhJHHXtQDpU=
+
+Name: assets/skins/skins/wgt_yasearch/dpi192/button_modern_default.png
+SHA1-Digest: s14z3Zbd0XnU4xZt8n6ThYuuHnk=
+
+Name: resources.arsc
+SHA1-Digest: yutga2rPu1EzKKtuPRdcvyDqxS0=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_BZ
+SHA1-Digest: 26CHL1SseKTkE6xlok8N37srlfQ=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_BY
+SHA1-Digest: bexhuccHua4L+OnTQqt+6Bnyw2k=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_BG
+SHA1-Digest: Kb7aGycVUpUKha98Uf16kaguE/A=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_BF
+SHA1-Digest: IREYrgxpgxQHRVinSXiMsXKOzKk=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_BE
+SHA1-Digest: qQL9dEUhdcczEjbhavUYulCJU2w=
+
+Name: assets/skins/skins/texts/de/spbshell3d.txt
+SHA1-Digest: lSBkHlbUMkYVZYN2LIafYhELt9M=
+
+Name: assets/skins/skins/wgt_gallery/dpi192/loading.png
+SHA1-Digest: eoxLxHUgVLRbMlNcsvx3RUMXDHU=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_BD
+SHA1-Digest: MmgAKFgyWF6ViRDOyNJwKZULiaQ=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_BB
+SHA1-Digest: e5+FY/j9JewQrtFOwRW3ht5CG3c=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_BA
+SHA1-Digest: Q0c1LR5PIv9mvwR7PRSLaKUtNz8=
+
+Name: assets/skins/skins/wgt_weather/dpi192/96_23.png
+SHA1-Digest: YBwF8gSWmNu6I2vII9H8BYHBfm8=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_BO
+SHA1-Digest: 2jRUYNpukv7Md7VFcErQT3H6BwI=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_BN
+SHA1-Digest: 30p9glpd0lVm6j0RvD1/6NuA2+s=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_BM
+SHA1-Digest: vrKLcKrH13BoHugKZ1wpTsjeIFQ=
+
+Name: assets/skins/skins/zodiac/libra.png
+SHA1-Digest: wRo3z3bbxgnBgO9uXjdCseTzbP4=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_BL
+SHA1-Digest: jphohwuFzbcAGQMOWXxrkI0aVzU=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_BJ
+SHA1-Digest: opeVLxBmgCuqnnLv0yEQC3TENYY=
+
+Name: assets/skins/skins/wgt_demo/2_4.png
+SHA1-Digest: RdX0/x5apCwS59vsX8zTeMbdu1w=
+
+Name: assets/skins/skins/wgt_weather/dpi96/96_3.png
+SHA1-Digest: 7bvtuqHGt790deFQtDunB7LebxA=
+
+Name: res/drawable-hdpi-v4/pencil.png
+SHA1-Digest: Whh48BOLqv/kcIAX+M/wT8JpD3o=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_BI
+SHA1-Digest: bzeSEAmyLLliNjCh1fIkWKCovn8=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_BH
+SHA1-Digest: c6OyiCznZ7tYdHw6kWiqbSzEag8=
+
+Name: res/drawable-hdpi-v4/yandex_text.png
+SHA1-Digest: RysiJQbXbVilP9+vJBlMfNkAN7I=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_AS
+SHA1-Digest: 5PJSyd/DaLVgMbVetgRHLn1GEWA=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_AT
+SHA1-Digest: LPoASDwVi2prFkKCjEGV2IEuEDE=
+
+Name: res/layout/z_item_base.xml
+SHA1-Digest: +UBLwvKXXDclHk7FY8tSRkW58rI=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_AU
+SHA1-Digest: jGN1wacq/r9FWRTNlN4L6WXWayA=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_AO
+SHA1-Digest: bydhgYuN+tkjjOzahItrsyUQP9I=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_AR
+SHA1-Digest: 3zZN0GWlA5sEAuZqHsf8Ns3Ec6c=
+
+Name: assets/skins/skins/wgt_weather/dpi128/72_23.png
+SHA1-Digest: Uy7XKJWKsUi6ZFD72pYXLa83M2Q=
+
+Name: assets/skins/skins/misc/dpi192/popupstretch.png
+SHA1-Digest: Kpv4DkkpyGXpJhQg/+iX5aDaR9w=
+
+Name: assets/skins/skins/texts/th/spbshell3d.htm
+SHA1-Digest: tjSFZQWeZOz9+O47gr/iPS7r2gA=
+
+Name: assets/skins/skins/wgt_rss/index.xml
+SHA1-Digest: 5xrrJtTiSYcppNyda6sdDRYG2Mc=
+
+Name: assets/skins/skins/layouts/calendar.xml
+SHA1-Digest: 44HVrdxEc3Qecky5RwRRYOOhy8o=
+
+Name: assets/skins/skins/res_contact/dpi192/phone_action_btn.png
+SHA1-Digest: NPzeosZqQvNET+GB2MvmWH+OR00=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_AW
+SHA1-Digest: xLxqizvDN1eR/3MyLPzVhG+bvCk=
+
+Name: assets/skins/skins/layouts/widgets.xml
+SHA1-Digest: fDs/qSxSI4eA8J+n4feqatJKelY=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_AX
+SHA1-Digest: Wzk9NwNR/7gcyjQ8kdWLsHnqUxY=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_AZ
+SHA1-Digest: 2e77y8MgQs7dBftU4slvo4lSvc4=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_AD
+SHA1-Digest: YukSt7VMlLFFZ5QxkxY96ouidcs=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_AC
+SHA1-Digest: ZxIxX96bdaKvJonzTSr4fAqvpTE=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_AF
+SHA1-Digest: RqCxdaKRcq2K4xzuvN6bvGGHzgY=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_AE
+SHA1-Digest: OYAuUKnNlRKQmuf4j9i5LI78Sag=
+
+Name: res/drawable/icon.png
+SHA1-Digest: Jn5n7N1BFE201jzGhtuFbYgEHTU=
+
+Name: assets/skins/skins/misc/dpi192/edit_note.png
+SHA1-Digest: YhOGtJ8REgBXX3IbI5U7cv07VA0=
+
+Name: assets/skins/skins/wgt_weather/dpi128/tab_left.png
+SHA1-Digest: pL6P7w8rnsUDqMZkmH8kU5/z5LY=
+
+Name: assets/skins/skins/widgeticons/dpi192/weather.png
+SHA1-Digest: 1KSwXYOfSRTp9y8ZA4cXp6WwtIU=
+
+Name: assets/skins/skins/misc/dpi192/index.xml
+SHA1-Digest: 64UqP23GRqOGxsTSwasa+4z6rPI=
+
+Name: res/drawable/search_edit_default.9.png
+SHA1-Digest: B3KiPxVqdrwOXKjuSYz2+7jalvc=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_AL
+SHA1-Digest: KikeIYBC4uqGgYy5hK0zOUbwvac=
+
+Name: assets/skins/skins/wgt_icon/index.xml
+SHA1-Digest: OjREbjrK2wHkfNT6YkXeW2f+lvo=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_AN
+SHA1-Digest: qDfkOK5XTtozBUPOEGDhK9s2t0k=
+
+Name: assets/skins/skins/menubar_tablets/dpi192/index.xml
+SHA1-Digest: +Fn90CBfqPCEk05e8dXlSoBngWM=
+
+Name: assets/skins/skins/wgt_frame_tablets/dpi96/index.xml
+SHA1-Digest: lcBvANi8SSNdwqIEtd7TRuEsa9E=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_AM
+SHA1-Digest: mztqYRprsEGJ/Nxki0+SXYlj9wk=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_AG
+SHA1-Digest: ca1nmBEMBTaA0e6ipzIC1YI071g=
+
+Name: assets/skins/skins/wgt_weather/dpi192/96_18.png
+SHA1-Digest: r2D5jmjVwwjWOQ9VEPDyuu9HI6E=
+
+Name: com/google/i18n/phonenumbers/data/PhoneNumberMetadataProto_AI
+SHA1-Digest: qeWpfCMFkST6Y1j9haDzCsXJzbM=
+
+Name: assets/skins/skins/menubar/dpi192/ico-back.png
+SHA1-Digest: 71U15dL0bndhiLBBHRZUfaP+KS0=
+
+Name: assets/skins/skins/wgt_rss/dpi192/photo.png
+SHA1-Digest: pMBRtTupcWoWj3y/GeYFPFMI6lU=
+
+Name: assets/skins/skins/shaders/blury_v.glsl
+SHA1-Digest: HbbCXfo2ZzLuHUnyqf2sCT4OP6Q=
+
+Name: assets/skins/skins/tray/dpi192/border_top.png
+SHA1-Digest: hcE9UhjeuJRS5njSeATizcI9eAI=
+
+Name: assets/skins/skins/wgt_weather/dpi192/72_20.png
+SHA1-Digest: UVYNh/urr5ziIupazD71EPjg6FY=
+
+Name: res/drawable/service_shadow_top.xml
+SHA1-Digest: vNmxhwG+O2KHn9VOWOB6xi/lii0=
+
+Name: assets/skins/skins/wgt_weather/dpi192/72_26.png
+SHA1-Digest: zgsobrfk0uFtNLJnhxXA/g8+7RU=
+
+Name: assets/skins/skins/layouts/calllogpopup.xml
+SHA1-Digest: Jwzc/la5ezkwrcnE5UwoFUSokco=
+
+Name: assets/skins/skins/wgt_rss/dpi192/pict2.png
+SHA1-Digest: 3kPjd+dCMMe8PZcZMlJcM96aBtU=
+
+Name: assets/skins/skins/wgt_weather/dpi128/72_4.png
+SHA1-Digest: MyfXibkN9mn0mn/Rx/YoAgEd8Xs=
+
+Name: assets/skins/skins/wgt_weather/dpi192/72_4.png
+SHA1-Digest: 9d6Mc/vk4KAUYNXDSr4ymR0lBW0=
+
+Name: res/layout/logger_config_screen.xml
+SHA1-Digest: 4Z2oHn1TnvLEboN6cLi3BZucs5c=
+
+Name: assets/skins/skins/wgt_weather/dpi128/72_8.png
+SHA1-Digest: qiUDeVA4OTF7rHZ8kwq2Jcl2pEg=
+
+Name: assets/skins/skins/texts/nl/spbshell3d.htm
+SHA1-Digest: tjSFZQWeZOz9+O47gr/iPS7r2gA=
+
+Name: assets/skins/skins/launcher/categories.xml
+SHA1-Digest: 9KCvmu+OQSUTlymnOMgZduc02zU=
+
+Name: res/drawable-hdpi-v4/item_history.png
+SHA1-Digest: RG0Tlv9DpDJZ69v9Psn+/gCmoWA=
+
+Name: res/drawable-tr-hdpi-v4/ya.png
+SHA1-Digest: gzGvnMtB7jzTBPlzyWa0QNbnyq0=
+
+Name: assets/skins/skins/wgt_weather/dpi192/32_14.png
+SHA1-Digest: 0bYqNG65w5L/owHdPRmN2BSUHVk=
+
+Name: assets/skins/skins/wgt_weather/dpi192/96_6.png
+SHA1-Digest: 5hCh9ExVc9XSIimAagM4vk0erdo=
+
+Name: assets/skins/skins/wgt_weather/dpi192/72_14.png
+SHA1-Digest: DALcW89Ji9moFpn9Sfd+nRMsAP8=
+
+Name: assets/skins/skins/texts/de/spbshell3d.htm
+SHA1-Digest: tjSFZQWeZOz9+O47gr/iPS7r2gA=
+
+Name: res/drawable-ldpi-v4/item_contact.png
+SHA1-Digest: 7WnZh04sBgA4A6romvkG4DbX4MI=
+
+Name: assets/skins/skins/res_contact/dpi192/icon-anniversary.png
+SHA1-Digest: VAeWFBWDvB5SaIrCkWhRjnK/RAQ=
+
+Name: assets/skins/skins/wgt_operator/dpi192/chip.png
+SHA1-Digest: EHbSJUQ+An7Cvb3Y1Ur9xBLeNgE=
+
+Name: assets/skins/skins/res_contact/dpi192/phone_action_icon.png
+SHA1-Digest: qemaTEgoT8I96PiekF2UYtrynwE=
+
+Name: res/layout-v11/shortcut_dialog_pick_item.xml
+SHA1-Digest: jPH+DbfQ//7IIflpxiQTfXMbjJE=
+
+Name: assets/skins/skins/wgt_weather/dpi96/rename.sh
+SHA1-Digest: H50GSYJuBQv5eiM0C5BNNvez+xA=
+
+Name: res/drawable/service_translate.png
+SHA1-Digest: LxLPbzRVT2zkp9IsYx3aitVBuSc=
+
+Name: assets/skins/skins/layouts/backlight.xml
+SHA1-Digest: G1yXS4d23fCUjvCKnug2+f+qbM0=
+
+Name: assets/skins/skins/wgt_weather/dpi128/sep_h2.png
+SHA1-Digest: mKWdZqF17XOMOrfnImMDNxy27tw=
+
+Name: assets/skins/skins/weatherchart/back.png
+SHA1-Digest: nmh8nrbFFh31aKEuJUyUISuNE44=
+
+Name: assets/skins/skins/contact_card/dpi192/last_event_button.png
+SHA1-Digest: UoTvgcrf1Igir9f8MJvRhFdrkPs=
+
+Name: assets/skins/skins/wgt_operator/operatorscript.lua
+SHA1-Digest: M23AjpgCEgR6Kpagd++zGNF3x0U=
+
+Name: assets/skins/skins/wgt_weather/dpi96/96_23.png
+SHA1-Digest: rRE/62xquU5ipb998WhVbBFrpxM=
+
+Name: res/layout/logger_header_plus.xml
+SHA1-Digest: gWj8qSDfRnO1KREbOkle9n6aoLw=
+
+Name: assets/skins/skins/wgt_weather/dpi192/sep_h4.png
+SHA1-Digest: HOfNThNTlFDUtTl6lRkJvskQigM=
+
+Name: res/drawable-hdpi/ic_menu_refresh.png
+SHA1-Digest: 22pdOp82rYDCG+PoRhA5jZEEBco=
+
+Name: assets/skins/skins/wgt_weather/dpi128/32_18.png
+SHA1-Digest: GGKqvzqNvd3qGTh22vllwj48dTQ=
+
+Name: assets/skins/skins/wgt_weather/dpi96/graphbg.png
+SHA1-Digest: scIQje/hIC9vVxIXxqqKor8WcVA=
+
+Name: res/drawable-ldpi-v4/search_icon_default.png
+SHA1-Digest: dSmdvw4eoR9Lj7PsHt3eg0bHDTs=
+
+Name: assets/skins/skins/frame_tablets/frame.png
+SHA1-Digest: h/j67TAGBE6b03ldQrb4pw232q8=
+
+Name: assets/skins/skins/calendar/dpi192/blank_calendar.png
+SHA1-Digest: QXDX++cLmnrQCacPHh76g2+q3R0=
+
+Name: assets/skins/skins/wgt_weather/dpi192/72_29.png
+SHA1-Digest: b8MVlyvnyhkDm1IK1XOEA1/atWc=
+
+Name: assets/skins/skins/layouts/grouponpopup.xml
+SHA1-Digest: aT6seVZOVpUnj0whFW8S4Wx1U9A=
+
